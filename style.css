@@ -1,1 +1,691 @@
+/* ========================================
+   GLOBAL
+======================================== */
 
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f4f4;
+    color: #111;
+}
+
+
+/* ========================================
+   HEADER
+======================================== */
+
+.topbar {
+    height: 100px;
+
+    background: #ffffff;
+
+    border-bottom: 2px solid #222;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.site-name {
+    font-size: 42px;
+    font-weight: 800;
+
+    letter-spacing: 8px;
+}
+
+
+/* Information Button */
+
+.info-button {
+    position: absolute;
+
+    right: 35px;
+
+    width: 42px;
+    height: 42px;
+
+    border: 2px solid #111;
+    border-radius: 50%;
+
+    background: #ffffff;
+
+    font-size: 24px;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 0.15s;
+}
+
+.info-button:hover {
+    background: #111;
+    color: #ffffff;
+}
+
+
+/* ========================================
+   MAIN
+======================================== */
+
+main {
+    max-width: 1400px;
+
+    margin: 0 auto;
+
+    padding: 35px 30px 60px;
+}
+
+
+/* ========================================
+   SEARCH
+======================================== */
+
+.search-section {
+    display: flex;
+
+    justify-content: center;
+
+    margin-bottom: 30px;
+}
+
+#searchInput {
+    width: min(850px, 100%);
+
+    height: 58px;
+
+    border: 2px solid #222;
+
+    border-radius: 12px;
+
+    padding: 0 22px;
+
+    font-size: 19px;
+
+    outline: none;
+
+    background: #ffffff;
+
+    transition: 0.15s;
+}
+
+#searchInput:focus {
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.12);
+}
+
+#searchInput::placeholder {
+    color: #777;
+}
+
+
+/* ========================================
+   BRAND SECTION
+======================================== */
+
+.brands-section {
+    overflow-x: auto;
+
+    padding-bottom: 12px;
+
+    margin-bottom: 35px;
+}
+
+
+/* Brand Buttons Container */
+
+.brand-list {
+    display: flex;
+
+    justify-content: center;
+
+    gap: 14px;
+
+    min-width: max-content;
+}
+
+
+/* Brand Button */
+
+.brand-button {
+    min-width: 105px;
+
+    height: 70px;
+
+    border: 2px solid #222;
+
+    border-radius: 12px;
+
+    background: #ffffff;
+
+    cursor: pointer;
+
+    font-size: 15px;
+
+    font-weight: 700;
+
+    transition: 0.15s;
+}
+
+.brand-button:hover {
+    background: #111;
+
+    color: #ffffff;
+}
+
+.brand-button.active {
+    background: #111;
+
+    color: #ffffff;
+}
+
+
+/* ========================================
+   CAR SECTION
+======================================== */
+
+.section-title {
+    font-size: 27px;
+
+    font-weight: 800;
+
+    margin-bottom: 20px;
+}
+
+
+/* ========================================
+   CAR GRID
+======================================== */
+
+.car-grid {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 22px;
+}
+
+
+/* ========================================
+   CAR CARD
+======================================== */
+
+.car-card {
+    background: #ffffff;
+
+    border: 2px solid #222;
+
+    border-radius: 15px;
+
+    overflow: hidden;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.15s ease,
+        box-shadow 0.15s ease;
+}
+
+.car-card:hover {
+    transform: translateY(-4px);
+
+    box-shadow:
+        0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+
+/* Car Image */
+
+.car-image {
+    height: 230px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    background: #dddddd;
+
+    font-weight: 700;
+
+    color: #555;
+
+    overflow: hidden;
+}
+
+
+/* Real image inside card */
+
+.car-image img {
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    display: block;
+}
+
+
+/* Car Information */
+
+.car-info {
+    padding: 15px 17px 18px;
+}
+
+
+/* Brand */
+
+.car-brand {
+    font-size: 13px;
+
+    color: #666;
+}
+
+
+/* Car Name */
+
+.car-name {
+    font-size: 21px;
+
+    font-weight: 800;
+
+    margin-top: 4px;
+}
+
+
+/* Short Specifications */
+
+.car-summary {
+    margin-top: 9px;
+
+    color: #555;
+
+    font-size: 14px;
+}
+
+
+/* ========================================
+   MODAL
+======================================== */
+
+.modal {
+    position: fixed;
+
+    inset: 0;
+
+    z-index: 100;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    padding: 25px;
+}
+
+
+/* Hidden */
+
+.hidden {
+    display: none;
+}
+
+
+/* Dark Background */
+
+.modal-backdrop {
+    position: absolute;
+
+    inset: 0;
+
+    background: rgba(0, 0, 0, 0.65);
+}
+
+
+/* ========================================
+   MODAL WINDOW
+======================================== */
+
+.modal-window {
+    position: relative;
+
+    z-index: 1;
+
+    width: min(1100px, 100%);
+
+    max-height: 90vh;
+
+    overflow-y: auto;
+
+    background: #ffffff;
+
+    border-radius: 18px;
+
+    padding: 30px;
+
+    border: 2px solid #111;
+}
+
+
+/* ========================================
+   CLOSE BUTTON
+======================================== */
+
+.close-button {
+    position: absolute;
+
+    top: 14px;
+
+    right: 18px;
+
+    border: 0;
+
+    background: transparent;
+
+    font-size: 35px;
+
+    cursor: pointer;
+
+    line-height: 1;
+
+    transition: 0.15s;
+}
+
+.close-button:hover {
+    transform: scale(1.1);
+}
+
+
+/* ========================================
+   MODAL TITLE
+======================================== */
+
+.modal-window h2 {
+    margin: 0 45px 25px 0;
+
+    font-size: 32px;
+}
+
+
+/* ========================================
+   MODAL CONTENT
+======================================== */
+
+.modal-content {
+    display: grid;
+
+    grid-template-columns: 1.1fr 1fr;
+
+    gap: 30px;
+}
+
+
+/* ========================================
+   IMAGE GALLERY
+======================================== */
+
+.gallery {
+    width: 100%;
+}
+
+
+/* Main Image */
+
+.main-image {
+    height: 330px;
+
+    background: #dddddd;
+
+    border-radius: 12px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    color: #555;
+
+    font-weight: 700;
+
+    overflow: hidden;
+}
+
+
+/* Real Main Image */
+
+.main-image img {
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    display: block;
+}
+
+
+/* ========================================
+   THUMBNAILS
+======================================== */
+
+.thumbnails {
+    display: flex;
+
+    gap: 10px;
+
+    margin-top: 10px;
+}
+
+.thumbnails div {
+    flex: 1;
+
+    height: 80px;
+
+    background: #dddddd;
+
+    border-radius: 8px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    color: #555;
+
+    font-size: 12px;
+
+    cursor: pointer;
+
+    overflow: hidden;
+}
+
+.thumbnails div:hover {
+    outline: 2px solid #111;
+}
+
+
+/* Real Thumbnail */
+
+.thumbnails img {
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    display: block;
+}
+
+
+/* ========================================
+   SPECIFICATIONS
+======================================== */
+
+.specs {
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 10px;
+
+    align-content: start;
+}
+
+
+/* Individual Specification */
+
+.spec {
+    border: 1px solid #cccccc;
+
+    border-radius: 9px;
+
+    padding: 12px;
+
+    background: #ffffff;
+}
+
+
+/* Specification Label */
+
+.spec-label {
+    color: #777777;
+
+    font-size: 12px;
+}
+
+
+/* Specification Value */
+
+.spec-value {
+    font-weight: 700;
+
+    margin-top: 3px;
+}
+
+
+/* ========================================
+   INFORMATION WINDOW
+======================================== */
+
+.info-window {
+    max-width: 650px;
+}
+
+.info-window p {
+    font-size: 16px;
+
+    line-height: 1.6;
+
+    color: #444;
+}
+
+
+/* ========================================
+   SCROLLBAR
+======================================== */
+
+::-webkit-scrollbar {
+    width: 10px;
+
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #eeeeee;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #999999;
+
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #666666;
+}
+
+
+/* ========================================
+   TABLET
+======================================== */
+
+@media (max-width: 900px) {
+
+    .car-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .modal-content {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+
+/* ========================================
+   MOBILE
+======================================== */
+
+@media (max-width: 600px) {
+
+    .topbar {
+        height: 80px;
+    }
+
+    .site-name {
+        font-size: 30px;
+
+        letter-spacing: 6px;
+    }
+
+    .info-button {
+        right: 15px;
+
+        width: 38px;
+        height: 38px;
+
+        font-size: 21px;
+    }
+
+    main {
+        padding: 22px 15px 40px;
+    }
+
+    .car-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .brand-list {
+        justify-content: flex-start;
+    }
+
+    .modal {
+        padding: 10px;
+    }
+
+    .modal-window {
+        padding: 22px 16px;
+    }
+
+    .modal-window h2 {
+        font-size: 26px;
+    }
+
+    .specs {
+        grid-template-columns: 1fr;
+    }
+
+    .main-image {
+        height: 250px;
+    }
+
+}
