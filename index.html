@@ -1,1 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>NEV | Car Database</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="topbar">
+
+        <div class="site-name">
+            NEV
+        </div>
+
+        <button
+            class="info-button"
+            id="infoButton"
+            aria-label="Information">
+            i
+        </button>
+
+    </header>
+
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- Search -->
+        <section class="search-section">
+
+            <input
+                id="searchInput"
+                type="search"
+                placeholder="Search for a car..."
+                autocomplete="off">
+
+        </section>
+
+
+        <!-- Brand Buttons -->
+        <section class="brands-section">
+
+            <div
+                class="brand-list"
+                id="brandList">
+            </div>
+
+        </section>
+
+
+        <!-- Cars -->
+        <section class="cars-section">
+
+            <div
+                class="section-title"
+                id="sectionTitle">
+                Discover
+            </div>
+
+            <div
+                class="car-grid"
+                id="carGrid">
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- Car Information Modal -->
+    <div
+        class="modal hidden"
+        id="carModal">
+
+        <div
+            class="modal-backdrop"
+            id="modalBackdrop">
+        </div>
+
+
+        <div class="modal-window">
+
+            <button
+                class="close-button"
+                id="closeCarModal"
+                aria-label="Close">
+                ×
+            </button>
+
+
+            <!-- Car Name -->
+            <h2 id="modalTitle"></h2>
+
+
+            <div class="modal-content">
+
+                <!-- Gallery -->
+                <div class="gallery">
+
+                    <div
+                        class="main-image"
+                        id="mainImage">
+                        CAR IMAGE
+                    </div>
+
+
+                    <div class="thumbnails">
+
+                        <div>
+                            IMAGE
+                        </div>
+
+                        <div>
+                            IMAGE
+                        </div>
+
+                        <div>
+                            IMAGE
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- Specifications -->
+                <div
+                    class="specs"
+                    id="modalSpecs">
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Information Modal -->
+    <div
+        class="modal hidden"
+        id="infoModal">
+
+        <div
+            class="modal-backdrop"
+            id="infoBackdrop">
+        </div>
+
+
+        <div class="modal-window info-window">
+
+            <button
+                class="close-button"
+                id="closeInfoModal"
+                aria-label="Close">
+                ×
+            </button>
+
+
+            <h2>
+                About
+            </h2>
+
+
+            <p>
+                An automotive database containing
+                specifications, images and information
+                about cars from around the world.
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+
+</body>
+
+</html>
