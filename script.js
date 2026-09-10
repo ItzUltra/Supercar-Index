@@ -61,7 +61,9 @@ const infoBackdrop =
    into this array.
 */
 
-const cars = [];
+const cars = [
+    ...mclarenCars
+];
 
 
 /* ========================================
