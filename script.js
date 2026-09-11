@@ -1,5 +1,5 @@
 /* ========================================
-   NEV - MAIN WEBSITE SCRIPT
+ CarCore - MAIN WEBSITE SCRIPT
    Website functionality only
 ======================================== */
 
