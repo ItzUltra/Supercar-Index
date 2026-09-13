@@ -178,7 +178,7 @@ const mclarenCars = [
             "YOUR IMAGE 3"
         ]
 
-    }
+    },
 
 
        {
@@ -208,6 +208,43 @@ const mclarenCars = [
         price: "$2-2.5M",
 
         location: "The Collection1, Bahrein",
+
+        images: [
+            "YOUR IMAGE 1",
+            "YOUR IMAGE 2",
+            "YOUR IMAGE 3"
+        ]
+
+    },
+
+
+     {
+        brand: "McLaren",
+        model: "W1",
+
+        production: "2026",
+        country: "UK",
+
+        engine: "4l double turbocharged v8 with hybrid system",
+        power: "1275 hp",
+        torque: "900 nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.7 s",
+        topSpeed: "350km/h",
+
+        length: "4635 mm",
+        width: "2191 mm",
+        height: "1182 mm",
+
+        weight: "1399kg",
+
+        productionCount: "399",
+        price: "$2.1M",
+
+        location: "The McLaren Heritage Collection, Woking",
 
         images: [
             "YOUR IMAGE 1",
