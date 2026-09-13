@@ -104,6 +104,43 @@ const mclarenCars = [
             "YOUR IMAGE 3"
         ]
 
+    },
+
+
+    {
+        brand: "McLaren",
+        model: "p1",
+
+        production: "2013-2015",
+        country: "UK",
+
+        engine: "3.8l double turbocharged v8 with hybrid system",
+        power: "916 hp",
+        torque: "900 nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "350km/h",
+
+        length: "4588 mm",
+        width: "1946 mm",
+        height: "1188 mm",
+
+        weight: "1490kg",
+
+        productionCount: "375",
+        price: "$2-3M",
+
+        location: "Newport Car Museum, Portsmouth",
+
+        images: [
+            "YOUR IMAGE 1",
+            "YOUR IMAGE 2",
+            "YOUR IMAGE 3"
+        ]
+
     }
-   
+
 ];
