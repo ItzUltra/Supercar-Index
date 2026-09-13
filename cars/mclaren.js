@@ -180,4 +180,41 @@ const mclarenCars = [
 
     }
 
+
+       {
+        brand: "McLaren",
+        model: "Speedtail",
+
+        production: "2020-2021",
+        country: "UK",
+
+        engine: "4l biturbo v8 with hybrid system",
+        power: "1070 hp",
+        torque: "1150 nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "403km/h",
+
+        length: "5137 mm",
+        width: "2000 mm",
+        height: "1120 mm",
+
+        weight: "1430kg",
+
+        productionCount: "106",
+        price: "$2-2.5M",
+
+        location: "The Collection1, Bahrein",
+
+        images: [
+            "YOUR IMAGE 1",
+            "YOUR IMAGE 2",
+            "YOUR IMAGE 3"
+        ]
+
+    }
+
 ];
