@@ -146,14 +146,14 @@ const mclarenCars = [
 
      {
         brand: "McLaren",
-        model: "P1",
+        model: "P1 LM",
 
-        production: "2013-2015",
+        production: "2014",
         country: "UK",
 
         engine: "3.8l double turbocharged v8 with hybrid system",
-        power: "916 hp",
-        torque: "900 nm",
+        power: "1000 hp",
+        torque: "800 nm",
 
         transmission: "7-speed automatic",
         drivetrain: "RWD",
@@ -162,15 +162,15 @@ const mclarenCars = [
         topSpeed: "350km/h",
 
         length: "4588 mm",
-        width: "1946 mm",
-        height: "1188 mm",
+        width: "2026 mm",
+        height: "1138 mm",
 
-        weight: "1490kg",
+        weight: "1440kg",
 
-        productionCount: "375",
-        price: "$2-3M",
+        productionCount: "58",
+        price: "$2.5-3M",
 
-        location: "Newport Car Museum, Portsmouth",
+        location: "McLaren Collection, Hong Kong",
 
         images: [
             "YOUR IMAGE 1",
