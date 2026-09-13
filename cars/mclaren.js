@@ -72,7 +72,7 @@ const mclarenCars = [
 
    {
         brand: "McLaren",
-        model: "f1 gt",
+        model: "F1 GT",
 
         production: "1997",
         country: "UK",
@@ -109,7 +109,7 @@ const mclarenCars = [
 
     {
         brand: "McLaren",
-        model: "p1",
+        model: "P1",
 
         production: "2013-2015",
         country: "UK",
