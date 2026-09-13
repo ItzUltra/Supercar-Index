@@ -67,6 +67,43 @@ const mclarenCars = [
 
         images: []
 
-    }
+    },
 
+
+   {
+        brand: "McLaren",
+        model: "f1 gt",
+
+        production: "1997",
+        country: "UK",
+
+        engine: "6.1l BMW s70/2 GTR LM",
+        power: "680 hp",
+        torque: "750 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "355 km/h",
+
+        length: "4928 mm",
+        width: "1940 mm",
+        height: "1200 mm",
+
+        weight: "1220 kg",
+
+        productionCount: "2",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: [
+            "YOUR IMAGE 1",
+            "YOUR IMAGE 2",
+            "YOUR IMAGE 3"
+        ]
+
+    }
+   
 ];
