@@ -2,7 +2,7 @@
    Aston Martin CAR DATABASE
 ======================================== */
 
-const Aston MartinCars = [
+const AstonMartinCars = [
 
     {
         brand: "Aston Martin",
