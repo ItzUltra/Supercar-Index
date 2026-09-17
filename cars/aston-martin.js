@@ -105,7 +105,7 @@ const AstonMartinCars = [
 
    {
         brand: "Aston Martin",
-        model: "valhalla",
+        model: "Valhalla",
 
         production: "2025-",
         country: "UK",
