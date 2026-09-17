@@ -252,6 +252,72 @@ const mclarenCars = [
             "YOUR IMAGE 3"
         ]
 
-    }
+    },
 
+   
+{
+        brand: "McLaren",
+        model: "Senna",
+
+        production: "2018-2020",
+        country: "UK",
+
+        engine: "4l biturbo v8",
+        power: "800 hp",
+        torque: "800 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "335 km/h",
+
+        length: "4744 mm",
+        width: "2153 mm",
+        height: "1195 mm",
+
+        weight: "1374 kg",
+
+        productionCount: "500",
+        price: "$1.2–1.4M",
+
+        location: "Moulsdale Foundation, Bishopbriggs",
+
+        images: []
+
+    },
+
+   
+   {
+        brand: "McLaren",
+        model: "Sabre",
+
+        production: "2020-2021",
+        country: "UK",
+
+        engine: "4l twinturbo v8",
+        power: "835 hp",
+        torque: "800 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "351 km/h",
+
+        length: "4775 mm",
+        width: "2153 mm",
+        height: "1392 mm",
+
+        weight: "1374 kg",
+
+        productionCount: "16",
+        price: "$4.8–5M",
+
+        location: "ye110w collection",
+
+        images: []
+
+    }
+   
 ];
