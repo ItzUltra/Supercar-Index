@@ -62,8 +62,9 @@ const infoBackdrop =
 */
 
 const cars = [
-    ...mclarenCars
-    ...astonMartinCars
+    ...mclarenCars,
+  ...astonMartinCars
+  
     
 ];
 
