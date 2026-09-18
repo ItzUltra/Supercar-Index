@@ -205,7 +205,7 @@ const mclarenCars = [
         weight: "1430kg",
 
         productionCount: "106",
-        price: "$2-2.5M",
+        price: "$2.5-4M",
 
         location: "The Collection1, Bahrein",
 
@@ -279,7 +279,7 @@ const mclarenCars = [
         weight: "1374 kg",
 
         productionCount: "500",
-        price: "$1.2–1.4M",
+        price: "$1.2–2M",
 
         location: "Moulsdale Foundation, Bishopbriggs",
 
