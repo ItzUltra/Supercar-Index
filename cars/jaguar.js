@@ -15,7 +15,7 @@ const jaguarCars = [
         power: "542 hp",
         torque: "644 Nm",
 
-        transmission: "5-speed automatic",
+        transmission: "5-speed manual",
         drivetrain: "RWD",
 
         acceleration: "3.6 s",
