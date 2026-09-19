@@ -22,7 +22,7 @@ const GordonMurrayAutomotivesCars = [
         topSpeed: "363 km/h",
 
         length: "4352 mm",
-        width: "1860 mm",
+        width: "1850 mm",
         height: "1164 mm",
 
         weight: "986 kg",
@@ -64,6 +64,72 @@ const GordonMurrayAutomotivesCars = [
         price: "$3.6-4.4M",
 
         location: "RMK Collection, Yekaterinburg",
+
+        images: []
+
+    },
+
+
+    {
+        brand: "GMA",
+        model: "t.33",
+
+        production: "2026-2028",
+        country: "UK",
+
+        engine: "4l v12",
+        power: "617 hp",
+        torque: "451 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "335 km/h",
+
+        length: "4400 mm",
+        width: "1860 mm",
+        height: "1136 mm",
+
+        weight: "1090 kg",
+
+        productionCount: "100",
+        price: "$1.8-1.9M",
+
+        location: "Gordon Murray Automotive Ltd.",
+
+        images: []
+
+    },
+
+
+     {
+        brand: "GMA",
+        model: "t.33 Spider",
+
+        production: "2026-2028",
+        country: "UK",
+
+        engine: "3.9l v12",
+        power: "617 hp",
+        torque: "451 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "335 km/h",
+
+        length: "4398 mm",
+        width: "1850 mm",
+        height: "1135 mm",
+
+        weight: "1108 kg",
+
+        productionCount: "100",
+        price: "unknown",
+
+        location: "Gordon Murray Automotive Ltd.",
 
         images: []
 
