@@ -34,6 +34,39 @@ const GordonMurrayAutomotivesCars = [
 
         images: []
 
+    },
+
+
+    {
+        brand: "GMA",
+        model: "t.50 s Niki Lauda",
+
+        production: "2026",
+        country: "UK",
+
+        engine: "4l v12",
+        power: "761 hp",
+        torque: "485 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "350 km/h",
+
+        length: "4416 mm",
+        width: "1917 mm",
+        height: "1179 mm",
+
+        weight: "900 kg",
+
+        productionCount: "25",
+        price: "$3.6-4.4M",
+
+        location: "RMK Collection, Yekaterinburg",
+
+        images: []
+
     }
    
 ];
