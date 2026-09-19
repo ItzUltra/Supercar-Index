@@ -15,22 +15,22 @@ const GordonMurrayAutomotivesCars = [
         power: "663 hp",
         torque: "467 Nm",
 
-        transmission: "5-speed automatic",
+        transmission: "6-speed manual",
         drivetrain: "RWD",
 
-        acceleration: "3.6 s",
-        topSpeed: "349 km/h",
+        acceleration: "3 s",
+        topSpeed: "363 km/h",
 
-        length: "4930 mm",
-        width: "2640 mm",
-        height: "1150 mm",
+        length: "4352 mm",
+        width: "1860 mm",
+        height: "1164 mm",
 
-        weight: "1470 kg",
+        weight: "986 kg",
 
-        productionCount: "275",
-        price: "$500-650K",
+        productionCount: "100",
+        price: "$5.6-8M",
 
-        location: "British Motor Museum, Warwickshire",
+        location: "Petersen Automotive Museum, Los Angeles",
 
         images: []
 
