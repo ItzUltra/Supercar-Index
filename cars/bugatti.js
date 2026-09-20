@@ -298,6 +298,237 @@ const bugattiCars = [
 
         images: []
 
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Divo",
+
+        production: "2018-2021",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.4 s",
+        topSpeed: "380 km/h",
+
+        length: "4640 mm",
+        width: "2038 mm",
+        height: "1212 mm",
+
+        weight: "1995 kg",
+
+        productionCount: "40",
+        price: "$8-12M",
+
+        location: "VW Zeithaus Museum, Wolfsburg",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Centodieci",
+
+        production: "2022",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1600 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.4 s",
+        topSpeed: "380 km/h",
+
+        length: "4665 mm",
+        width: "2183 mm",
+        height: "1212 mm",
+
+        weight: "1995 kg",
+
+        productionCount: "10",
+        price: "$14M",
+
+        location: "VW Zeithaus Museum, Wolfsburg",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "La Voiture Noire",
+
+        production: "2019",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.4 s",
+        topSpeed: "420 km/h",
+
+        length: "4544 mm",
+        width: "2038 mm",
+        height: "1212 mm",
+
+        weight: "1995 kg",
+
+        productionCount: "1",
+        price: "$20M",
+
+        location: "The Piech Family Collection",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Mistral",
+
+        production: "2024-2026",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1600 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.4 s",
+        topSpeed: "453 km/h",
+
+        length: "4544 mm",
+        width: "2034 mm",
+        height: "1212 mm",
+
+        weight: "1977 kg",
+
+        productionCount: "99",
+        price: "$7.5-10.5M",
+
+        location: "The AGR Collection",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Tourbillion",
+
+        production: "2026-",
+        country: "France",
+
+        engine: "8.3l v16 with hybrid system",
+        power: "1800 hp",
+        torque: "2300 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2 s",
+        topSpeed: "445 km/h",
+
+        length: "4671 mm",
+        width: "2051 mm",
+        height: "1189 mm",
+
+        weight: "1995 kg",
+
+        productionCount: "250",
+        price: "$4.1-4.4M",
+
+        location: "Bugatti Automobiles Collection",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Destrier",
+
+        production: "2026",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1600 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.2 s",
+        topSpeed: "380 km/h",
+
+        length: "unknown",
+        width: "unknown",
+        height: "1000 mm",
+
+        weight: "1250 kg",
+
+        productionCount: "1",
+        price: "$15-28M",
+
+        location: "Bugatti Automobiles Collection",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Bolide",
+
+        production: "2024-2025",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1600 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.17 s",
+        topSpeed: "380 km/h",
+
+        length: "4756 mm",
+        width: "1998 mm",
+        height: "995 mm",
+
+        weight: "1450 kg",
+
+        productionCount: "40",
+        price: "$4.7-5M",
+
+        location: "Bugatti Automobiles Collection",
+
+        images: []
+
     }
  
 ];
