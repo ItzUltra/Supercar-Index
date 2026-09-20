@@ -32,7 +32,11 @@ const jaguarCars = [
 
         location: "British Motor Museum, Warwickshire",
 
-        images: []
+        images: [
+           "images/jaguar/xj220-1.jpg",
+    "images/jaguar/xj220-2.jpg",
+    "images/jaguar/xj220-3.jpg"
+        ]
 
     }
    
