@@ -529,6 +529,237 @@ const bugattiCars = [
 
         images: []
 
-    }
- 
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Pur Sang",
+
+        production: "2007",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "407 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1206 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "5",
+        price: "$2.3M",
+
+        location: "unknown",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Fbg Par Hermés",
+
+        production: "2008",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "407 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1206 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "4",
+        price: "$2M",
+
+        location: "unknown",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Sang Noir",
+
+        production: "2008",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "407 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1206 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "15",
+        price: "$1.5M",
+
+        location: "one is owned by Drake",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Bleu Centenaire",
+
+        production: "2009",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "407 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1206 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "Unknown",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Sang Bleu",
+
+        production: "2009",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "407 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1206 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "1",
+        price: "$3M",
+
+        location: "Unknown",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport L'Or Blanc",
+
+        production: "2011",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.7 s",
+        topSpeed: "407 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "1",
+        price: "$2.4M",
+
+        location: "somewhere in Riyadh",
+
+        images: []
+
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport Middle East Edition",
+
+        production: "2011",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.7 s",
+        topSpeed: "407 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "3",
+        price: "$1.5-1.7M",
+
+        location: "yellow: Perth, blue: Dubai, green: Riyadh",
+
+        images: []
+
+    },
+
 ];
