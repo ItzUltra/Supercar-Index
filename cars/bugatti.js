@@ -762,4 +762,37 @@ const bugattiCars = [
 
     },
 
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Super Sport World Record Edition",
+
+        production: "2010",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1500 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "415 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1190 mm",
+
+        weight: "1888 kg",
+
+        productionCount: "5",
+        price: "$3.5-5M",
+
+        location: "one in: Chichester,Saint Cloud,Nottingham,Wolfsburg,Monaco",
+
+        images: []
+
+    }
+ 
 ];
