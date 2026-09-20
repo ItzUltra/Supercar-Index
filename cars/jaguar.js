@@ -36,12 +36,12 @@ const jaguarCars = [
           {
         src: "images/jaguar/xj220-1.jpg",
         license: "CC BY-SA 4.0",
-        author: "Fotós neve"
+        author: "MrWalkr"
     },
     {
         src: "images/jaguar/xj220-2.jpg",
-        license: "CC BY 4.0",
-        author: "Másik fotós neve"
+        license: "CC BY-SA 4.0",
+        author: "MrWalkr"
     },
         {
         src: "images/jaguar/xj220-1.jpg",
