@@ -5,32 +5,32 @@
 const bugattiCars = [
 
     {
-        brand: "Aston Martin",
-        model: "Valkyrie",
+        brand: "Bugatti",
+        model: "Veyron",
 
-        production: "2021-2024",
-        country: "UK",
+        production: "2005-2015",
+        country: "France",
 
-        engine: "6,5l V12 with hybrid system",
-        power: "1160 hp",
-        torque: "900 Nm",
+        engine: "8l w16 with 4 turbocharger",
+        power: "1001 hp",
+        torque: "1250 Nm",
 
         transmission: "7-speed automatic",
-        drivetrain: "RWD",
+        drivetrain: "AWD",
 
         acceleration: "2.5 s",
-        topSpeed: "354 km/h",
+        topSpeed: "407 km/h",
 
-        length: "4500 mm",
-        width: "1965 mm",
-        height: "1070 mm",
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1206 mm",
 
-        weight: "1030 kg",
+        weight: "1888 kg",
 
-        productionCount: "150",
-        price: "$3.3–3.4M",
+        productionCount: "252",
+        price: "$1.5–3.5M",
 
-        location: "Royal Cars Museum, Seeb",
+        location: "National Motor Museum, Birdwood",
 
         images: []
 
