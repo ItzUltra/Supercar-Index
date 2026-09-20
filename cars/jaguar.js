@@ -32,30 +32,6 @@ const jaguarCars = [
 
         location: "British Motor Museum, Warwickshire",
 
-        images: [
-          {
-        src: "images/jaguar/xj220-1.jpg",
-        license: "CC BY-SA 4.0",
-        author: "MrWalkr"
-    },
-    {
-        src: "images/jaguar/xj220-2.jpg",
-        license: "CC BY-SA 4.0",
-        author: "MrWalkr"
-    },
-        {
-        src: "images/jaguar/xj220-1.jpg",
-        license: "CC BY-SA 4.0",
-        author: "Fotós neve"
-    },
-    {
-        src: "images/jaguar/xj220-2.jpg",
-        license: "CC BY 4.0",
-        author: "Másik fotós neve"
-    }    
-],
-        ]
+        images: []
 
-    }
-   
 ];
