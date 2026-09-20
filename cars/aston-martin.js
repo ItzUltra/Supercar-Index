@@ -127,7 +127,7 @@ const astonMartinCars = [
         weight: "1655 kg",
 
         productionCount: "999",
-        price: "$1–1.1M",
+        price: "$1–1.3M",
 
         location: "gordon ramsay car collection",
 
