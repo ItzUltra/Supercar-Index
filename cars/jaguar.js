@@ -34,8 +34,8 @@ const jaguarCars = [
 
         images: [
            "images/aguar/xj220-1.jpg",
-    "images/jaguar/xj220-2.jpg",
-    "images/jaguar/xj220-3.jpg"
+    "images/aguar/xj220-2.jpg",
+    "images/aguar/xj220-3.jpg"
         ]
 
     }
