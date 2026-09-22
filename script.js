@@ -1,5 +1,5 @@
 /* ========================================
- CarCore - MAIN WEBSITE SCRIPT
+   CarCore - MAIN WEBSITE SCRIPT
    Website functionality only
 ======================================== */
 
@@ -14,12 +14,16 @@ const searchInput = document.getElementById("searchInput");
 const sectionTitle = document.getElementById("sectionTitle");
 
 
-/* Car Modal */
+/* ========================================
+   CAR MODAL
+======================================== */
 
 const carModal = document.getElementById("carModal");
 const modalTitle = document.getElementById("modalTitle");
 const modalSpecs = document.getElementById("modalSpecs");
 const mainImage = document.getElementById("mainImage");
+const imageLicense = document.getElementById("imageLicense");
+const thumbnails = document.getElementById("thumbnails");
 
 const closeCarModal =
     document.getElementById("closeCarModal");
@@ -28,7 +32,9 @@ const modalBackdrop =
     document.getElementById("modalBackdrop");
 
 
-/* Information Modal */
+/* ========================================
+   INFORMATION MODAL
+======================================== */
 
 const infoButton =
     document.getElementById("infoButton");
@@ -47,27 +53,11 @@ const infoBackdrop =
    CAR DATA
 ======================================== */
 
-/*
-   The car database will be loaded
-   from separate brand files.
-
-   Example:
-
-   mclaren.js
-   ferrari.js
-   bugatti.js
-
-   All car objects will be collected
-   into this array.
-*/
-
 const cars = [
     ...mclarenCars,
-  ...astonMartinCars,
- ...jaguarCars,
-  ...bugattiCars
-  
-    
+    ...astonMartinCars,
+    ...jaguarCars,
+    ...bugattiCars
 ];
 
 
@@ -105,7 +95,6 @@ function displayBrands() {
 
     const brands = getBrands();
 
-
     brands.forEach(brand => {
 
         const button =
@@ -115,13 +104,11 @@ function displayBrands() {
 
         button.textContent = brand;
 
-
         if (brand === currentBrand) {
 
             button.classList.add("active");
 
         }
-
 
         button.addEventListener("click", () => {
 
@@ -131,7 +118,6 @@ function displayBrands() {
             displayCars();
 
         });
-
 
         brandList.appendChild(button);
 
@@ -151,13 +137,11 @@ function getFilteredCars() {
             .toLowerCase()
             .trim();
 
-
     return cars.filter(car => {
 
         const matchesBrand =
             currentBrand === "All" ||
             car.brand === currentBrand;
-
 
         const searchableText = `
 
@@ -168,11 +152,9 @@ function getFilteredCars() {
 
         `.toLowerCase();
 
-
         const matchesSearch =
             searchText === "" ||
             searchableText.includes(searchText);
-
 
         return matchesBrand && matchesSearch;
 
@@ -247,7 +229,6 @@ function displayCars() {
         message.style.fontSize =
             "18px";
 
-
         carGrid.appendChild(message);
 
         return;
@@ -285,12 +266,31 @@ function displayCars() {
             const image =
                 document.createElement("img");
 
-            image.src =
+
+            /*
+               New image format:
+
+               {
+                   src: "...",
+                   license: "...",
+                   author: "...",
+                   source: "..."
+               }
+
+               This also supports the old
+               simple string format.
+            */
+
+            const firstImage =
                 car.images[0];
+
+            image.src =
+                typeof firstImage === "string"
+                    ? firstImage
+                    : firstImage.src;
 
             image.alt =
                 `${car.brand} ${car.model}`;
-
 
             imageContainer.appendChild(image);
 
@@ -377,6 +377,149 @@ function displayCars() {
         carGrid.appendChild(card);
 
     });
+
+}
+
+
+/* ========================================
+   SHOW GALLERY IMAGE
+======================================== */
+
+function showGalleryImage(image, car) {
+
+    /*
+       Support both:
+
+       Old:
+       "images/car/image.jpg"
+
+       New:
+       {
+           src: "...",
+           license: "...",
+           author: "...",
+           source: "..."
+       }
+    */
+
+    let imageData;
+
+    if (typeof image === "string") {
+
+        imageData = {
+            src: image,
+            license: "Not specified",
+            author: "Not specified",
+            source: "Not specified"
+        };
+
+    }
+
+    else {
+
+        imageData = image;
+
+    }
+
+
+    /* Main image */
+
+    mainImage.innerHTML = "";
+
+    const mainImg =
+        document.createElement("img");
+
+    mainImg.src =
+        imageData.src;
+
+    mainImg.alt =
+        `${car.brand} ${car.model}`;
+
+    mainImage.appendChild(mainImg);
+
+
+    /* Image information */
+
+    imageLicense.innerHTML = `
+        License: ${imageData.license || "Not specified"}<br>
+        Author: ${imageData.author || "Not specified"}<br>
+        Source: ${imageData.source || "Not specified"}
+    `;
+
+}
+
+
+/* ========================================
+   CREATE GALLERY
+======================================== */
+
+function createGallery(car) {
+
+    thumbnails.innerHTML = "";
+
+
+    if (
+        !car.images ||
+        car.images.length === 0
+    ) {
+
+        mainImage.innerHTML =
+            "CAR IMAGE";
+
+        imageLicense.innerHTML =
+            "";
+
+        return;
+
+    }
+
+
+    /* Create thumbnails */
+
+    car.images.forEach((image, index) => {
+
+        let imageData;
+
+        if (typeof image === "string") {
+
+            imageData = {
+                src: image
+            };
+
+        }
+
+        else {
+
+            imageData = image;
+
+        }
+
+
+        const thumbnail =
+            document.createElement("img");
+
+        thumbnail.src =
+            imageData.src;
+
+        thumbnail.alt =
+            `${car.brand} ${car.model} image ${index + 1}`;
+
+        thumbnail.addEventListener(
+            "click",
+            () => showGalleryImage(image, car)
+        );
+
+        thumbnails.appendChild(thumbnail);
+
+    });
+
+
+    /* Show first image */
+
+    showGalleryImage(
+        car.images[0],
+        car
+    );
 
 }
 
@@ -471,37 +614,10 @@ function openCarModal(car) {
 
 
     /* ====================================
-       MAIN IMAGE
+       GALLERY
     ==================================== */
 
-    mainImage.innerHTML = "";
-
-
-    if (
-        car.images &&
-        car.images.length > 0
-    ) {
-
-        const image =
-            document.createElement("img");
-
-        image.src =
-            car.images[0];
-
-        image.alt =
-            `${car.brand} ${car.model}`;
-
-
-        mainImage.appendChild(image);
-
-    }
-
-    else {
-
-        mainImage.textContent =
-            "CAR IMAGE";
-
-    }
+    createGallery(car);
 
 
     /* ====================================
