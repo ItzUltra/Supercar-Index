@@ -893,5 +893,104 @@ const bugattiCars = [
         images: []
 
     },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport Vitesse Rembrandt Bugatti",
+
+        production: "2014",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1200 hp",
+        torque: "1500 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.6 s",
+        topSpeed: "410 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1990 kg",
+
+        productionCount: "3",
+        price: "unknown",
+
+        location: "somewhere in: Costa Mesa,Zürich,Düsseldorf",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport Vitesse Black Bess",
+
+        production: "2014",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1200 hp",
+        torque: "1500 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.6 s",
+        topSpeed: "410 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1990 kg",
+
+        productionCount: "3",
+        price: "unknown",
+
+        location: "somewhere in: Kerpen,Opfikon, the thirds location is unknown",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport Vitesse Ettore Bugatti",
+
+        production: "2014",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1200 hp",
+        torque: "1500 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.6 s",
+        topSpeed: "410 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1990 kg",
+
+        productionCount: "3",
+        price: "unknown",
+
+        location: "somewhere in: Opfikon, other twos location is unknown",
+
+        images: []
+
+    }
  
 ];
