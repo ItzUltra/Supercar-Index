@@ -36,14 +36,14 @@ const jaguarCars = [
             {
                 src: "images/jaguar/xj220-1.jpg",
                 license: "CC BY-SA 4.0",
-                author: "Author Name",
-                source: "https://commons.wikimedia.org/wiki/File:Example.jpg"
+                author: "MrWalkr",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_LC22.jpg"
             },
             {
                 src: "images/jaguar/xj220-2.jpg",
                 license: "CC BY-SA 4.0",
-                author: "Author Name",
-                source: "https://commons.wikimedia.org/wiki/File:Example2.jpg"
+                author: "MrWalkr
+                source: "https://commons.wikimedia.org/wiki/File:1992_Jaguar_XJ220_Rear_LC22.jpg"
             }
         ]
 
