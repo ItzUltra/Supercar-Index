@@ -991,6 +991,171 @@ const bugattiCars = [
 
         images: []
 
+    },
+
+
+  {
+        brand: "Bugatti",
+        model: "Chiron L'Ébé",
+
+        production: "2022",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "420 km/h",
+
+        length: "4794 mm",
+        width: "2038 mm",
+        height: "1212 mm",
+
+        weight: "1990 kg",
+
+        productionCount: "3",
+        price: "$4-5M",
+
+        location: "somewhere in: Rotterdam,Miskolc,Haar",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Chiron Sport 110 Ans Bugatti",
+
+        production: "2019",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "420 km/h",
+
+        length: "4794 mm",
+        width: "2038 mm",
+        height: "1212 mm",
+
+        weight: "1977 kg",
+
+        productionCount: "20",
+        price: "$3.3–4M",
+
+        location: "one is somewhere in Boca Raton",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Chiron Sport Noir Élégance",
+
+        production: "2020",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "420 km/h",
+
+        length: "4794 mm",
+        width: "2038 mm",
+        height: "1212 mm",
+
+        weight: "1977 kg",
+
+        productionCount: "10",
+        price: "$4.2-5.9M",
+
+        location: "one is located somewhere in Buggenhout",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Chiron Sport Noir Sportive",
+
+        production: "2019",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "420 km/h",
+
+        length: "4794 mm",
+        width: "2038 mm",
+        height: "1212 mm",
+
+        weight: "1977 kg",
+
+        productionCount: "10",
+        price: "unknown",
+
+        location: "one is located somewhere in Dubai",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Chiron Sport Les Legendes Du Ciel",
+
+        production: "2020",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1500 hp",
+        torque: "1600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "420 km/h",
+
+        length: "4794 mm",
+        width: "2038 mm",
+        height: "1212 mm",
+
+        weight: "1977 kg",
+
+        productionCount: "20",
+        price: "$4.7M",
+
+        location: "one is located somewhere in Dubai",
+
+        images: []
+
     }
  
 ];
