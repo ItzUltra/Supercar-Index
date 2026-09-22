@@ -133,4 +133,6 @@ const GordonMurrayAutomotivesCars = [
 
         images: []
 
-    },
+    }
+
+];
