@@ -793,6 +793,105 @@ const bugattiCars = [
 
         images: []
 
-    }
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport Vitesse Jean-Pierre Wimille",
+
+        production: "2013",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1200 hp",
+        torque: "1500 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.6 s",
+        topSpeed: "410 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1990 kg",
+
+        productionCount: "3",
+        price: "$2.6–3.3M",
+
+        location: "somewhere in: Opfikon,Shawnee,Zürich",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport Vitesse Jean Bugatti",
+
+        production: "2013",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1200 hp",
+        torque: "1500 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.6 s",
+        topSpeed: "410 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1990 kg",
+
+        productionCount: "3",
+        price: "$3.5–3.9M",
+
+        location: "Somewhere in:Opfikon,Dubai, the thirds location is unknown",
+
+        images: []
+
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "Veyron Grand Sport Vitesse Meo Costantini",
+
+        production: "2013",
+        country: "France",
+
+        engine: "8l w16 with 4 turbocharger",
+        power: "1200 hp",
+        torque: "1500 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.6 s",
+        topSpeed: "410 km/h",
+
+        length: "4462 mm",
+        width: "1998 mm",
+        height: "1204 mm",
+
+        weight: "1990 kg",
+
+        productionCount: "3",
+        price: "unknown",
+
+        location: "Somewhere in: Zug,Zürich,Atlanta",
+
+        images: []
+
+    },
  
 ];
