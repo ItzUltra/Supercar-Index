@@ -505,7 +505,9 @@ main {
 }
 
 
-/* Main Image */
+/* ========================================
+   MAIN IMAGE
+======================================== */
 
 .main-image {
     height: 330px;
@@ -540,6 +542,30 @@ main {
 
 
 /* ========================================
+   IMAGE LICENSE
+======================================== */
+
+.image-license {
+    margin-top: 7px;
+
+    padding: 0 2px;
+
+    font-size: 11px;
+
+    line-height: 1.45;
+
+    color: #777777;
+
+    word-break: break-all;
+}
+
+
+.image-license br {
+    line-height: 1.45;
+}
+
+
+/* ========================================
    THUMBNAILS
 ======================================== */
 
@@ -549,47 +575,45 @@ main {
     gap: 10px;
 
     margin-top: 10px;
+
+    overflow-x: auto;
+
+    padding-bottom: 3px;
 }
 
 
-.thumbnails div {
-    flex: 1;
+.thumbnails img {
+    flex: 0 0 80px;
 
-    height: 80px;
+    width: 80px;
+
+    height: 55px;
+
+    object-fit: cover;
+
+    display: block;
 
     background: #171717;
 
     border-radius: 8px;
 
-    display: flex;
-
-    align-items: center;
-
-    justify-content: center;
-
-    color: #666666;
-
-    font-size: 12px;
-
     cursor: pointer;
 
-    overflow: hidden;
+    border: 1px solid #292929;
+
+    transition:
+        border-color 0.15s ease,
+        opacity 0.15s ease,
+        transform 0.15s ease;
 }
 
 
-.thumbnails div:hover {
-    outline: 1px solid #ffffff;
-}
+.thumbnails img:hover {
+    border-color: #ffffff;
 
+    opacity: 0.85;
 
-.thumbnails img {
-    width: 100%;
-
-    height: 100%;
-
-    object-fit: cover;
-
-    display: block;
+    transform: translateY(-1px);
 }
 
 
@@ -778,7 +802,18 @@ main {
         height: 250px;
     }
 
+
+    .image-license {
+        font-size: 10px;
+    }
+
+
+    .thumbnails img {
+        flex-basis: 70px;
+
+        width: 70px;
+
+        height: 50px;
+    }
+
 }
-
-
-  
