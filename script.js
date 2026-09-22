@@ -58,6 +58,7 @@ const cars = [
     ...astonMartinCars,
     ...jaguarCars,
     ...bugattiCars
+   
 ];
 
 
