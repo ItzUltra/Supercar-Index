@@ -96,7 +96,7 @@ const mclarenCars = [
         productionCount: "2",
         price: "unknown",
 
-        location: "unknown",
+        location: "The Mclaren Heritage Collection",
 
         images: [
             "YOUR IMAGE 1",
@@ -170,7 +170,7 @@ const mclarenCars = [
         productionCount: "58",
         price: "$2.5-3M",
 
-        location: "McLaren Collection, Hong Kong",
+        location: "McLaren Collection Hong Kong",
 
         images: [
             "YOUR IMAGE 1",
@@ -207,7 +207,7 @@ const mclarenCars = [
         productionCount: "106",
         price: "$2.5-4M",
 
-        location: "The Collection1, Bahrein",
+        location: "The Collection1",
 
         images: [
             "YOUR IMAGE 1",
@@ -244,7 +244,7 @@ const mclarenCars = [
         productionCount: "399",
         price: "$2.1M",
 
-        location: "The McLaren Heritage Collection, Woking",
+        location: "The McLaren Heritage Collection",
 
         images: [
             "YOUR IMAGE 1",
