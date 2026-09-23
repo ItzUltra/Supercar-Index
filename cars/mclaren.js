@@ -35,18 +35,18 @@ const mclarenCars = [
         images: [
             {
             src: "images/mclaren/f1-1.jpg",
-            license: "",
-            author: "AUTHOR",
-            source: "SOURCE URL"
+            license: "CC BY-SA 4.0",
+            author: "Chelsea Jay",
+            source: "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg"
         },
         {
-            src: "images/BRAND/MODEL-2.jpg",
-            license: "LICENSE",
-            author: "AUTHOR",
-            source: "SOURCE URL"
+            src: "images/mclaren/f1-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Chelsea Jay",
+            source: "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Rear.jpg"
         },
         {
-            src: "images/BRAND/MODEL-3.jpg",
+            src: "images/mclaren/f-3.jpg",
             license: "LICENSE",
             author: "AUTHOR",
             source: "SOURCE URL"
