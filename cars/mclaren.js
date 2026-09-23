@@ -478,7 +478,32 @@ const mclarenCars = [
 
         location: "ye110w collection",
 
-        images: []
+        images: [
+                        {
+            src: "images/mclaren/hyper/sabre-1.jpg",
+            license: "CC By 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Sabre_(2020)_(52960696673).jpg"
+        },
+        {
+            src: "images/mclaren/hyper/sabre-2.jpg",
+            license: "CC BY 3.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Sabre_(2020)_(52960696598).jpg"
+        },
+        {
+            src: "images/mclaren/hyper/sabre-3.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Sabre_(2020)_(52959646642).jpg"
+        },
+        {
+            src: "images/mclaren/hyper/sabre-4.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Sabre_-_52216980594.jpg"
+        }
+        ]
 
     }
    
