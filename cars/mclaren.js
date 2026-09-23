@@ -98,22 +98,22 @@ const mclarenCars = [
             source: "https://commons.wikimedia.org/wiki/File:McLaren_F1.jpg"
         },
         {
-            src: "images/BRAND/MODEL-2.jpg",
-            license: "LICENSE",
-            author: "AUTHOR",
-            source: "SOURCE URL"
+            src: "images/mclaren/f1lm-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MB-one",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_F1_XP1_LM,_EMS_2023,_Essen_(P1160792).jpg"
         },
         {
-            src: "images/BRAND/MODEL-3.jpg",
-            license: "LICENSE",
-            author: "AUTHOR",
-            source: "SOURCE URL"
+            src: "images/mclaren/f1lm-3.jpg",
+            license: "CC By-Sa 3.0",
+            author: "Clément Bucco-Lechat",
+            source: "https://commons.wikimedia.org/wiki/File:Geneva_MotorShow_2013_-_McLaren_F1LM_front.jpg"
         },
         {
-            src: "images/BRAND/MODEL-4.jpg",
-            license: "LICENSE",
-            author: "AUTHOR",
-            source: "SOURCE URL"
+            src: "images/mclaren/f1lm-4.jpg",
+            license: "CC BY 2.0",
+            author: "Anthony Joh",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_F1_LM_%26_Ferrari_288_GTO.jpg"
         }
     ]
 
