@@ -207,7 +207,32 @@ const astonMartinCars = [
 
         location: "gordon ramsay car collection",
 
-        images: []
+        images: [
+            {
+            src: "images/astonmartin/hyper/valhalla-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_AM-RB_003_Front.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valhalla-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_AM-RB_003_Rear.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valhalla-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_AM-RB_003_Top_Marques_2019_IMG_1077.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valhalla-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2026_Aston_Martin_Valhalla_SCD26.jpg"
+        }
+    ]
 
     }
    
