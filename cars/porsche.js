@@ -148,7 +148,32 @@ const porscheCars = [
 
         location: "Classic Car House, Kongens Lyngby",
 
-        images: []
+        images: [
+            {
+            src: "images/porsche/hyper/918-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_(Ank_kumar,_Infosys_Limited)_08.jpg"
+        },
+        {
+            src: "images/porsche/hyper/918-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_(Ank_kumar,_Infosys_Limited)_04.jpg"
+        },
+        {
+            src: "images/porsche/hyper/918-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_in_the_Porsche-Museum_(2009)_1X7A0382.jpg"
+        },
+        {
+            src: "images/porsche/hyper/918-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2015_Porsche_918_Spyder_(99627).jpg"
+        }
+    ]
 
     },
 
