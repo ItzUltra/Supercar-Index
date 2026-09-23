@@ -163,7 +163,7 @@ const mclarenCars = [
         },
         {
             src: "images/mclaren/f1gt-3.jpg",
-            license: "CC By-Sa 4.0",
+            license: "CC BY-SA 4.0",
             author: "Ank kumar",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_F1_GT,_GIMS._2015_(Ank_Kumar,_INFOSYS_Limited)_12.jpg"
         },
@@ -207,9 +207,30 @@ const mclarenCars = [
         location: "Newport Car Museum, Portsmouth",
 
         images: [
-            "YOUR IMAGE 1",
-            "YOUR IMAGE 2",
-            "YOUR IMAGE 3"
+           {
+            src: "images/mclaren/p1-1.jpg",
+            license: "CC By-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_P1_10.jpg"
+        },
+        {
+            src: "images/mclaren/p1-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2013_McLaren_P1_MSO_Purple_Rear.jpg"
+        },
+        {
+            src: "images/mclaren/p1-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_P1_13.jpg"
+        },
+        {
+            src: "images/mclaren/p1-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2015_McLaren_P1_Track_Silver_Low.jpg"
+        }
         ]
 
     },
