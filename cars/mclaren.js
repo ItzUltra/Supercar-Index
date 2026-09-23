@@ -53,7 +53,7 @@ const mclarenCars = [
         },
         {
             src: "images/mclaren/f1-4.jpg",
-            license: "CC By-SA 3.0",
+            license: "CC BY-SA 3.0",
             author: "Mr.choppers",
             source: "https://commons.wikimedia.org/wiki/File:1995_McLaren_F1_in_Orange_Kandy,_front_right.jpg"
         }
@@ -105,7 +105,7 @@ const mclarenCars = [
         },
         {
             src: "images/mclaren/f1lm-3.jpg",
-            license: "CC By-Sa 3.0",
+            license: "CC BY-Sa 3.0",
             author: "Clément Bucco-Lechat",
             source: "https://commons.wikimedia.org/wiki/File:Geneva_MotorShow_2013_-_McLaren_F1LM_front.jpg"
         },
@@ -151,7 +151,7 @@ const mclarenCars = [
         images: [
             {
             src: "images/mclaren/hyper/f1gt-1.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "Norbert Aepli",
             source: "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_5805.JPG"
         },
@@ -209,7 +209,7 @@ const mclarenCars = [
         images: [
            {
             src: "images/mclaren/hyper/p1-1.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_P1_10.jpg"
         },
@@ -267,7 +267,7 @@ const mclarenCars = [
         images: [
             {
             src: "images/mclaren/hyper/p1lm-1.jpg",
-            license: "CC By-SA 2.0",
+            license: "CC BY-SA 2.0",
             author: "Matthew Lamb",
             source: "https://commons.wikimedia.org/wiki/File:FoS20162016_0625_091900AA_(27624423280)_(cropped).jpg"
         },
@@ -325,7 +325,7 @@ const mclarenCars = [
         images: [
                 {
             src: "images/mclaren/hyper/speedtail-1.jpg",
-            license: "CC By-SA 2.0",
+            license: "CC BY-SA 2.0",
             author: "el.guy08_11",
             source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Speedtail_(Rob_Melville)_(cropped).jpg"
         },
@@ -383,7 +383,7 @@ const mclarenCars = [
         images: [
               {
             src: "images/mclaren/hyper/w1-1.jpg",
-            license: "CC By-SA 2.0",
+            license: "CC BY-SA 2.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2024_McLaren_W1_SP25.jpg"
         }
@@ -423,7 +423,7 @@ const mclarenCars = [
         images: [
                            {
             src: "images/mclaren/hyper/senna-1.jpg",
-            license: "CC By-SA 2.0",
+            license: "CC BY-SA 2.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2018_McLaren_Senna_4.jpg"
         },
@@ -481,7 +481,7 @@ const mclarenCars = [
         images: [
                         {
             src: "images/mclaren/hyper/sabre-1.jpg",
-            license: "CC By 2.0",
+            license: "CC BY 2.0",
             author: "Charles",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_Sabre_(2020)_(52960696673).jpg"
         },
@@ -539,7 +539,7 @@ const mclarenCars = [
         images: [
                            {
             src: "images/mclaren/hyper/sennacanam-1.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2020_McLaren_Senna_LM.jpg"
       }
@@ -579,7 +579,7 @@ const mclarenCars = [
         images: [
                            {
             src: "images/mclaren/hyper/sennagtr-1.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "Matti Blume",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR,_GIMS_2018,_Le_Grand-Saconnex_(1X7A0442).jpg"
         },
@@ -637,7 +637,7 @@ const mclarenCars = [
         images: [
                            {
             src: "images/mclaren/hyper/sennalm-1.jpg",
-            license: "CC By 2.0",
+            license: "CC BY 2.0",
             author: "pelican-actor",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
        }
