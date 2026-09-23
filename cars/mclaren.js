@@ -550,31 +550,31 @@ const mclarenCars = [
 
    {
         brand: "McLaren",
-        model: "Senna",
+        model: "Senna GTR",
 
-        production: "2018-2020",
+        production: "2019-2020",
         country: "UK",
 
         engine: "4l biturbo v8",
-        power: "800 hp",
+        power: "825 hp",
         torque: "800 Nm",
 
         transmission: "7-speed automatic",
         drivetrain: "RWD",
 
         acceleration: "2.8 s",
-        topSpeed: "335 km/h",
+        topSpeed: "340 km/h",
 
         length: "4744 mm",
-        width: "2153 mm",
-        height: "1195 mm",
+        width: "1958 mm",
+        height: "1229 mm",
 
-        weight: "1374 kg",
+        weight: "1188 kg",
 
-        productionCount: "500",
-        price: "$1.2–2M",
+        productionCount: "75",
+        price: "$1.2–1.5M",
 
-        location: "Moulsdale Foundation, Bishopbriggs",
+        location: "Carde Arte Design Museu, Campos Do Jordao",
 
         images: [
                            {
