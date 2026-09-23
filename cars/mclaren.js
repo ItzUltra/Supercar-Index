@@ -265,9 +265,30 @@ const mclarenCars = [
         location: "McLaren Collection Hong Kong",
 
         images: [
-            "YOUR IMAGE 1",
-            "YOUR IMAGE 2",
-            "YOUR IMAGE 3"
+            {
+            src: "images/mclaren/p1lm-1.jpg",
+            license: "CC By-SA 2.0",
+            author: "Matthew Lamb",
+            source: "https://commons.wikimedia.org/wiki/File:FoS20162016_0625_091900AA_(27624423280)_(cropped).jpg"
+        },
+        {
+            src: "images/mclaren/p1lm-2.jpg",
+            license: "CC BY 2.0",
+            author: "Ian Jones",
+            source: "https://commons.wikimedia.org/wiki/File:DSC_0125_(35545237821).jpg"
+        },
+        {
+            src: "images/mclaren/p1lm-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Matthew Lamb",
+            source: "https://commons.wikimedia.org/wiki/File:FoS20162016_0624_123606AA_(27851727806).jpg"
+        },
+        {
+            src: "images/mclaren/p1lm-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "el.guy08_11",
+            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_P1_GTR_LM_(Lanzante_Motorsport_-_6_exemplaires_-_prix_neuf_-_3.600.000_%E2%82%AC).jpg"
+        }
         ]
 
     },
