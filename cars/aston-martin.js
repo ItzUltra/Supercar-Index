@@ -90,7 +90,32 @@ const astonMartinCars = [
 
         location: "British Motor Museum, Warwickshire",
 
-        images: []
+        images: [
+           {
+            src: "images/astonmartin/hyper/valkyrieroadster-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_Spider_SCD_24.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyrieroadster-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Andrew Basterfield",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_Spider_(53048521130).jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyrieroadster-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Valkyrie_Spider_LC24.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyrieroadster-4.jpg",
+            license: "CC By-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_Spider_(53499610072).jpg"
+        }
+    ]
 
     },
 
