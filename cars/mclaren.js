@@ -32,7 +32,32 @@ const mclarenCars = [
 
         location: "Petersen Automotive Museum, Los Angeles",
 
-        images: []
+        images: [
+            {
+            src: "-1.jpg",
+            license: "LICENSE",
+            author: "AUTHOR",
+            source: "SOURCE URL"
+        },
+        {
+            src: "images/BRAND/MODEL-2.jpg",
+            license: "LICENSE",
+            author: "AUTHOR",
+            source: "SOURCE URL"
+        },
+        {
+            src: "images/BRAND/MODEL-3.jpg",
+            license: "LICENSE",
+            author: "AUTHOR",
+            source: "SOURCE URL"
+        },
+        {
+            src: "images/BRAND/MODEL-4.jpg",
+            license: "LICENSE",
+            author: "AUTHOR",
+            source: "SOURCE URL"
+        }
+    ]
 
     },
 
