@@ -542,7 +542,7 @@ const mclarenCars = [
             license: "CC By-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2020_McLaren_Senna_LM.jpg"
-      
+      }
         ]
 
     },
