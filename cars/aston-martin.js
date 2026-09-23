@@ -53,7 +53,7 @@ const astonMartinCars = [
         },
         {
             src: "images/astonmartin/hyper/valkyrie-4.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
         }
@@ -111,7 +111,7 @@ const astonMartinCars = [
         },
         {
             src: "images/astonmartin/hyper/valkyrieroadster-4.jpg",
-            license: "CC By-SA 2.0",
+            license: "CC BY-SA 2.0",
             author: "Alexandre Prevot",
             source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_Spider_(53499610072).jpg"
         }
@@ -148,7 +148,33 @@ const astonMartinCars = [
 
         location: "the LEE Coleection",
 
-        images: []
+        images: [
+            {
+            src: "images/astonmartin/hyper/amrpro-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_AMR_Pro_at_the_2026_Adelaide_Motorsport_Festival_(DSCF2631).jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/amrpro-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_AMR_Pro_at_the_2026_Adelaide_Motorsport_Festival_(028A7359).jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/amrpro-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_AMR_Pro_at_the_2026_Adelaide_Motorsport_Festival_(028A7380).jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/amrpro-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_AMR_Pro_SCD26.jpg"
+        }
+    ]
+
 
     },
 
