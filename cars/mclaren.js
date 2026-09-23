@@ -323,9 +323,30 @@ const mclarenCars = [
         location: "The Collection1",
 
         images: [
-            "YOUR IMAGE 1",
-            "YOUR IMAGE 2",
-            "YOUR IMAGE 3"
+                {
+            src: "images/mclaren/speedtail-1.jpg",
+            license: "CC By-SA 2.0",
+            author: "el.guy08_11",
+            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Speedtail_(Rob_Melville)_(cropped).jpg"
+        },
+        {
+            src: "images/mclaren/speedtail-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "el.guy08_11",
+            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Speedtail_(Rob_Melville)_-_50690710141.jpg"
+        },
+        {
+            src: "images/mclaren/speedtail-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Y.Leclercq©",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Speedtail_01.jpg"
+        },
+        {
+            src: "images/mclaren/speedtail-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Speedtail_GIMS_2024_1X7A2267.jpg"
+        }
         ]
 
     },
