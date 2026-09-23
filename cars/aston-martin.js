@@ -32,7 +32,32 @@ const astonMartinCars = [
 
         location: "Royal Cars Museum, Seeb",
 
-        images: []
+        images: [
+            {
+            src: "images/astonmartin/hyper/valkyrie-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyrie-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyrie-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyrie-4.jpg",
+            license: "CC By-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+        }
+    ]
 
     },
 
