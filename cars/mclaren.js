@@ -90,7 +90,32 @@ const mclarenCars = [
 
         location: "Ralph Lauren Car Collection",
 
-        images: []
+        images: [
+           {
+            src: "images/mclaren/f1lm-1.jpg",
+            license: "CC By 2.0",
+            author: "Lee",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_F1.jpg"
+        },
+        {
+            src: "images/BRAND/MODEL-2.jpg",
+            license: "LICENSE",
+            author: "AUTHOR",
+            source: "SOURCE URL"
+        },
+        {
+            src: "images/BRAND/MODEL-3.jpg",
+            license: "LICENSE",
+            author: "AUTHOR",
+            source: "SOURCE URL"
+        },
+        {
+            src: "images/BRAND/MODEL-4.jpg",
+            license: "LICENSE",
+            author: "AUTHOR",
+            source: "SOURCE URL"
+        }
+    ]
 
     },
 
