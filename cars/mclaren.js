@@ -149,11 +149,32 @@ const mclarenCars = [
         location: "The Mclaren Heritage Collection",
 
         images: [
-            "YOUR IMAGE 1",
-            "YOUR IMAGE 2",
-            "YOUR IMAGE 3"
-        ]
-
+            {
+            src: "images/mclaren/f1gt-1.jpg",
+            license: "CC By-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_5805.JPG"
+        },
+        {
+            src: "images/mclaren/f1gt-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank kumar",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_F1_GT,_GIMS._2015_(Ank_Kumar,_INFOSYS_Limited)_09.jpg"
+        },
+        {
+            src: "images/mclaren/f1gt-3.jpg",
+            license: "CC By-Sa 4.0",
+            author: "Ank kumar",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_F1_GT,_GIMS._2015_(Ank_Kumar,_INFOSYS_Limited)_12.jpg"
+        },
+        {
+            src: "images/mclaren/f1gt-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_5807.JPG"
+        }
+    ]
+          
     },
 
 
