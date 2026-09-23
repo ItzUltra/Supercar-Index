@@ -381,9 +381,12 @@ const mclarenCars = [
         location: "The McLaren Heritage Collection",
 
         images: [
-            "YOUR IMAGE 1",
-            "YOUR IMAGE 2",
-            "YOUR IMAGE 3"
+              {
+            src: "images/mclaren/hyper/w1-1.jpg",
+            license: "CC By-SA 2.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2024_McLaren_W1_SP25.jpg"
+        }
         ]
 
     },
