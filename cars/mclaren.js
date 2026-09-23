@@ -578,28 +578,28 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/hyper/senna-1.jpg",
-            license: "CC By-SA 2.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_McLaren_Senna_4.jpg"
+            src: "images/mclaren/hyper/sennagtr-1.jpg",
+            license: "CC By-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR,_GIMS_2018,_Le_Grand-Saconnex_(1X7A0442).jpg"
         },
         {
-            src: "images/mclaren/hyper/senna-2.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Mr.choppers",
-            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna,_rear_left_(Greenwich_2019).jpg"
-        },
-        {
-            src: "images/mclaren/hyper/senna-3.jpg",
+            src: "images/mclaren/hyper/sennagtr-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_17.jpg"
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR,_Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A0468).jpg"
         },
         {
-            src: "images/mclaren/hyper/senna-4.jpg",
+            src: "images/mclaren/hyper/sennagtr-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR,_Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A0436).jpg"
+        },
+        {
+            src: "images/mclaren/hyper/sennagtr-4.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna_MR_JWW_SCD23.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2021_McLaren_Senna_GTR_SCD_24.jpg"
         }
         ]
 
@@ -608,59 +608,41 @@ const mclarenCars = [
 
    {
         brand: "McLaren",
-        model: "Senna",
+        model: "Senna LM",
 
-        production: "2018-2020",
+        production: "2020",
         country: "UK",
 
         engine: "4l biturbo v8",
-        power: "800 hp",
+        power: "825 hp",
         torque: "800 Nm",
 
         transmission: "7-speed automatic",
         drivetrain: "RWD",
 
         acceleration: "2.8 s",
-        topSpeed: "335 km/h",
+        topSpeed: "340 km/h",
 
         length: "4744 mm",
         width: "2153 mm",
         height: "1195 mm",
 
-        weight: "1374 kg",
+        weight: "1198 kg",
 
-        productionCount: "500",
-        price: "$1.2–2M",
+        productionCount: "35",
+        price: "$1.2–1.6M",
 
-        location: "Moulsdale Foundation, Bishopbriggs",
+        location: "Mansour Ojjeh's Car Collection",
 
         images: [
                            {
-            src: "images/mclaren/hyper/senna-1.jpg",
-            license: "CC By-SA 2.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_McLaren_Senna_4.jpg"
-        },
-        {
-            src: "images/mclaren/hyper/senna-2.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Mr.choppers",
-            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna,_rear_left_(Greenwich_2019).jpg"
-        },
-        {
-            src: "images/mclaren/hyper/senna-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_17.jpg"
-        },
-        {
-            src: "images/mclaren/hyper/senna-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna_MR_JWW_SCD23.jpg"
-        }
+            src: "images/mclaren/hyper/sennalm-1.jpg",
+            license: "CC By 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+      
         ]
 
-    },
+    }
 
 ];
