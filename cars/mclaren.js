@@ -150,25 +150,25 @@ const mclarenCars = [
 
         images: [
             {
-            src: "images/mclaren/f1gt-1.jpg",
+            src: "images/mclaren/hyper/f1gt-1.jpg",
             license: "CC By-SA 4.0",
             author: "Norbert Aepli",
             source: "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_5805.JPG"
         },
         {
-            src: "images/mclaren/f1gt-2.jpg",
+            src: "images/mclaren/hyper/f1gt-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Ank kumar",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_F1_GT,_GIMS._2015_(Ank_Kumar,_INFOSYS_Limited)_09.jpg"
         },
         {
-            src: "images/mclaren/f1gt-3.jpg",
+            src: "images/mclaren/hyper/f1gt-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Ank kumar",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_F1_GT,_GIMS._2015_(Ank_Kumar,_INFOSYS_Limited)_12.jpg"
         },
         {
-            src: "images/mclaren/f1gt-4.jpg",
+            src: "images/mclaren/hyper/f1gt-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Norbert Aepli",
             source: "https://commons.wikimedia.org/wiki/File:2015-03-03_Geneva_Motor_Show_5807.JPG"
@@ -208,25 +208,25 @@ const mclarenCars = [
 
         images: [
            {
-            src: "images/mclaren/p1-1.jpg",
+            src: "images/mclaren/hyper/p1-1.jpg",
             license: "CC By-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_P1_10.jpg"
         },
         {
-            src: "images/mclaren/p1-2.jpg",
+            src: "images/mclaren/hyper/p1-2.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2013_McLaren_P1_MSO_Purple_Rear.jpg"
         },
         {
-            src: "images/mclaren/p1-3.jpg",
+            src: "images/mclaren/hyper/p1-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_P1_13.jpg"
         },
         {
-            src: "images/mclaren/p1-4.jpg",
+            src: "images/mclaren/hyper/p1-4.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2015_McLaren_P1_Track_Silver_Low.jpg"
@@ -266,25 +266,25 @@ const mclarenCars = [
 
         images: [
             {
-            src: "images/mclaren/p1lm-1.jpg",
+            src: "images/mclaren/hyper/p1lm-1.jpg",
             license: "CC By-SA 2.0",
             author: "Matthew Lamb",
             source: "https://commons.wikimedia.org/wiki/File:FoS20162016_0625_091900AA_(27624423280)_(cropped).jpg"
         },
         {
-            src: "images/mclaren/p1lm-2.jpg",
+            src: "images/mclaren/hyper/p1lm-2.jpg",
             license: "CC BY 2.0",
             author: "Ian Jones",
             source: "https://commons.wikimedia.org/wiki/File:DSC_0125_(35545237821).jpg"
         },
         {
-            src: "images/mclaren/p1lm-3.jpg",
+            src: "images/mclaren/hyper/p1lm-3.jpg",
             license: "CC BY-SA 2.0",
             author: "Matthew Lamb",
             source: "https://commons.wikimedia.org/wiki/File:FoS20162016_0624_123606AA_(27851727806).jpg"
         },
         {
-            src: "images/mclaren/p1lm-4.jpg",
+            src: "images/mclaren/hyper/p1lm-4.jpg",
             license: "CC BY-SA 2.0",
             author: "el.guy08_11",
             source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_P1_GTR_LM_(Lanzante_Motorsport_-_6_exemplaires_-_prix_neuf_-_3.600.000_%E2%82%AC).jpg"
@@ -324,25 +324,25 @@ const mclarenCars = [
 
         images: [
                 {
-            src: "images/mclaren/speedtail-1.jpg",
+            src: "images/mclaren/hyper/speedtail-1.jpg",
             license: "CC By-SA 2.0",
             author: "el.guy08_11",
             source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Speedtail_(Rob_Melville)_(cropped).jpg"
         },
         {
-            src: "images/mclaren/speedtail-2.jpg",
+            src: "images/mclaren/hyper/speedtail-2.jpg",
             license: "CC BY-SA 2.0",
             author: "el.guy08_11",
             source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Speedtail_(Rob_Melville)_-_50690710141.jpg"
         },
         {
-            src: "images/mclaren/speedtail-3.jpg",
+            src: "images/mclaren/hyper/speedtail-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Y.Leclercq©",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_Speedtail_01.jpg"
         },
         {
-            src: "images/mclaren/speedtail-4.jpg",
+            src: "images/mclaren/hyper/speedtail-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander-93",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_Speedtail_GIMS_2024_1X7A2267.jpg"
