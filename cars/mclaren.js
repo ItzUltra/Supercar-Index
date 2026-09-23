@@ -505,6 +505,162 @@ const mclarenCars = [
         }
         ]
 
-    }
+    },
+
    
+   {
+        brand: "McLaren",
+        model: "Senna Can Am",
+
+        production: "2019",
+        country: "UK",
+
+        engine: "4l biturbo v8",
+        power: "814 hp",
+        torque: "800 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "335 km/h",
+
+        length: "4744 mm",
+        width: "1957 mm",
+        height: "1194 mm",
+
+        weight: "1198 kg",
+
+        productionCount: "3",
+        price: "$2-3.3M",
+
+        location: "unknown",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/sennacanam-1.jpg",
+            license: "CC By-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2020_McLaren_Senna_LM.jpg"
+      
+        ]
+
+    },
+
+
+   {
+        brand: "McLaren",
+        model: "Senna",
+
+        production: "2018-2020",
+        country: "UK",
+
+        engine: "4l biturbo v8",
+        power: "800 hp",
+        torque: "800 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "335 km/h",
+
+        length: "4744 mm",
+        width: "2153 mm",
+        height: "1195 mm",
+
+        weight: "1374 kg",
+
+        productionCount: "500",
+        price: "$1.2–2M",
+
+        location: "Moulsdale Foundation, Bishopbriggs",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/senna-1.jpg",
+            license: "CC By-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_McLaren_Senna_4.jpg"
+        },
+        {
+            src: "images/mclaren/hyper/senna-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna,_rear_left_(Greenwich_2019).jpg"
+        },
+        {
+            src: "images/mclaren/hyper/senna-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_17.jpg"
+        },
+        {
+            src: "images/mclaren/hyper/senna-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna_MR_JWW_SCD23.jpg"
+        }
+        ]
+
+    },
+
+
+   {
+        brand: "McLaren",
+        model: "Senna",
+
+        production: "2018-2020",
+        country: "UK",
+
+        engine: "4l biturbo v8",
+        power: "800 hp",
+        torque: "800 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "335 km/h",
+
+        length: "4744 mm",
+        width: "2153 mm",
+        height: "1195 mm",
+
+        weight: "1374 kg",
+
+        productionCount: "500",
+        price: "$1.2–2M",
+
+        location: "Moulsdale Foundation, Bishopbriggs",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/senna-1.jpg",
+            license: "CC By-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_McLaren_Senna_4.jpg"
+        },
+        {
+            src: "images/mclaren/hyper/senna-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna,_rear_left_(Greenwich_2019).jpg"
+        },
+        {
+            src: "images/mclaren/hyper/senna-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_17.jpg"
+        },
+        {
+            src: "images/mclaren/hyper/senna-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna_MR_JWW_SCD23.jpg"
+        }
+        ]
+
+    },
+
 ];
