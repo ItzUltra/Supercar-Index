@@ -34,28 +34,28 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mclaren/f-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Chelsea Jay",
-            source: "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg"
-        },
-        {
-            src: "images/mclaren/f-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Chelsea Jay",
-            source: "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Rear.jpg"
-        },
-        {
-            src: "images/mclaren/f-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Chelsea Jay",
-            source: "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front_End.jpg"
-        },
-        {
-            src: "images/mclaren/f-4.jpg",
-            license: "CC By-SA 3.0",
+            src: "images/mercedes/hyper/clkgtr-1.jpg",
+            license: "CC BY-SA 3.0",
             author: "Mr.choppers",
-            source: "https://commons.wikimedia.org/wiki/File:1995_McLaren_F1_in_Orange_Kandy,_front_right.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1999_Mercedes-Benz_CLK-GTR_at_Lime_Rock,_front_left.jpg"
+        },
+        {
+            src: "images/mercedes/hyper/clkgtr-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:1999_Mercedes-Benz_CLK-GTR_at_Lime_Rock,_rear_right.jpg"
+        },
+        {
+            src: "images/mercedes/hyper/clkgtr-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2016_-_Mercedes-Benz_CLK_GTR_coup%C3%A9_-_2000_-_006.jpg"
+        },
+        {
+            src: "images/mercedes/hyper/clkgtr-4.jpg",
+            license: "CC By-SA 4.0",
+            author: "Alexander Migl",
+            source: ""
         }
     ]
 
