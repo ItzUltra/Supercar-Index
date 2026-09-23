@@ -640,7 +640,7 @@ const mclarenCars = [
             license: "CC By 2.0",
             author: "pelican-actor",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
-      
+       }
         ]
 
     }
