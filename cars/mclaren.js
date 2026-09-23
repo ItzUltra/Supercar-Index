@@ -34,8 +34,8 @@ const mclarenCars = [
 
         images: [
             {
-            src: "-1.jpg",
-            license: "LICENSE",
+            src: "images/mclaren/f1-1.jpg",
+            license: "",
             author: "AUTHOR",
             source: "SOURCE URL"
         },
