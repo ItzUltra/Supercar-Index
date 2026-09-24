@@ -88,7 +88,7 @@ const mercedesCars = [
         productionCount: "6",
         price: "$10-15M",
 
-        location: "Das Nationeale Automuseum, Dietzhölztal",
+        location: "Das Nationale Automuseum, Dietzhölztal",
 
         images: [
             {
@@ -118,5 +118,61 @@ const mercedesCars = [
     ]
 
     },
+{
+        brand: "Mercedes",
+        model: "AMG One",
 
+        production: "2022-2026",
+        country: "Germany",
+
+        engine: "1.6l formula1 v6 with hybrid system",
+        power: "1063 hp",
+        torque: "1049 Nm",
+
+        transmission: "7-speed robotic manual",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "352 km/h",
+
+        length: "4756 mm",
+        width: "2010 mm",
+        height: "1261 mm",
+
+        weight: "1300 kg",
+
+        productionCount: "275",
+        price: "$3.5-4.5M",
+
+        location: "Das Nationale Automuseum, Dietzhölztal",
+
+        images: [
+            {
+            src: "images/mercedes/hyper/amgone-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032165).jpg"
+        },
+        {
+            src: "images/mercedes/hyper/amgone-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032170).jpg"
+        },
+        {
+            src: "images/mercedes/hyper/amgone-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "NearEMPTiness",
+            source: "https://commons.wikimedia.org/wiki/File:AMG_at_IAA_2017_(02).jpg"
+        },
+        {
+            src: "images/mercedes/hyper/amgone-4.jpg",
+            license: "CC By-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One_IAA_2021_1X7A0108.jpg"
+        }
+    ]
+
+    }
+   
    ];
