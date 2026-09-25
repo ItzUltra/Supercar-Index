@@ -32,7 +32,32 @@ const bugattiCars = [
 
         location: "National Motor Museum, Birdwood",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/veyron/veyron-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_(75693).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyron-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_(29855).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyron-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_Centenaire_Malcolm_Campbell_1.jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyron-4.jpg",
+            license: "CC By-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_MCC_Monaco._1.jpg"
+        }
+    ]
 
     },
 
