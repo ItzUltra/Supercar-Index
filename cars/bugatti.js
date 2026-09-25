@@ -147,7 +147,32 @@ const bugattiCars = [
 
         location: "VW Zeithaus Museum, Wolfsburg",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/veyrongs-1.jpg",
+            license: "CC BY 2.0",
+            author: "Ed Callow",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti-Veyron-Grand-Sport.jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyrongs-2.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_and_Rolls_Royce_Ghost_(14165187045).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyrongs-3.jpg",
+            license: "CC BY 2.0",
+            author: "Ed Callow",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_in_London.jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyrongs-4.jpg",
+            license: "CC By 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_(10600837086).jpg"
+        }
+    ]
 
     },
 
