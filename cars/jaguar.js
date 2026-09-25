@@ -134,7 +134,7 @@ const jaguarCars = [
         productionCount: "1",
         price: "unknown",
 
-        location: "British Motor Museum, Warwickshire,
+        location: "British Motor Museum, Warwickshire",
 
         images: [
             {
