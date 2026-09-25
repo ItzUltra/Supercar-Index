@@ -98,10 +98,68 @@ const jaguarCars = [
             source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_20th_Anniversary_(7151670191).jpg"
         },
         {
-            src: "images/mclaren/f1-4.jpg",
+            src: "images/jaguar/xj220s-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220S_TWR_2.jpg"
+        }
+        ]
+
+    },
+
+
+    {
+        brand: "Jaguar",
+        model: "Xj220 Concept",
+
+        production: "1988",
+        country: "UK",
+
+        engine: "6.2l v12",
+        power: "500 hp",
+        torque: "542 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4 s",
+        topSpeed: "354 km/h",
+
+        length: "5140 mm",
+        width: "2000 mm",
+        height: "1150 mm",
+
+        weight: "1560 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "British Motor Museum, Warwickshire,
+
+        images: [
+            {
+                src: "images/jaguar/xj220concept-1.jpg",
+                license: "CC BY-SA 3.0",
+                author: "Morio",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_front-right_Heritage_Motor_Centre,_Gaydon.jpg"
+            },
+            {
+                src: "images/jaguar/xj220concept-2.jpg",
+                license: "CC BY-SA 3.0",
+                author: "Morio",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_rear_Heritage_Motor_Centre,_Gaydon.jpg"
+            },
+           {
+            src: "images/jaguar/xj220concept-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_top_Heritage_Motor_Centre,_Gaydon.jpg"
+        },
+        {
+            src: "images/jaguar/xj220concept-4.jpg",
+            license: "CC BY 2.0",
+            author: "foshie",
+            source: "https://commons.wikimedia.org/wiki/File:Hideous_Jaguar_-_Flickr_-_foshie.jpg"
         }
         ]
 
