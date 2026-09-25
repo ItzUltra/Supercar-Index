@@ -90,8 +90,32 @@ const bugattiCars = [
 
         location: "Hans Peter Porsche Traumwerk, Anger",
 
-        images: []
-
+        images: [
+         {
+            src: "images/bugatti/veyron/veyronss-1.jpg",
+            license: "CC BY 2.0",
+            author: "Autoviva",
+            source: "https://commons.wikimedia.org/wiki/File:BugattiVeyronSuperSport.jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyronss-2.jpg",
+            license: "CC BY 2.0",
+            author: "Autoviva",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Super_Sport_(5491917622).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyronss-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ben",
+            source: "https://commons.wikimedia.org/wiki/File:Streetcarl_Bugatti_veyron_16.4_(6442883015).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyronss-4.jpg",
+            license: "CC By-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Super_Sport_3.jpg"
+        }
+    ]
     },
 
 
