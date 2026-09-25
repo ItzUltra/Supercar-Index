@@ -47,6 +47,52 @@ const jaguarCars = [
             }
         ]
 
-    }
+    },
 
+
+      {
+        brand: "Jaguar",
+        model: "Xj220S",
+
+        production: "1993-1994",
+        country: "UK",
+
+        engine: "3.5l twinturbo v6",
+        power: "680 hp",
+        torque: "714 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "369 km/h",
+
+        length: "4930 mm",
+        width: "2640 mm",
+        height: "1150 mm",
+
+        weight: "1052 kg",
+
+        productionCount: "6",
+        price: "$1.1M",
+
+        location: "Marconi Automotive Museum, Tustin",
+
+        images: [
+            {
+                src: "images/jaguar/xj220s-1.jpg",
+                license: "CC BY 2.0",
+                author: "Jaguar MENA",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_20th_Anniversary_(7005580502).jpg"
+            },
+            {
+                src: "images/jaguar/xj220s-2.jpg",
+                license: "CC BY 2.0",
+                author: "Jaguar MENA",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_20th_Anniversary_(7151670773).jpg"
+            }
+        ]
+
+    }
+   
 ];
