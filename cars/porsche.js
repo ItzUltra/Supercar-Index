@@ -9,7 +9,7 @@ const porscheCars = [
         model: "959",
 
         production: "1997-1998",
-        country: "Geramany",
+        country: "Germany",
 
         engine: "2.85l twinturbo flat-six boxer",
         power: "450 hp",
