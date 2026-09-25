@@ -90,7 +90,19 @@ const jaguarCars = [
                 license: "CC BY 2.0",
                 author: "Jaguar MENA",
                 source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_20th_Anniversary_(7151670773).jpg"
-            }
+            },
+           {
+            src: "images/jaguar/xj220s-3.jpg",
+            license: "CC BY 2.0",
+            author: "Jaguar MENA",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_20th_Anniversary_(7151670191).jpg"
+        },
+        {
+            src: "images/mclaren/f1-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220S_TWR_2.jpg"
+        }
         ]
 
     }
