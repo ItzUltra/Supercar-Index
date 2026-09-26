@@ -15,7 +15,7 @@ const lamborghiniCars = [
         power: "770 hp",
         torque: "690 Nm",
 
-        transmission: "7-speed automatic",
+        transmission: "7-speed manual",
         drivetrain: "RWD",
 
         acceleration: "2.8 s",
@@ -63,32 +63,32 @@ const lamborghiniCars = [
 
 
     {
-        brand: "Porsche",
-        model: "Carrera GT",
+        brand: "Lamborghini",
+        model: "Centenario Roadster",
 
-        production: "2003-2006",
-        country: "Germany",
+        production: "2016-2018",
+        country: "Italy",
 
-        engine: "5.7l v10",
-        power: "612 hp",
+        engine: "6.5l v12",
+        power: "770 hp",
         torque: "690 Nm",
 
-        transmission: "6-speed manual",
+        transmission: "7-speed manual",
         drivetrain: "RWD",
 
-        acceleration: "3.9 s",
-        topSpeed: "330 km/h",
+        acceleration: "2.9 s",
+        topSpeed: "350 km/h",
 
-        length: "4613 mm",
-        width: "1921 mm",
-        height: "1166 mm",
+        length: "4924 mm",
+        width: "2062 mm",
+        height: "1158 mm",
 
-        weight: "1380 kg",
+        weight: "1523 kg",
 
-        productionCount: "1270",
-        price: "$1.5-4.3.5M",
+        productionCount: "20",
+        price: "$3.3-4M",
 
-        location: "Larz Anderson Auto Museum, Brookline",
+        location: "Selected Car Collection",
 
         images: [
             {
