@@ -263,7 +263,32 @@ const bugattiCars = [
 
         location: "Das Nationale Automuseum, Dietzhölztal",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/chiron/chiron-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_With_Lights.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chiron-2.jpg",
+            license: "CC BY-Sa 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_BW.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chiron-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar)_05.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chiron-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_LC.jpg"
+        }
+    ]
 
     },
 
