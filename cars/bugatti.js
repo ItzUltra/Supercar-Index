@@ -53,7 +53,7 @@ const bugattiCars = [
         },
         {
             src: "images/bugatti/veyron/veyron-4.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_MCC_Monaco._1.jpg"
         }
@@ -111,7 +111,7 @@ const bugattiCars = [
         },
         {
             src: "images/bugatti/veyron/veyronss-4.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Super_Sport_3.jpg"
         }
@@ -168,7 +168,7 @@ const bugattiCars = [
         },
         {
             src: "images/bugatti/veyron/veyrongs-4.jpg",
-            license: "CC By 2.0",
+            license: "CC BY 2.0",
             author: "Axion23",
             source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_(10600837086).jpg"
         }
@@ -205,7 +205,32 @@ const bugattiCars = [
 
         location: "VW Zeithaus Museum, Wolfsburg",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/veyronvitesse-1.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_Grand_Sport_Vitesse_(2015)_(53767986615).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyronvitesse-2.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_Grand_Sport_Vitesse_(2015)_(53767570131).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyronvitesse-3.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_Grand_Sport_Vitesse_(2015)_(53767894969).jpg"
+        },
+        {
+            src: "images/bugatti/veyron/veyronvitesse-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_Vitesse_Musee_National_Automobile.jpg"
+        }
+    ]
 
     },
 
