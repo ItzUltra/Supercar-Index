@@ -138,28 +138,22 @@ const lamborghiniCars = [
 
         images: [
             {
-            src: "images/porsche/hyper/918-1.jpg",
+            src: "images/lamborghini/hyper/countach800-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Ank Kumar",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_(Ank_kumar,_Infosys_Limited)_08.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Countach_LPI800-4.jpg"
         },
         {
-            src: "images/porsche/hyper/918-2.jpg",
+            src: "images/lamborghini/hyper/countach800-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Ank Kumar",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_(Ank_kumar,_Infosys_Limited)_04.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Countach_LPI800-4_Rear.jpg"
         },
         {
-            src: "images/porsche/hyper/918-3.jpg",
+            src: "images/lamborghini/hyper/countach800-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_in_the_Porsche-Museum_(2009)_1X7A0382.jpg"
-        },
-        {
-            src: "images/porsche/hyper/918-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2015_Porsche_918_Spyder_(99627).jpg"
+            author: "Mingyu Tang",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_LPI_800-4_(1).jpg"
         }
     ]
 
