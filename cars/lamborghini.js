@@ -371,22 +371,16 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/centenario-1.jpg",
+            src: "images/lamborghini/hyper/reventonr-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2010_Lamborghini_Reventon_Roadster_Low.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-2.jpg",
+            src: "images/lamborghini/hyper/reventonr-2.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/centenario-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            source: "https://commons.wikimedia.org/wiki/File:2010_Lamborghini_Reventon_Roadster_Low.jpg"
         }
     ]
 
