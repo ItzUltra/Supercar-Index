@@ -57,32 +57,32 @@ const ferrariCars = [
 
 
     {
-        brand: "Porsche",
-        model: "Carrera GT",
+        brand: "Ferrari",
+        model: "F40 LM",
 
         production: "2003-2006",
-        country: "Germany",
+        country: "Italy",
 
-        engine: "5.7l v10",
-        power: "612 hp",
-        torque: "690 Nm",
+        engine: "2.9l double turbocharged v8",
+        power: "720 hp",
+        torque: "706 Nm",
 
-        transmission: "6-speed manual",
+        transmission: "5-speed manual",
         drivetrain: "RWD",
 
-        acceleration: "3.9 s",
-        topSpeed: "330 km/h",
+        acceleration: "3.1 s",
+        topSpeed: "367 km/h",
 
-        length: "4613 mm",
-        width: "1921 mm",
-        height: "1166 mm",
+        length: "4535 mm",
+        width: "1980 mm",
+        height: "1150 mm",
 
-        weight: "1380 kg",
+        weight: "1050 kg",
 
-        productionCount: "1270",
-        price: "$1.5-4.3.5M",
+        productionCount: "19",
+        price: "$11M",
 
-        location: "Larz Anderson Auto Museum, Brookline",
+        location: "Museo Ferrari Maranello, Maranello",
 
         images: [
             {
