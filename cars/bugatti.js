@@ -484,7 +484,32 @@ const bugattiCars = [
 
         location: "VW Zeithaus Museum, Wolfsburg",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/chiron/chiron300-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Chiron_Super_Sport_WRE_2.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chiron300-2.jpg",
+            license: "CC BY-Sa 4.0",
+            author: "Joshua Hickey",
+            source: "https://commons.wikimedia.org/wiki/File:2020_Bugatti_Chiron_Super_Sport_300%2B_Rear.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chiron300-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Laurent Jerry",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Super_Sport_300%2B_-_Molsheim_2.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chiron300-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Laurent Jerry",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Super_Sport_300%2B_-_Molsheim_5.jpg"
+        }
+    ]
 
     },
 
