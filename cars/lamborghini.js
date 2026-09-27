@@ -86,28 +86,22 @@ const lamborghiniCars = [
 
         images: [
             {
-            src: "images/porsche/hyper/carreragt-1.jpg",
+            src: "images/lamborghini/hyper/centenarior-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(72212).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Centenario_Roadster_Retro_Classics_2020_IMG_0322.jpg"
         },
         {
-            src: "images/porsche/hyper/carreragt-2.jpg",
+            src: "images/lamborghini/hyper/centenarior-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(81390).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Centenario_Roadster_Retro_Classics_2020_IMG_0078.jpg"
         },
         {
-            src: "images/porsche/hyper/carreragt-3.jpg",
-            license: "CC BY 2.0",
-            author: "Brian Snelson",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_(July_2008).jpg"
-        },
-        {
-            src: "images/porsche/hyper/carreragt-4.jpg",
+            src: "images/lamborghini/hyper/centenarior-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(32820).jpg"
+            author: "DestinationFearFan",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario.jpg"
         }
     ]
 
