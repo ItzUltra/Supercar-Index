@@ -127,26 +127,26 @@ const lamborghiniCars = [
         production: "2022",
         country: "Italy",
 
-        engine: "v8 with plug in hybrid system",
-        power: "887 hp",
-        torque: "1280 Nm",
+        engine: "6.5l v12 with hybrid system",
+        power: "819 hp",
+        torque: "720 Nm",
 
         transmission: "7-speed automatic",
         drivetrain: "AWD",
 
-        acceleration: "2.6 s",
-        topSpeed: "345 km/h",
+        acceleration: "2.8 s",
+        topSpeed: "350 km/h",
 
-        length: "4643 mm",
-        width: "1940 mm",
-        height: "1167 mm",
+        length: "4870 mm",
+        width: "2099 mm",
+        height: "1139 mm",
 
-        weight: "1670 kg",
+        weight: "1595 kg",
 
-        productionCount: "918",
-        price: "$1.5-3.5M",
+        productionCount: "112",
+        price: "$2.6-2.8M",
 
-        location: "Classic Car House, Kongens Lyngby",
+        location: "Automobili Lamborghini Museum, Sant Agata",
 
         images: [
             {
