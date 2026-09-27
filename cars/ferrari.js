@@ -60,7 +60,7 @@ const ferrariCars = [
         brand: "Ferrari",
         model: "F40 LM",
 
-        production: "2003-2006",
+        production: "1989-1994",
         country: "Italy",
 
         engine: "2.9l double turbocharged v8",
@@ -86,28 +86,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/porsche/hyper/carreragt-1.jpg",
+            src: "images/ferrari/hyper/f40lm-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(72212).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1993_Ferrari_F40_LM.jpg"
         },
         {
-            src: "images/porsche/hyper/carreragt-2.jpg",
-            license: "CC BY-SA 4.0",
+            src: "images/ferrari/hyper/f40lm-2.jpg",
+            license: "CC BY 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(81390).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1990_Ferrari_F40_LM.jpg"
         },
         {
-            src: "images/porsche/hyper/carreragt-3.jpg",
+            src: "images/ferrari/hyper/f40lm-3.jpg",
             license: "CC BY 2.0",
-            author: "Brian Snelson",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_(July_2008).jpg"
-        },
-        {
-            src: "images/porsche/hyper/carreragt-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_(32820).jpg"
+            author: "Neil",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F40_(35721168565).jpg"
         }
     ]
 
