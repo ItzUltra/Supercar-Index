@@ -287,5 +287,109 @@ const lamborghiniCars = [
         images: []
              
     },
-   
+
+
+    {
+        brand: "Lamborghini",
+        model: "Reventon",
+
+        production: "2008-2009",
+        country: "Italy",
+
+        engine: "6.5l v12",
+        power: "640 hp",
+        torque: "660 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "340 km/h",
+
+        length: "4700 mm",
+        width: "2058 mm",
+        height: "1135 mm",
+
+        weight: "1665 kg",
+
+        productionCount: "20",
+        price: "$1.5-2M",
+
+        location: "Automobili Lamborghini Museum, Sant Agata",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/centenario-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+        }
+    ]
+
+    },
+
+
+      {
+        brand: "Lamborghini",
+        model: "Reventon Roadster",
+
+        production: "2009-2010",
+        country: "Italy",
+
+        engine: "6.5l v12",
+        power: "640 hp",
+        torque: "660 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "330 km/h",
+
+        length: "4700 mm",
+        width: "2058 mm",
+        height: "1135 mm",
+
+        weight: "1665 kg",
+
+        productionCount: "15",
+        price: "unknown",
+
+        location: "The Johor Royal Family Collection",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/centenario-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+        }
+    ]
+
+    },
+
 ];
