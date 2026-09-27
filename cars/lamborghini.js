@@ -247,30 +247,12 @@ const lamborghiniCars = [
 
         images: [
              {
-            src: "images/lamborghini/hyper/diablogt-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_2.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/diablogt-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_3.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/diablogt-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_(54319099281).jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/diablogt-4.jpg",
+            src: "images/lamborghini/hyper/fenomeno-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2000_Lamborghini_Diablo_GT.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2025_Lamborghini_Fenomeno_USG26.jpg"
         }
-    ]
+        ]
     },
 
 
@@ -302,32 +284,8 @@ const lamborghiniCars = [
 
         location: "unknown",
 
-        images: [
-             {
-            src: "images/lamborghini/hyper/diablogt-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_2.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/diablogt-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_3.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/diablogt-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_(54319099281).jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/diablogt-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2000_Lamborghini_Diablo_GT.jpg"
-        }
-    ]
-    }
+        images: []
+             
+    },
    
 ];
