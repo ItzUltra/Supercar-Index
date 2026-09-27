@@ -109,32 +109,32 @@ const ferrariCars = [
 
 
     {
-        brand: "Porsche",
-        model: "918 Spyder",
+        brand: "Ferrari",
+        model: "F50",
 
-        production: "2013-2015",
-        country: "Germany",
+        production: "1995-1997",
+        country: "Italy",
 
-        engine: "v8 with plug in hybrid system",
-        power: "887 hp",
-        torque: "1280 Nm",
+        engine: "4.7l v12",
+        power: "520 hp",
+        torque: "471 Nm",
 
-        transmission: "7-speed automatic",
-        drivetrain: "AWD",
+        transmission: "6-speed automatic",
+        drivetrain: "RWD",
 
-        acceleration: "2.6 s",
-        topSpeed: "345 km/h",
+        acceleration: "3.7 s",
+        topSpeed: "325 km/h",
 
-        length: "4643 mm",
-        width: "1940 mm",
-        height: "1167 mm",
+        length: "4480 mm",
+        width: "1985 mm",
+        height: "1120 mm",
 
-        weight: "1670 kg",
+        weight: "1230 kg",
 
-        productionCount: "918",
-        price: "$1.5-3.5M",
+        productionCount: "349",
+        price: "$8-10M",
 
-        location: "Classic Car House, Kongens Lyngby",
+        location: "Das Nationale Automuseum, Detzhölztal",
 
         images: [
             {
