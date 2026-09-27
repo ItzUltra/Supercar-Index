@@ -432,7 +432,26 @@ const bugattiCars = [
 
         location: "Speedwerks Exotic Car Experience, Gatlinburg",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/chiron/chironss-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Super_Sport_8.0_Front.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chironss-2.jpg",
+            license: "CC BY-Sa 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Super_Sport_8.0_Rear.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chironss-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Super_Sport_in_Monaco.jpg"
+        }
+    ]
 
     },
 
