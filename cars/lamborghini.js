@@ -475,25 +475,19 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/centenario-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+            src: "images/lamborghini/hyper/sianr-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Si%C3%A1n_FKP_37_Roadster.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-2.jpg",
+            src: "images/lamborghini/hyper/sianr-2.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/centenario-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            source: "https://commons.wikimedia.org/wiki/File:2021_Lamborghini_Sian_Roadster_TM26.jpg"
         }
-    ]
-
+           ]
+       
     },
 
 
