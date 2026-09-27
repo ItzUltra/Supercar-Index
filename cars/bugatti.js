@@ -272,7 +272,7 @@ const bugattiCars = [
         },
         {
             src: "images/bugatti/chiron/chiron-2.jpg",
-            license: "CC BY-Sa 4.0",
+            license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_BW.jpg"
         },
@@ -382,7 +382,7 @@ const bugattiCars = [
         },
         {
             src: "images/bugatti/chiron/chironpur-2.jpg",
-            license: "CC BY-Sa 4.0",
+            license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Pur_Sport_SP24_Rear.jpg"
         },
@@ -441,7 +441,7 @@ const bugattiCars = [
         },
         {
             src: "images/bugatti/chiron/chironss-2.jpg",
-            license: "CC BY-Sa 4.0",
+            license: "CC BY-SA 4.0",
             author: "Vauxford",
             source: "https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Super_Sport_8.0_Rear.jpg"
         },
@@ -493,7 +493,7 @@ const bugattiCars = [
         },
         {
             src: "images/bugatti/chiron/chiron300-2.jpg",
-            license: "CC BY-Sa 4.0",
+            license: "CC BY-SA 4.0",
             author: "Joshua Hickey",
             source: "https://commons.wikimedia.org/wiki/File:2020_Bugatti_Chiron_Super_Sport_300%2B_Rear.jpg"
         },
@@ -542,7 +542,33 @@ const bugattiCars = [
 
         location: "VW Zeithaus Museum, Wolfsburg",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/divo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Divo_(53550).jpg"
+        },
+        {
+            src: "images/bugatti/divo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Divo_(81136).jpg"
+        },
+        {
+            src: "images/bugatti/divo-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Divo,_Paris_Motor_Show_2018,_IMG_0709.jpg"
+        },
+        {
+            src: "images/bugatti/divo-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Divo_1.jpg"
+        }
+    ]
+
 
     },
 
