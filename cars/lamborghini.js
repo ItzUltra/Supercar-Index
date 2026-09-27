@@ -16,7 +16,7 @@ const lamborghiniCars = [
         torque: "690 Nm",
 
         transmission: "7-speed manual",
-        drivetrain: "RWD",
+        drivetrain: "AWD",
 
         acceleration: "2.8 s",
         topSpeed: "350 km/h",
@@ -68,7 +68,7 @@ const lamborghiniCars = [
         torque: "690 Nm",
 
         transmission: "7-speed manual",
-        drivetrain: "RWD",
+        drivetrain: "AWD",
 
         acceleration: "2.9 s",
         topSpeed: "350 km/h",
@@ -214,6 +214,120 @@ const lamborghiniCars = [
             source: "https://commons.wikimedia.org/wiki/File:2000_Lamborghini_Diablo_GT.jpg"
         }
     ]
-    }
+    },
 
+
+   {
+        brand: "Lamborghini",
+        model: "Fenomeno",
+
+        production: "2025-",
+        country: "Italy",
+
+        engine: "6.5l v12 with hybrid system",
+        power: "1080 hp",
+        torque: "725 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.4 s",
+        topSpeed: "350 km/h",
+
+        length: "5036 mm",
+        width: "2072 mm",
+        height: "1161 mm",
+
+        weight: "1772 kg",
+
+        productionCount: "29",
+        price: "3.5M",
+
+        location: "Automobili Lamborghini Collection",
+
+        images: [
+             {
+            src: "images/lamborghini/hyper/diablogt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_2.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/diablogt-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_3.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/diablogt-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_(54319099281).jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/diablogt-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2000_Lamborghini_Diablo_GT.jpg"
+        }
+    ]
+    },
+
+
+    {
+        brand: "Lamborghini",
+        model: "Fenomeno Roadster",
+
+        production: "2026-",
+        country: "Italy",
+
+        engine: "6.5l v12 with hybrid system",
+        power: "1080 hp",
+        torque: "725 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.4 s",
+        topSpeed: "340 km/h",
+
+        length: "5036 mm",
+        width: "2072 mm",
+        height: "1161 mm",
+
+        weight: "1772 kg",
+
+        productionCount: "15",
+        price: "6-8M",
+
+        location: "unknown",
+
+        images: [
+             {
+            src: "images/lamborghini/hyper/diablogt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_2.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/diablogt-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_3.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/diablogt-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_GT_(54319099281).jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/diablogt-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2000_Lamborghini_Diablo_GT.jpg"
+        }
+    ]
+    }
+   
 ];
