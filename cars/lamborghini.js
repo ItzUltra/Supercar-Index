@@ -495,5 +495,109 @@ const lamborghiniCars = [
     ]
 
     },
-   
+
+
+    {
+        brand: "Lamborghini",
+        model: "Veneno",
+
+        production: "2013",
+        country: "Italy",
+
+        engine: "6.5l v12",
+        power: "750 hp",
+        torque: "689 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "355 km/h",
+
+        length: "5020 mm",
+        width: "2075 mm",
+        height: "1150 mm",
+
+        weight: "1450 kg",
+
+        productionCount: "3",
+        price: "$11M",
+
+        location: "Automobili Lamborghini Museum, Sant Agata",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/centenario-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+        }
+    ]
+
+    },
+
+
+    {
+        brand: "Lamborghini",
+        model: "Veneno Roadster",
+
+        production: "2014-2015",
+        country: "Italy",
+
+        engine: "6.5l v12",
+        power: "770 hp",
+        torque: "690 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "350 km/h",
+
+        length: "4924 mm",
+        width: "2062 mm",
+        height: "1143 mm",
+
+        weight: "1523 kg",
+
+        productionCount: "9",
+        price: "$6.5-9.5M",
+
+        location: "Teddy Nguema's Car Collection",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/centenario-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+        }
+    ]
+
+    },
+
 ];
