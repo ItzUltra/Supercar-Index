@@ -121,11 +121,11 @@ const lamborghiniCars = [
 
 
     {
-        brand: "Porsche",
-        model: "918 Spyder",
+        brand: "Lamborghini",
+        model: "Countach LP800-4",
 
-        production: "2023-2015",
-        country: "Germany",
+        production: "2022",
+        country: "Italy",
 
         engine: "v8 with plug in hybrid system",
         power: "887 hp",
