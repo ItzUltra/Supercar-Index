@@ -319,22 +319,22 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/centenario-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+            src: "images/lamborghini/hyper/reventon-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Taco Ekkel",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Revent%C3%B3n.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+            src: "images/lamborghini/hyper/reventon-2.jpg",
+            license: "CC BY 3.0",
+            author: "Zölle",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Reventon.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            src: "images/lamborghini/hyper/reventon-3.jpg",
+            license: "CC BY 2.0",
+            author: "Francesco Gasparetti",
+            source: "https://commons.wikimedia.org/wiki/File:MotorShow_2007,_Lamborghini_-_Flickr_-_Gaspa_(2).jpg"
         }
     ]
 
