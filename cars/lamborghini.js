@@ -573,25 +573,25 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/centenario-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+            src: "images/lamborghini/hyper/venenor-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_Roadster_(53319026805).jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+            src: "images/lamborghini/hyper/venenor-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Klaus Nahr",
+            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_150_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            src: "images/lamborghini/hyper/venenor-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Klaus Nahr",
+            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_152_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
         }
     ]
 
-    },
+    }
 
 ];
