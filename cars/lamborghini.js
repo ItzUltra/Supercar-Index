@@ -437,8 +437,8 @@ const lamborghiniCars = [
           {
             src: "images/lamborghini/hyper/sian-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Sian_4.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Lamborghini_Sian_HRO26.jpg"
         } 
     ]
 
