@@ -521,22 +521,22 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/centenario-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+            src: "images/lamborghini/hyper/veneno-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Bryan S",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_left_side.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+            src: "images/lamborghini/hyper/veneno-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Bryan S",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_-_30463668186.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            src: "images/lamborghini/hyper/veneno-3.jpg",
+            license: "CC BY 2.0",
+            author: "Damian Morys",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_(11225271396).jpg"
         }
     ]
 
