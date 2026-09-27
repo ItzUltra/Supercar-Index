@@ -380,7 +380,7 @@ const lamborghiniCars = [
             src: "images/lamborghini/hyper/reventonr-2.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2010_Lamborghini_Reventon_Roadster_Low.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2010_Lamborghini_Reventon_Roadster_rear_HCC24.jpg"
         }
     ]
 
@@ -417,23 +417,29 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/centenario-1.jpg",
+            src: "images/lamborghini/hyper/sian-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Sian_at_IAA_2019_IMG_0773.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-2.jpg",
+            src: "images/lamborghini/hyper/sian-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Sian_at_IAA_2019_IMG_0325.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenario-3.jpg",
+            src: "images/lamborghini/hyper/sian-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
-        }
+            author: "Exotic Car Life",
+            source: "https://commons.wikimedia.org/wiki/File:Sian_Party_in_the_back,_business_in_the_front.jpg"
+        },
+          {
+            src: "images/lamborghini/hyper/sian-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Sian_4.jpg"
+        } 
     ]
 
     },
