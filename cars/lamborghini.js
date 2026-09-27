@@ -392,4 +392,108 @@ const lamborghiniCars = [
 
     },
 
+
+     {
+        brand: "Lamborghini",
+        model: "Sián",
+
+        production: "2019-2022",
+        country: "Italy",
+
+        engine: "6.5l v12 with hybrid system",
+        power: "819 hp",
+        torque: "720 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "350 km/h",
+
+        length: "4890 mm",
+        width: "2101 mm",
+        height: "1133 mm",
+
+        weight: "1595 kg",
+
+        productionCount: "63",
+        price: "$3-3.5M",
+
+        location: "Moulsdale foundation, Bishopbriggs",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/centenario-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+        }
+    ]
+
+    },
+
+
+    {
+        brand: "Lamborghini",
+        model: "Sián Roadster",
+
+        production: "2020-2022",
+        country: "Italy",
+
+        engine: "6.5l v12 with hybrid system",
+        power: "819 hp",
+        torque: "720 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "350 km/h",
+
+        length: "4924 mm",
+        width: "2080 mm",
+        height: "1158 mm",
+
+        weight: "1595 kg",
+
+        productionCount: "19",
+        price: "$4.6-5.5M",
+
+        location: "Moulsdale foundation, Bishopbriggs",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/centenario-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenario-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+        }
+    ]
+
+    },
+   
 ];
