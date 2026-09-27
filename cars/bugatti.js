@@ -373,7 +373,33 @@ const bugattiCars = [
 
         location: "La Collection de Voitures de S.A.S. le Prince de Monaco, Monaco",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/chiron/chironpur-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Pur_Sport_SP24.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chironpur-2.jpg",
+            license: "CC BY-Sa 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Pur_Sport_SP24_Rear.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chironpur-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Pur_Sport_10.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chironpur-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Pur_Sport.jpg"
+        }
+    ]
+
 
     },
 
