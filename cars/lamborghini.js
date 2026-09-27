@@ -179,32 +179,32 @@ const lamborghiniCars = [
 
 
      {
-        brand: "Porsche",
-        model: "911 GT1 Strassenversion (993)",
+        brand: "Lamborghini",
+        model: "Diablo GT",
 
-        production: "1997-1998",
-        country: "Germany",
+        production: "1999-2000",
+        country: "Italy",
 
-        engine: "3.2l twinturbo flat-six boxer",
-        power: "544 hp",
-        torque: "600 Nm",
+        engine: "6l v12",
+        power: "576 hp",
+        torque: "630 Nm",
 
-        transmission: "6-speed manual",
+        transmission: "5-speed manual",
         drivetrain: "RWD",
 
         acceleration: "3.7 s",
-        topSpeed: "310 km/h",
+        topSpeed: "338 km/h",
 
-        length: "4890 mm",
-        width: "1990 mm",
-        height: "1140 mm",
+        length: "4430 mm",
+        width: "2040 mm",
+        height: "1115 mm",
 
-        weight: "1150 kg",
+        weight: "1130 kg",
 
-        productionCount: "2",
-        price: "6.5-10M",
+        productionCount: "83",
+        price: "1.5-2.6M",
 
-        location: "The Collection1",
+        location: "Automobili Lamborghini Museum, Sant Agata",
 
         images: [
              {
