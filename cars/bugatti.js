@@ -321,7 +321,26 @@ const bugattiCars = [
 
         location: "unknown",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/chiron/chironsport-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Sport_16.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chironsport-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Sport_17.jpg"
+        },
+        {
+            src: "images/bugatti/chiron/chironsport-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Sport_gfos25_1.jpg"
+        }
+    ]
 
     },
 
