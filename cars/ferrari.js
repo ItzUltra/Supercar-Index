@@ -216,29 +216,29 @@ const ferrariCars = [
         brand: "Ferrari",
         model: "Enzo",
 
-        production: "1987-1992",
+        production: "2002",
         country: "Italy",
 
-        engine: "2.9l double turbocharged v8",
-        power: "478 hp",
-        torque: "577 Nm",
+        engine: "6l v12",
+        power: "660 hp",
+        torque: "658 Nm",
 
-        transmission: "5-speed manual",
+        transmission: "6-speed half automatic",
         drivetrain: "RWD",
 
-        acceleration: "4.1 s",
-        topSpeed: "324 km/h",
+        acceleration: "3.6 s",
+        topSpeed: "349 km/h",
 
-        length: "4430 mm",
-        width: "1980 mm",
-        height: "1130 mm",
+        length: "4702 mm",
+        width: "2035 mm",
+        height: "1147 mm",
 
-        weight: "1250 kg",
+        weight: "1255 kg",
 
-        productionCount: "1337",
-        price: "$2.5-4M",
+        productionCount: "400",
+        price: "$7-10M",
 
-        location: "Mogam, Catania",
+        location: "Autoworld, Brussels",
 
         images: [
            {
