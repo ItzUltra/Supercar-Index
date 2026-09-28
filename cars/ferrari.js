@@ -196,30 +196,19 @@ const ferrariCars = [
 
         images: [
              {
-            src: "images/porsche/hyper/911gt1-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_(1Y7A1093).jpg"
+            src: "images/ferrari/hyper/f50gt-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Marty B",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_1996_F50_GT_(15621058965).jpg"
         },
         {
-            src: "images/porsche/hyper/911gt1-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_(street_version)_in_the_Porsche-Museum_(2009)_IMG_7427.jpg"
-        },
-        {
-            src: "images/porsche/hyper/911gt1-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_993_SCD_24.jpg"
-        },
-        {
-            src: "images/porsche/hyper/911gt1-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_Stra%C3%9Fenversion.jpg"
+            src: "images/ferrari/hyper/f50gt-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Marty B",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_1996_F50_GT_(15434933638).jpg"
         }
     ]
+        
     }
 
 ];
