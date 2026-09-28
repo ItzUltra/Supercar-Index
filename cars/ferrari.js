@@ -254,11 +254,17 @@ const ferrariCars = [
             source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
         },
         {
-            src: "images/ferrari/hyper/f40-3.jpg",
+            src: "images/ferrari/hyper/enzo-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
+        },
+            {
+            src: "images/ferrari/hyper/enzo-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_4.jpg"
-        }
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+        },
     ]
 
     },
