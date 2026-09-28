@@ -167,32 +167,32 @@ const ferrariCars = [
 
 
      {
-        brand: "Porsche",
-        model: "911 GT1 Strassenversion (993)",
+        brand: "Ferrari",
+        model: "F50 GT",
 
-        production: "1997-1998",
-        country: "Germany",
+        production: "1996",
+        country: "Italy",
 
-        engine: "3.2l twinturbo flat-six boxer",
-        power: "544 hp",
-        torque: "600 Nm",
+        engine: "4.7l v12",
+        power: "750 hp",
+        torque: "529 Nm",
 
-        transmission: "6-speed manual",
+        transmission: "6-speed racing",
         drivetrain: "RWD",
 
-        acceleration: "3.7 s",
-        topSpeed: "310 km/h",
+        acceleration: "2.9 s",
+        topSpeed: "376 km/h",
 
-        length: "4890 mm",
-        width: "1990 mm",
-        height: "1140 mm",
+        length: "4578 mm",
+        width: "1986 mm",
+        height: "1092 mm",
 
-        weight: "1150 kg",
+        weight: "860 kg",
 
-        productionCount: "2",
-        price: "6.5-10M",
+        productionCount: "3",
+        price: "30M",
 
-        location: "The Collection1",
+        location: "unknown",
 
         images: [
              {
