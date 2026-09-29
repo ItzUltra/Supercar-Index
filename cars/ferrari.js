@@ -384,5 +384,63 @@ const ferrariCars = [
     ]
 
     },
+
+
+   {
+        brand: "Ferrari",
+        model: "F80",
+
+        production: "2025-",
+        country: "Italy",
+
+        engine: "3l v6 with hybrid system",
+        power: "1200 hp",
+        torque: "850 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.15 s",
+        topSpeed: "350 km/h",
+
+        length: "4840 mm",
+        width: "2065 mm",
+        height: "1138 mm",
+
+        weight: "1525 kg",
+
+        productionCount: "799",
+        price: "$6.5M",
+
+        location: "La Collection de Voitures de S.A.S. le Prince de Monaco",
+
+        images: [
+           {
+            src: "images/ferrari/hyper/enzo.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
+        },
+        {
+            src: "images/ferrari/hyper/enzo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
+        },
+        {
+            src: "images/ferrari/hyper/enzo-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
+        },
+            {
+            src: "images/ferrari/hyper/enzo-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+        },
+    ]
+
+    },
    
 ];
