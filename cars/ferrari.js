@@ -110,6 +110,58 @@ const ferrariCars = [
 
     {
         brand: "Ferrari",
+        model: "F40 Valeo",
+
+        production: "1989",
+        country: "Italy",
+
+        engine: "2.9l double turbocharged v8",
+        power: "478 hp",
+        torque: "577 Nm",
+
+        transmission: "5-speed manual with valeo technology",
+        drivetrain: "RWD",
+
+        acceleration: "4.1 s",
+        topSpeed: "324 km/h",
+
+        length: "4430 mm",
+        width: "1980 mm",
+        height: "1130 mm",
+
+        weight: "1250 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/ferrari/hyper/f40.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Will ainsworth",
+            source: "https://commons.wikimedia.org/wiki/File:F40_Ferrari_20090509.jpg"
+        },
+        {
+            src: "images/ferrari/hyper/f40-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F40,_TC_24,_Essen_(TCE43319-RR).jpg"
+        },
+        {
+            src: "images/ferrari/hyper/f40-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_4.jpg"
+        }
+    ]
+
+    },
+   
+
+    {
+        brand: "Ferrari",
         model: "F50",
 
         production: "1995-1997",
@@ -412,7 +464,7 @@ const ferrariCars = [
         productionCount: "799",
         price: "$6.5M",
 
-        location: "La Collection de Voitures de S.A.S. le Prince de Monaco",
+        location: "La Collection de Voitures de S.A.S. le Prince de Monaco, Monaco",
 
         images: [
            {
