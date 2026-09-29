@@ -326,5 +326,63 @@ const ferrariCars = [
     ]
 
     },
+
+
+    {
+        brand: "Ferrari",
+        model: "Laferrari Aperta",
+
+        production: "2013-2016",
+        country: "Italy",
+
+        engine: "6.2l v12 with hybrid system",
+        power: "963 hp",
+        torque: "900 Nm",
+
+        transmission: "7-speed half automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "350 km/h",
+
+        length: "4702 mm",
+        width: "1992 mm",
+        height: "1116 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "210",
+        price: "$6.8-10M",
+
+        location: "The Johor Royal Family Collection",
+
+        images: [
+           {
+            src: "images/ferrari/hyper/enzo.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
+        },
+        {
+            src: "images/ferrari/hyper/enzo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
+        },
+        {
+            src: "images/ferrari/hyper/enzo-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
+        },
+            {
+            src: "images/ferrari/hyper/enzo-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+        },
+    ]
+
+    },
    
 ];
