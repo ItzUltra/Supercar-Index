@@ -552,5 +552,63 @@ const ferrariCars = [
     ]
 
     },
+
+
+    {
+        brand: "Ferrari",
+        model: "Daytona SP3 Tailor Made 599+1",
+
+        production: "2025",
+        country: "Italy",
+
+        engine: "6.5l v12",
+        power: "840 hp",
+        torque: "697 Nm",
+
+        transmission: "6-speed half automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.85 s",
+        topSpeed: "340 km/h",
+
+        length: "4686 mm",
+        width: "2050 mm",
+        height: "1142 mm",
+
+        weight: "1485 kg",
+
+        productionCount: "1",
+        price: "$26M",
+
+        location: "Somewhere in Monterey",
+
+        images: [
+           {
+            src: "images/ferrari/hyper/enzo.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
+        },
+        {
+            src: "images/ferrari/hyper/enzo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
+        },
+        {
+            src: "images/ferrari/hyper/enzo-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
+        },
+            {
+            src: "images/ferrari/hyper/enzo-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+        },
+    ]
+
+    }
    
 ];
