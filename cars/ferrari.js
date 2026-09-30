@@ -138,23 +138,11 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/f40.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Will ainsworth",
-            source: "https://commons.wikimedia.org/wiki/File:F40_Ferrari_20090509.jpg"
-        },
-        {
-            src: "images/ferrari/hyper/f40-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F40,_TC_24,_Essen_(TCE43319-RR).jpg"
-        },
-        {
-            src: "images/ferrari/hyper/f40-3.jpg",
+            src: "images/ferrari/hyper/valeo.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_4.jpg"
-        }
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F40_monaco_2.jpg"
+        },
     ]
 
     },
