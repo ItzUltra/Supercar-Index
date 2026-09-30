@@ -340,28 +340,28 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/enzo.jpg",
+            src: "images/ferrari/hyper/laferrari.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_GIMS_2024_1X7A2272.jpg"
         },
         {
-            src: "images/ferrari/hyper/enzo-2.jpg",
+            src: "images/ferrari/hyper/laferrari-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_at_Grand_Basel_2018_09.jpg"
         },
         {
-            src: "images/ferrari/hyper/enzo-3.jpg",
+            src: "images/ferrari/hyper/laferrari-3.jpg",
             license: "CC BY-SA 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_%26_F50_(Hockenheimer).jpg"
         },
             {
-            src: "images/ferrari/hyper/enzo-4.jpg",
+            src: "images/ferrari/hyper/laferrari-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_Retro_Classics_2020_IMG_0072.jpg"
         },
     ]
 
