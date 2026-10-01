@@ -456,28 +456,10 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/enzo.jpg",
+            src: "images/ferrari/hyper/f80.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
-        },
-        {
-            src: "images/ferrari/hyper/enzo-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
-        },
-        {
-            src: "images/ferrari/hyper/enzo-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
-        },
-            {
-            src: "images/ferrari/hyper/enzo-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_F80.jpg"
         },
     ]
 
@@ -514,28 +496,28 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/enzo.jpg",
+            src: "images/ferrari/hyper/sp3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
+            author: "Prova MO",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg"
         },
         {
-            src: "images/ferrari/hyper/enzo-2.jpg",
+            src: "images/ferrari/hyper/sp3-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(40619).jpg"
         },
         {
             src: "images/ferrari/hyper/enzo-3.jpg",
             license: "CC BY-SA 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(54972245775).jpg"
         },
             {
-            src: "images/ferrari/hyper/enzo-4.jpg",
+            src: "images/ferrari/hyper/sp3-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_Daytona_SP3_Tailor_Made_in_Rubino_Transitional,_front_left.jpg"
         },
     ]
 
@@ -570,32 +552,7 @@ const ferrariCars = [
 
         location: "Somewhere in Monterey",
 
-        images: [
-           {
-            src: "images/ferrari/hyper/enzo.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
-        },
-        {
-            src: "images/ferrari/hyper/enzo-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
-        },
-        {
-            src: "images/ferrari/hyper/enzo-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
-        },
-            {
-            src: "images/ferrari/hyper/enzo-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
-        },
-    ]
+        images: []
 
     }
    
