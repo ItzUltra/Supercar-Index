@@ -507,12 +507,6 @@ const ferrariCars = [
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(40619).jpg"
         },
-        {
-            src: "images/ferrari/hyper/enzo-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(54972245775).jpg"
-        },
             {
             src: "images/ferrari/hyper/sp3-4.jpg",
             license: "CC BY-SA 4.0",
