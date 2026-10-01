@@ -138,7 +138,7 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/valeo.jpg",
+            src: "images/ferrari/hyper/valeo-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_F40_monaco_2.jpg"
@@ -282,7 +282,7 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/enzo.jpg",
+            src: "images/ferrari/hyper/enzo-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
@@ -340,7 +340,7 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/laferrari.jpg",
+            src: "images/ferrari/hyper/laferrari-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander-93",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_GIMS_2024_1X7A2272.jpg"
@@ -398,28 +398,28 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/enzo.jpg",
+            src: "images/ferrari/hyper/laferrariaperta-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_Aperta_(54281804419).jpg"
+        },
+        {
+            src: "images/ferrari/hyper/laferrariaperta-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2004_Ferrari_Enzo_5.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Laferrari_Aperta_2.jpg"
         },
         {
-            src: "images/ferrari/hyper/enzo-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Ferrari_Enzo_in_Nancy_2013.jpg"
-        },
-        {
-            src: "images/ferrari/hyper/enzo-3.jpg",
+            src: "images/ferrari/hyper/laferrariaperta-3.jpg",
             license: "CC BY-SA 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Red_Enzo_Ferrari_(12273651534).jpg"
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_LaFerrari_Aperta_(50766217037).jpg"
         },
             {
-            src: "images/ferrari/hyper/enzo-4.jpg",
+            src: "images/ferrari/hyper/laferrariaperta-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_1Y7A6040.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2017_Ferrari_Laferrari_Aperta_1.jpg"
         },
     ]
 
