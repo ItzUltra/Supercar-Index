@@ -1,37 +1,39 @@
 /* ========================================
-   Arash CAR DATABASE
+   Pagani CAR DATABASE
 ======================================== */
 
-const arashCars = [
+const paganiCars = [
 
     {
-        brand: "Arash",
-        model: "Af10",
+        brand: "Pagani",
+        model: "Huayra",
 
-        production: "2010",
-        country: "UK",
+        production: "2011-2018",
+        country: "Italy",
 
-        engine: "5.5l v10",
-        power: "850 hp",
-        torque: "719 Nm",
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "730 hp",
+        torque: "1000 Nm",
 
-        transmission: "6-speed manual",
+        transmission: "7-speed sequential",
         drivetrain: "RWD",
 
-        acceleration: "3.5 s",
-        topSpeed: "355 km/h",
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
 
-        length: "4664 mm",
-        width: "2050 mm",
-        height: "1145 mm",
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
 
-        weight: "1200 kg",
+        weight: "1350 kg",
 
-        productionCount: "1",
-        price: "$1.75M",
+        productionCount: "100",
+        price: "$3-3.5M",
 
-        location: "The Arash Collection",
+        location: "Museo e Atelier Pagani, San Cesario Sul Panaro",
 
         images: []
 
     },
+
+   ];
