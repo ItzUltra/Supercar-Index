@@ -69,4 +69,37 @@ const paganiCars = [
 
     },
 
+
+   {
+        brand: "Pagani",
+        model: "Huayra BC",
+
+        production: "2016-2019",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "750 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "370 km/h",
+
+        length: "4724 mm",
+        width: "1934 mm",
+        height: "1174 mm",
+
+        weight: "1230 kg",
+
+        productionCount: "30",
+        price: "$4-5.8M",
+
+        location: "Horacio Pagani's Private Collection",
+
+        images: []
+
+    },
+
    ];
