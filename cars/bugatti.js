@@ -601,7 +601,33 @@ const bugattiCars = [
 
         location: "VW Zeithaus Museum, Wolfsburg",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/centodieci-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Centodieci_in_Grigio_Chiaro,_front_right2.jpg"
+        },
+        {
+            src: "images/bugatti/centodieci-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Centodieci_in_Grigio_Chiaro,_rear_left.jpg"
+        },
+        {
+            src: "images/bugatti/centodieci-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Centodieci_in_Grigio_Chiaro,_frontal.jpg"
+        },
+        {
+            src: "images/bugatti/centodieci-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Centodieci.jpg"
+        }
+    ]
+
 
     },
 
