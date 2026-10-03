@@ -53,7 +53,7 @@ const paganiCars = [
         },
         {
             src: "images/pagani/huayra/huayra-4.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2019_Pagani_Huayra_Roadster_RHD_Rosso_Dubai_2.jpg"
         }
@@ -93,7 +93,7 @@ const paganiCars = [
         images: [
             {
             src: "images/pagani/huayra/huayra70-2.jpg",
-            license: "CC By-SA 4.0",
+            license: "CC BY-SA 4.0",
             author: "Matti Blume",
             source: "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0135-2).jpg"
         }
@@ -130,7 +130,32 @@ const paganiCars = [
 
         location: "Horacio Pagani's Private Collection",
 
-        images: []
+        images: [
+           {
+            src: "images/pagani/huayra/huayrabc-1.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_(2017)_(52228278617).jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayrabc-2.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_(2017)_(52229287348).jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayrabc-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170491-RR).jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayrabc-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Coup%C3%A9_(2017)_(52959382278).jpg"
+        }
+    ]
 
     },
 
