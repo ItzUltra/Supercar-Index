@@ -90,7 +90,14 @@ const paganiCars = [
 
         location: "Trionfo: Barchetta Collection, Derecho and Anima is unknown",
 
-        images: []
+        images: [
+            {
+            src: "images/pagani/huayra/huayra70-2.jpg",
+            license: "CC By-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0135-2).jpg"
+        }
+    ]
 
     },
 
