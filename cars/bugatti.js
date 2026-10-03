@@ -660,7 +660,26 @@ const bugattiCars = [
 
         location: "The Piech Family Collection",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/lavoiturenoire-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "ZenitsuThu",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti-La-Voiture-Noire-Racing.jpg"
+        },
+        {
+            src: "images/bugatti/lavoiturenoire-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_La_Voiture_Noire_Genf_2019_1Y7A5419.jpg"
+        },
+        {
+            src: "images/bugatti/lavoiturenoire-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Y.Leclercq©",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_La_Voiture_Noire-CAERM2019.jpg"
+        }
+    ]
 
     },
 
