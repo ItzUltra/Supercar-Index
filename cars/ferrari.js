@@ -35,9 +35,9 @@ const ferrariCars = [
         images: [
            {
             src: "images/ferrari/hyper/f40.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Will ainsworth",
-            source: "https://commons.wikimedia.org/wiki/File:F40_Ferrari_20090509.jpg"
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_6.jpg"
         },
         {
             src: "images/ferrari/hyper/f40-2.jpg",
@@ -459,7 +459,7 @@ const ferrariCars = [
             src: "images/ferrari/hyper/f80.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_F80.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F80_1.jpg"
         },
     ]
 
@@ -497,9 +497,9 @@ const ferrariCars = [
         images: [
            {
             src: "images/ferrari/hyper/sp3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Prova MO",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg"
+            license: "CC BY-SA 2.0",
+            author: "Schuss",
+            source: "https://commons.wikimedia.org/wiki/File:2022-08-21_Monterrey_Ferrari_SP3.jpg"
         },
         {
             src: "images/ferrari/hyper/sp3-2.jpg",
