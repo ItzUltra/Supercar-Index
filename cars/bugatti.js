@@ -738,7 +738,7 @@ const bugattiCars = [
 
   {
         brand: "Bugatti",
-        model: "Tourbillion",
+        model: "Tourbillon",
 
         production: "2026-",
         country: "France",
@@ -764,7 +764,20 @@ const bugattiCars = [
 
         location: "Bugatti Automobiles Collection",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/tourbillon-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Tourbillon_14.jpg"
+        },
+        {
+            src: "images/bugatti/tourbillon-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Tourbillon_2.jpg"
+        }
+    ]
 
     },
 
