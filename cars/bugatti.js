@@ -712,7 +712,26 @@ const bugattiCars = [
 
         location: "The AGR Collection",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/mistral-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Mistral_2.jpg"
+        },
+        {
+            src: "images/bugatti/mistral-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Mistral_7.jpg"
+        },
+        {
+            src: "images/bugatti/mistral-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Prova MO",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Mistral_at_Quail_2023.jpg"
+        }
+    ]
 
     },
 
