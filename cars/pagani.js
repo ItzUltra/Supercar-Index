@@ -102,4 +102,70 @@ const paganiCars = [
 
     },
 
+
+   {
+        brand: "Pagani",
+        model: "Huayra Codalunga",
+
+        production: "2022",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "840 hp",
+        torque: "1100 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4912 mm",
+        width: "2050 mm",
+        height: "1174 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "6",
+        price: "$7M",
+
+        location: "The Tashkent Collection",
+
+        images: []
+
+    },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra Codalunga Speedster",
+
+        production: "2025",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "864 hp",
+        torque: "1100 Nm",
+
+        transmission: "7-speed automatic or manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4912 mm",
+        width: "2050 mm",
+        height: "1174 mm",
+
+        weight: "1270 kg",
+
+        productionCount: "1",
+        price: "$14.5M",
+
+        location: "Pagani Automobili Collection",
+
+        images: []
+
+    }
+   
    ];
