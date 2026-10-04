@@ -88,7 +88,7 @@ const koenigseggCars = [
         productionCount: "3",
         price: "$4-5M",
 
-        location: "Selected Car Collection",
+        location: "unknown",
 
         images: [
           {
@@ -117,6 +117,64 @@ const koenigseggCars = [
         }
     ]
 
-    }
+    },
+
+  
+  {
+        brand: "Koenigsegg",
+        model: "Agera R",
+
+        production: "2011-2014",
+        country: "Sweden",
+
+        engine: "5l biturbo v8",
+        power: "1140 hp",
+        torque: "1200 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "420 km/h",
+
+        length: "4293 mm",
+        width: "1996 mm",
+        height: "1120 mm",
+
+        weight: "1330 kg",
+
+        productionCount: "18",
+        price: "$3-4M",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/maserati/new/mc12-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Trubble",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_1.jpg"
+        },
+        {
+            src: "images/maserati/new/mc12-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Trubble",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_rr_08.jpg"
+        },
+        {
+            src: "images/maserati/new/mc12-3.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_mc12_side_shot_las_vegas_(2898234296).jpg"
+        },
+        {
+            src: "images/maserati/new/mc12-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ben",
+            source: "https://commons.wikimedia.org/wiki/File:Duo_MC12_(8217758904).jpg"
+        }
+    ]
+
+    },
   
 ];
