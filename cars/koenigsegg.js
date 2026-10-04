@@ -28,7 +28,7 @@ const koenigseggCars = [
         weight: "1330 kg",
 
         productionCount: "7",
-        price: "$4.5-9.5M",
+        price: "$2-3.7M",
 
         location: "Autobau Erlebniswelt, Romanshorn",
 
@@ -63,30 +63,30 @@ const koenigseggCars = [
 
   
     {
-        brand: "Maserati",
-        model: "Mc12 Corsa",
+        brand: "Koenigsegg",
+        model: "Agera Final",
 
-        production: "2006-2007",
-        country: "Italy",
+        production: "2016-2018",
+        country: "Sweden",
 
-        engine: "6l v12",
-        power: "755 hp",
-        torque: "710 Nm",
+        engine: "5l twinturbo v8",
+        power: "1360 hp",
+        torque: "1371 Nm",
 
-        transmission: "6-speed sequential",
+        transmission: "7-speed automatic",
         drivetrain: "RWD",
 
-        acceleration: "3 s",
-        topSpeed: "326 km/h",
+        acceleration: "2.8 s",
+        topSpeed: "447 km/h",
 
-        length: "5143 mm",
-        width: "2100 mm",
-        height: "1205 mm",
+        length: "4293 mm",
+        width: "2050 mm",
+        height: "1120 mm",
 
-        weight: "1150 kg",
+        weight: "1395 kg",
 
-        productionCount: "13",
-        price: "$2.5-5.7M",
+        productionCount: "3",
+        price: "$4-5M",
 
         location: "Selected Car Collection",
 
