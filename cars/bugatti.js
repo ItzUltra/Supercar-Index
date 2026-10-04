@@ -1148,7 +1148,7 @@ const bugattiCars = [
             author: "Michi1308",
             source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_Black_%26_Yellow.jpg"
         },
-         
+         ]
 
     },
 
