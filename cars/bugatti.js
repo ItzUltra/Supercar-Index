@@ -1302,7 +1302,13 @@ const bugattiCars = [
         location: "Somewhere in: Zug,Zürich,Atlanta",
 
         images: [
-          https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Wimille_-_versione_speciale_(cropped).jpg
+          {
+            src: "images/bugatti/veyron/meocostantini-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Etienne (Li)",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Wimille_-_versione_speciale_(cropped).jpg"
+        }
+         ]
 
     },
 
@@ -1335,7 +1341,14 @@ const bugattiCars = [
 
         location: "somewhere in: Costa Mesa,Zürich,Düsseldorf",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/rembrandtbugatti-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_Vitesse_Rembrandt_Bugatti,_Geneva_2014(Ank_Kumar)_07.jpg"
+        }
+         ]
 
     },
 
