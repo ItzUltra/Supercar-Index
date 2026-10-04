@@ -47,7 +47,7 @@ const maseratiCars = [
         },
         {
             src: "images/maserati/new/mc12-3.jpg",
-            license: "CC BY-SA 2.0",
+            license: "CC BY 2.0",
             author: "Axion23",
             source: "https://commons.wikimedia.org/wiki/File:Maserati_mc12_side_shot_las_vegas_(2898234296).jpg"
         },
@@ -90,7 +90,32 @@ const maseratiCars = [
 
         location: "Selected Car Collection",
 
-        images: []
+        images: [
+          {
+            src: "images/maserati/new/mc12corsa-1.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(15314416011).jpg"
+        },
+        {
+            src: "images/maserati/new/mc12corsa-2.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Blue_Maserati_MC12_Corsa_(15118194111).jpg"
+        },
+        {
+            src: "images/maserati/new/mc12corsa-3.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(16216064715).jpg"
+        },
+        {
+            src: "images/maserati/new/mc12corsa-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(51356309571).jpg"
+        }
+    ]
 
     }
   
