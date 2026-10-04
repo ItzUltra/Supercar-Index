@@ -34,28 +34,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/maserati/new/mc12-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Trubble",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_1.jpg"
+            src: "images/koenigsegg/agera-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_1.jpg"
         },
         {
-            src: "images/maserati/new/mc12-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Trubble",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_rr_08.jpg"
+            src: "images/koenigsegg/agera-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_5.0.jpg"
         },
         {
-            src: "images/maserati/new/mc12-3.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_mc12_side_shot_las_vegas_(2898234296).jpg"
-        },
-        {
-            src: "images/maserati/new/mc12-4.jpg",
+            src: "images/koenigsegg/agera-4.jpg",
             license: "CC BY-SA 2.0",
-            author: "Ben",
-            source: "https://commons.wikimedia.org/wiki/File:Duo_MC12_(8217758904).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_7089.jpg"
         }
     ]
 
