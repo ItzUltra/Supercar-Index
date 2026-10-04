@@ -1061,7 +1061,14 @@ const bugattiCars = [
 
         location: "Unknown",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/sangbleu-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "350z33",
+            source: "https://commons.wikimedia.org/wiki/File:SangBleuFront.JPG"
+        }
+         ]
 
     },
 
@@ -1094,7 +1101,14 @@ const bugattiCars = [
 
         location: "somewhere in Riyadh",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/lorblanc-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "David Villarreal Fernández",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_L%27Or_Blanc_-_Flickr_-_David_Villarreal_Fern%C3%A1ndez_(5).jpg"
+        }
+         ]
 
     },
 
@@ -1128,6 +1142,7 @@ const bugattiCars = [
         location: "yellow: Perth, blue: Dubai, green: Riyadh",
 
         images: []
+         
 
     },
 
@@ -1160,7 +1175,14 @@ const bugattiCars = [
 
         location: "one in: Chichester,Saint Cloud,Nottingham,Wolfsburg,Monaco",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/wr-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_(85251).jpg"
+        }
+         ]
 
     },
 
@@ -1193,7 +1215,14 @@ const bugattiCars = [
 
         location: "somewhere in: Opfikon,Shawnee,Zürich",
 
-        images: []
+        images: [
+             {
+            src: "images/bugatti/veyron/jeanpierre-1.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Legends_Editions_(14972092616)_(cropped).jpg"
+        }
+         ]
 
     },
 
