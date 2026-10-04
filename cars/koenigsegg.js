@@ -126,28 +126,28 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/maserati/new/mc12-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Trubble",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_1.jpg"
+            src: "images/koenigsegg/agerar-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_R_(12490).jpg"
         },
         {
-            src: "images/maserati/new/mc12-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Trubble",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_rr_08.jpg"
+            src: "images/koenigsegg/agerar-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_R_(56247).jpg"
         },
         {
-            src: "images/maserati/new/mc12-3.jpg",
+            src: "images/koenigsegg/agerar-3.jpg",
             license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_mc12_side_shot_las_vegas_(2898234296).jpg"
+            author: "Autoviva",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_R_(5488113919).jpg"
         },
         {
-            src: "images/maserati/new/mc12-4.jpg",
+            src: "images/koenigsegg/agerar-4.jpg",
             license: "CC BY-SA 2.0",
-            author: "Ben",
-            source: "https://commons.wikimedia.org/wiki/File:Duo_MC12_(8217758904).jpg"
+            author: "Andrew Basterfield",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_R_-_Flickr_-_andrewbasterfield.jpg"
         }
     ]
 
