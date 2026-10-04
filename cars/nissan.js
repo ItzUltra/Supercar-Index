@@ -34,16 +34,22 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/toyota/gtone-1.jpg",
+            src: "images/nissan/r390-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "350z33",
-            source: "https://commons.wikimedia.org/wiki/File:ToyotaGTone2023Retromobile.jpg"
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
         },
         {
-            src: "images/toyota/gtone-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Andrew Basterfield",
-            source: "https://commons.wikimedia.org/wiki/File:Toyota_TS020_GT-one_-_Flickr_-_andrewbasterfield.jpg"
+            src: "images/nissan/r390-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+            {
+            src: "images/nissan/r390-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
         }
     ]
 
