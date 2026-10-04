@@ -1381,7 +1381,14 @@ const bugattiCars = [
 
         location: "somewhere in: Kerpen,Opfikon, the thirds location is unknown",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/veyron/blackbess-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron(Ank_kumar,_INFOSYS_Limited)_09.jpg"
+        }
+         ]
 
     },
 
