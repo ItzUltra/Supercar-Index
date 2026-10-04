@@ -1141,7 +1141,13 @@ const bugattiCars = [
 
         location: "yellow: Perth, blue: Dubai, green: Riyadh",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/middleeast-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Michi1308",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_Black_%26_Yellow.jpg"
+        },
          
 
     },
