@@ -907,7 +907,8 @@ const bugattiCars = [
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_16.4_Pur_Sang_Low.jpg"
-        },
+        }
+         ]
 
     },
 
