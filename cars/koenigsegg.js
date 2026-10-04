@@ -229,28 +229,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/maserati/new/mc12-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Trubble",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_1.jpg"
+            src: "images/koenigsegg/ageras-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(20559).jpg"
         },
         {
-            src: "images/maserati/new/mc12-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Trubble",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_rr_08.jpg"
+            src: "images/koenigsegg/ageras-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(92520).jpg"
         },
         {
-            src: "images/maserati/new/mc12-3.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_mc12_side_shot_las_vegas_(2898234296).jpg"
-        },
-        {
-            src: "images/maserati/new/mc12-4.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Ben",
-            source: "https://commons.wikimedia.org/wiki/File:Duo_MC12_(8217758904).jpg"
+            src: "images/koenigsegg/ageras-4.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Clément Bucco-Lechat",
+            source: "https://commons.wikimedia.org/wiki/File:Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Koenigsegg_Agera_S_1.jpg"
         }
     ]
 
