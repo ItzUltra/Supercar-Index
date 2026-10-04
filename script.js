@@ -62,7 +62,8 @@ const cars = [
     ...mercedesCars,
    ...lamborghiniCars,
     ...ferrariCars,
-   ...paganiCars
+   ...paganiCars,
+   ...maseratiCars
    
 ];
 
