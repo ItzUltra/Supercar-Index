@@ -901,7 +901,13 @@ const bugattiCars = [
 
         location: "unknown",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/pursang-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_16.4_Pur_Sang_Low.jpg"
+        },
 
     },
 
@@ -934,7 +940,13 @@ const bugattiCars = [
 
         location: "unknown",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/veyron/hermés-1.jpg",
+            license: "CC BY 2.0",
+            author: "shaheer.Shaikh831",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Hermes_right_front.jpg"
+        },
 
     },
 
