@@ -979,7 +979,13 @@ const bugattiCars = [
 
         location: "one is owned by Drake",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/sangnoir-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Deep silence",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_sang_noir.jpg"
+        },
 
     },
 
@@ -1012,7 +1018,13 @@ const bugattiCars = [
 
         location: "Unknown",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/bleucentenaire-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "David Villarreal Fernández",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Bleu_Centenaire_-_Flickr_-_David_Villarreal_Fern%C3%A1ndez_(6).jpg"
+        },
 
     },
 
