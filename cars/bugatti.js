@@ -1261,7 +1261,14 @@ const bugattiCars = [
 
         location: "Somewhere in:Opfikon,Dubai, the thirds location is unknown",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/veyron/jeanbugatti-1.jpg",
+            license: "CC BY 2.0",
+            author: "MotorBlog",
+            source: "https://commons.wikimedia.org/wiki/File:IAA_2013_Bugatti_Veyron_Grand_Sport_Vitesse_-_Jean_Bugatti_(9834385524)_(cropped).jpg"
+        }
+         ]
 
     },
 
@@ -1294,7 +1301,8 @@ const bugattiCars = [
 
         location: "Somewhere in: Zug,Zürich,Atlanta",
 
-        images: []
+        images: [
+          https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Wimille_-_versione_speciale_(cropped).jpg
 
     },
 
