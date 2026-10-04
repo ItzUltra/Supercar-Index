@@ -34,6 +34,39 @@ const maseratiCars = [
 
         images: []
 
+    },
+
+  
+    {
+        brand: "Maserati",
+        model: "Mc12 Corsa",
+
+        production: "2006-2007",
+        country: "Italy",
+
+        engine: "6l v12",
+        power: "755 hp",
+        torque: "710 Nm",
+
+        transmission: "6-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "326 km/h",
+
+        length: "5143 mm",
+        width: "2100 mm",
+        height: "1205 mm",
+
+        weight: "1150 kg",
+
+        productionCount: "13",
+        price: "$2.5-5.7M",
+
+        location: "Selected Car Collection",
+
+        images: []
+
     }
-   
+  
 ];
