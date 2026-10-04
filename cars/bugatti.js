@@ -843,7 +843,32 @@ const bugattiCars = [
 
         location: "Bugatti Automobiles Collection",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/bolide-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Bugatti_Bolide_in_Black,_front_left_(Miller).jpg"
+        },
+        {
+            src: "images/bugatti/bolide-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Bugatti_Bolide_in_Black,_rear_left_(Miller).jpg"
+        },
+        {
+            src: "images/bugatti/bolide-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "santaclaus93",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Bolide_in_Tarbfarben.jpg"
+        },
+        {
+            src: "images/bugatti/bolide-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Bolide_(55191411593).jpg"
+        }
+    ]
 
     },
 
