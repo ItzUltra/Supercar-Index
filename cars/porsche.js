@@ -8,7 +8,7 @@ const porscheCars = [
         brand: "Porsche",
         model: "959",
 
-        production: "1997-1998",
+        production: "1986-1988",
         country: "Germany",
 
         engine: "2.85l twinturbo flat-six boxer",
@@ -61,6 +61,45 @@ const porscheCars = [
 
     },
 
+
+    {
+        brand: "Porsche",
+        model: "959 Sport",
+
+        production: "1987-1988",
+        country: "Germany",
+
+        engine: "2.85l twinturbo flat-six boxer",
+        power: "508 hp",
+        torque: "560 Nm",
+
+        transmission: "6+1-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "338 km/h",
+
+        length: "4260 mm",
+        width: "1840 mm",
+        height: "1280 mm",
+
+        weight: "1350 kg",
+
+        productionCount: "29",
+        price: "unknown",
+
+        location: "The Ingram Collection",
+
+        images: [
+           {
+            src: "images/porsche/hyper/959sport-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_959_Sport_(52681356638).jpg"
+        }
+    ]
+
+    },
 
     {
         brand: "Porsche",
