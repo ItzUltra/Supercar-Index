@@ -1487,7 +1487,14 @@ const bugattiCars = [
 
         location: "one is somewhere in Boca Raton",
 
-        images: []
+        images: [
+         {
+            src: "images/bugatti/chiron/110ans-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Chiron_Sport_110_Ans_6.jpg"
+        }
+         ]
 
     },
 
@@ -1586,7 +1593,14 @@ const bugattiCars = [
 
         location: "one is located somewhere in Dubai",
 
-        images: []
+        images: [
+          {
+            src: "images/bugatti/chiron/legendes-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Sport_Les_Legendes_Du_Ciel_1.jpg"
+        }
+         ]
 
     }
  
