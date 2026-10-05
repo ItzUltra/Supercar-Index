@@ -304,6 +304,57 @@ const porscheCars = [
             source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_look.jpg"
         }
     ]
+    },
+
+
+   {
+        brand: "Porsche",
+        model: "911 GT1 Strassenversion (996)",
+
+        production: "1998",
+        country: "Germany",
+
+        engine: "3.2l twinturbo flat-six boxer",
+        power: "544 hp",
+        torque: "600 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.9 s",
+        topSpeed: "308 km/h",
+
+        length: "4890 mm",
+        width: "1990 mm",
+        height: "1140 mm",
+
+        weight: "1250 kg",
+
+        productionCount: "1",
+        price: "5.6-15M",
+
+        location: "Porsche Classic Collection",
+
+        images: [
+             {
+            src: "images/porsche/hyper/911gt198-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_IMG_0834.jpg"
+        },
+            {
+            src: "images/porsche/hyper/911gt198-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_(street_version)_in_the_Porsche-Museum_(2009)_1X7A0383.jpg"
+        },
+         {
+            src: "images/porsche/hyper/911gt198-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_in_the_Porsche-Museum_(2009)_IMG_2772.jpg"
+        }  
+    ]
     }
-   
+
 ];
