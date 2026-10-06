@@ -34,28 +34,22 @@ const bentleyCars = [
 
         images: [
          {
-            src: "images/audi/r8v10per-1.jpg",
+            src: "images/bentley/contgtconv-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
         },
         {
-            src: "images/audi/r8v10per-2.jpg",
+            src: "images/bentley/contgtconv-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
         },
         {
-            src: "images/audi/r8v10per-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
-        },
-        {
-            src: "images/audi/r8v10per-4.jpg",
+            src: "images/bentley/contgtconv-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
         }
     ]
 
