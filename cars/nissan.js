@@ -40,7 +40,7 @@ const nissanCars = [
             source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
         },
         {
-            src: "images/nissan/r390-3.jpg",
+            src: "images/nissan/r390-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Morio",
             source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
