@@ -1,36 +1,36 @@
  /* ========================================
-   Alfa Romeo CAR DATABASE
+   Audi CAR DATABASE
 ======================================== */
 
-const alfaromeoCars = [
+const audiCars = [
 
     {
-        brand: "Alfa Romeo",
-        model: "4C",
+        brand: "Audi",
+        model: "R8 V10 Performance",
 
-        production: "2013-2020",
-        country: "Italy",
+        production: "2019-2024",
+        country: "Germany",
 
-        engine: "1.75l turbocharged TBi",
-        power: "240 hp",
-        torque: "350 Nm",
+        engine: "5.2l v10",
+        power: "620 hp",
+        torque: "580 Nm",
 
-        transmission: "6-speed automatic",
-        drivetrain: "RWD",
+        transmission: "7-speed automatic",
+        drivetrain: "AWD",
 
-        acceleration: "4.5 s",
-        topSpeed: "258 km/h",
+        acceleration: "3.2 s",
+        topSpeed: "329 km/h",
 
-        length: "3989 mm",
-        width: "1868 mm",
-        height: "1183 mm",
+        length: "4429 mm",
+        width: "2036 mm",
+        height: "1246 mm",
 
-        weight: "895 kg",
+        weight: "1670 kg",
 
-        productionCount: "around 7000",
-        price: "$70-95K",
+        productionCount: "unknown",
+        price: "$110-200K",
 
-        location: "you can easily see one on the streets",
+        location: "unknown",
 
         images: [
          {
