@@ -230,6 +230,64 @@ const paganiCars = [
 
         images: []
 
-    }
+    },
+   
+
+   {
+        brand: "Pagani",
+        model: "Huayra Dinastia",
+
+        production: "2015-2018",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "730 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1250 kg",
+
+        productionCount: "3",
+        price: "$4.6M",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/pagani/huayra/huayr-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Pagani_Huayra_VEdizione.jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayr-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Pagani_Huayra_VEdizione_3.jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayr-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2016_-_Mercedes-Benz_CLK_GTR_coup%C3%A9_-_2000_-_006.jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayr-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Pagani_Huayra_Roadster_RHD_Rosso_Dubai_2.jpg"
+        }
+    ]
+
+    },
    
    ];
