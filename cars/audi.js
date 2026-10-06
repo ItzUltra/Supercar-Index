@@ -34,28 +34,28 @@ const audiCars = [
 
         images: [
          {
-            src: "images/alfarome/4c-1.jpg",
+            src: "images/audi/r8v10perf-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
+        },
+        {
+            src: "images/audi/r8v10perf-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
+        },
+        {
+            src: "images/audi/r8v10perf-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
+        },
+        {
+            src: "images/audi/r8v10perf-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
-        },
-        {
-            src: "images/alfarome/4c-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfarome/4c-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfarome/4c-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
         }
     ]
 
