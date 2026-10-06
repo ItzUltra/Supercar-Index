@@ -32,7 +32,32 @@ const alfaromeoCars = [
 
         location: "you can easily see one on the streets",
 
-        images: []
+        images: [
+         {
+            src: "images/alfaromeo/4c-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
+        },
+        {
+            src: "images/alfaromeo/4c-2.jpg",
+            license: "CC BY 2.0",
+            author: "ilikewaffles11",
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
+        },
+        {
+            src: "images/alfaromeo/4c-3.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
+        },
+        {
+            src: "images/alfaromeo/4c-4.jpg",
+            license: "CC BY 2.0",
+            author: "ilikewaffles11",
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
+        }
+    ]
 
     }
    
