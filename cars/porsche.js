@@ -343,13 +343,13 @@ const porscheCars = [
             source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_IMG_0834.jpg"
         },
             {
-            src: "images/porsche/hyper/911gt198-1.jpg",
+            src: "images/porsche/hyper/911gt198-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
             source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_(street_version)_in_the_Porsche-Museum_(2009)_1X7A0383.jpg"
         },
          {
-            src: "images/porsche/hyper/911gt198-1.jpg",
+            src: "images/porsche/hyper/911gt198-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
             source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_in_the_Porsche-Museum_(2009)_IMG_2772.jpg"
