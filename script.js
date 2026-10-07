@@ -70,7 +70,8 @@ const cars = [
     ...alfaromeoCars,
    ...audiCars,
    ...bentleyCars,
-   ...bmwCars
+   ...bmwCars,
+    ...buickCars
    
 ];
 
