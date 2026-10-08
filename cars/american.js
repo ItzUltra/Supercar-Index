@@ -86,15 +86,27 @@ const cadillacCars = [
         images: [
          {
             src: "images/american/ct5vblackwing-1.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20206519195).jpg"
+            license: "CC BY-SA 4.0",
+            author: "Damian B OH",
+            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(16).jpg"
         },
         {
-            src: "images/american/gnx-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20180268696).jpg"
+            src: "images/american/ct5vblackwing-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(23).jpg"
+        },
+          {
+            src: "images/american/ct5vblackwing-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(22).jpg"
+        },
+          {
+            src: "images/american/ct5vblackwing-4.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Cadillac_CT5-V_Blackwing_in_Dark_Emerald_Frost,_front_left.jpg"
         }
     ]
 
