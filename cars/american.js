@@ -47,6 +47,57 @@ const buickCars = [
         }
     ]
 
+    },
+
+  /* ========================================
+   Cadillac CAR DATABASE
+======================================== */
+
+const cadillacCars = [
+
+    {
+        brand: "Cadillac",
+        model: "C55-V Blackwing",
+
+        production: "2021-2026",
+        country: "USA",
+
+        engine: "6.2l supercharged lt4 v8",
+        power: "668 hp",
+        torque: "893 Nm",
+
+        transmission: "6-speed manual or 10-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "322 km/h",
+
+        length: "4977 mm",
+        width: "1883 mm",
+        height: "1437 mm",
+
+        weight: "1951 kg",
+
+        productionCount: "5000-6500",
+        price: "$100-150K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/american/ct5vblackwing-1.jpg",
+            license: "CC BY 2.0",
+            author: "ilikewaffles11",
+            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20206519195).jpg"
+        },
+        {
+            src: "images/american/gnx-2.jpg",
+            license: "CC BY 2.0",
+            author: "ilikewaffles11",
+            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20180268696).jpg"
+        }
+    ]
+
     }
    
 ];
