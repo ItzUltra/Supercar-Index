@@ -54,7 +54,7 @@ const buickCars = [
    Cadillac CAR DATABASE
 ======================================== */
 
-const cadillcCars = [
+const cadillacCars = [
 
     {
         brand: "Cadillac",
