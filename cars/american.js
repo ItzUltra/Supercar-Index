@@ -59,7 +59,7 @@ const cadillacCars = [
 
     {
         brand: "Cadillac",
-        model: "C55-V Blackwing",
+        model: "CT5-V Blackwing",
 
         production: "2021-2026",
         country: "USA",
