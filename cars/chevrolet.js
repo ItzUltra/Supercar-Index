@@ -34,28 +34,28 @@ const chevroletCars = [
 
         images: [
          {
-            src: "images/audi/r8v10perf-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-4.jpg",
+            src: "images/chevrolet/c8-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2023_Chevrolet_Corvette_C8_Stingray_Auto_3.jpg"
+        },
+        {
+            src: "images/chevrolet/c8-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ghostofakina",
+            source: "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_Stingray_(C8).jpg"
+        },
+        {
+            src: "images/chevrolet/c8-3.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_(C8)_Washington_DC_Metro_Area,_USA_(1).jpg"
+        },
+        {
+            src: "images/chevrolet/c8-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C8_2.jpg"
         }
     ]
 
