@@ -457,5 +457,57 @@ const koenigseggCars = [
     ]
 
     },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "CCR",
+
+        production: "2004-2006",
+        country: "Sweden",
+
+        engine: "4.7l v8",
+        power: "806 hp",
+        torque: "920 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "395 km/h",
+
+        length: "4293 mm",
+        width: "1996 mm",
+        height: "1020 mm",
+
+        weight: "1180 kg",
+
+        productionCount: "15",
+        price: "unknown",
+
+        location: "Koenigsegg Automotive AB",
+
+        images: [
+          {
+            src: "images/koenigsegg/gera-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_1.jpg"
+        },
+        {
+            src: "images/koenigsegg/gera-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_5.0.jpg"
+        },
+        {
+            src: "images/koenigsegg/gera-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_7089.jpg"
+        }
+    ]
+
+    }
   
 ];
