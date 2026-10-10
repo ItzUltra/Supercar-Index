@@ -314,7 +314,7 @@ const koenigseggCars = [
         power: "1185 hp",
         torque: "1385 Nm",
 
-        transmission: "9-speed  automatic",
+        transmission: "9-speed automatic",
         drivetrain: "RWD",
 
         acceleration: "2.5 s",
@@ -327,9 +327,61 @@ const koenigseggCars = [
         weight: "1385 kg",
 
         productionCount: "70",
-        price: "4-4.5",
+        price: "$4-4.5M",
 
         location: "Santa Laura Collection",
+
+        images: [
+          {
+            src: "images/koenigsegg/gera-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(20559).jpg"
+        },
+        {
+            src: "images/koenigsegg/geras-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(92520).jpg"
+        },
+        {
+            src: "images/koenigsegg/geras-4.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Clément Bucco-Lechat",
+            source: "https://commons.wikimedia.org/wiki/File:Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Koenigsegg_Agera_S_1.jpg"
+        }
+    ]
+
+    },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "CC8S",
+
+        production: "2002-2003",
+        country: "Sweden",
+
+        engine: "4.7l v8",
+        power: "655 hp",
+        torque: "750 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.5 s",
+        topSpeed: "390 km/h",
+
+        length: "4190 mm",
+        width: "1990 mm",
+        height: "1070 mm",
+
+        weight: "1175 kg",
+
+        productionCount: "6",
+        price: "unknown",
+
+        location: "Strojer Samlingen Collection",
 
         images: [
           {
