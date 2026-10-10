@@ -34,28 +34,16 @@ const DodgeCars = [
 
         images: [
          {
-            src: "images/audi/r8v10perf-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-4.jpg",
+            src: "images/dodge/challenger/demon-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2018_Dodge_Challenger_SRT_Demon.jpg"
+        },
+        {
+            src: "images/dodge/challenger/demon-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Geiger_Dodge_Demon,_TWB_2018,_Friedrichshafen_(OW1A0632).jpg"
         }
     ]
 
