@@ -458,22 +458,28 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/gera-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_1.jpg"
+            src: "images/koenigsegg/ccr-1.jpg",
+            license: "CC BY 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_5.jpg"
         },
         {
-            src: "images/koenigsegg/gera-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Vauxford",
-            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_5.0.jpg"
+            src: "images/koenigsegg/ccr-3.jpg",
+            license: "CC BY 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_7.jpg"
         },
         {
-            src: "images/koenigsegg/gera-4.jpg",
+            src: "images/koenigsegg/ccr-4.jpg",
             license: "CC BY-SA 2.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_7089.jpg"
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_-_Flickr_-_Alexandre_Pr%C3%A9vot_(3).jpg"
+        },
+           {
+            src: "images/koenigsegg/ccr-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_2004_2.jpg"
         }
     ]
 
