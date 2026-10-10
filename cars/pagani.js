@@ -463,7 +463,7 @@ const paganiCars = [
         power: "846 hp",
         torque: "1050 Nm",
 
-        transmission: "7-speed manual",
+        transmission: "7-speed sequential",
         drivetrain: "RWD",
 
         acceleration: "3.3 s",
@@ -481,6 +481,79 @@ const paganiCars = [
         location: "unknown",
 
         images: []
+           
+    },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra Roadster Z",
+
+        production: "2017",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "764 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "370 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "1",
+        price: "$4-6M",
+
+        location: "unknown",
+
+        images: []
+           
+    },
+
+
+ {
+        brand: "Pagani",
+        model: "Huayra L'Ultimo",
+
+        production: "2018",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "720 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "1",
+        price: "$5M",
+
+        location: "somewhere in Dubai",
+
+        images: [
+           {
+            src: "images/pagani/huayra/lultimo-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Bryan S",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_L%27Ultimo.jpg"
+        }
+        ]
            
     },
    
