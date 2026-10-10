@@ -300,6 +300,58 @@ const koenigseggCars = [
         }
     ]
 
+    },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "CC850",
+
+        production: "2022-",
+        country: "Sweden",
+
+        engine: "5l twinturbo v8",
+        power: "1185 hp",
+        torque: "1385 Nm",
+
+        transmission: "9-speed  automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "321 km/h",
+
+        length: "4364 mm",
+        width: "2024 mm",
+        height: "1127 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "70",
+        price: "4-4.5",
+
+        location: "Santa Laura Collection",
+
+        images: [
+          {
+            src: "images/koenigsegg/gera-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(20559).jpg"
+        },
+        {
+            src: "images/koenigsegg/geras-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(92520).jpg"
+        },
+        {
+            src: "images/koenigsegg/geras-4.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Clément Bucco-Lechat",
+            source: "https://commons.wikimedia.org/wiki/File:Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Koenigsegg_Agera_S_1.jpg"
+        }
+    ]
+
     }
   
 ];
