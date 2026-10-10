@@ -339,7 +339,7 @@ const paganiCars = [
         productionCount: "1",
         price: "$7M",
 
-        location: "unknown",
+        location: "Manny Khoshbin's Car Collection",
 
         images: [
            {
@@ -412,10 +412,43 @@ const paganiCars = [
         productionCount: "1",
         price: "$5M",
 
-        location: "unknown",
+        location: "El Chavez Collection",
 
         images: []
 
+    },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra Executor",
+
+        production: "2024",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "846 hp",
+        torque: "1050 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "1",
+        price: "$8M",
+
+        location: "unknown",
+
+        images: []
+           
     },
    
    ];
