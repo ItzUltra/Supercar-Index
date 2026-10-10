@@ -450,5 +450,38 @@ const paganiCars = [
         images: []
            
     },
+
+
+    {
+        brand: "Pagani",
+        model: "Huayra Dinamica Evo",
+
+        production: "2023",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "846 hp",
+        torque: "1050 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "1",
+        price: "$5M",
+
+        location: "unknown",
+
+        images: []
+           
+    },
    
    ];
