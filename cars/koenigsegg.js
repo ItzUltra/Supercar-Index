@@ -404,6 +404,58 @@ const koenigseggCars = [
         }
     ]
 
-    }
+    },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "CCGT1",
+
+        production: "2026-",
+        country: "Sweden",
+
+        engine: "5l twinturbo v8",
+        power: "1280 hp",
+        torque: "1600 Nm",
+
+        transmission: "9-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "365 km/h",
+
+        length: "4478 mm",
+        width: "2058 mm",
+        height: "1160 mm",
+
+        weight: "1100 kg",
+
+        productionCount: "70",
+        price: "$4M",
+
+        location: "Koenigsegg Automotive AB",
+
+        images: [
+          {
+            src: "images/koenigsegg/gera-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_1.jpg"
+        },
+        {
+            src: "images/koenigsegg/gera-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_5.0.jpg"
+        },
+        {
+            src: "images/koenigsegg/gera-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_7089.jpg"
+        }
+    ]
+
+    },
   
 ];
