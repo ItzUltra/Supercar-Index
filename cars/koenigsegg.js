@@ -248,6 +248,58 @@ const koenigseggCars = [
         }
     ]
 
+    },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "CC",
+
+        production: "1996",
+        country: "Sweden",
+
+        engine: "4.6l v8",
+        power: "655 hp",
+        torque: "750 Nm",
+
+        transmission: "6-speed  manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "390 km/h",
+
+        length: "4190 mm",
+        width: "1990 mm",
+        height: "1120 mm",
+
+        weight: "1070 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "Motala Motormuseum, Motala",
+
+        images: [
+          {
+            src: "images/koenigsegg/gera-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(20559).jpg"
+        },
+        {
+            src: "images/koenigsegg/geras-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(92520).jpg"
+        },
+        {
+            src: "images/koenigsegg/geras-4.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Clément Bucco-Lechat",
+            source: "https://commons.wikimedia.org/wiki/File:Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Koenigsegg_Agera_S_1.jpg"
+        }
+    ]
+
     }
   
 ];
