@@ -281,22 +281,10 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/gera-1.jpg",
+            src: "images/koenigsegg/cc-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(20559).jpg"
-        },
-        {
-            src: "images/koenigsegg/geras-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(92520).jpg"
-        },
-        {
-            src: "images/koenigsegg/geras-4.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Clément Bucco-Lechat",
-            source: "https://commons.wikimedia.org/wiki/File:Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Koenigsegg_Agera_S_1.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1994_Koenigsegg_CC_Prototype.jpg"
         }
     ]
 
@@ -333,22 +321,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/gera-1.jpg",
+            src: "images/koenigsegg/cc850-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(20559).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CC850_Auto_Zuerich_2025_DSC_3655.jpg"
         },
         {
-            src: "images/koenigsegg/geras-2.jpg",
+            src: "images/koenigsegg/cc850-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(92520).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CC850_Auto_Zuerich_2025_DSC_3659_(cropped).jpg"
         },
         {
-            src: "images/koenigsegg/geras-4.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Clément Bucco-Lechat",
-            source: "https://commons.wikimedia.org/wiki/File:Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Koenigsegg_Agera_S_1.jpg"
+            src: "images/koenigsegg/cc850-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Andrew Basterfield",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CC850_(53047545257).jpg"
         }
     ]
 
