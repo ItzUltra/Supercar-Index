@@ -2,7 +2,7 @@
    Dodge CAR DATABASE
 ======================================== */
 
-const DodgeCars = [
+const dodgeCars = [
 
     {
         brand: "Dodge",
