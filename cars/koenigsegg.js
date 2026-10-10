@@ -373,22 +373,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/gera-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(20559).jpg"
+            src: "images/koenigsegg/cc8s-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Andrew Basterfield",
+            source: "https://commons.wikimedia.org/wiki/File:2003_Koenigsegg_CC8S_(35862871624).jpg"
         },
         {
-            src: "images/koenigsegg/geras-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_(92520).jpg"
+            src: "images/koenigsegg/cc8s-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Andrew Basterfield",
+            source: "https://commons.wikimedia.org/wiki/File:2003_Koenigsegg_CC8S_(36697853365).jpg"
         },
         {
-            src: "images/koenigsegg/geras-4.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Clément Bucco-Lechat",
-            source: "https://commons.wikimedia.org/wiki/File:Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Koenigsegg_Agera_S_1.jpg"
+            src: "images/koenigsegg/cc8s-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Falcon® Photography",
+            source: "https://commons.wikimedia.org/wiki/File:Geneva_Motor_Show_2015_Koenigsegg_CC8S_(24521144705).jpg"
         }
     ]
 
@@ -423,26 +423,7 @@ const koenigseggCars = [
 
         location: "Koenigsegg Automotive AB",
 
-        images: [
-          {
-            src: "images/koenigsegg/gera-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera_1.jpg"
-        },
-        {
-            src: "images/koenigsegg/gera-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Vauxford",
-            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_5.0.jpg"
-        },
-        {
-            src: "images/koenigsegg/gera-4.jpg",
-            license: "CC BY-SA 2.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2011_Koenigsegg_Agera_7089.jpg"
-        }
-    ]
+        images: []
 
     },
 
