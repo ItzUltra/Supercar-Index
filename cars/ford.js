@@ -34,28 +34,28 @@ const fordCars = [
 
         images: [
          {
-            src: "images/audi/r8v10perf-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-4.jpg",
+            src: "images/ford/gt2-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+        },
+        {
+            src: "images/ford/gt2-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Tristan Surtel",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_Shmee150.jpg"
+        },
+        {
+            src: "images/ford/gt2-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_GT(2nd_Generation)_unveiled_at_Geneva_2015_(Ank_Kumar,_Infosys)_02.jpg"
+        },
+        {
+            src: "images/ford/gt2-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_11.jpg"
         }
     ]
 
