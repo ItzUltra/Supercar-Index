@@ -152,28 +152,28 @@ const jeepCars = [
 
         images: [
          {
-            src: "images/american/ct5vblackwing-1.jpg",
+            src: "images/american/trackhawk-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B OH",
-            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(16).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Jeep_Grand_Cherokee_Trackhawk_Genf_2018.jpg"
         },
         {
-            src: "images/american/ct5vblackwing-2.jpg",
+            src: "images/american/trackhawk-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(23).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Jeep_Grand_Cherokee_Trackhawk_Back_Genf_2018.jpg"
         },
           {
-            src: "images/american/ct5vblackwing-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(22).jpg"
+            src: "images/american/trackhawk-3.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:Jeep_Grand_Cherokee_Trackhawk_(WK2)_Washington_DC_Metro_Area,_USA_(5).jpg"
         },
           {
-            src: "images/american/ct5vblackwing-4.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Mr.choppers",
-            source: "https://commons.wikimedia.org/wiki/File:2022_Cadillac_CT5-V_Blackwing_in_Dark_Emerald_Frost,_front_left.jpg"
+            src: "images/american/trackhawk-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Geiger_Jeep_Trackhawk,_TWB_2018,_Friedrichshafen_(OW1A0528).jpg"
         }
     ]
 
