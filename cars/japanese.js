@@ -165,28 +165,28 @@ const mazdaCars = [
 
         images: [
          {
-            src: "images/japanese/nsx2-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+            src: "images/japanese/miatana-1.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_(40056730400).jpg"
         },
         {
-            src: "images/japanese/nsx2-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+            src: "images/japanese/miatana-2.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_(39398914415).jpg"
         },
         {
-            src: "images/japanese/nsx2-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+            src: "images/japanese/miatana-3.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_(43328198445).jpg"
         },
         {
-            src: "images/japanese/nsx2-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+            src: "images/japanese/miatana-4.jpg",
+            license: "CC BY 3.0",
+            author: "Lewis Collard",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_drift.JPG"
         }
     ]
 
