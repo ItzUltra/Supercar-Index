@@ -230,28 +230,10 @@ const mitsubishiCars = [
 
         images: [
           {
-            src: "images/japanese/nsx2-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
-        },
-        {
-            src: "images/japanese/nsx2-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
-        },
-        {
-            src: "images/japanese/nsx2-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
-        },
-        {
-            src: "images/japanese/nsx2-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+            src: "images/japanese/evo1-1.jpg",
+            license: "CC BY 2.0",
+            author: "Grant.C",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Lancer_Evo_IMG_5722.jpg"
         }
         
     ]
