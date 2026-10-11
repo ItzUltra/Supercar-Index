@@ -127,3 +127,68 @@ const lexusCars = [
     }
    
 ];
+
+/* ========================================
+   Mazda CAR DATABASE
+======================================== */
+
+const mazdaCars = [
+
+    {
+        brand: "Mazda",
+        model: "MX5 Miata NA",
+
+        production: "1990-1998",
+        country: "Japan",
+
+        engine: "1.6l 16V/newer 1.6l 16V/1.8l 16V",
+        power: "115/90/131 hp",
+        torque: "85/129/152 Nm",
+
+        transmission: "6-speed manual/6-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "10.6/10.6/8.7 s",
+        topSpeed: "197 km/h",
+
+        length: "3975 mm",
+        width: "1675 mm",
+        height: "1230 mm",
+
+        weight: "990 kg",
+
+        productionCount: "431 506",
+        price: "$14-22K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/japanese/nsx2-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+        }
+    ]
+
+    }
+   
+];
