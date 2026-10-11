@@ -34,17 +34,29 @@ const lotusCars = [
 
         images: [
          {
-            src: "images/korean/vision74-1.jpg",
+            src: "images/lotus/evija-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Hyundai_N_Vision_74_Concept_(104).jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Lotus_Evija_2.jpg"
         },
         {
-            src: "images/korean/vision74-2.jpg",
+            src: "images/lotus/evija-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Hyundai_N_Vision_74_Concept_(107).jpg"
-        }
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Lotus_Evija_5.jpg"
+        },
+          {
+            src: "images/lotus/evija-2.jpg",
+            license: "CC BY 2.0",
+            author: "Michele Borioli",
+            source: "https://commons.wikimedia.org/wiki/File:Goodwood_edited-35_(53863491944).jpg"
+        },
+            {
+            src: "images/lotus/evija-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lotus_Evija_(29081).jpg"
+        }  
     ]
 
     }
