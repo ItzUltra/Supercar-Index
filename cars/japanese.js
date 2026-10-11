@@ -241,3 +241,51 @@ const mitsubishiCars = [
     }
    
 ];
+
+/* ========================================
+   Subaru CAR DATABASE
+======================================== */
+
+const subaruCars = [
+
+    {
+        brand: "Subaru",
+        model: "Impreza 22B STi",
+
+        production: "1992-1993",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "250 hp",
+        torque: "309 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "5.1 s",
+        topSpeed: "228 km/h",
+
+        length: "4310 mm",
+        width: "1695 mm",
+        height: "1395 mm",
+
+        weight: "1240 kg",
+
+        productionCount: "5000",
+        price: "$10-23K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/evo1-1.jpg",
+            license: "CC BY 2.0",
+            author: "Grant.C",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Lancer_Evo_IMG_5722.jpg"
+        }
+        
+    ]
+
+    }
+   
+];
