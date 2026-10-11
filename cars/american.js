@@ -115,3 +115,68 @@ const cadillacCars = [
     }
    
 ];
+
+ /* ========================================
+   Jeep CAR DATABASE
+======================================== */
+
+const jeepCars = [
+
+    {
+        brand: "Jeep",
+        model: "Cherokee Trackhawk",
+
+        production: "2017-2021",
+        country: "USA",
+
+        engine: "6.2l V8 HEMI",
+        power: "710 hp",
+        torque: "868 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "290 km/h",
+
+        length: "4846 mm",
+        width: "1954 mm",
+        height: "1749 mm",
+
+        weight: "2531 kg",
+
+        productionCount: "around 8400",
+        price: "$57-105K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/american/ct5vblackwing-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B OH",
+            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(16).jpg"
+        },
+        {
+            src: "images/american/ct5vblackwing-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(23).jpg"
+        },
+          {
+            src: "images/american/ct5vblackwing-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Cadillac_CT5-V_Blackwing_6DC79_Black_Raven_(22).jpg"
+        },
+          {
+            src: "images/american/ct5vblackwing-4.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Cadillac_CT5-V_Blackwing_in_Dark_Emerald_Frost,_front_left.jpg"
+        }
+    ]
+
+    }
+   
+];
