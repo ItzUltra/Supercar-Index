@@ -77,7 +77,8 @@ const cars = [
    ...dodgeCars,
    ...fordCars,
      ...hyundaiCars,
-    ...hondaCars
+    ...hondaCars,
+   ...jeepCars
    
 ];
 
