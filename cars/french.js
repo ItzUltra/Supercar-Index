@@ -37,3 +37,68 @@ const delageCars = [
     }
    
 ];
+
+/* ========================================
+   Peugeot CAR DATABASE
+======================================== */
+
+const peugeotCars = [
+
+    {
+        brand: "Peugeot",
+        model: "205 Turbo 16",
+
+        production: "1984-1985",
+        country: "French",
+
+        engine: "1.7l turbocharged inline-4",
+        power: "200 hp",
+        torque: "255 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "6.3 s",
+        topSpeed: "216 km/h",
+
+        length: "3825 mm",
+        width: "1700 mm",
+        height: "1353 mm",
+
+        weight: "1145 kg",
+
+        productionCount: "200",
+        price: "$288-310K",
+
+        location: "Das Nationale Automuseum, Dietzhölztal",
+
+        images: [
+         {
+            src: "images/audi/r8v10perf-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
+        },
+        {
+            src: "images/audi/r8v10perf-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
+        },
+        {
+            src: "images/audi/r8v10perf-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
+        },
+        {
+            src: "images/audi/r8v10perf-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
+        }
+    ]
+
+    }
+   
+];
