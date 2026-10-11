@@ -9,7 +9,7 @@ const lotusCars = [
         model: "Evija",
 
         production: "2022-",
-        country: "South Korea",
+        country: "UK",
 
         engine: "electric",
         power: "2040 hp",
