@@ -193,3 +193,69 @@ const mazdaCars = [
     }
    
 ];
+
+ /* ========================================
+   Mitsubishi CAR DATABASE
+======================================== */
+
+const mitsubishiCars = [
+
+    {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution I",
+
+        production: "1992-1993",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "250 hp",
+        torque: "309 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "5.1 s",
+        topSpeed: "228 km/h",
+
+        length: "4310 mm",
+        width: "1695 mm",
+        height: "1395 mm",
+
+        weight: "1240 kg",
+
+        productionCount: "5000",
+        price: "$10-23K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/nsx2-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+        }
+        
+    ]
+
+    }
+   
+];
