@@ -33,30 +33,31 @@ const hondaCars = [
         location: "unknown",
 
         images: [
-         {
-            src: "images/japanese/lfa-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Tennen-Gas",
-            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_001.JPG"
+          {
+            src: "images/japanese/nsx2-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
         },
         {
-            src: "images/japanese/lfa-2.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Tennen-Gas",
-            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_002.JPG"
-        },
-        {
-            src: "images/japanese/lfa-4.jpg",
-            license: "CC BY 2.0",
-            author: "Michael Gil",
-            source: "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg"
+            src: "images/japanese/nsx2-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
         },
         {
             src: "images/japanese/nsx2-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
         }
+        
     ]
 
     }
@@ -98,26 +99,26 @@ const lexusCars = [
         location: "Toyota Automobile Museum, Nagakute-shi",
 
         images: [
-         {
-            src: "images/japanese/nsx2-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+          {
+            src: "images/japanese/lfa-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_001.JPG"
         },
         {
-            src: "images/japanese/nsx2-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+            src: "images/japanese/lfa-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_002.JPG"
+        },
+        {
+            src: "images/japanese/lfa-4.jpg",
+            license: "CC BY 2.0",
+            author: "Michael Gil",
+            source: "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg"
         },
         {
             src: "images/japanese/nsx2-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
-        },
-        {
-            src: "images/japanese/nsx2-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
