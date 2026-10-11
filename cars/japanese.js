@@ -34,28 +34,28 @@ const hondaCars = [
 
         images: [
          {
-            src: "images/bmw/m4comp-1.jpg",
+            src: "images/japanese/nsx2-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M4_(G82)_Competition_IMG_9367.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
         },
         {
-            src: "images/bmw/m4comp-2.jpg",
+            src: "images/japanese/nsx2-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M4_(G82)_Competition_IMG_9375.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
         },
         {
-            src: "images/bmw/m4comp-3.jpg",
+            src: "images/japanese/nsx2-3.jpg",
             license: "CC BY-SA 2.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G83_M4_Convertible_Competition_M_xDrive_Alpine_White_(2).jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
         },
         {
-            src: "images/bmw/m4comp-4.jpg",
+            src: "images/japanese/nsx2-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_M4_(G82)_Competition_IMG_4892_retouched.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
         }
     ]
 
