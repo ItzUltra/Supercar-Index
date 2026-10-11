@@ -117,7 +117,7 @@ const lanciaCars = [
             source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_001.JPG"
         },
         {
-            src: "images/alfaromeo/4c-4.jpg",
+            src: "images/italian/stratos-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_Safari.jpg"
