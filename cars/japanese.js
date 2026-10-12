@@ -252,29 +252,29 @@ const subaruCars = [
         brand: "Subaru",
         model: "Impreza 22B STi",
 
-        production: "1992-1993",
+        production: "1998",
         country: "Japan",
 
-        engine: "2l turbocharged 4G63T",
-        power: "250 hp",
-        torque: "309 Nm",
+        engine: "2.2l turbocharged EJ22G",
+        power: "280 hp",
+        torque: "363 Nm",
 
         transmission: "5-speed manual",
         drivetrain: "AWD",
 
-        acceleration: "5.1 s",
-        topSpeed: "228 km/h",
+        acceleration: "4.9 s",
+        topSpeed: "252 km/h",
 
-        length: "4310 mm",
-        width: "1695 mm",
-        height: "1395 mm",
+        length: "4365 mm",
+        width: "1770 mm",
+        height: "1390 mm",
 
-        weight: "1240 kg",
+        weight: "1270 kg",
 
-        productionCount: "5000",
-        price: "$10-23K",
+        productionCount: "424",
+        price: "$250-300K",
 
-        location: "unknown",
+        location: "British Motor Museum, Warwickshire",
 
         images: [
           {
