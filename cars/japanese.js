@@ -278,10 +278,16 @@ const subaruCars = [
 
         images: [
           {
-            src: "images/japanese/evo1-1.jpg",
-            license: "CC BY 2.0",
-            author: "Grant.C",
-            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Lancer_Evo_IMG_5722.jpg"
+            src: "images/japanese/22b-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Subaru_Impreza_22b_STi.jpg"
+        },
+         {
+            src: "images/japanese/22b-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Subaru_Impreza_22B_STi_Rear.jpg"
         }
         
     ]
