@@ -284,7 +284,7 @@ const subaruCars = [
             source: "https://commons.wikimedia.org/wiki/File:1998_Subaru_Impreza_22b_STi.jpg"
         },
          {
-            src: "images/japanese/22b-1.jpg",
+            src: "images/japanese/22b-2.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:1998_Subaru_Impreza_22B_STi_Rear.jpg"
