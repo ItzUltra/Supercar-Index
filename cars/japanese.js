@@ -238,8 +238,49 @@ const mitsubishiCars = [
         
     ]
 
+    },
+ 
+
+ {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution II",
+
+        production: "1994-1995",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "260 hp",
+        torque: "309 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "5.2 s",
+        topSpeed: "229 km/h",
+
+        length: "4310 mm",
+        width: "1695 mm",
+        height: "1420 mm",
+
+        weight: "1250 kg",
+
+        productionCount: "5000",
+        price: "$22-40K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/evo2-1.jpg",
+            license: "CC BY 2.0",
+            author: "Grant.C",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Lancer_Evo_IMG_5722.jpg"
+        }
+        
+    ]
+
     }
-   
+ 
 ];
 
 /* ========================================
