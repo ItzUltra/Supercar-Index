@@ -74,28 +74,28 @@ const peugeotCars = [
 
         images: [
          {
-            src: "images/audi/r8v10perf-1.jpg",
+            src: "images/french/205-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Peugeot_205_Turbo_16_01.jpg"
         },
         {
-            src: "images/audi/r8v10perf-2.jpg",
+            src: "images/french/205-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Peugeot_205_Turbo_16_02.jpg"
         },
         {
-            src: "images/audi/r8v10perf-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
+            src: "images/french/205-3.jpg",
+            license: "CC BY 2.0",
+            author: "estoril",
+            source: "https://commons.wikimedia.org/wiki/File:Peugeot_205_Turbo_16_-_Race_Retro_2008_02.jpg"
         },
         {
-            src: "images/audi/r8v10perf-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
+            src: "images/french/205.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Peugeot_205_Turbo_16_Dakar_01.JPG"
         }
     ]
 
