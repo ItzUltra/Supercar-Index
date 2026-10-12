@@ -92,36 +92,24 @@ const volkswagenCars = [
 
         weight: "1200 kg",
 
-        productionCount: "5",
+        productionCount: "2",
         price: "unknown",
 
         location: "GFG Style Collection",
 
         images: [
          {
-            src: "images/audi/r8v10perf-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(1).jpg"
+            src: "images/german/nardo-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Lebubu93",
+            source: "https://commons.wikimedia.org/wiki/File:Volkswagen_W12_Nardo_2001.jpg"
         },
         {
-            src: "images/audi/r8v10perf-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance_4S_green_(2).jpg"
+            src: "images/german/nardo-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Lebubu93",
+            source: "https://commons.wikimedia.org/wiki/File:Volkswagen_W12_Nardo_2001_Vue_arri%C3%A8re..jpg"
         },
-        {
-            src: "images/audi/r8v10perf-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_Coup%C3%A9_V10_performance_quattro_(49744721803).jpg"
-        },
-        {
-            src: "images/audi/r8v10perf-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Audi_R8_V10_Performance.jpg"
-        }
     ]
 
     }
