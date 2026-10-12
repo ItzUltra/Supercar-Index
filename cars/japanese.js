@@ -272,9 +272,15 @@ const mitsubishiCars = [
         images: [
           {
             src: "images/japanese/evo2-1.jpg",
-            license: "CC BY 2.0",
-            author: "Grant.C",
-            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Lancer_Evo_IMG_5722.jpg"
+            license: "CC BY-SA 2.0",
+            author: "orion",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_Bright_road_sprints_%2709.jpg"
+        },
+          {
+            src: "images/japanese/evo2-2.jpg",
+            license: "CC BY-SA 2.5",
+            author: "André Karwath aka",
+            source: "https://commons.wikimedia.org/wiki/File:Saxony_rally_racing_Mitsubishi_Lancer_Evo_2_52_(aka).jpg"
         }
         
     ]
