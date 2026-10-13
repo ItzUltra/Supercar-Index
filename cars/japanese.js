@@ -285,6 +285,147 @@ const mitsubishiCars = [
         
     ]
 
+    },
+
+
+  {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution III",
+
+        production: "1995-1996",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "270 hp",
+        torque: "300 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "5.1 s",
+        topSpeed: "240 km/h",
+
+        length: "4310 mm",
+        width: "1695 mm",
+        height: "1420 mm",
+
+        weight: "1260 kg",
+
+        productionCount: "8391",
+        price: "$16-35K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/evo2-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "orion",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_Bright_road_sprints_%2709.jpg"
+        },
+          {
+            src: "images/japanese/evo2-2.jpg",
+            license: "CC BY-SA 2.5",
+            author: "André Karwath aka",
+            source: "https://commons.wikimedia.org/wiki/File:Saxony_rally_racing_Mitsubishi_Lancer_Evo_2_52_(aka).jpg"
+        }
+        
+    ]
+
+    },
+
+
+ {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution IV",
+
+        production: "1996-1998",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "280 hp",
+        torque: "353 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "5.5 s",
+        topSpeed: "180 km/h",
+
+        length: "4330 mm",
+        width: "1695 mm",
+        height: "1415 mm",
+
+        weight: "1260 kg",
+
+        productionCount: "around 13K",
+        price: "$25-35K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/evo2-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "orion",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_Bright_road_sprints_%2709.jpg"
+        },
+          {
+            src: "images/japanese/evo2-2.jpg",
+            license: "CC BY-SA 2.5",
+            author: "André Karwath aka",
+            source: "https://commons.wikimedia.org/wiki/File:Saxony_rally_racing_Mitsubishi_Lancer_Evo_2_52_(aka).jpg"
+        }
+        
+    ]
+
+    },
+
+
+ {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution V",
+
+        production: "1998-1999",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "280 hp",
+        torque: "383 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4.9 s",
+        topSpeed: "220 km/h",
+
+        length: "4350 mm",
+        width: "1770 mm",
+        height: "1415 mm",
+
+        weight: "1260 kg",
+
+        productionCount: "6-8K",
+        price: "$30-70K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/evo2-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "orion",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_Bright_road_sprints_%2709.jpg"
+        },
+          {
+            src: "images/japanese/evo2-2.jpg",
+            license: "CC BY-SA 2.5",
+            author: "André Karwath aka",
+            source: "https://commons.wikimedia.org/wiki/File:Saxony_rally_racing_Mitsubishi_Lancer_Evo_2_52_(aka).jpg"
+        }
+        
+    ]
+
     }
  
 ];
