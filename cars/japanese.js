@@ -418,16 +418,16 @@ const mitsubishiCars = [
 
         images: [
           {
-            src: "images/japanese/evo2-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "orion",
-            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_Bright_road_sprints_%2709.jpg"
+            src: "images/japanese/evo5-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
         },
           {
-            src: "images/japanese/evo2-2.jpg",
-            license: "CC BY-SA 2.5",
-            author: "André Karwath aka",
-            source: "https://commons.wikimedia.org/wiki/File:Saxony_rally_racing_Mitsubishi_Lancer_Evo_2_52_(aka).jpg"
+            src: "images/japanese/evo5-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Curimedia",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
         }
         
     ]
