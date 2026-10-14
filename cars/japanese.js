@@ -574,6 +574,100 @@ const mitsubishiCars = [
     ]
 
     },
+
+
+ {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution IX",
+
+        production: "2005-2007",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "280 hp",
+        torque: "355 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4.5 s",
+        topSpeed: "250 km/h",
+
+        length: "4534 mm",
+        width: "1770 mm",
+        height: "1480 mm",
+
+        weight: "1465 kg",
+
+        productionCount: "unknown",
+        price: "$40-70K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/vo5-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
+        },
+          {
+            src: "images/japanese/vo5-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Curimedia",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
+        }
+        
+    ]
+
+    },
+
+
+  {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution X",
+
+        production: "2008-2014",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "295 hp",
+        torque: "366 Nm",
+
+        transmission: "5-speed manual/6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "5.4 s",
+        topSpeed: "240 km/h",
+
+        length: "4505 mm",
+        width: "1810 mm",
+        height: "1480 mm",
+
+        weight: "1560 kg",
+
+        productionCount: "unknown",
+        price: "$20-50K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/vo5-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
+        },
+          {
+            src: "images/japanese/vo5-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Curimedia",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
+        }
+        
+    ]
+
+    }
  
 ];
 
