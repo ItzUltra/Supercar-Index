@@ -432,7 +432,148 @@ const mitsubishiCars = [
         
     ]
 
-    }
+    },
+
+
+  {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution VI",
+
+        production: "1999-2001",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "280 hp",
+        torque: "373 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4.9 s",
+        topSpeed: "260 km/h",
+
+        length: "4350 mm",
+        width: "1770 mm",
+        height: "1405 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "unknown",
+        price: "$25-120K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/vo5-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
+        },
+          {
+            src: "images/japanese/vo5-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Curimedia",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
+        }
+        
+    ]
+
+    },
+
+
+ {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution VII",
+
+        production: "2001-2003",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "280 hp",
+        torque: "392 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "253 km/h",
+
+        length: "4455 mm",
+        width: "1770 mm",
+        height: "1450 mm",
+
+        weight: "1380 kg",
+
+        productionCount: "around 10K",
+        price: "$20-60K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/vo5-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
+        },
+          {
+            src: "images/japanese/vo5-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Curimedia",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
+        }
+        
+    ]
+
+    },
+
+
+  {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution VIII",
+
+        production: "2003-2006",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "280 hp",
+        torque: "355 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "5.9 s",
+        topSpeed: "245 km/h",
+
+        length: "4490 mm",
+        width: "1770 mm",
+        height: "1450 mm",
+
+        weight: "1320 kg",
+
+        productionCount: "unknown",
+        price: "$26-70K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/vo5-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
+        },
+          {
+            src: "images/japanese/vo5-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Curimedia",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
+        }
+        
+    ]
+
+    },
  
 ];
 
