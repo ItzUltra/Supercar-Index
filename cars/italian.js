@@ -204,7 +204,7 @@ const alfaromeoCars = [
         productionCount: "108",
         price: "$95-125K",
 
-        location: "you can easily see one on the streets",
+        location: "unknown",
 
         images: [
          {
@@ -262,7 +262,7 @@ const alfaromeoCars = [
         productionCount: "1",
         price: "unknown",
 
-        location: "Lefty-Mobile Collection",
+        location: "Heritage Hub, Turin",
 
         images: [
          {
@@ -320,7 +320,7 @@ const alfaromeoCars = [
         productionCount: "1",
         price: "unknown",
 
-        location: "Lefty-Mobile Collection",
+        location: "Heritage Hub, Turin",
 
         images: [
          {
@@ -378,7 +378,7 @@ const alfaromeoCars = [
         productionCount: "1",
         price: "unknown",
 
-        location: "Lefty-Mobile Collection",
+        location: "unknown",
 
         images: [
          {
@@ -436,7 +436,7 @@ const alfaromeoCars = [
         productionCount: "16",
         price: "unknown",
 
-        location: "Lefty-Mobile Collection",
+        location: "unknown",
 
         images: [
          {
@@ -494,7 +494,7 @@ const alfaromeoCars = [
         productionCount: "35",
         price: "unknown",
 
-        location: "Lefty-Mobile Collection",
+        location: "unknown",
 
         images: [
          {
@@ -528,7 +528,7 @@ const alfaromeoCars = [
 
  {
         brand: "Alfa Romeo",
-        model: "4C Spider Quadrifoglio",
+        model: "4C Spider Italia",
 
         production: "2020",
         country: "Italy",
@@ -552,7 +552,7 @@ const alfaromeoCars = [
         productionCount: "124",
         price: "unknown",
 
-        location: "Lefty-Mobile Collection",
+        location: "Alfatouring Collection",
 
         images: [
          {
