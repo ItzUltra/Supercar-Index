@@ -64,64 +64,6 @@ const alfaromeoCars = [
 
  {
         brand: "Alfa Romeo",
-        model: "4C Spider",
-
-        production: "2013-2020",
-        country: "Italy",
-
-        engine: "1.75l turbocharged TBi",
-        power: "240 hp",
-        torque: "350 Nm",
-
-        transmission: "6-speed automatic",
-        drivetrain: "RWD",
-
-        acceleration: "4.5 s",
-        topSpeed: "258 km/h",
-
-        length: "3989 mm",
-        width: "1868 mm",
-        height: "1183 mm",
-
-        weight: "940 kg",
-
-        productionCount: "unknown",
-        price: "$70-95K",
-
-        location: "you can easily see one on the streets",
-
-        images: [
-         {
-            src: "images/alfaromeo/4-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
-        },
-        {
-            src: "images/alfaromeo/c-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
-        }
-    ]
-
-    },
-
-
- {
-        brand: "Alfa Romeo",
         model: "4C Spider 33 Stradale Tributo",
 
         production: "2020",
@@ -150,28 +92,16 @@ const alfaromeoCars = [
 
         images: [
          {
-            src: "images/alfaromeo/4-1.jpg",
+            src: "images/alfaromeo/4c33-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
+            author: "Luke Santamaria",
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_Spider_33_Stradale_Tributo.jpg"
         },
         {
-            src: "images/alfaromeo/c-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
+            src: "images/alfaromeo/4c33-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alfa Romeo NA",
+            source: "https://commons.wikimedia.org/wiki/File:4C_Tributo.jpg"
         }
     ]
 
@@ -208,28 +138,10 @@ const alfaromeoCars = [
 
         images: [
          {
-            src: "images/alfaromeo/4-1.jpg",
+            src: "images/alfaromeo/4ccomp-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
-        },
-        {
-            src: "images/alfaromeo/c-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_Spider_Type_960_Rosso_Competizione_Tri-Coat_(5).jpg"
         }
     ]
 
