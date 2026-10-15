@@ -643,6 +643,46 @@ const mclarenCars = [
        }
         ]
 
+    },
+
+   
+{
+        brand: "McLaren",
+        model: "675LT",
+
+        production: "2015-2017",
+        country: "UK",
+
+        engine: "3.8l twinturbo v8",
+        power: "675 hp",
+        torque: "700 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "330 km/h",
+
+        length: "4546 mm",
+        width: "2095 mm",
+        height: "1203 mm",
+
+        weight: "1230 kg",
+
+        productionCount: "500",
+        price: "$250-414K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/sennal-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+       }
+        ]
+
     }
 
 ];
