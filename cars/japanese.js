@@ -571,16 +571,22 @@ const mitsubishiCars = [
 
         images: [
           {
-            src: "images/japanese/vo5-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
+            src: "images/japanese/evo8-1.jpg",
+            license: "CC BY 2.0",
+            author: "More Cars",
+            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Lancer_Evo_VIII_(54135188274).jpg"
         },
           {
-            src: "images/japanese/vo5-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Curimedia",
+            src: "images/japanese/evo8-2.jpg",
+            license: "CC BY 2.0",
+            author: "More Cars",
             source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
+        },
+          {
+            src: "images/japanese/evo8-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Mitsubishi_EVO_VIII_FQ.jpg"
         }
         
     ]
