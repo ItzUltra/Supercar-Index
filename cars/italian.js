@@ -336,7 +336,14 @@ const alfaromeoCars = [
 
         location: "unknown",
 
-        images: []
+        images: [
+          {
+            src: "images/alfaromeo/4cedizione-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_Spider_(55140291726).jpg"
+        }
+        ]
 
     },
 
