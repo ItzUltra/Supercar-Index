@@ -465,16 +465,28 @@ const mitsubishiCars = [
 
         images: [
           {
-            src: "images/japanese/vo5-1.jpg",
+            src: "images/japanese/evo6-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:1998_Mitsubishi_EVO_V.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1999_Mitsubishi_EVO_VI_eXtreme.jpg"
         },
           {
-            src: "images/japanese/vo5-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Curimedia",
-            source: "https://commons.wikimedia.org/wiki/File:Mitsubishi_Evo_V_-_Esc._Mollerussa_(4960287551).jpg"
+            src: "images/japanese/evo6-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1999_Mitsubishi_EVO_VI_eXtreme_3.jpg"
+        },
+          {
+            src: "images/japanese/evo6-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2000_Mitsubishi_Lancer_EVO_VI_TME_A47A.jpg"
+        },
+          {
+            src: "images/japanese/evo6-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1999_Mitsubishi_EVO_VI_Rally_Car_3.jpg"
         }
         
     ]
