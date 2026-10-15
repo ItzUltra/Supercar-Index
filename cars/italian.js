@@ -258,30 +258,12 @@ const alfaromeoCars = [
 
         images: [
          {
-            src: "images/alfaromeo/4-1.jpg",
+            src: "images/alfaromeo/4c25-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
-        },
-        {
-            src: "images/alfaromeo/c-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2017_Alfa_Romeo_4C_Spider_TBi_(63629).jpg"
         }
-    ]
+        ]
 
     },
 
@@ -316,30 +298,12 @@ const alfaromeoCars = [
 
         images: [
          {
-            src: "images/alfaromeo/4-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
-        },
-        {
-            src: "images/alfaromeo/c-2.jpg",
+            src: "images/alfaromeo/4c25-2.jpg",
             license: "CC BY 2.0",
             author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21383971860).jpg"
         }
-    ]
+        ]
 
     },
 
@@ -372,32 +336,7 @@ const alfaromeoCars = [
 
         location: "unknown",
 
-        images: [
-         {
-            src: "images/alfaromeo/4-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
-        },
-        {
-            src: "images/alfaromeo/c-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
-        }
-    ]
+        images: []
 
     },
 
@@ -432,28 +371,10 @@ const alfaromeoCars = [
 
         images: [
          {
-            src: "images/alfaromeo/4-1.jpg",
+            src: "images/alfaromeo/4citalia-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(82446).jpg"
-        },
-        {
-            src: "images/alfaromeo/c-2.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21580816031).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-3.jpg",
-            license: "CC BY 2.0",
-            author: "FotoSleuth",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(30836741688).jpg"
-        },
-        {
-            src: "images/alfaromeo/4-4.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_(21002323672).jpg"
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2020_Alfa_Romeo_4C_Spider_Italia_in_Misano_Blue,_front_left.jpg"
         }
     ]
 
