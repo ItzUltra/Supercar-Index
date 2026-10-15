@@ -435,7 +435,7 @@ const lamborghiniCars = [
             source: "https://commons.wikimedia.org/wiki/File:Sian_Party_in_the_back,_business_in_the_front.jpg"
         },
           {
-            src: "images/lamborghini/hyper/sian-3.jpg",
+            src: "images/lamborghini/hyper/sian-4.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2021_Lamborghini_Sian_HRO26.jpg"
