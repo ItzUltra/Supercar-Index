@@ -59,6 +59,86 @@ const fordCars = [
         }
     ]
 
-    }
+    },
+
+
+   {
+        brand: "Ford",
+        model: "GT '64 Heritage Edition",
+
+        production: "2021",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "27",
+        price: "1.1-1.2M",
+
+        location: "The Tiger Collection",
+
+        images: [
+         {
+            src: "images/ford/gt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+        }
+    ]
+
+    },
+
+
+    {
+        brand: "Ford",
+        model: "GT '66 Heritage Edition",
+
+        production: "2017",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "27",
+        price: "1-1.5M",
+
+        location: "American Muscle Car Museum, Melbourne",
+
+        images: [
+         {
+            src: "images/ford/gt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+        }
+    ]
+
+    },
    
 ];
