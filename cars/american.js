@@ -112,8 +112,41 @@ const cadillacCars = [
         }
     ]
 
+    },
+
+
+ {
+        brand: "Cadillac",
+        model: "CT5-V Blackwing F1 Collector Series",
+
+        production: "2026",
+        country: "USA",
+
+        engine: "6.2l supercharged lt4 v8",
+        power: "685 hp",
+        torque: "912 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "322 km/h",
+
+        length: "4977 mm",
+        width: "1883 mm",
+        height: "1437 mm",
+
+        weight: "1951 kg",
+
+        productionCount: "26",
+        price: "$260K",
+
+        location: "unknown",
+
+        images: []
+
     }
-   
+ 
 ];
 
  /* ========================================
