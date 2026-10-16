@@ -260,4 +260,125 @@ const fordCars = [
     ]
 
     },
+
+
+    {
+        brand: "Ford",
+        model: "GT '69 Heritage Edition",
+
+        production: "2020",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "50",
+        price: "1.2-1.5M",
+
+        location: "The AGR Collection",
+
+        images: [
+         {
+            src: "images/ford/gt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+        }
+    ]
+
+    },
+
+
+    {
+        brand: "Ford",
+        model: "GT Alan Mann Heritage Edition",
+
+        production: "2022",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "unknown",
+        price: "unknown",
+
+        location: "American Muscle Car Museum, Melbourne",
+
+        images: [
+         {
+            src: "images/ford/gt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+        }
+    ]
+
+    },
+
+
+    {
+        brand: "Ford",
+        model: "GT Holman Moody Heritage Edition",
+
+        production: "2022",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "21",
+        price: "unknown",
+
+        location: "American Muscle Car Museum, Melbourne",
+
+        images: [
+         {
+            src: "images/ford/gt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+        }
+    ]
+
+    },
+   
 ];
