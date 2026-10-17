@@ -849,7 +849,47 @@ const mitsubishiCars = [
         
     ]
 
-    }
+    },
+
+
+ {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution VIII FQ-400",
+
+        production: "2004",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "411 hp",
+        torque: "481 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "3.5 s",
+        topSpeed: "282 km/h",
+
+        length: "4490 mm",
+        width: "1770 mm",
+        height: "1450 mm",
+
+        weight: "1410 kg",
+
+        productionCount: "100",
+        price: "$30-80K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/evo8fq-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Mitsubishi_EVO_VIII_MR_FQ-400_3.jpg"
+        }
+    ]
+
+    },
  
 ];
 
