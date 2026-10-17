@@ -245,10 +245,10 @@ const fordCars = [
 
         images: [
          {
-            src: "images/ford/gt-1.jpg",
+            src: "images/ford/gt68-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_(89742).jpg"
         }
     ]
 
@@ -285,10 +285,10 @@ const fordCars = [
 
         images: [
          {
-            src: "images/ford/gt-1.jpg",
+            src: "images/ford/gtg8-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+            author: "Jiří Sedláček",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_(cropped).jpg"
         }
     ]
 
@@ -323,14 +323,7 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
-        images: [
-         {
-            src: "images/ford/gt-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
-        }
-    ]
+        images: []
 
     },
 
@@ -363,14 +356,7 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
-        images: [
-         {
-            src: "images/ford/gt-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
-        }
-    ]
+        images: []
 
     },
    
