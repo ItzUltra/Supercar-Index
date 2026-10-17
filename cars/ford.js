@@ -90,14 +90,7 @@ const fordCars = [
 
         location: "The Tiger Collection",
 
-        images: [
-         {
-            src: "images/ford/gt-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
-        }
-    ]
+        images: []
 
     },
 
@@ -130,12 +123,12 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
-        images: [
+        images:[
          {
-            src: "images/ford/gt-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+            src: "images/ford/gt66-1.jpg",
+            license: "CC BY 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2017-03-07_Geneva_Motor_Show_0885.JPG"
         }
     ]
 
@@ -172,10 +165,10 @@ const fordCars = [
 
         images: [
          {
-            src: "images/ford/gt-1.jpg",
+            src: "images/ford/gt66-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_Heritage_Edition_2.jpg"
         }
     ]
 
@@ -212,10 +205,10 @@ const fordCars = [
 
         images: [
          {
-            src: "images/ford/gt-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
+            src: "images/ford/gt67-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Joe Ross",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_--_2018_North_American_International_Auto_Show_in_Detroit_(40359077335).jpg"
         }
     ]
 
