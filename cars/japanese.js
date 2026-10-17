@@ -263,8 +263,106 @@ const mazdaCars = [
         }
     ]
 
+    },
+
+
+ {
+        brand: "Mazda",
+        model: "MX5 Miata Le Mans 24",
+
+        production: "1991",
+        country: "Japan",
+
+        engine: "1.6l 16V",
+        power: "150 hp",
+        torque: "208 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "6.8 s",
+        topSpeed: "209 km/h",
+
+        length: "3975 mm",
+        width: "1675 mm",
+        height: "1230 mm",
+
+        weight: "980 kg",
+
+        productionCount: "24",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/japanese/mx5leman-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Le_Mans.jpg"
+        }
+    ]
+
+    },
+
+
+ {
+        brand: "Mazda",
+        model: "MX5 Miata NA",
+
+        production: "1990-1998",
+        country: "Japan",
+
+        engine: "1.6l 16V/newer 1.6l 16V/1.8l 16V",
+        power: "115/90/131 hp",
+        torque: "85/129/152 Nm",
+
+        transmission: "6-speed manual/6-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "10.6/10.6/8.7 s",
+        topSpeed: "197 km/h",
+
+        length: "3975 mm",
+        width: "1675 mm",
+        height: "1230 mm",
+
+        weight: "990 kg",
+
+        productionCount: "431 506",
+        price: "$14-22K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/japanese/miatana-1.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_(40056730400).jpg"
+        },
+        {
+            src: "images/japanese/miatana-2.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_(39398914415).jpg"
+        },
+        {
+            src: "images/japanese/miatana-3.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_(43328198445).jpg"
+        },
+        {
+            src: "images/japanese/miatana-4.jpg",
+            license: "CC BY 3.0",
+            author: "Lewis Collard",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_MX5_drift.JPG"
+        }
+    ]
+
     }
-   
+ 
 ];
 
  /* ========================================
