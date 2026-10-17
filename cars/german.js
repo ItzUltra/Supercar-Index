@@ -153,5 +153,45 @@ const volkswagenCars = [
     ]
 
     },
-   
+
+
+ {
+        brand: "Volkswagen",
+        model: "W12 Rekord",
+
+        production: "2002",
+        country: "Germany",
+
+        engine: "6l W12",
+        power: "600 hp",
+        torque: "620 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.5 s",
+        topSpeed: "357 km/h",
+
+        length: "4555 mm",
+        width: "1920 mm",
+        height: "1100 mm",
+
+        weight: "1200 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "Volkswagen Classic Collection",
+
+        images: [
+         {
+            src: "images/german/rekord-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Klaus Nahr",
+            source: "https://commons.wikimedia.org/wiki/File:Autostadt_Wolfsburg_-_ZeitHaus_-_Volkswagen_Nardo_-_Flickr_-_KlausNahr.jpg"
+        }
+    ]
+
+    },
+ 
 ];
