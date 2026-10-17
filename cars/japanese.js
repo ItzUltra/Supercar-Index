@@ -130,7 +130,7 @@ const lexusCars = [
 
      {
         brand: "Lexus",
-        model: "LFA Spyder",
+        model: "LFA Spider",
 
         production: "2010",
         country: "Japan",
@@ -156,32 +156,7 @@ const lexusCars = [
 
         location: "Toyota Automobile Museum, Nagakute-shi",
 
-        images: [
-          {
-            src: "images/japanese/lfa-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Tennen-Gas",
-            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_001.JPG"
-        },
-        {
-            src: "images/japanese/lfa-2.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Tennen-Gas",
-            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_002.JPG"
-        },
-        {
-            src: "images/japanese/lfa-4.jpg",
-            license: "CC BY 2.0",
-            author: "Michael Gil",
-            source: "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg"
-        },
-        {
-            src: "images/japanese/nsx2-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
-        }
-    ]
+        images: []
 
     },
 
@@ -216,28 +191,10 @@ const lexusCars = [
 
         images: [
           {
-            src: "images/japanese/lfa-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Tennen-Gas",
-            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_001.JPG"
-        },
-        {
-            src: "images/japanese/lfa-2.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Tennen-Gas",
-            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_002.JPG"
-        },
-        {
-            src: "images/japanese/lfa-4.jpg",
+            src: "images/japanese/lfanur-1.jpg",
             license: "CC BY 2.0",
-            author: "Michael Gil",
-            source: "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg"
-        },
-        {
-            src: "images/japanese/nsx2-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+            author: "Autoviva",
+            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_N%C3%BCrburgring_Package_at_the_2011_Geneva_Motor_Show.jpg"
         }
     ]
 
