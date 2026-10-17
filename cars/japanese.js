@@ -834,12 +834,6 @@ const mitsubishiCars = [
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2011_Mitsubishi_EVO_X_GS_RFQ360_2.jpg"
         },
-         {
-            src: "images/japanese/evo10-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2012_Mitsubishi_EVO_X_FQ-400.jpg"
-        },
           {
             src: "images/japanese/evo10-4.jpg",
             license: "CC BY-SA 2.0",
@@ -890,6 +884,47 @@ const mitsubishiCars = [
     ]
 
     },
+
+
+  {
+        brand: "Mitsubishi",
+        model: "Lancer Evolution X Fq-440 MR",
+
+        production: "2014",
+        country: "Japan",
+
+        engine: "2l turbocharged 4G63T",
+        power: "446 hp",
+        torque: "559 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.8 s",
+        topSpeed: "255 km/h",
+
+        length: "4505 mm",
+        width: "1810 mm",
+        height: "1450 mm",
+
+        weight: "1590 kg",
+
+        productionCount: "40",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/evo10fq-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Mitsubishi_EVO_X_FQ-400.jpg"
+        }
+         
+    ]
+
+    }
  
 ];
 
