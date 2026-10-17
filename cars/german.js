@@ -193,5 +193,38 @@ const volkswagenCars = [
     ]
 
     },
+
+
+ {
+        brand: "Volkswagen",
+        model: "W12 Roadster",
+
+        production: "1997",
+        country: "Germany",
+
+        engine: "5.6l W12",
+        power: "420 hp",
+        torque: "530 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4 s",
+        topSpeed: "290 km/h",
+
+        length: "4400 mm",
+        width: "1920 mm",
+        height: "1000 mm",
+
+        weight: "1200 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "Volkswagen Classic Collection",
+
+        images: []
+
+    },
  
 ];
