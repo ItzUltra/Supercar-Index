@@ -125,8 +125,124 @@ const lexusCars = [
         }
     ]
 
+    },
+
+
+     {
+        brand: "Lexus",
+        model: "LFA Spyder",
+
+        production: "2010",
+        country: "Japan",
+
+        engine: "4.8l Toyota LR-GUE V10",
+        power: "560 hp",
+        torque: "480 Nm",
+
+        transmission: "6-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "325 km/h",
+
+        length: "4505 mm",
+        width: "1895 mm",
+        height: "1220 mm",
+
+        weight: "1480 kg",
+
+        productionCount: "2",
+        price: "unknown",
+
+        location: "Toyota Automobile Museum, Nagakute-shi",
+
+        images: [
+          {
+            src: "images/japanese/lfa-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_001.JPG"
+        },
+        {
+            src: "images/japanese/lfa-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_002.JPG"
+        },
+        {
+            src: "images/japanese/lfa-4.jpg",
+            license: "CC BY 2.0",
+            author: "Michael Gil",
+            source: "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+        }
+    ]
+
+    },
+
+
+ {
+        brand: "Lexus",
+        model: "LFA Nürbürgring Package",
+
+        production: "2011-2012",
+        country: "Japan",
+
+        engine: "4.8l Toyota LR-GUE V10",
+        power: "571 hp",
+        torque: "480 Nm",
+
+        transmission: "6-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "325 km/h",
+
+        length: "4505 mm",
+        width: "1895 mm",
+        height: "1220 mm",
+
+        weight: "1480 kg",
+
+        productionCount: "64",
+        price: "$1.5-1.6M",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/lfa-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_001.JPG"
+        },
+        {
+            src: "images/japanese/lfa-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lexus_LFA_002.JPG"
+        },
+        {
+            src: "images/japanese/lfa-4.jpg",
+            license: "CC BY 2.0",
+            author: "Michael Gil",
+            source: "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg"
+        },
+        {
+            src: "images/japanese/nsx2-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+        }
+    ]
+
     }
-   
+ 
 ];
 
 /* ========================================
