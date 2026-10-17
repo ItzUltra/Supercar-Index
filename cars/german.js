@@ -112,6 +112,46 @@ const volkswagenCars = [
         },
     ]
 
-    }
+    },
+
+
+ {
+        brand: "Volkswagen",
+        model: "W12 Syncro",
+
+        production: "1997",
+        country: "Germany",
+
+        engine: "5.6l W12",
+        power: "420 hp",
+        torque: "530 Nm",
+
+        transmission: "6-speed sequential",
+        drivetrain: "AWD",
+
+        acceleration: "4 s",
+        topSpeed: "290 km/h",
+
+        length: "4555 mm",
+        width: "1920 mm",
+        height: "1100 mm",
+
+        weight: "1200 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "Volkswagen Classic Collection",
+
+        images: [
+         {
+            src: "images/german/syncro-1.jpg",
+            license: "CC BY 2.0",
+            author: "Darren",
+            source: "https://commons.wikimedia.org/wiki/File:2008-07-12_Volkswagen_W12_Syncro_Concept_Goodwood.jpg"
+        }
+    ]
+
+    },
    
 ];
