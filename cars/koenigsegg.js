@@ -606,7 +606,7 @@ const koenigseggCars = [
         brand: "Koenigsegg",
         model: "CCXR",
 
-        production: "2008-2010",
+        production: "2008",
         country: "Sweden",
 
         engine: "4.7l twinturbo v8",
@@ -662,9 +662,9 @@ const koenigseggCars = [
 
   {
         brand: "Koenigsegg",
-        model: "CCXR Edition",
+        model: "CCXR Special Edition",
 
-        production: "2008-2010",
+        production: "2008-2009",
         country: "Sweden",
 
         engine: "4.7l twinturbo v8",
@@ -683,10 +683,10 @@ const koenigseggCars = [
 
         weight: "1280 kg",
 
-        productionCount: "4",
-        price: "$3.2M",
+        productionCount: "2",
+        price: "$4.8M",
 
-        location: "Santa Laura Collection",
+        location: "The Luxautica Collection",
 
         images: [
           {
