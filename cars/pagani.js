@@ -692,8 +692,8 @@ const paganiCars = [
         transmission: "7-speed sequential",
         drivetrain: "RWD",
 
-        acceleration: "2.7 s",
-        topSpeed: "370 km/h",
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
 
         length: "4605 mm",
         width: "2036 mm",
@@ -703,6 +703,46 @@ const paganiCars = [
 
         productionCount: "1",
         price: "unknown",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/pagani/huayra/pear-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ben",
+            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
+        }
+        ]
+           
+    },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra Futura",
+
+        production: "2016",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "730 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "360 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1240 kg",
+
+        productionCount: "1",
+        price: "$5M",
 
         location: "unknown",
 
