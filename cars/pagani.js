@@ -626,14 +626,7 @@ const paganiCars = [
 
         location: "owned by Horacio Pagani",
 
-        images: [
-           {
-            src: "images/pagani/huayra/pear-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Ben",
-            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
-        }
-        ]
+        images: []
            
     },
 
@@ -788,28 +781,22 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/huayra/huayra-1.jpg",
+            src: "images/pagani/huayra/r-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2013_Pagani_Huayra_VEdizione.jpg"
+            author: "Sagittarius A",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Milano_1.jpg"
         },
         {
-            src: "images/pagani/huayra/huayra-2.jpg",
+            src: "images/pagani/huayra/r-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2013_Pagani_Huayra_VEdizione_3.jpg"
+            author: "Sagittarius A",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Milano_2.jpg"
         },
         {
-            src: "images/pagani/huayra/huayra-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2016_-_Mercedes-Benz_CLK_GTR_coup%C3%A9_-_2000_-_006.jpg"
-        },
-        {
-            src: "images/pagani/huayra/huayra-4.jpg",
+            src: "images/pagani/huayra/r-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Pagani_Huayra_Roadster_RHD_Rosso_Dubai_2.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Pagani_Huayra_R_SCD26.jpg"
         }
     ]
 
