@@ -675,12 +675,30 @@ const mclarenCars = [
         location: "The Collection1",
 
         images: [
-                           {
-            src: "images/mclaren/hyper/sennal-1.jpg",
-            license: "CC BY 2.0",
-            author: "pelican-actor",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
-       }
+         {
+            src: "images/mclaren/675lt-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_4.jpg"
+       },
+            {
+            src: "images/mclaren/675lt-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_675_LT_(GIMS_2015,_Ank_Kumar,_Infosys_Limited)_04.jpg"
+       },
+            {
+            src: "images/mclaren/675lt-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_675_LT_(GIMS_2015,_Ank_Kumar,_Infosys_Limited)_12.jpg"
+       },
+            {
+            src: "images/mclaren/675lt-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_5.jpg"
+       },
         ]
 
     },
