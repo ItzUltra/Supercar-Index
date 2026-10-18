@@ -733,12 +733,30 @@ const mclarenCars = [
         location: "The Shmeemobiles Collection",
 
         images: [
-                           {
-            src: "images/mclaren/hyper/sennal-1.jpg",
-            license: "CC BY 2.0",
-            author: "pelican-actor",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
-       }
+   {
+            src: "images/mclaren/675ltspider-1.jpg",
+            license: "CC BY 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0960_(cropped).JPG"
+       },
+            {
+            src: "images/mclaren/675ltspider-2.jpg",
+            license: "CC BY 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0945.JPG"
+       },
+            {
+            src: "images/mclaren/675ltspider-3.jpg",
+            license: "CC BY 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0947.JPG"
+       },
+            {
+            src: "images/mclaren/675ltspider-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Green_McLaren_675LT_Spider.jpg"
+       },
         ]
 
     },
