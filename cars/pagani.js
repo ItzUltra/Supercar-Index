@@ -668,10 +668,10 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/huayra/pear-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Ben",
-            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
+            src: "images/pagani/huayra/nc-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Sagittarius A",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster_MIMO_2022.jpg"
         }
         ]
            
@@ -708,10 +708,10 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/huayra/pear-1.jpg",
+            src: "images/pagani/huayra/lampo-1.jpg",
             license: "CC BY-SA 2.0",
-            author: "Ben",
-            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
+            author: "Bryan S",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_Lampo.jpg"
         }
         ]
            
