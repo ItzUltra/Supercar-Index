@@ -756,5 +756,63 @@ const paganiCars = [
         ]
            
     },
+
+
+    {
+        brand: "Pagani",
+        model: "Huayra R",
+
+        production: "2021",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "850 hp",
+        torque: "750 Nm",
+
+        transmission: "8-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "386 km/h",
+
+        length: "4990 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1050 kg",
+
+        productionCount: "36",
+        price: "$2.6M",
+
+        location: "The Keybridge Collection",
+
+        images: [
+           {
+            src: "images/pagani/huayra/huayra-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Pagani_Huayra_VEdizione.jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayra-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Pagani_Huayra_VEdizione_3.jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayra-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2016_-_Mercedes-Benz_CLK_GTR_coup%C3%A9_-_2000_-_006.jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayra-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Pagani_Huayra_Roadster_RHD_Rosso_Dubai_2.jpg"
+        }
+    ]
+
+    },
    
    ];
