@@ -748,10 +748,10 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/huayra/pear-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Ben",
-            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
+            src: "images/pagani/huayra/futura-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_GIMS_2024_1X7A2268.jpg"
         }
         ]
            
