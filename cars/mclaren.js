@@ -672,6 +672,46 @@ const mclarenCars = [
         productionCount: "500",
         price: "$250-414K",
 
+        location: "The Collection1",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/sennal-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+       }
+        ]
+
+    },
+
+
+   {
+        brand: "McLaren",
+        model: "675LT Spider",
+
+        production: "2016-2017",
+        country: "UK",
+
+        engine: "3.8l twinturbo v8",
+        power: "675 hp",
+        torque: "700 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "326 km/h",
+
+        length: "4546 mm",
+        width: "2095 mm",
+        height: "1203 mm",
+
+        weight: "1368 kg",
+
+        productionCount: "500",
+        price: "$330-400K",
+
         location: "The Shmeemobiles Collection",
 
         images: [
@@ -683,6 +723,46 @@ const mclarenCars = [
        }
         ]
 
-    }
+    },
 
+
+   {
+        brand: "McLaren",
+        model: "675LT Spider Carbon Series",
+
+        production: "2016",
+        country: "UK",
+
+        engine: "3.8l twinturbo v8",
+        power: "675 hp",
+        torque: "700 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "326 km/h",
+
+        length: "4546 mm",
+        width: "2095 mm",
+        height: "1203 mm",
+
+        weight: "1368 kg",
+
+        productionCount: "25",
+        price: "$820K",
+
+        location: "The Johor Royal Family Collection",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/sennal-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+       }
+        ]
+
+    },
+   
 ];
