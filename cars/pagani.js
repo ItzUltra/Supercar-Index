@@ -596,5 +596,125 @@ const paganiCars = [
         ]
            
     },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra Aurora Roadster",
+
+        production: "2024",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "764 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "1",
+        price: "$5.5M",
+
+        location: "owned by Horacio Pagani",
+
+        images: [
+           {
+            src: "images/pagani/huayra/pear-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ben",
+            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
+        }
+        ]
+           
+    },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra NC",
+
+        production: "2022",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "830 hp",
+        torque: "1079 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "2.7 s",
+        topSpeed: "370 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1240 kg",
+
+        productionCount: "1",
+        price: "$7M",
+
+        location: "The NC Collection",
+
+        images: [
+           {
+            src: "images/pagani/huayra/pear-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ben",
+            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
+        }
+        ]
+           
+    },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra Lampo",
+
+        production: "2017",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "754 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "2.7 s",
+        topSpeed: "370 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1240 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/pagani/huayra/pear-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ben",
+            source: "https://commons.wikimedia.org/wiki/File:From_the_top_(28338882265).jpg"
+        }
+        ]
+           
+    },
    
    ];
