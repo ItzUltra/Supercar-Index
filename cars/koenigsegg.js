@@ -660,16 +660,10 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccxr-1.jpg",
+            src: "images/koenigsegg/ccxredition-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_(76821).jpg"
-        },
-        {
-            src: "images/koenigsegg/ccxr-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_(43565).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2008_Koenigsegg_CCX_R_Edition_LC24.jpg"
         }
     ]
 
