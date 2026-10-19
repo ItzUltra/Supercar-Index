@@ -614,28 +614,16 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccr-1.jpg",
-            license: "CC BY 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_5.jpg"
-        },
-        {
-            src: "images/koenigsegg/ccr-3.jpg",
-            license: "CC BY 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_7.jpg"
-        },
-        {
-            src: "images/koenigsegg/ccr-4.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_-_Flickr_-_Alexandre_Pr%C3%A9vot_(3).jpg"
-        },
-           {
-            src: "images/koenigsegg/ccr-4.jpg",
+            src: "images/koenigsegg/ccxr-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_2004_2.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_(76821).jpg"
+        },
+        {
+            src: "images/koenigsegg/ccxr-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_(43565).jpg"
         }
     ]
 
