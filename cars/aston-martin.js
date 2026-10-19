@@ -234,6 +234,64 @@ const astonMartinCars = [
         }
     ]
 
+    },
+
+
+   {
+        brand: "Aston Martin",
+        model: "Vantage GT8",
+
+        production: "2016-2017",
+        country: "UK",
+
+        engine: "4.7l V8",
+        power: "446 hp",
+        torque: "490 Nm",
+
+        transmission: "7-speed automatic / 6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4.5 s",
+        topSpeed: "306 km/h",
+
+        length: "4385 mm",
+        width: "1865 mm",
+        height: "1260 mm",
+
+        weight: "1510 kg",
+
+        productionCount: "150",
+        price: "$240-280K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+            {
+            src: "images/astonmartin/hyper/valhall-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_AM-RB_003_Front.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valhall-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_AM-RB_003_Rear.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valhall-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_AM-RB_003_Top_Marques_2019_IMG_1077.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valhall-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2026_Aston_Martin_Valhalla_SCD26.jpg"
+        }
+    ]
+
     }
    
 ];
