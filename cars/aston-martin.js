@@ -267,28 +267,22 @@ const astonMartinCars = [
 
         images: [
             {
-            src: "images/astonmartin/hyper/valhall-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Vauxford",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_AM-RB_003_Front.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valhall-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Vauxford",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_AM-RB_003_Rear.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valhall-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_AM-RB_003_Top_Marques_2019_IMG_1077.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valhall-4.jpg",
+            src: "images/astonmartin/gt8-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2026_Aston_Martin_Valhalla_SCD26.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8_SP_25.jpg"
+        },
+        {
+            src: "images/astonmartin/gt8-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8_SP_25_rear.jpg"
+        },
+        {
+            src: "images/astonmartin/gt8-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8.jpg"
         }
     ]
 
