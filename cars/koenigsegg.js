@@ -516,28 +516,28 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccr-1.jpg",
+            src: "images/koenigsegg/ccx-1.jpg",
             license: "CC BY 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_5.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCX_4.jpg"
         },
         {
-            src: "images/koenigsegg/ccr-3.jpg",
+            src: "images/koenigsegg/ccx-2.jpg",
             license: "CC BY 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_7.jpg"
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCX,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1713).jpg"
         },
         {
-            src: "images/koenigsegg/ccr-4.jpg",
+            src: "images/koenigsegg/ccx-3.jpg",
             license: "CC BY-SA 2.0",
-            author: "Alexandre Prévot",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_-_Flickr_-_Alexandre_Pr%C3%A9vot_(3).jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2006_Koenigsegg_CCX_8.jpg"
         },
            {
-            src: "images/koenigsegg/ccr-4.jpg",
+            src: "images/koenigsegg/ccx-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCR_2004_2.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2006_Koenigsegg_CCX_9.jpg"
         }
     ]
 
