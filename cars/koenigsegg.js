@@ -630,6 +630,52 @@ const koenigseggCars = [
     },
 
 
+{
+        brand: "Koenigsegg",
+        model: "CCXR Edition",
+
+        production: "2008",
+        country: "Sweden",
+
+        engine: "4.7l twinturbo v8",
+        power: "1018 hp",
+        torque: "1060 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "400 km/h",
+
+        length: "4293 mm",
+        width: "1996 mm",
+        height: "1120 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "4",
+        price: "$3.2M",
+
+        location: "Santa Laura Collection",
+
+        images: [
+          {
+            src: "images/koenigsegg/ccxr-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_(76821).jpg"
+        },
+        {
+            src: "images/koenigsegg/ccxr-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_(43565).jpg"
+        }
+    ]
+
+    },
+
+  
   {
         brand: "Koenigsegg",
         model: "CCXR Special Edition",
