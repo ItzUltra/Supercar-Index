@@ -327,6 +327,46 @@ const astonMartinCars = [
     ]
 
     },
+
+
+    {
+        brand: "Aston Martin",
+        model: "V8 Vantage Centenary Edition",
+
+        production: "2013-2014",
+        country: "UK",
+
+        engine: "4.3l V8",
+        power: "436 hp",
+        torque: "490 Nm",
+
+        transmission: "7-speed automatic / 6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "305 km/h",
+
+        length: "4385 mm",
+        width: "1865 mm",
+        height: "1260 mm",
+
+        weight: "1610 / 1690 (roadster) kg",
+
+        productionCount: "26",
+        price: "$50-70K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/astonmartin/centenaryv8-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Master of Contributions",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_V8_Vantage_Coup%C3%A9.jpg"
+        }
+    ]
+
+    },
    
 ];
 
