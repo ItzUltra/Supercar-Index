@@ -319,22 +319,10 @@ const astonMartinCars = [
 
         images: [
             {
-            src: "images/astonmartin/gt8-1.jpg",
+            src: "images/astonmartin/v8vantage-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8_SP_25.jpg"
-        },
-        {
-            src: "images/astonmartin/gt8-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8_SP_25_rear.jpg"
-        },
-        {
-            src: "images/astonmartin/gt8-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8.jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_V8_Vantage_Roadster_IMG_8846.jpg"
         }
     ]
 
