@@ -249,7 +249,7 @@ const astonMartinCars = [
         torque: "490 Nm",
 
         transmission: "7-speed automatic / 6-speed manual",
-        drivetrain: "AWD",
+        drivetrain: "RWD",
 
         acceleration: "4.5 s",
         topSpeed: "306 km/h",
@@ -286,7 +286,59 @@ const astonMartinCars = [
         }
     ]
 
-    }
+    },
+
+
+   {
+        brand: "Aston Martin",
+        model: "V8 Vantage",
+
+        production: "2005-2008",
+        country: "UK",
+
+        engine: "4.3l V8",
+        power: "385 hp",
+        torque: "410 Nm",
+
+        transmission: "6-speed automatic / 6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5 s",
+        topSpeed: "280 km/h",
+
+        length: "4383 mm",
+        width: "1866 mm",
+        height: "1255 mm",
+
+        weight: "1570 kg",
+
+        productionCount: "21-22K",
+        price: "$33-50K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+            {
+            src: "images/astonmartin/gt8-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8_SP_25.jpg"
+        },
+        {
+            src: "images/astonmartin/gt8-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8_SP_25_rear.jpg"
+        },
+        {
+            src: "images/astonmartin/gt8-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_Vantage_GT8.jpg"
+        }
+    ]
+
+    },
    
 ];
 
