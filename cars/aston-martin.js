@@ -451,22 +451,16 @@ const astonMartinCars = [
 
         images: [
             {
-            src: "images/astonmartin/n24v8-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2007_Aston_Martin_Vantage_V8_N24_SP25.jpg"
+            src: "images/astonmartin/n420-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2011_AMV8_Vantage_N420.jpg"
         },
             {
             src: "images/astonmartin/n24v8-2.jpg",
-            license: "CC BY 2.0",
-            author: "David Merrett",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Vantage_GT4_(48452472616).jpg"
-        },
-           {
-            src: "images/astonmartin/n24v8-3.jpg",
-            license: "CC BY 2.0",
-            author: "nakhon100",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_V8_Vantage_N24_(10074961595).jpg"
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2011_AMV8_Vantage_N420_rear.jpg"
         }
     ]
 
