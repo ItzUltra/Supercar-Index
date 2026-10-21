@@ -488,7 +488,7 @@ const astonMartinCars = [
         width: "1865 mm",
         height: "1255 mm",
 
-        weight: "17100 kg",
+        weight: "1710 kg",
 
         productionCount: "103",
         price: "$150K",
@@ -501,6 +501,46 @@ const astonMartinCars = [
             license: "CC BY-SA 4.0",
             author: "Acabashi",
             source: "https://commons.wikimedia.org/wiki/File:2010_Aston_Martin_V8_Vantage_Roadster_4735_cc_at_Horsham_English_Festival_2018.jpg"
+        }
+    ]
+
+    },
+
+
+   {
+        brand: "Aston Martin",
+        model: "V8 Vantage S Great Britain Edition",
+
+        production: "2017",
+        country: "UK",
+
+        engine: "4.7l V8",
+        power: "436 hp",
+        torque: "490 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "305 km/h",
+
+        length: "4385 mm",
+        width: "1865 mm",
+        height: "1260 mm",
+
+        weight: "1610 kg",
+
+        productionCount: "5",
+        price: "$303K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/astonmartin/greatbritain-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Türe",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_V8_Vantage_1.jpg"
         }
     ]
 
