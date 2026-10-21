@@ -465,6 +465,46 @@ const astonMartinCars = [
     ]
 
     },
+
+
+    {
+        brand: "Aston Martin",
+        model: "V8 Vantage N420 Roadster",
+
+        production: "2010-2014",
+        country: "UK",
+
+        engine: "4.7l V8",
+        power: "420 hp",
+        torque: "470 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.9 s",
+        topSpeed: "290 km/h",
+
+        length: "4380 mm",
+        width: "1865 mm",
+        height: "1255 mm",
+
+        weight: "17100 kg",
+
+        productionCount: "103",
+        price: "$150K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/astonmartin/n420r-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Acabashi",
+            source: "https://commons.wikimedia.org/wiki/File:2010_Aston_Martin_V8_Vantage_Roadster_4735_cc_at_Horsham_English_Festival_2018.jpg"
+        }
+    ]
+
+    },
    
 ];
 
