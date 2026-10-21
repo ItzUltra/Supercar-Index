@@ -570,7 +570,7 @@ const astonMartinCars = [
 
         weight: "1610 kg",
 
-        productionCount: "5",
+        productionCount: "39",
         price: "$260K",
 
         location: "Shibaimu Collection",
@@ -585,6 +585,45 @@ const astonMartinCars = [
     ]
 
     },
+
+
+   {
+        brand: "Aston Martin",
+        model: "V8 Vantage S Swedish Forest Edition",
+
+        production: "2016",
+        country: "UK",
+
+        engine: "4.7l V8",
+        power: "430 hp",
+        torque: "490 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "305 km/h",
+
+        length: "4385 mm",
+        width: "1865 mm",
+        height: "1260 mm",
+
+        weight: "1610 kg",
+
+        productionCount: "4",
+        price: "$150K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/astonmartin/swedish-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2007_Aston_Martin_V8_Vantage_4.3_Front.jpg"
+        }
+    ]
+
+    },
+   
 ];
-
-
