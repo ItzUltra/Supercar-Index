@@ -419,6 +419,58 @@ const astonMartinCars = [
     ]
 
     },
+
+
+   {
+        brand: "Aston Martin",
+        model: "V8 Vantage N420",
+
+        production: "2010-2014",
+        country: "UK",
+
+        engine: "4.7l V8",
+        power: "420 hp",
+        torque: "470 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.9 s",
+        topSpeed: "290 km/h",
+
+        length: "4380 mm",
+        width: "1865 mm",
+        height: "1255 mm",
+
+        weight: "1630 kg",
+
+        productionCount: "252",
+        price: "$140K",
+
+        location: "The 116 Collection",
+
+        images: [
+            {
+            src: "images/astonmartin/n24v8-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2007_Aston_Martin_Vantage_V8_N24_SP25.jpg"
+        },
+            {
+            src: "images/astonmartin/n24v8-2.jpg",
+            license: "CC BY 2.0",
+            author: "David Merrett",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Vantage_GT4_(48452472616).jpg"
+        },
+           {
+            src: "images/astonmartin/n24v8-3.jpg",
+            license: "CC BY 2.0",
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_V8_Vantage_N24_(10074961595).jpg"
+        }
+    ]
+
+    },
    
 ];
 
