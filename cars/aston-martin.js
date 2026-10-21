@@ -545,7 +545,46 @@ const astonMartinCars = [
     ]
 
     },
-   
+
+
+   {
+        brand: "Aston Martin",
+        model: "V8 Vantage S Red Bull Racing Edition",
+
+        production: "2017",
+        country: "UK",
+
+        engine: "4.7l V8",
+        power: "430 hp",
+        torque: "490 Nm",
+
+        transmission: "6-speed automatic / 7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "305 km/h",
+
+        length: "4385 mm",
+        width: "1865 mm",
+        height: "1260 mm",
+
+        weight: "1610 kg",
+
+        productionCount: "5",
+        price: "$260K",
+
+        location: "Shibaimu Collection",
+
+        images: [
+            {
+            src: "images/astonmartin/redbull-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Aston_Martin_Vantage_V8_Blades_Edition.jpg"
+        }
+    ]
+
+    },
 ];
 
 
