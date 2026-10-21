@@ -367,6 +367,46 @@ const astonMartinCars = [
     ]
 
     },
+
+
+   {
+        brand: "Aston Martin",
+        model: "V8 Vantage N24",
+
+        production: "2006-2008",
+        country: "UK",
+
+        engine: "4.3l V8",
+        power: "416 hp",
+        torque: "425 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.4 s",
+        topSpeed: "300 km/h",
+
+        length: "4380 mm",
+        width: "1865 mm",
+        height: "1210 mm",
+
+        weight: "1330 kg",
+
+        productionCount: "15",
+        price: "$320K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/astonmartin/centenaryv8-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Master of Contributions",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_V8_Vantage_Coup%C3%A9.jpg"
+        }
+    ]
+
+    },
    
 ];
 
