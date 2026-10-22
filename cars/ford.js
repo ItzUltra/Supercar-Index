@@ -432,5 +432,45 @@ const fordCars = [
         images: []
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "GT Liquid Carbon",
+
+        production: "2020-2022",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "around 25",
+        price: "$1.8M",
+
+        location: "Petersen Automotive Museum, Los Angeles",
+
+        images: [
+         {
+            src: "images/ford/liquid-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Ford_GT_Liquid_Carbon_Edition_TM26.jpg"
+        }
+    ]
+
+    },
    
 ];
