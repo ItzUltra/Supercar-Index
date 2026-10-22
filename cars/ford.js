@@ -512,5 +512,38 @@ const fordCars = [
     ]
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "GT MK II",
+
+        production: "2019",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "700 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "322 km/h",
+
+        length: "4763 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1390 kg",
+
+        productionCount: "45",
+        price: "$1.2M",
+
+        location: "American Muscle Car Museum, Melbourne",
+
+        images: []
+
+    },
    
 ];
