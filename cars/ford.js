@@ -545,5 +545,45 @@ const fordCars = [
         images: []
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "GT MK IV",
+
+        production: "2023",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "800 hp",
+        torque: "660 Nm",
+
+        transmission: "7-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "348 km/h",
+
+        length: "4762 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "67",
+        price: "$1.7-2M",
+
+        location: "Winkleman Motorsports Collection",
+
+        images: [
+         {
+            src: "images/ford/mkiv-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ford_GT_Mk_IV_in_Blue,_front_left_(Greenwich_2026).jpg"
+        }
+    ]
+
+    },
    
 ];
