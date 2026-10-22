@@ -391,28 +391,10 @@ const fordCars = [
 
         images: [
          {
-            src: "images/ford/gt2-1.jpg",
+            src: "images/ford/gtcarbon-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
-        },
-        {
-            src: "images/ford/gt2-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Tristan Surtel",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_Shmee150.jpg"
-        },
-        {
-            src: "images/ford/gt2-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Ank Kumar",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_GT(2nd_Generation)_unveiled_at_Geneva_2015_(Ank_Kumar,_Infosys)_02.jpg"
-        },
-        {
-            src: "images/ford/gt2-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_11.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Ford_GT_Carbon_Series_LC25.jpg"
         }
     ]
 
@@ -447,32 +429,7 @@ const fordCars = [
 
         location: "Ford Performance Collection",
 
-        images: [
-         {
-            src: "images/ford/gt2-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_Gen2.jpg"
-        },
-        {
-            src: "images/ford/gt2-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Tristan Surtel",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_Shmee150.jpg"
-        },
-        {
-            src: "images/ford/gt2-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Ank Kumar",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_GT(2nd_Generation)_unveiled_at_Geneva_2015_(Ank_Kumar,_Infosys)_02.jpg"
-        },
-        {
-            src: "images/ford/gt2-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_GT_11.jpg"
-        }
-    ]
+        images: []
 
     },
    
