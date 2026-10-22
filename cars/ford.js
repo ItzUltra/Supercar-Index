@@ -472,5 +472,45 @@ const fordCars = [
     ]
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "GT LM Edition",
+
+        production: "2022",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "20",
+        price: "unknown",
+
+        location: "Shelby American Collection, Boulder",
+
+        images: [
+         {
+            src: "images/ford/lmedition-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Ford_GT_LM_Edition_HCC25.jpg"
+        }
+    ]
+
+    },
    
 ];
