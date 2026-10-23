@@ -707,7 +707,7 @@ const fordCars = [
         production: "2020-",
         country: "USA",
 
-        engine: "5.2l turbocharged V8",
+        engine: "5.2l twinturbo V8",
         power: "760 hp",
         torque: "885 Nm",
 
@@ -747,6 +747,46 @@ const fordCars = [
             author: "OWS Photography",
             source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Shelby_GT500_(S550)_Washington_DC_Metro_Area,_USA.jpg"
         },
+        ]
+
+    },
+
+
+   {
+        brand: "Ford",
+        model: "Mustang Shelby GT500 Code Red",
+
+        production: "2020-2022",
+        country: "USA",
+
+        engine: "5.2l twinturbo V8",
+        power: "1300 hp",
+        torque: "1356 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "320 km/h",
+
+        length: "4831 mm",
+        width: "1946 mm",
+        height: "1379 mm",
+
+        weight: "1916kg",
+
+        productionCount: "30",
+        price: "$300-320K",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/ford/codered-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:S550_Ford_Shelby_Mustang_GT500.jpg"
+        }
         ]
 
     },
