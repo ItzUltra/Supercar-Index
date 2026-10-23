@@ -190,7 +190,7 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/huayra/codalunga-2.jpg",
+            src: "images/pagani/huayra/codalunga-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2022_Pagani_Huayra_Codalunga_PT01.jpg"
