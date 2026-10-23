@@ -586,6 +586,18 @@ const ferrariCars = [
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_2.jpg"
         },
+           {
+            src: "images/ferrari/sf90stradale-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_4.jpg"
+        },
+            {
+            src: "images/ferrari/sf90stradale-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Stradale_Mayfair.jpg"
+        },
         ]
 
     },
