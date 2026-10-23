@@ -625,5 +625,38 @@ const fordCars = [
     ]
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "GT Victory Edition",
+
+        production: "2017-2018",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "4",
+        price: "$1.3M-2.5M",
+
+        location: "The Johor Royal Family Collection",
+
+        images: []
+
+    },
    
 ];
