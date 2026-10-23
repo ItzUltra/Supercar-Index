@@ -185,7 +185,7 @@ const volkswagenCars = [
 
         images: [
          {
-            src: "images/german/nardo-3.jpg",
+            src: "images/german/record-3.jpg",
             license: "CC BY-SA 2.0",
             author: "Klaus Nahr",
             source: "https://commons.wikimedia.org/wiki/File:Autostadt_Wolfsburg_-_ZeitHaus_-_Volkswagen_Nardo_-_Flickr_-_KlausNahr.jpg"
