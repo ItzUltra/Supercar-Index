@@ -496,13 +496,13 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/sp3-1.jpg",
+            src: "images/ferrari/hyper/sp3-2.jpg",
             license: "CC BY-SA 2.0",
             author: "Schuss",
             source: "https://commons.wikimedia.org/wiki/File:2022-08-21_Monterrey_Ferrari_SP3.jpg"
         },
         {
-            src: "images/ferrari/hyper/sp3-2.jpg",
+            src: "images/ferrari/hyper/sp3-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(40619).jpg"
