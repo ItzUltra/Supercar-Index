@@ -210,6 +210,58 @@ const renaultCars = [
         }
     ]
 
-    }
+    },
 
+
+   {
+        brand: "Renault",
+        model: "Clio V6",
+
+        production: "2004-2005",
+        country: "French",
+
+        engine: "3l V6",
+        power: "254 hp",
+        torque: "300 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5.8 s",
+        topSpeed: "250 km/h",
+
+        length: "3841 mm",
+        width: "1830 mm",
+        height: "1356 mm",
+
+        weight: "1400 kg",
+
+        productionCount: "1309",
+        price: "$60-90K",
+
+        location: "Musée Matra, Romorantin-Lanthenay",
+
+        images: [
+         {
+            src: "images/french/clio2-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Renault_Clio_Sport_V6.jpg"
+        },
+        {
+            src: "images/french/clio2-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2005_Renault_Clio_V6_1.jpg"
+        },
+           {
+            src: "images/french/clio2-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Renault_Clio_V6_LC_23.jpg"
+        }
+    ]
+
+    }
+   
 ];
