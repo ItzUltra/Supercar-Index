@@ -658,5 +658,45 @@ const fordCars = [
         images: []
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "Focus RS Heritage Edition",
+
+        production: "2018",
+        country: "USA",
+
+        engine: "2.4l turbocharged EcoBoost inline-4",
+        power: "375 hp",
+        torque: "510 Nm",
+
+        transmission: "6-speed manual,",
+        drivetrain: "AWD",
+
+        acceleration: "4.5 s",
+        topSpeed: "265 km/h",
+
+        length: "4390 mm",
+        width: "1823 mm",
+        height: "1172 mm",
+
+        weight: "1424kg",
+
+        productionCount: "50",
+        price: "$90K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+           {
+            src: "images/ford/focusheritage-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_Focus_RS_Heritage_2.jpg"
+        }
+        ]
+
+    },
    
 ];
