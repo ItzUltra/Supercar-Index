@@ -285,7 +285,7 @@ const fordCars = [
 
         images: [
          {
-            src: "images/ford/gtg8-1.jpg",
+            src: "images/ford/gt69-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Jiří Sedláček",
             source: "https://commons.wikimedia.org/wiki/File:Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_(cropped).jpg"
