@@ -730,11 +730,23 @@ const fordCars = [
 
         images: [
            {
-            src: "images/ford/focusheritae-1.jpg",
+            src: "images/ford/gt500-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_Focus_RS_Heritage_2.jpg"
-        }
+            author: "Mohammed Hamad",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Shelby_GT500_(S550)_Front_(Bahrain).jpg"
+        },
+            {
+            src: "images/ford/gt500-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mohammed Hamad",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Shelby_GT500_(S550)_Rear_(Bahrain).jpg"
+        },
+           {
+            src: "images/ford/gt500-3.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Shelby_GT500_(S550)_Washington_DC_Metro_Area,_USA.jpg"
+        },
         ]
 
     },
