@@ -232,5 +232,63 @@ const mercedesCars = [
     ]
 
     },
+
+
+   {
+        brand: "Mercedes",
+        model: "AMG GT Black Series",
+
+        production: "2020-2022",
+        country: "Germany",
+
+        engine: "4l biturbo V8",
+        power: "730 hp",
+        torque: "800 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "325 km/h",
+
+        length: "4604 mm",
+        width: "1939 mm",
+        height: "1280 mm",
+
+        weight: "1630 kg",
+
+        productionCount: "around 1700",
+        price: "$390-700K",
+
+        location: "Moulsdale Foundation, Bishopbriggs",
+
+        images: [
+            {
+            src: "images/mercedes/slsblack-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
+        },
+        {
+            src: "images/mercedes/slsblsck-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "steve lyon",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_AMG_SLS_Black_(8229781090).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes-Benz_SLS_AMG_Black_Series_SCD26.jpg"
+        }
+    ]
+
+    },
    
    ];
