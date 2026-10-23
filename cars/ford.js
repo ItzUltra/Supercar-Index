@@ -818,7 +818,7 @@ const fordCars = [
         productionCount: "currently in production",
         price: "$70K",
 
-        location: "unknown",
+        location: "The Shmeemobiles Collection",
 
         images: [
            {
