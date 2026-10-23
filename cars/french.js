@@ -164,6 +164,52 @@ const renaultCars = [
         }
     ]
 
+    },
+
+
+   {
+        brand: "Renault",
+        model: "Clio V6",
+
+        production: "2001-2002",
+        country: "French",
+
+        engine: "3l V6",
+        power: "226 hp",
+        torque: "300 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "6.4 s",
+        topSpeed: "235 km/h",
+
+        length: "3803 mm",
+        width: "1810 mm",
+        height: "1351 mm",
+
+        weight: "1335 kg",
+
+        productionCount: "1500-1600",
+        price: "$60-80K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/french/clio1-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2002_Renault_Clio_V6.jpg"
+        },
+        {
+            src: "images/french/clio1-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2002_Renault_Clio_V6_(89622).jpg"
+        }
+    ]
+
     }
-   
+
 ];
