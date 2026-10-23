@@ -574,7 +574,7 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccredition-1.jpg",
+            src: "images/koenigsegg/ccxedition-1.jpg",
             license: "CC BY-SA 3.0",
             author: "Mr.choppers",
             source: "https://commons.wikimedia.org/wiki/File:2008_Koenigsegg_CCX_Edition_no.1,_front_right.jpg"
