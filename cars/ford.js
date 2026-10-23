@@ -790,5 +790,57 @@ const fordCars = [
         ]
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "Mustang Dark Horse",
+
+        production: "2024-",
+        country: "USA",
+
+        engine: "5l V8",
+        power: "453 hp",
+        torque: "540 Nm",
+
+        transmission: "10-speed automatic / 6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5.2 s",
+        topSpeed: "263 km/h",
+
+        length: "4819 mm",
+        width: "1918 mm",
+        height: "1403 mm",
+
+        weight: "1800 kg",
+
+        productionCount: "currently in production",
+        price: "$70K",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/ford/darkhorse-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Dark_Horse_Rutesheimer_Autoschau_2025_DSC_9229.jpg"
+        },
+           {
+            src: "images/ford/darkhorse-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Dark_Horse_Rutesheimer_Autoschau_2025_DSC_9225.jpg"
+        },
+           {
+            src: "images/ford/darkhorse-3.jpg",
+            license: "CC BY 2.0",
+            author: "Rutger van der Maar",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Ford_Mustang_GT_Fastback_Dark_Horse_01.jpg"
+        }
+        ]
+
+    },
    
 ];
