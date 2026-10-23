@@ -585,5 +585,45 @@ const fordCars = [
     ]
 
     },
+
+
+   {
+        brand: "Ford",
+        model: "GT Studio Collection",
+
+        production: "2021-2022",
+        country: "USA",
+
+        engine: "3.5l twinturbo EcoBoost V6",
+        power: "660 hp",
+        torque: "746 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "347 km/h",
+
+        length: "4463 mm",
+        width: "2004 mm",
+        height: "1110 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "40",
+        price: "$860K-1.1M",
+
+        location: "Speddwerkz Exotic Car Experience, Gatlinburg",
+
+        images: [
+         {
+            src: "images/ford/studio-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Kevauto",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_GT_front_4.2.18.jpg"
+        }
+    ]
+
+    },
    
 ];
