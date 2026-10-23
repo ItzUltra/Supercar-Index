@@ -34,7 +34,7 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/f40.jpg",
+            src: "images/ferrari/hyper/f40-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:1989_Ferrari_F40_6.jpg"
@@ -456,7 +456,7 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/f80.jpg",
+            src: "images/ferrari/hyper/f80-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_F80_1.jpg"
@@ -496,7 +496,7 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/sp3.jpg",
+            src: "images/ferrari/hyper/sp3-1.jpg",
             license: "CC BY-SA 2.0",
             author: "Schuss",
             source: "https://commons.wikimedia.org/wiki/File:2022-08-21_Monterrey_Ferrari_SP3.jpg"
@@ -548,6 +548,46 @@ const ferrariCars = [
 
         images: []
 
-    }
+    },
+
+
+    {
+        brand: "Ferrari",
+        model: "SF90 Stradale",
+
+        production: "2019-2024",
+        country: "Italy",
+
+        engine: "4l twinturbbo V8 with plug in hybrid system",
+        power: "1000 hp",
+        torque: "800 Nm",
+
+        transmission: "8-speed half automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "340 km/h",
+
+        length: "4710 mm",
+        width: "1972 mm",
+        height: "1186 mm",
+
+        weight: "1570 kg",
+
+        productionCount: "unknown",
+        price: "$440-530K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/ferrari/sf90stradale-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_2.jpg"
+        },
+        ]
+
+    },
    
 ];
