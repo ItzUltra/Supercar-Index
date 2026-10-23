@@ -212,7 +212,7 @@ const mercedesCars = [
             source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
         },
         {
-            src: "images/mercedes/slsblsck-2.jpg",
+            src: "images/mercedes/slsblack-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
@@ -270,7 +270,7 @@ const mercedesCars = [
             source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_GT_Black_Series_Classic-Gala_2025_DSC_0768.jpg"
         },
         {
-            src: "images/mercedes/gtblsck-2.jpg",
+            src: "images/mercedes/gtblack-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander-93",
             source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_GT_Black_Series_Classic-Gala_2025_DSC_0767.jpg"
