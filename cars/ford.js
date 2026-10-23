@@ -671,7 +671,7 @@ const fordCars = [
         power: "375 hp",
         torque: "510 Nm",
 
-        transmission: "6-speed manual,",
+        transmission: "6-speed manual",
         drivetrain: "AWD",
 
         acceleration: "4.5 s",
@@ -691,6 +691,46 @@ const fordCars = [
         images: [
            {
             src: "images/ford/focusheritage-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Ford_Focus_RS_Heritage_2.jpg"
+        }
+        ]
+
+    },
+
+
+   {
+        brand: "Ford",
+        model: "Mustang Shelby GT500",
+
+        production: "2020-",
+        country: "USA",
+
+        engine: "5.2l turbocharged V8",
+        power: "760 hp",
+        torque: "885 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "290 km/h",
+
+        length: "4831 mm",
+        width: "1946 mm",
+        height: "1379 mm",
+
+        weight: "1800 kg",
+
+        productionCount: "Curently in production",
+        price: "$110-300K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+           {
+            src: "images/ford/focusheritae-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2018_Ford_Focus_RS_Heritage_2.jpg"
