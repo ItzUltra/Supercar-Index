@@ -632,7 +632,7 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/12cillindri-1.jpg",
+            src: "images/ferrari/12cilindri-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_12Cilindri_1.jpg"
