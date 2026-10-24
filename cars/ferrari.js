@@ -632,22 +632,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/296gts-1.jpg",
+            src: "images/ferrari/purosangue-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_6989.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Purosangue_DSC_7783.jpg"
         },
            {
-            src: "images/ferrari/296gts-2.jpg",
+            src: "images/ferrari/purosangue-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_7001.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Purosangue_DSC_7775.jpg"
         },
             {
-            src: "images/ferrari/296gts-3.jpg",
+            src: "images/ferrari/purosangue-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTS_4.jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Purosangue_IMG_2488.jpg"
         },
         ]
 
