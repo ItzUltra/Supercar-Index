@@ -496,13 +496,13 @@ const ferrariCars = [
 
         images: [
            {
-            src: "images/ferrari/hyper/sp3-2.jpg",
+            src: "images/ferrari/hyper/sp3-3.jpg",
             license: "CC BY-SA 2.0",
             author: "Schuss",
             source: "https://commons.wikimedia.org/wiki/File:2022-08-21_Monterrey_Ferrari_SP3.jpg"
         },
         {
-            src: "images/ferrari/hyper/sp3-3.jpg",
+            src: "images/ferrari/hyper/sp3-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(40619).jpg"
@@ -650,6 +650,87 @@ const ferrariCars = [
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Spider_Monaco.jpg"
         },
+        ]
+
+    },
+
+   
+{
+        brand: "Ferrari",
+        model: "SF90 Stradale Ispirazoni 2020",
+
+        production: "2020",
+        country: "Italy",
+
+        engine: "4l twinturbbo V8 with plug in hybrid system",
+        power: "1000 hp",
+        torque: "800 Nm",
+
+        transmission: "8-speed half automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "340 km/h",
+
+        length: "4710 mm",
+        width: "1972 mm",
+        height: "1186 mm",
+
+        weight: "1570 kg",
+
+        productionCount: "unknown",
+        price: "$800-870K",
+
+        location: "Diamond car collection",
+
+        images: [
+            {
+            src: "images/ferrari/ispirazoni-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_4.jpg"
+        }
+        ]
+
+    },
+
+   
+   {
+        brand: "Ferrari",
+        model: "SF90 Spider ispirazoni 2020",
+
+        production: "2020",
+        country: "Italy",
+
+        engine: "4l twinturbbo V8 with plug in hybrid system",
+        power: "1000 hp",
+        torque: "800 Nm",
+
+        transmission: "8-speed half automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "340 km/h",
+
+        length: "4710 mm",
+        width: "1972 mm",
+        height: "1180 mm",
+
+        weight: "1670 kg",
+
+        productionCount: "unknown",
+        price: "$870K",
+
+        location: "David Lee's Ferrari Collection",
+
+        images: [
+            {
+            src: "images/ferrari/ispirazoni-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Spider_(88149).jpg"
+        },
+          
         ]
 
     },
