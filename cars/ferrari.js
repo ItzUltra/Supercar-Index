@@ -550,7 +550,58 @@ const ferrariCars = [
 
     },
 
+ {
+        brand: "Ferrari",
+        model: "296 GTS",
 
+        production: "2022-",
+        country: "Italy",
+
+        engine: "3l turbocharged V6",
+        power: "830 hp",
+        torque: "740 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "330 km/h",
+
+        length: "4565 mm",
+        width: "1958 mm",
+        height: "1191 mm",
+
+        weight: "1540 kg",
+
+        productionCount: "currently in production",
+        price: "$190-375K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+            {
+            src: "images/ferrari/sf90stradale-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_2.jpg"
+        },
+           {
+            src: "images/ferrari/sf90stradale-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_4.jpg"
+        },
+            {
+            src: "images/ferrari/sf90stradale-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Stradale_Mayfair.jpg"
+        },
+        ]
+
+    },
+
+   
     {
         brand: "Ferrari",
         model: "SF90 Stradale",
@@ -562,7 +613,7 @@ const ferrariCars = [
         power: "1000 hp",
         torque: "800 Nm",
 
-        transmission: "8-speed half automatic",
+        transmission: "8-speed automatic",
         drivetrain: "AWD",
 
         acceleration: "2.5 s",
@@ -614,7 +665,7 @@ const ferrariCars = [
         power: "1000 hp",
         torque: "800 Nm",
 
-        transmission: "8-speed half automatic",
+        transmission: "8-speed automatic",
         drivetrain: "AWD",
 
         acceleration: "2.5 s",
@@ -666,7 +717,7 @@ const ferrariCars = [
         power: "1000 hp",
         torque: "800 Nm",
 
-        transmission: "8-speed half automatic",
+        transmission: "8-speed automatic",
         drivetrain: "AWD",
 
         acceleration: "2.5 s",
@@ -706,7 +757,7 @@ const ferrariCars = [
         power: "1000 hp",
         torque: "800 Nm",
 
-        transmission: "8-speed half automatic",
+        transmission: "8-speed automatic",
         drivetrain: "AWD",
 
         acceleration: "2.5 s",
@@ -747,7 +798,7 @@ const ferrariCars = [
         power: "1030 hp",
         torque: "804 Nm",
 
-        transmission: "8-speed half automatic",
+        transmission: "8-speed automatic",
         drivetrain: "AWD",
 
         acceleration: "2.3 s",
@@ -799,7 +850,7 @@ const ferrariCars = [
         power: "1030 hp",
         torque: "804 Nm",
 
-        transmission: "8-speed half automatic",
+        transmission: "8-speed automatic",
         drivetrain: "AWD",
 
         acceleration: "2.3 s",
