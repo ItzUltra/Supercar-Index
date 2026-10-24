@@ -601,6 +601,58 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "Purosangue",
+
+        production: "2023-",
+        country: "Italy",
+
+        engine: "6.5l V12",
+        power: "725 hp",
+        torque: "716 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "310 km/h",
+
+        length: "4973 mm",
+        width: "2028 mm",
+        height: "1589 mm",
+
+        weight: "2033 kg",
+
+        productionCount: "currently in production",
+        price: "$500-600K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+            {
+            src: "images/ferrari/296gts-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_6989.jpg"
+        },
+           {
+            src: "images/ferrari/296gts-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_7001.jpg"
+        },
+            {
+            src: "images/ferrari/296gts-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTS_4.jpg"
+        },
+        ]
+
+    },
+
    
     {
         brand: "Ferrari",
