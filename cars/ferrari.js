@@ -601,6 +601,56 @@ const ferrariCars = [
 
     },
 
+   {
+        brand: "Ferrari",
+        model: "458 Speciale",
+
+        production: "2013-2016",
+        country: "Italy",
+
+        engine: "4.5l V8",
+        power: "605 hp",
+        torque: "540 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "325 km/h",
+
+        length: "4571 mm",
+        width: "1951 mm",
+        height: "1203 mm",
+
+        weight: "1380 kg",
+
+        productionCount: "around 3000",
+        price: "$650-850K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+            {
+            src: "images/ferrari/458speciale-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2015_Ferrari_458_Speciale,_front_left.jpg"
+        },
+           {
+            src: "images/ferrari/458speciale-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2015_Ferrari_458_Speciale,_rear_right.jpg"
+        },
+            {
+            src: "images/ferrari/458speciale-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Lukasdesign",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale.JPG"
+        },
+        ]
+
+    },
 
     {
         brand: "Ferrari",
