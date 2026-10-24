@@ -580,22 +580,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/sf90stradale-1.jpg",
+            src: "images/ferrari/296gts-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_2.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_6989.jpg"
         },
            {
-            src: "images/ferrari/sf90stradale-2.jpg",
+            src: "images/ferrari/296gts-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_4.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_7001.jpg"
         },
             {
-            src: "images/ferrari/sf90stradale-3.jpg",
+            src: "images/ferrari/296gts-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Stradale_Mayfair.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTS_4.jpg"
         },
         ]
 
