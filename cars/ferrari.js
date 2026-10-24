@@ -659,6 +659,44 @@ const ferrariCars = [
 
     },
 
+   {
+        brand: "Ferrari",
+        model: "12cilindri Manuale",
+
+        production: "2026-",
+        country: "Italy",
+
+        engine: "6.5l V12",
+        power: "830 hp",
+        torque: "678 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "340 km/h",
+
+        length: "4933 mm",
+        width: "2000 mm",
+        height: "1292 mm",
+
+        weight: "1560 kg",
+
+        productionCount: "1499",
+        price: "$750K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/ferrari/manuale-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_12_Cylindre.jpg"
+        }
+        ]
+
+    },
    
    {
         brand: "Ferrari",
