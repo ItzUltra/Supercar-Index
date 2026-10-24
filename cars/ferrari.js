@@ -601,5 +601,57 @@ const ferrariCars = [
         ]
 
     },
+
+
+    {
+        brand: "Ferrari",
+        model: "SF90 Spider",
+
+        production: "2020-2025",
+        country: "Italy",
+
+        engine: "4l twinturbbo V8 with plug in hybrid system",
+        power: "1000 hp",
+        torque: "800 Nm",
+
+        transmission: "8-speed half automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "340 km/h",
+
+        length: "4710 mm",
+        width: "1972 mm",
+        height: "1180 mm",
+
+        weight: "1670 kg",
+
+        productionCount: "unknown",
+        price: "$550-760K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/ferrari/sf90spider-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Spider_IMG_8852.jpg"
+        },
+           {
+            src: "images/ferrari/sf90spider-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Spider_IMG_8856.jpg"
+        },
+            {
+            src: "images/ferrari/sf90spider-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Spider_Monaco.jpg"
+        },
+        ]
+
+    },
    
 ];
