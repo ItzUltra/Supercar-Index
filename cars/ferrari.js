@@ -790,9 +790,9 @@ const ferrariCars = [
 
    {
         brand: "Ferrari",
-        model: "SF90XX Stradale",
+        model: "SF90XX Spider",
 
-        production: "2023-2026",
+        production: "2023-",
         country: "Italy",
 
         engine: "4l twinturbbo V8 with plug in hybrid system",
