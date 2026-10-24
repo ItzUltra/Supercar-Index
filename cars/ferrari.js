@@ -653,6 +653,57 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "Roma",
+
+        production: "2020-2026",
+        country: "Italy",
+
+        engine: "3.9l biturbo V8",
+        power: "620 hp",
+        torque: "760 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "320 km/h",
+
+        length: "4656 mm",
+        width: "1974 mm",
+        height: "1301 mm",
+
+        weight: "1570 kg",
+
+        productionCount: "around 3000",
+        price: "$210-290K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+            {
+            src: "images/ferrari/roma-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9620_(cropped).jpg"
+        },
+           {
+            src: "images/ferrari/roma-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9627.jpg"
+        },
+            {
+            src: "images/ferrari/roma-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_Roma_Spider_1.jpg"
+        },
+        ]
+
+    },
    
     {
         brand: "Ferrari",
