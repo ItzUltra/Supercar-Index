@@ -602,6 +602,64 @@ const ferrariCars = [
     },
 
 
+    {
+        brand: "Ferrari",
+        model: "12cilindri",
+
+        production: "2024-",
+        country: "Italy",
+
+        engine: "6.5l V12",
+        power: "830 hp",
+        torque: "678 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "340 km/h",
+
+        length: "4933 mm",
+        width: "2000 mm",
+        height: "1292 mm",
+
+        weight: "1560 kg",
+
+        productionCount: "currently in production",
+        price: "$470-500K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+            {
+            src: "images/ferrari/12cillindri-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_12Cilindri_1.jpg"
+        },
+           {
+            src: "images/ferrari/12cilindri-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_12Cilindri_gfos25.jpg"
+        },
+            {
+            src: "images/ferrari/12cilindri-3.jpg",
+            license: "CC BY 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_at_the_2025_Shannons_Adelaide_Rally_(028A4552).jpg"
+        },
+           {
+            src: "images/ferrari/12cilindri-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_12Cilindri_3.jpg"
+        },
+        ]
+
+    },
+
+   
    {
         brand: "Ferrari",
         model: "Purosangue",
