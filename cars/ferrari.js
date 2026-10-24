@@ -734,5 +734,57 @@ const ferrariCars = [
         ]
 
     },
-   
+
+
+   {
+        brand: "Ferrari",
+        model: "SF90XX Stradale",
+
+        production: "2023-2026",
+        country: "Italy",
+
+        engine: "4l twinturbbo V8 with plug in hybrid system",
+        power: "1030 hp",
+        torque: "804 Nm",
+
+        transmission: "8-speed half automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.3 s",
+        topSpeed: "320 km/h",
+
+        length: "4850 mm",
+        width: "2014 mm",
+        height: "1225 mm",
+
+        weight: "1560 kg",
+
+        productionCount: "799",
+        price: "$1.6-2M",
+
+        location: "Moulsdale foundation, Bishopbriggs",
+
+        images: [
+            {
+            src: "images/ferrari/sf90xx1-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_SF90XX_Stradale,_front_left.jpg"
+        },
+           {
+            src: "images/ferrari/sf90xx1-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Ferrari_SF90XX_Stradale,_rear_right.jpg"
+        },
+           {
+            src: "images/ferrari/sf90xx1-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_SF90XX.jpg"
+        }
+        ]
+
+    },
+
 ];
