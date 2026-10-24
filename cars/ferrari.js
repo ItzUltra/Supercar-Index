@@ -652,6 +652,57 @@ const ferrariCars = [
 
     },
 
+   {
+        brand: "Ferrari",
+        model: "458 Speciale A",
+
+        production: "2013-2016",
+        country: "Italy",
+
+        engine: "4.5l V8",
+        power: "605 hp",
+        torque: "540 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "325 km/h",
+
+        length: "4571 mm",
+        width: "1951 mm",
+        height: "1204 mm",
+
+        weight: "1395 kg",
+
+        productionCount: "499",
+        price: "$1.8-3M",
+
+        location: "American Muscle Car Museum, Melbourne",
+
+        images: [
+            {
+            src: "images/ferrari/458a-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_037.jpg"
+        },
+           {
+            src: "images/ferrari/458a-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_009.jpg"
+        },
+            {
+            src: "images/ferrari/458a-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_Aperta.jpg"
+        },
+        ]
+
+    },
+
     {
         brand: "Ferrari",
         model: "12cilindri",
