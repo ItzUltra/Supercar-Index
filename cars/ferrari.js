@@ -704,6 +704,45 @@ const ferrariCars = [
         ]
 
     },
+
+   {
+        brand: "Ferrari",
+        model: "Roma Ispirazoni 2020",
+
+        production: "2020",
+        country: "Italy",
+
+        engine: "3.9l biturbo V8",
+        power: "620 hp",
+        torque: "760 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "320 km/h",
+
+        length: "4656 mm",
+        width: "1974 mm",
+        height: "1301 mm",
+
+        weight: "1570 kg",
+
+        productionCount: "unknown",
+        price: "$250K",
+
+        location: "Ap Automobile Private Collection",
+
+        images: [
+            {
+            src: "images/ferrari/ispirazoni-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Ferrari_Roma_5.jpg"
+        }
+        ]
+
+    },
    
     {
         brand: "Ferrari",
