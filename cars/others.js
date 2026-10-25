@@ -117,7 +117,7 @@ const zenvoCars = [
             source: "https://commons.wikimedia.org/wiki/File:2022_Zenvo_TSR-S_(47983).jpg"
         },
         {
-            src: "images/others/volvo850-4.jpg",
+            src: "images/others/tsrs-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Zenvo_TSR-S_VP2.jpg"
