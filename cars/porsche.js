@@ -386,7 +386,7 @@ const porscheCars = [
 
         location: "unknown",
 
-      description:"",
+      description: "Track focused version of the Porsche 911",
 
         images: [
            {
