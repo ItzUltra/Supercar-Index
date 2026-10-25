@@ -62,3 +62,68 @@ const volvoCars = [
     }
    
 ];
+
+ /* ========================================
+   Zenvo CAR DATABASE
+======================================== */
+
+const zenvoCars = [
+
+    {
+        brand: "Zenvo",
+        model: "TSR-S",
+
+        production: "2018-",
+        country: "Denmark",
+
+        engine: "5.8l twinturbo V8",
+        power: "1177 hp",
+        torque: "1100 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "325 km/h",
+
+        length: "4815 mm",
+        width: "2038 mm",
+        height: "1198 mm",
+
+        weight: "1495 kg",
+
+        productionCount: "every year 5",
+        price: "$1.45-1.8M",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+         {
+            src: "images/others/tsrs-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Zenvo_TSR-S_(65846).jpg"
+        },
+        {
+            src: "images/others/tsrs-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Zenvo_TSR-S_(29346).jpg"
+        },
+        {
+            src: "images/others/tsrs-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Zenvo_TSR-S_(47983).jpg"
+        },
+        {
+            src: "images/others/volvo850-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Zenvo_TSR-S_VP2.jpg"
+        }
+    ]
+
+    }
+   
+];
