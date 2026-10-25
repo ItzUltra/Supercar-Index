@@ -59,6 +59,58 @@ const bmwCars = [
         }
     ]
 
-    }
-   
+    },
+ 
+
+ {
+        brand: "BMW",
+        model: "M2 (G87)",
+
+        production: "2022-",
+        country: "Germany",
+
+        engine: "3l twinturbo inline six",
+        power: "480 hp",
+        torque: "600 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD or RWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "250 km/h",
+
+        length: "4580 mm",
+        width: "1887 mm",
+        height: "1404 mm",
+
+        weight: "1865 kg",
+
+        productionCount: "currently in production",
+        price: "$75K",
+
+        location: "streets",
+
+        images: [
+         {
+            src: "images/bmw/m4g87-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+        },
+        {
+            src: "images/bmw/m2g87-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+        },
+        {
+            src: "images/bmw/m2g87-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+        }
+    ]
+
+    },
+ 
 ];
