@@ -355,6 +355,66 @@ const porscheCars = [
             source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_in_the_Porsche-Museum_(2009)_IMG_2772.jpg"
         }  
     ]
-    }
+    },
 
+
+   {
+        brand: "Porsche",
+        model: "911 GT2 RS",
+
+        production: "2017-2019",
+        country: "Germany",
+
+        engine: "3.8l twinturbo flat-six boxer",
+        power: "700 hp",
+        torque: "750 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "340 km/h",
+
+        length: "4549 mm",
+        width: "1880 mm",
+        height: "1297 mm",
+
+        weight: "1470 kg",
+
+        productionCount: "1000",
+        price: "$450K-1M",
+
+        location: "unknown",
+
+      description:,
+
+        images: [
+           {
+            src: "images/porsche/hyper/959-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0181).jpg"
+        },
+        {
+            src: "images/porsche/hyper/959-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0180).jpg"
+        },
+        {
+            src: "images/porsche/hyper/959-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_959_(66514).jpg"
+        },
+        {
+            src: "images/porsche/hyper/959-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1985_Porsche_959_LC25.jpg"
+        }
+    ]
+
+    },
+   
 ];
