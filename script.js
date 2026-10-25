@@ -24,6 +24,7 @@ const modalSpecs = document.getElementById("modalSpecs");
 const mainImage = document.getElementById("mainImage");
 const imageLicense = document.getElementById("imageLicense");
 const thumbnails = document.getElementById("thumbnails");
+const descriptionText = document.getElementById("descriptionText");
 
 const closeCarModal =
     document.getElementById("closeCarModal");
@@ -568,6 +569,8 @@ function openCarModal(car) {
     modalTitle.textContent =
         `${car.brand} ${car.model}`;
 
+    descriptionText.textContent =
+        car.description || "No description available.";
 
     modalSpecs.innerHTML = "";
 
