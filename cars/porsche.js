@@ -386,32 +386,26 @@ const porscheCars = [
 
         location: "unknown",
 
-      description:,
+      description:"",
 
         images: [
            {
-            src: "images/porsche/hyper/959-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0181).jpg"
-        },
-        {
-            src: "images/porsche/hyper/959-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0180).jpg"
-        },
-        {
-            src: "images/porsche/hyper/959-3.jpg",
+            src: "images/porsche/911gt2rs-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_959_(66514).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
         },
         {
-            src: "images/porsche/hyper/959-4.jpg",
+            src: "images/porsche/911gt2rs-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
+        },
+        {
+            src: "images/porsche/911gt2rs-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1985_Porsche_959_LC25.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
         }
     ]
 
