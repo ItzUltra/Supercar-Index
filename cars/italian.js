@@ -490,28 +490,16 @@ const abarthCars = [
 
         images: [
          {
-            src: "images/italian/stratos-1.jpg",
+            src: "images/italian/ferrari-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_Classic-Gala_2022_1X7A0375.jpg"
+            author: "Dinoferblanc",
+            source: "https://commons.wikimedia.org/wiki/File:Abarth_500_Ferrari_Dealers_-_Exterior.jpg"
         },
         {
-            src: "images/italian/stratos-2.jpg",
+            src: "images/italian/ferrari-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_Classic-Gala_2022_1X7A0377.jpg"
-        },
-        {
-            src: "images/italian/stratos-3.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Tennen-Gas",
-            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_001.JPG"
-        },
-        {
-            src: "images/italian/stratos-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_Safari.jpg"
+            author: "Dinoferblanc",
+            source: "https://commons.wikimedia.org/wiki/File:Zaga_Abarth_500_Ferrari_Dealers.jpg"
         }
     ]
 
