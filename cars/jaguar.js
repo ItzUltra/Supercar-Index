@@ -32,6 +32,8 @@ const jaguarCars = [
 
         location: "British Motor Museum, Warwickshire",
 
+       description: "Jaguar's super sportcar, originally wanted to be one of the fastest car in the world and a strong race car, but the company struggled to sell them, that1s why they are so rare",
+
         images: [
             {
                 src: "images/jaguar/xj220-1.jpg",
