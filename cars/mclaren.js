@@ -332,6 +332,8 @@ const mclarenCars = [
 
         location: "The Collection1",
 
+          description: "A race car and a luxurious sportcar at the same time, Spiritual succesor of the F1, The fastest McLaren",
+
         images: [
                 {
             src: "images/mclaren/hyper/speedtail-1.jpg",
@@ -389,6 +391,8 @@ const mclarenCars = [
         price: "$2.1M",
 
         location: "The McLaren Heritage Collection",
+
+        description: "Continuation of the F1-P1 series, W1 stand for 1st in World Championship, Made for the 50th anniversary of the McLaren formula1 team
 
         images: [
               {
