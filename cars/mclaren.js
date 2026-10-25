@@ -32,6 +32,8 @@ const mclarenCars = [
 
         location: "Petersen Automotive Museum, Los Angeles",
 
+       description: "First ever McLaren road car, Idea by Gordon Murray who designed the car too, It was the first ever hypercar in the world",
+
         images: [
             {
             src: "images/mclaren/f1-1.jpg",
