@@ -392,7 +392,7 @@ const mclarenCars = [
 
         location: "The McLaren Heritage Collection",
 
-        description: "Continuation of the F1-P1 series, W1 stand for 1st in World Championship, Made for the 50th anniversary of the McLaren formula1 team
+        description: "Continuation of the F1-P1 series, W1 stand for 1st in World Championship, Made for the 50th anniversary of the McLaren formula1 team",
 
         images: [
               {
