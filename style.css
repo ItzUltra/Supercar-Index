@@ -665,6 +665,42 @@ main {
     color: #ffffff;
 }
 
+/* ========================================
+   CAR DESCRIPTION
+======================================== */
+
+.car-description {
+    width: 100%;
+    box-sizing: border-box;
+
+    margin-top: 25px;
+    padding: 20px;
+
+    border: 1px solid #292929;
+    border-radius: 12px;
+
+    background: #111111;
+    color: #cccccc;
+
+    line-height: 1.7;
+}
+
+.car-description h3 {
+    margin: 0 0 12px;
+
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.car-description p {
+    margin: 0;
+
+    font-size: 15px;
+    line-height: 1.8;
+
+    white-space: pre-line;
+    overflow-wrap: anywhere;
+}
 
 /* ========================================
    INFORMATION WINDOW
