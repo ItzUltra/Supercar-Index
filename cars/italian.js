@@ -461,32 +461,32 @@ const lanciaCars = [
 const abarthCars = [
 
     {
-        brand: "Lancia",
-        model: "Stratos HF",
+        brand: "Abarth",
+        model: "500 Ferrari Dealer Edition",
 
-        production: "1974-1978",
+        production: "2009",
         country: "Italy",
 
-        engine: "2.4l Ferrari Dino V6",
-        power: "190 hp",
-        torque: "275 Nm",
+        engine: "1,4l turbocharged inline-4 esseesse",
+        power: "160 hp",
+        torque: "230 Nm",
 
         transmission: "5-speed manual",
-        drivetrain: "RWD",
+        drivetrain: "FWD",
 
-        acceleration: "4.9 s",
-        topSpeed: "232 km/h",
+        acceleration: "7.9 s",
+        topSpeed: "205 km/h",
 
-        length: "3710 mm",
-        width: "1810 mm",
-        height: "1110 mm",
+        length: "3657 mm",
+        width: "1627 mm",
+        height: "1485 mm",
 
-        weight: "980 kg",
+        weight: "1035 kg",
 
-        productionCount: "492",
-        price: "$750K",
+        productionCount: "200",
+        price: "$25-40K",
 
-        location: "British Motor Museum, Warwickshire",
+        location: "The Shmeemobiles Collection",
 
         images: [
          {
