@@ -453,3 +453,68 @@ const lanciaCars = [
     }
    
 ];
+
+/* ========================================
+   Abarth CAR DATABASE
+======================================== */
+
+const abarthCars = [
+
+    {
+        brand: "Lancia",
+        model: "Stratos HF",
+
+        production: "1974-1978",
+        country: "Italy",
+
+        engine: "2.4l Ferrari Dino V6",
+        power: "190 hp",
+        torque: "275 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.9 s",
+        topSpeed: "232 km/h",
+
+        length: "3710 mm",
+        width: "1810 mm",
+        height: "1110 mm",
+
+        weight: "980 kg",
+
+        productionCount: "492",
+        price: "$750K",
+
+        location: "British Motor Museum, Warwickshire",
+
+        images: [
+         {
+            src: "images/italian/stratos-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_Classic-Gala_2022_1X7A0375.jpg"
+        },
+        {
+            src: "images/italian/stratos-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_Classic-Gala_2022_1X7A0377.jpg"
+        },
+        {
+            src: "images/italian/stratos-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_001.JPG"
+        },
+        {
+            src: "images/italian/stratos-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_Safari.jpg"
+        }
+    ]
+
+    }
+   
+];
