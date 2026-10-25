@@ -212,6 +212,8 @@ const mclarenCars = [
 
         location: "Newport Car Museum, Portsmouth",
 
+       description: "The continuation of the F1, The P1 stands for position 1 because it was made to dominate the race track and the roads, First ever hybrid mclaren, Part of the Holy Trinity",
+
         images: [
            {
             src: "images/mclaren/hyper/p1-1.jpg",
@@ -269,6 +271,8 @@ const mclarenCars = [
         price: "$2.5-3M",
 
         location: "McLaren Collection Hong Kong",
+
+        description: "Originally the P1GTR was a race car but some owner wanted to use them in the streets too,so Lazante transformed some of them for everyday use",
 
         images: [
             {
