@@ -696,6 +696,8 @@ const mclarenCars = [
 
         location: "The Collection1",
 
+   description: "McLaren 650S but faster and more race focused",
+
         images: [
          {
             src: "images/mclaren/675lt-1.jpg",
@@ -754,6 +756,8 @@ const mclarenCars = [
 
         location: "The Shmeemobiles Collection",
 
+      description: "675LT but roadster",
+
         images: [
    {
             src: "images/mclaren/675ltspider-1.jpg",
@@ -811,6 +815,8 @@ const mclarenCars = [
         price: "$820K",
 
         location: "The Johor Royal Family Collection",
+
+      descrition: "675LT but with exposed carbon body",
 
         images: [
                            {
