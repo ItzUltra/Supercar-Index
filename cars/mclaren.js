@@ -434,6 +434,8 @@ const mclarenCars = [
 
         location: "Moulsdale Foundation, Bishopbriggs",
 
+   description: "A hypercar made to break track records, Named after the Brasilian formula1 driver, Ayrton Senna",
+
         images: [
                            {
             src: "images/mclaren/hyper/senna-1.jpg",
@@ -491,6 +493,8 @@ const mclarenCars = [
         price: "$4.8–5M",
 
         location: "ye110w collection",
+
+      description: "A cool looking design with sharp edges only made for the American market",
 
         images: [
                         {
@@ -550,6 +554,8 @@ const mclarenCars = [
 
         location: "unknown",
 
+      description: "Made for the 50 years anniversary of the canadian-American Challenge Cup where McLaren cars dominated the race in 1969",
+
         images: [
                            {
             src: "images/mclaren/hyper/sennacanam-1.jpg",
@@ -589,6 +595,8 @@ const mclarenCars = [
         price: "$1.2–1.5M",
 
         location: "Carde Arte Design Museu, Campos Do Jordao",
+
+      description: "Track focused version of the Senna",
 
         images: [
                            {
