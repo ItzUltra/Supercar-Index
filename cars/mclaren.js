@@ -92,6 +92,8 @@ const mclarenCars = [
 
         location: "Ralph Lauren Car Collection",
 
+       description: "The road version of the Le Mans winner McLaren F1GTR",
+
         images: [
            {
             src: "images/mclaren/f1lm-1.jpg",
@@ -149,6 +151,8 @@ const mclarenCars = [
         price: "unknown",
 
         location: "The Mclaren Heritage Collection",
+
+      description: "The F1Gtr longtail or the F1GT is an upgraded race car for Le Mans,2 road version where built for the homologisation", 
 
         images: [
             {
