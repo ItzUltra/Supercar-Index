@@ -92,7 +92,7 @@ const bmwCars = [
 
         images: [
          {
-            src: "images/bmw/m4g87-1.jpg",
+            src: "images/bmw/m2g87-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
