@@ -32,6 +32,8 @@ const porscheCars = [
 
         location: "M24 Museé Du Sport Automobile, Le Mans",
 
+       descriptiom: "Originally wanted to be a Group B rally car but ended up being the fastest car at the time, Althrough never raced in WRC, in the 1986 Paris-Dakar rally finished first and second",
+
         images: [
            {
             src: "images/porsche/hyper/959-1.jpg",
@@ -90,6 +92,8 @@ const porscheCars = [
 
         location: "The Ingram Collection",
 
+       description: "A more sporty version of the 959 with less weight and more speed",
+
         images: [
            {
             src: "images/porsche/hyper/959sport-1.jpg",
@@ -128,6 +132,8 @@ const porscheCars = [
         price: "$1.5-4.3.5M",
 
         location: "Larz Anderson Auto Museum, Brookline",
+
+       description: "A road car with a Le Mans race car engine",
 
         images: [
             {
@@ -186,6 +192,8 @@ const porscheCars = [
         price: "$1.5-3.5M",
 
         location: "Classic Car House, Kongens Lyngby",
+
+       description: "First ever hybrid hypercar, Proved hybrid is not only for economy cars, Porsche's car in the Holy Trinity",
 
         images: [
             {
