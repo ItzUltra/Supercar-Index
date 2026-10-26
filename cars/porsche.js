@@ -253,6 +253,8 @@ const porscheCars = [
 
         location: "The Collection1",
 
+        description: "Rival of the McLaern in the 24 hour Le Mans, Finished second place in the 1996 Le Mans, Won the 4 hour Brands Hatch and the 4 hour Spa in 1996",
+
         images: [
              {
             src: "images/porsche/hyper/911gt1-1.jpg",
