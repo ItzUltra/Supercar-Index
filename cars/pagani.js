@@ -61,6 +61,50 @@ const paganiCars = [
 
     },
 
+   {
+        brand: "Pagani",
+        model: "Huayra Roadster",
+
+        production: "2017-2019",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "764 hp",
+        torque: "1000 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "100",
+        price: "$3-3.8M",
+
+        location: "Royal Car Museum, Seeb",
+
+        images: [
+           {
+            src: "images/pagani/huayra/huayrar-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_SCD_24.jpg"
+        },
+        {
+            src: "images/pagani/huayra/huayrar-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_SCD24.jpg"
+        }
+    ]
+
+    },
 
    {
         brand: "Pagani",
@@ -806,7 +850,7 @@ const paganiCars = [
         brand: "Pagani",
         model: "Huayra R Evo Roadster",
 
-        production: "2021",
+        production: "2024",
         country: "Italy",
 
         engine: "6l twinturbo Mercedes-AMG V12",
