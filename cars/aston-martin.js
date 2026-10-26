@@ -32,6 +32,8 @@ const astonMartinCars = [
 
         location: "Royal Cars Museum, Seeb",
 
+       description: "A formula1 car on roads made by Aston Martin and Red Bull",
+
         images: [
             {
             src: "images/astonmartin/hyper/valkyrie-1.jpg",
@@ -148,6 +150,8 @@ const astonMartinCars = [
 
         location: "the LEE Coleection",
 
+      description: "Le Mans race car version of the Valkyrie",
+
         images: [
             {
             src: "images/astonmartin/hyper/amrpro-1.jpg",
@@ -207,6 +211,8 @@ const astonMartinCars = [
 
         location: "gordon ramsay car collection",
 
+      description: "Valkyrie's little brother, One of the cheapest hypercar in the world",
+
         images: [
             {
             src: "images/astonmartin/hyper/valhalla-1.jpg",
@@ -264,6 +270,8 @@ const astonMartinCars = [
         price: "$240-280K",
 
         location: "The Shmeemobiles Collection",
+
+      description: "The track focused version of the Vantage",
 
         images: [
             {
