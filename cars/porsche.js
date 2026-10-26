@@ -310,10 +310,10 @@ const porscheCars = [
 
         images: [
              {
-            src: "images/porsche/hyper/911gt1996-1.jpg",
-            license: "CC BY 2.0",
-            author: "Rutger van der Maar",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_look.jpg"
+            src: "images/porsche/hyper/911gt1-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_Stra%C3%9Fenversion.jpg"
         }
     ]
     },
@@ -404,22 +404,22 @@ const porscheCars = [
 
         images: [
            {
-            src: "images/porsche/911gt2rs-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
+            src: "images/porsche/911gt2-1.jpg",
+            license: "CC BY 2.0",
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT2_(5042447381).jpg"
         },
         {
-            src: "images/porsche/911gt2rs-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
+            src: "images/porsche/911gt2-2.jpg",
+            license: "CC BY 2.0",
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_(997)_GT2_(14515229965).jpg"
         },
         {
-            src: "images/porsche/911gt2rs-3.jpg",
+            src: "images/porsche/911gt2-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2008_Porsche_911_GT2.jpg"
         }
     ]
 
