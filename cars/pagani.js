@@ -188,16 +188,49 @@ const paganiCars = [
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_(2017)_(52229287348).jpg"
         },
         {
-            src: "images/pagani/huayra/huayrabc-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170491-RR).jpg"
-        },
-        {
             src: "images/pagani/huayra/huayrabc-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Charles",
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Coup%C3%A9_(2017)_(52959382278).jpg"
+        }
+    ]
+
+    },
+
+   {
+        brand: "Pagani",
+        model: "Huayra BC Roadster",
+
+        production: "2019-2022",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "802 hp",
+        torque: "1050 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "370 km/h",
+
+        length: "4724 mm",
+        width: "1934 mm",
+        height: "1174 mm",
+
+        weight: "1250 kg",
+
+        productionCount: "44",
+        price: "$3.4-3.5M",
+
+        location: "Museo e Atelier Pagani, San Cesario Sul Panaro",
+
+        images: [
+           {
+            src: "images/pagani/huayra/bcr-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_BC_in_Blue_and_Carbon_Fibre,_front_right_(Greenwich_2024).jpg"
         }
     ]
 
