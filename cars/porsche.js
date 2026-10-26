@@ -306,6 +306,8 @@ const porscheCars = [
 
         location: "SBH Roayl Auto gallery",
 
+       description: "Upgraded 2nd generation of the Le Mans race car",
+
         images: [
              {
             src: "images/porsche/hyper/911gt1996-1.jpg",
@@ -344,6 +346,8 @@ const porscheCars = [
         price: "5.6-15M",
 
         location: "Porsche Classic Collection",
+
+      description: "3rd generation 911 GT1, Finished first and second in the 1998 Le Mans",
 
         images: [
              {
