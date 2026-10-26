@@ -325,6 +325,8 @@ const astonMartinCars = [
 
         location: "The Shmeemobiles Collection",
 
+      description: "Aston Martin's smaller sport coupe, One of the cheapest Aston Martin",
+
         images: [
             {
             src: "images/astonmartin/v8vantage-1.jpg",
@@ -365,6 +367,8 @@ const astonMartinCars = [
 
         location: "unknown",
 
+       description: "Made for Aston Martin's 100th birthday",
+
         images: [
             {
             src: "images/astonmartin/centenaryv8-1.jpg",
@@ -404,6 +408,8 @@ const astonMartinCars = [
         price: "$320K",
 
         location: "unknown",
+
+      description: "vantage made for the 24 hour Nürbürgring",
 
         images: [
             {
@@ -456,6 +462,8 @@ const astonMartinCars = [
         price: "$140K",
 
         location: "The 116 Collection",
+
+      description: "The N24's technology in a street car",
 
         images: [
             {
@@ -543,6 +551,8 @@ const astonMartinCars = [
 
         location: "unknown",
 
+      description: "Made in the colors of the British flag for the Chinese market",
+
         images: [
             {
             src: "images/astonmartin/greatbritain-1.jpg",
@@ -583,6 +593,8 @@ const astonMartinCars = [
 
         location: "Shibaimu Collection",
 
+      description: "Represents the partnership of Aston Martin with Red Bull Racing",
+
         images: [
             {
             src: "images/astonmartin/redbull-1.jpg",
@@ -622,6 +634,8 @@ const astonMartinCars = [
         price: "$150K",
 
         location: "unknown",
+
+      description: "Inspired by the beautiful forests of Sweden, Made for the swedish market",
 
         images: [
             {
