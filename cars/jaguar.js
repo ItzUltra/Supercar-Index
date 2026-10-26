@@ -32,7 +32,7 @@ const jaguarCars = [
 
         location: "British Motor Museum, Warwickshire",
 
-       description: "Jaguar's super sportcar, originally wanted to be one of the fastest car in the world and a strong race car, but the company struggled to sell them, that1s why they are so rare",
+       description: "Jaguar's super sportcar, originally wanted to be one of the fastest car in the world and a strong race car, but the company struggled to sell them, that's why they are so rare",
 
         images: [
             {
@@ -79,6 +79,8 @@ const jaguarCars = [
         price: "$1.1M",
 
         location: "Marconi Automotive Museum, Tustin",
+
+         description: "Homologisation car of the XJ220-C race car, Won the Le mans in 1993 but disqualified catalyst issues",
 
         images: [
             {
@@ -137,6 +139,8 @@ const jaguarCars = [
         price: "unknown",
 
         location: "British Motor Museum, Warwickshire",
+
+       description: "The original concept of the XJ220, Later changed because of financial issues",
 
         images: [
             {
