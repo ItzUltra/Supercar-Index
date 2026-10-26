@@ -369,8 +369,61 @@ const porscheCars = [
             source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_in_the_Porsche-Museum_(2009)_IMG_2772.jpg"
         }  
     ]
+      
     },
 
+   {
+        brand: "Porsche",
+        model: "911 GT2 (997)",
+
+        production: "2007-2010",
+        country: "Germany",
+
+        engine: "3.6l twinturbo flat-six boxer",
+        power: "530 hp",
+        torque: "680 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "329 km/h",
+
+        length: "4469 mm",
+        width: "1852 mm",
+        height: "1285 mm",
+
+        weight: "1445 kg",
+
+        productionCount: "1242",
+        price: "$600K-1M",
+
+        location: "Moulsdale Foundation, Bishopbriggs",
+
+      description: "racer version of the Porsche 911 (997) with rear wheel drive",
+
+        images: [
+           {
+            src: "images/porsche/911gt2rs-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
+        },
+        {
+            src: "images/porsche/911gt2rs-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
+        },
+        {
+            src: "images/porsche/911gt2rs-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
+        }
+    ]
+
+    },
 
    {
         brand: "Porsche",
