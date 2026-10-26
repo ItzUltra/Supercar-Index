@@ -801,5 +801,50 @@ const paganiCars = [
     ]
 
     },
+
+   {
+        brand: "Pagani",
+        model: "Huayra R Evo Roadster",
+
+        production: "2021",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG V12",
+        power: "900 hp",
+        torque: "770 Nm",
+
+        transmission: "6-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "350 km/h",
+
+        length: "5180 mm",
+        width: "2077 mm",
+        height: "1164 mm",
+
+        weight: "1060 kg",
+
+        productionCount: "30",
+        price: "$3.5-4.5M",
+
+        location: "Don_Huayra Collection",
+
+        images: [
+           {
+            src: "images/pagani/huayra/revo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(DSCF2554).jpg"
+        },
+        {
+            src: "images/pagani/huayra/revo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Andrea_Montermini_in_a_Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(028A7330).jpg"
+        }
+    ]
+
+    },
    
    ];
