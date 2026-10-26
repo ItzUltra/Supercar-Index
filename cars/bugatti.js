@@ -32,6 +32,8 @@ const bugattiCars = [
 
         location: "National Motor Museum, Birdwood",
 
+     description: "First production car since Volkswagen bought Bugatti",
+
         images: [
           {
             src: "images/bugatti/veyron/veyron-1.jpg",
@@ -90,6 +92,8 @@ const bugattiCars = [
 
         location: "Hans Peter Porsche Traumwerk, Anger",
 
+     description: "Faster version of Veyron, It broke the Guiness wolrd record of the fastest car in 2010",
+
         images: [
          {
             src: "images/bugatti/veyron/veyronss-1.jpg",
@@ -146,6 +150,8 @@ const bugattiCars = [
         price: "$2.1–2.5M",
 
         location: "VW Zeithaus Museum, Wolfsburg",
+
+    description: "Veyron but roadster",
 
         images: [
          {
@@ -204,6 +210,8 @@ const bugattiCars = [
         price: "$2.2–2.6M",
 
         location: "VW Zeithaus Museum, Wolfsburg",
+
+    description: "Veyron Super Sport but roadster",
 
         images: [
          {
