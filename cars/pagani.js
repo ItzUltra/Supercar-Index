@@ -923,5 +923,38 @@ const paganiCars = [
     ]
 
     },
+
+
+   {
+        brand: "Pagani",
+        model: "Huayra Tricolore",
+
+        production: "2020",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG v12",
+        power: "840 hp",
+        torque: "1100 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "383 km/h",
+
+        length: "4605 mm",
+        width: "2036 mm",
+        height: "1169 mm",
+
+        weight: "1270 kg",
+
+        productionCount: "3",
+        price: "$8.6M",
+
+        location: "unknown",
+
+        images: []
+
+    },
    
    ];
