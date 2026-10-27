@@ -32,6 +32,8 @@ const paganiCars = [
 
         location: "Museo e Atelier Pagani, San Cesario Sul Panaro",
 
+       description: "The Successor of the Zonda",
+
         images: [
            {
             src: "images/pagani/huayra/huayra-1.jpg",
@@ -134,6 +136,8 @@ const paganiCars = [
 
         location: "Trionfo: Barchetta Collection, Derecho and Anima is unknown",
 
+      description: "Made for Horacio Pagani's 70th birthday",
+
         images: [
             {
             src: "images/pagani/huayra/huayra70-2.jpg",
@@ -173,6 +177,8 @@ const paganiCars = [
         price: "$4-5.8M",
 
         location: "Horacio Pagani's Private Collection",
+
+      description: "A Faster version of the Huayra, BC means Benny Caiola who was the first person to buy a Pagani",
 
         images: [
            {
@@ -265,6 +271,8 @@ const paganiCars = [
 
         location: "The Tashkent Collection",
 
+      description: "Codalunga means longtail, so it's a longtail version of the Huayra",
+
         images: [
            {
             src: "images/pagani/huayra/codalunga-1.jpg",
@@ -305,6 +313,8 @@ const paganiCars = [
 
         location: "Pagani Automobili Collection",
 
+      description: "Codalunga roadster",
+
         images: []
 
     },
@@ -337,6 +347,8 @@ const paganiCars = [
         price: "$4.6M",
 
         location: "unknown",
+
+      description: "Made for the Chinese market and for celebrating Pagani China Automotive Limited, All 3 has names: blue one: Baxia, named after the water dragon,  golden one: Yazi the fight dragon and the red one: Chiwen the fire dragon",
 
         images: [
            {
