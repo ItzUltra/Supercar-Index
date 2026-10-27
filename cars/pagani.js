@@ -890,6 +890,8 @@ const paganiCars = [
 
         location: "The Keybridge Collection",
 
+       description: "The successor of the racecar Zonda R",
+
         images: [
            {
             src: "images/pagani/huayra/r-1.jpg",
@@ -941,6 +943,8 @@ const paganiCars = [
 
         location: "Don_Huayra Collection",
 
+      description: "Yes, we absolutely needed a roadster racecar",
+
         images: [
            {
             src: "images/pagani/huayra/revo-1.jpg",
@@ -986,6 +990,8 @@ const paganiCars = [
         price: "$8.6M",
 
         location: "unknown",
+
+      description: "Made for the Frecce Tricolori airforce's 60th anniversary",
 
         images: []
 
