@@ -390,6 +390,8 @@ const paganiCars = [
 
         location: "unknown",
 
+      description: "A one off Pagani ordered by a Polish collector, First Pagani Huayra with Manual transmission",
+
         images: [
            {
             src: "images/pagani/huayra/epitome-1.jpg",
@@ -429,6 +431,8 @@ const paganiCars = [
         price: "$7M",
 
         location: "Manny Khoshbin's Car Collection",
+
+       description: "A one off ordered by Manny Khoshbin for his colaboration with Hermés",
 
         images: [
            {
@@ -503,6 +507,8 @@ const paganiCars = [
 
         location: "El Chavez Collection",
 
+      description: "A one off inspired by Horacio Pagani's car",
+
         images: []
 
     },
@@ -535,6 +541,8 @@ const paganiCars = [
         price: "$8M",
 
         location: "unknown",
+
+      description: "A one off ordered by Vince Zampella who is a Call Of Duty developer, Named after Darth Vader's spaceship the Executor",
 
         images: []
            
@@ -569,6 +577,8 @@ const paganiCars = [
 
         location: "unknown",
 
+       description: "A one off with the Tricolore's parts",
+
         images: []
            
     },
@@ -602,6 +612,8 @@ const paganiCars = [
 
         location: "unknown",
 
+      description: "Ordered by a Chinese customer, Inspired by a purple dragon",
+
         images: []
            
     },
@@ -634,6 +646,8 @@ const paganiCars = [
         price: "$5M",
 
         location: "somewhere in Dubai",
+
+    description: "One off ordered by the dealer Brett David, Inspired by Mercedes formula1 race cars",
 
         images: [
            {
@@ -675,6 +689,8 @@ const paganiCars = [
 
         location: "somewhere in Riyadh",
 
+      description: "named afer it's color",
+
         images: [
            {
             src: "images/pagani/huayra/pearl-1.jpg",
@@ -715,6 +731,8 @@ const paganiCars = [
 
         location: "owned by Horacio Pagani",
 
+      description: "Originally called Joker but after a crash they entirely rebuilt the car and name Aurora Roadster",
+
         images: []
            
     },
@@ -747,6 +765,8 @@ const paganiCars = [
         price: "$7M",
 
         location: "The NC Collection",
+
+      description: "A one off road car that looks like a race car",
 
         images: [
            {
@@ -787,6 +807,8 @@ const paganiCars = [
         price: "unknown",
 
         location: "unknown",
+
+      description: "Inspired by the 1954 Fiat Turbina concept",
 
         images: [
            {
