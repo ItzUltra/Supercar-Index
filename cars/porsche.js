@@ -433,6 +433,65 @@ const porscheCars = [
 
    {
         brand: "Porsche",
+        model: "911 Turbo S (992)",
+
+        production: "2020-2024",
+        country: "Germany",
+
+        engine: "3.8l twinturbo flat-six boxer",
+        power: "650 hp",
+        torque: "800 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.7 s",
+        topSpeed: "330 km/h",
+
+        length: "4535 mm",
+        width: "1900 mm",
+        height: "1295 mm",
+
+        weight: "1640 / 1710 (roadster) kg",
+
+        productionCount: "unknown",
+        price: "$200-300K",
+
+        location: "unknown",
+
+      description: "A more advanced comfortable and fast car for everyday use",
+
+        images: [
+           {
+            src: "images/porsche/991/turbos991-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_991_Turbo_(19892).jpg"
+        },
+        {
+            src: "images/porsche/991/turbos991-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2014_Porsche_911_Turbo_S_(991.1)_rear.jpg"
+        },
+        {
+            src: "images/porsche/991/turbos991-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Staffan Andersson",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_Turbo_S_2014.jpg"
+},
+           {
+            src: "images/porsche/991/turbos991-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:White_911_Turbo_S_991_convertible_FOS21_front.jpg" 
+        },
+    ]
+
+    },
+   
+   {
+        brand: "Porsche",
         model: "911 GT2 (997)",
 
         production: "2007-2010",
