@@ -463,28 +463,28 @@ const porscheCars = [
 
         images: [
            {
-            src: "images/porsche/991/turbos991-1.jpg",
+            src: "images/porsche/992/turbos992-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_991_Turbo_(19892).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_1X7A0411.jpg"
         },
         {
-            src: "images/porsche/991/turbos991-2.jpg",
+            src: "images/porsche/992/turbos992-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2014_Porsche_911_Turbo_S_(991.1)_rear.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_1X7A0413.jpg"
         },
         {
-            src: "images/porsche/991/turbos991-3.jpg",
+            src: "images/porsche/992/turbos992-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Staffan Andersson",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_Turbo_S_2014.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_convertible_DSC_8315.jpg"
 },
            {
-            src: "images/porsche/991/turbos991-4.jpg",
+            src: "images/porsche/992/turbos992-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:White_911_Turbo_S_991_convertible_FOS21_front.jpg" 
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Turbo_S_coupes_IAA_2025_DSC_1835.jpg" 
         },
     ]
 
