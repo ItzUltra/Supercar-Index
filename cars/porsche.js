@@ -433,6 +433,59 @@ const porscheCars = [
 
    {
         brand: "Porsche",
+        model: "911 Carrera GTS (991.2)",
+
+        production: "2017-2019",
+        country: "Germany",
+
+        engine: "3l twinturbo flat-six boxer",
+        power: "450 hp",
+        torque: "550 Nm",
+
+        transmission: "7-speed automatic / 7-speed manual",
+        drivetrain: "AWD / RWD",
+
+        acceleration: "4.1 s",
+        topSpeed: "312 km/h",
+
+        length: "4528 mm",
+        width: "1852 mm",
+        height: "1284 mm",
+
+        weight: "1445-1495 kg",
+
+        productionCount: "unknown",
+        price: "$140K",
+
+        location: "unknown",
+
+      description: "Sporty but not the sportiest Porsche",
+
+        images: [
+           {
+            src: "images/porsche/991/carreragts991-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_991.2_Carrera_GTS_red_(1).jpg"
+        },
+        {
+            src: "images/porsche/991/carreragts991-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_991.2_Carrera_GTS_red_(2).jpg"
+        },
+        {
+            src: "images/porsche/991/carreragts991-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_991_Carrera_GTS.jpg"
+},
+    ]
+
+    },
+   
+   {
+        brand: "Porsche",
         model: "911 Turbo S (992)",
 
         production: "2020-2024",
