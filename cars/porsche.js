@@ -542,6 +542,64 @@ const porscheCars = [
     ]
 
     },
+
+    {
+        brand: "Porsche",
+        model: "911 Carrera gts (992)",
+
+        production: "2021-2024",
+        country: "Germany",
+
+        engine: "3l twinturbo flat-six boxer",
+        power: "480 hp",
+        torque: "570 Nm",
+
+        transmission: "8-speed automatic / 8-speed manual",
+        drivetrain: "AWD / Rwd",
+
+        acceleration: "3.3 s",
+        topSpeed: "312 km/h",
+
+        length: "4533 mm",
+        width: "1852 mm",
+        height: "1303 mm",
+
+        weight: "1545 / 1595 (roadster) kg",
+
+        productionCount: "unknown",
+        price: "$190-290K",
+
+        location: "unknown",
+
+
+        images: [
+           {
+            src: "images/porsche/992/turbos992-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_1X7A0411.jpg"
+        },
+        {
+            src: "images/porsche/992/turbos992-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_1X7A0413.jpg"
+        },
+        {
+            src: "images/porsche/992/turbos992-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_convertible_DSC_8315.jpg"
+},
+           {
+            src: "images/porsche/992/turbos992-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Turbo_S_coupes_IAA_2025_DSC_1835.jpg" 
+        },
+    ]
+
+    },
    
    {
         brand: "Porsche",
