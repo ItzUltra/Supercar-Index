@@ -574,28 +574,28 @@ const porscheCars = [
 
         images: [
            {
-            src: "images/porsche/992/turbos992-1.jpg",
+            src: "images/porsche/992/carreragts992-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_1X7A0411.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_(992)_Carrera_GTS.jpg"
         },
         {
-            src: "images/porsche/992/turbos992-2.jpg",
+            src: "images/porsche/992/carreragts992-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_1X7A0413.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Porsche_911_Carrera_GTS_Rear.jpg"
         },
         {
-            src: "images/porsche/992/turbos992-3.jpg",
+            src: "images/porsche/992/carreragts992-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_Turbo_S_convertible_DSC_8315.jpg"
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_911_Carrera_4_GTS_Convertible_Crayon_(5).jpg"
 },
            {
-            src: "images/porsche/992/turbos992-4.jpg",
+            src: "images/porsche/992/carreragts992-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Turbo_S_coupes_IAA_2025_DSC_1835.jpg" 
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Porsche_911_992_Carrera_GTS.jpg" 
         },
     ]
 
