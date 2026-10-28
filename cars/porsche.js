@@ -706,5 +706,52 @@ const porscheCars = [
     ]
 
     },
+
+   {
+        brand: "Porsche",
+        model: "Panamera Turbo S E-Hybrid Sport Turismo",
+
+        production: "2017-2023",
+        country: "Germany",
+
+        engine: "4l twinturbo V8 with hybrid system ",
+        power: "680 hp",
+        torque: "850 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "310 km/h",
+
+        length: "5053 mm",
+        width: "1937 mm",
+        height: "1428 mm",
+
+        weight: "2015 kg",
+
+        productionCount: "1000",
+        price: "$70-75K",
+
+        location: "unknown",
+
+      description: "Wagon Porsche?",
+
+        images: [
+           {
+            src: "images/porsche/sportturismo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:PORSCHE_PANAMERA_4S_SPORT_TURISMO_China.jpg"
+        },
+        {
+            src: "images/porsche/sportturismo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:PORSCHE_PANAMERA_4S_SPORT_TURISMO_China_(2).jpg"
+        }
+    ]
+
+    },
    
 ];
