@@ -572,5 +572,44 @@ const mercedesCars = [
     ]
 
     },
+
+   {
+        brand: "Mercedes",
+        model: "SLS AMG Blackbird",
+
+        production: "2010",
+        country: "Germany",
+
+        engine: "6.2l V8",
+        power: "571 hp",
+        torque: "650 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.8 s",
+        topSpeed: "317 km/h",
+
+        length: "4638 mm",
+        width: "1939 mm",
+        height: "1262 mm",
+
+        weight: "1695 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "somewhere in Sydney",
+
+        images: [
+            {
+            src: "images/mercedes/blackbirs-1.jpg",
+            license: "Public domain",
+            author: "OSX",
+            source: "https://commons.wikimedia.org/wiki/File:2010_Mercedes-Benz_SLS_AMG_(C_197)_Blackbird_coupe_(2010-10-16)_02.jpg"
+        }
+    ]
+
+    },
    
    ];
