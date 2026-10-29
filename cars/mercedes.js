@@ -564,7 +564,7 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/blackbirs-1.jpg",
+            src: "images/mercedes/blackbird-1.jpg",
             license: "Public domain",
             author: "OSX",
             source: "https://commons.wikimedia.org/wiki/File:2010_Mercedes-Benz_SLS_AMG_(C_197)_Blackbird_coupe_(2010-10-16)_02.jpg"
@@ -575,38 +575,38 @@ const mercedesCars = [
 
    {
         brand: "Mercedes",
-        model: "SLS AMG Blackbird",
+        model: "SLS AMG Electric Dr",
 
-        production: "2010",
+        production: "2013",
         country: "Germany",
 
-        engine: "6.2l V8",
-        power: "571 hp",
-        torque: "650 Nm",
+        engine: "4 electric engine",
+        power: "751 hp",
+        torque: "1000 Nm",
 
         transmission: "7-speed automatic",
-        drivetrain: "RWD",
+        drivetrain: "AWD",
 
-        acceleration: "3.8 s",
-        topSpeed: "317 km/h",
+        acceleration: "3.9 s",
+        topSpeed: "250 km/h",
 
         length: "4638 mm",
         width: "1939 mm",
         height: "1262 mm",
 
-        weight: "1695 kg",
+        weight: "2110 kg",
 
-        productionCount: "1",
-        price: "unknown",
+        productionCount: "7",
+        price: "$400K",
 
-        location: "somewhere in Sydney",
+        location: "Mercedes-Benz Museum, Stuttgart",
 
         images: [
             {
-            src: "images/mercedes/blackbirs-1.jpg",
-            license: "Public domain",
-            author: "OSX",
-            source: "https://commons.wikimedia.org/wiki/File:2010_Mercedes-Benz_SLS_AMG_(C_197)_Blackbird_coupe_(2010-10-16)_02.jpg"
+            src: "images/mercedes/electric-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes_SLS_AMG_Electric_Drive.jpg"
         }
     ]
 
