@@ -293,6 +293,57 @@ const mercedesCars = [
 
    {
         brand: "Mercedes",
+        model: "AMG GT 4-Door",
+
+        production: "2018-",
+        country: "Germany",
+
+        engine: "4l biturbo V8",
+        power: "639 hp",
+        torque: "900 Nm",
+
+        transmission: "9-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "315 km/h",
+
+        length: "5054 mm",
+        width: "1953 mm",
+        height: "1447 mm",
+
+        weight: "2045 kg",
+
+        productionCount: "currently in production",
+        price: "$50-110K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/mercedes/4door-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(3).jpg"
+        },
+        {
+            src: "images/mercedes/4door-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(4).jpg"
+        },
+        {
+            src: "images/mercedes/4door-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(2).jpg"
+        }
+    ]
+
+    },
+
+   {
+        brand: "Mercedes",
         model: "G63 AMG",
 
         production: "2024-",
