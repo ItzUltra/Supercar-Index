@@ -176,63 +176,7 @@ const mercedesCars = [
     },
 
 
-   {
-        brand: "Mercedes",
-        model: "SLS AMG Black Series",
-
-        production: "2013",
-        country: "Germany",
-
-        engine: "6.2l V8",
-        power: "631 hp",
-        torque: "635 Nm",
-
-        transmission: "7-speed automatic",
-        drivetrain: "RWD",
-
-        acceleration: "3.6 s",
-        topSpeed: "315 km/h",
-
-        length: "4638 mm",
-        width: "1965 mm",
-        height: "1260 mm",
-
-        weight: "1550 kg",
-
-        productionCount: "around 450",
-        price: "$850K-2M",
-
-        location: "Mercedes-Benz World, Weybridge",
-
-        images: [
-            {
-            src: "images/mercedes/slsblack-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
-        },
-        {
-            src: "images/mercedes/slsblack-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
-        },
-        {
-            src: "images/mercedes/slsblack-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "steve lyon",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_AMG_SLS_Black_(8229781090).jpg"
-        },
-        {
-            src: "images/mercedes/slsblack-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes-Benz_SLS_AMG_Black_Series_SCD26.jpg"
-        }
-    ]
-
-    },
-
+   
 
    {
         brand: "Mercedes",
@@ -471,6 +415,120 @@ const mercedesCars = [
             license: "CC BY-SA 4.0",
             author: "Alexander-93",
             source: "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_GLS600_(Facelift)_IMG_0302.jpg"
+        }
+    ]
+
+    },
+
+   {
+        brand: "Mercedes",
+        model: "SLS AMG Black Series",
+
+        production: "2013",
+        country: "Germany",
+
+        engine: "6.2l V8",
+        power: "631 hp",
+        torque: "635 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.6 s",
+        topSpeed: "315 km/h",
+
+        length: "4638 mm",
+        width: "1965 mm",
+        height: "1260 mm",
+
+        weight: "1550 kg",
+
+        productionCount: "around 450",
+        price: "$850K-2M",
+
+        location: "Mercedes-Benz World, Weybridge",
+
+        images: [
+            {
+            src: "images/mercedes/slsblack-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "steve lyon",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_AMG_SLS_Black_(8229781090).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes-Benz_SLS_AMG_Black_Series_SCD26.jpg"
+        }
+    ]
+
+    },
+
+   {
+        brand: "Mercedes",
+        model: "SLS AMG",
+
+        production: "2009-2014",
+        country: "Germany",
+
+        engine: "6.2l V8",
+        power: "571 hp",
+        torque: "650 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.8 s",
+        topSpeed: "317 km/h",
+
+        length: "4638 mm",
+        width: "1939 mm",
+        height: "1262 mm",
+
+        weight: "1695 kg",
+
+        productionCount: "around 12K",
+        price: "$140-300K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/mercedes/slsblack-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "steve lyon",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_AMG_SLS_Black_(8229781090).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes-Benz_SLS_AMG_Black_Series_SCD26.jpg"
         }
     ]
 
