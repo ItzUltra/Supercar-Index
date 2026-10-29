@@ -290,5 +290,62 @@ const mercedesCars = [
     ]
 
     },
+
+   {
+        brand: "Mercedes",
+        model: "G63 AMG",
+
+        production: "2024-",
+        country: "Germany",
+
+        engine: "4l biturbo V8 with hybrid system",
+        power: "605 hp",
+        torque: "850 Nm",
+
+        transmission: "9-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4.4 s",
+        topSpeed: "240 km/h",
+
+        length: "4873 mm",
+        width: "1984 mm",
+        height: "1966 mm",
+
+        weight: "2560 kg",
+
+        productionCount: "currently in production",
+        price: "$195-270K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/mercedes/slsblack-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "steve lyon",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_AMG_SLS_Black_(8229781090).jpg"
+        },
+        {
+            src: "images/mercedes/slsblack-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes-Benz_SLS_AMG_Black_Series_SCD26.jpg"
+        }
+    ]
+
+    },
    
    ];
