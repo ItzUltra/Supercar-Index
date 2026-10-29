@@ -650,5 +650,44 @@ const mercedesCars = [
     ]
 
     },
+
+   {
+        brand: "Mercedes",
+        model: "SLS AMG Final Edition Roadster",
+
+        production: "2013-2014",
+        country: "Germany",
+
+        engine: "6.2l V8",
+        power: "591 hp",
+        torque: "650 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "320 km/h",
+
+        length: "4638 mm",
+        width: "1939 mm",
+        height: "1262 mm",
+
+        weight: "1735 kg",
+
+        productionCount: "350",
+        price: "$250-500K",
+
+        location: "The Sundial Collection",
+
+        images: [
+            {
+            src: "images/mercedes/slsfinal-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Kickaffe",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SLS_AMG_GT_Roadster_Final_Edition_Vorderansicht.jpg"
+        }
+    ]
+
+    },
    
    ];
