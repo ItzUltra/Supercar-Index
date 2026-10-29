@@ -720,7 +720,7 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/45th-2.jpg",
+            src: "images/mercedes/45th-1.jpg",
             license: "CC BY 2.0",
             author: "Davi Sanchez",
             source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_GT3_45th_Anniversary_(8159327527).jpg"
