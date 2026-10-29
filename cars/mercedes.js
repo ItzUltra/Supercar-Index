@@ -321,28 +321,22 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/slsblack-1.jpg",
+            src: "images/mercedes/g63-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(4).jpg"
         },
         {
-            src: "images/mercedes/slsblack-2.jpg",
+            src: "images/mercedes/g63-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(5).jpg"
         },
         {
-            src: "images/mercedes/slsblack-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "steve lyon",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_AMG_SLS_Black_(8229781090).jpg"
-        },
-        {
-            src: "images/mercedes/slsblack-4.jpg",
+            src: "images/mercedes/g63-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes-Benz_SLS_AMG_Black_Series_SCD26.jpg"
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(3).jpg"
         }
     ]
 
