@@ -689,5 +689,44 @@ const mercedesCars = [
     ]
 
     },
+
+   {
+        brand: "Mercedes",
+        model: "SLS AMG GT3 45th Anniversary",
+
+        production: "2013",
+        country: "Germany",
+
+        engine: "6.2l V8",
+        power: "570 hp",
+        torque: "650 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "320 km/h",
+
+        length: "4710 mm",
+        width: "1990 mm",
+        height: "1195 mm",
+
+        weight: "1620 kg",
+
+        productionCount: "350",
+        price: "$450K",
+
+        location: "Das Nationale Automuseum, Dietzhölztal",
+
+        images: [
+            {
+            src: "images/mercedes/45th-2.jpg",
+            license: "CC BY 2.0",
+            author: "Davi Sanchez",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_GT3_45th_Anniversary_(8159327527).jpg"
+        }
+    ]
+
+    },
    
    ];
