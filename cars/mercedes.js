@@ -507,28 +507,28 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/slsblack-1.jpg",
+            src: "images/mercedes/sls-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "AngMoKio",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SLS_amk.jpg"
+        },
+        {
+            src: "images/mercedes/sls-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ethan Llamas",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_C197_SLS_AMG_Imola_Grey_03.jpg"
+        },
+        {
+            src: "images/mercedes/sls-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes_SLS_AMG_Roadster.jpg"
         },
         {
-            src: "images/mercedes/slsblack-2.jpg",
+            src: "images/mercedes/sls-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_SLS_AMG_Black_Series_(54305).jpg"
-        },
-        {
-            src: "images/mercedes/slsblack-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "steve lyon",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_AMG_SLS_Black_(8229781090).jpg"
-        },
-        {
-            src: "images/mercedes/slsblack-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2013_Mercedes-Benz_SLS_AMG_Black_Series_SCD26.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2011_Mercedes_SLS_AMG_Auto.jpg"
         }
     ]
 
