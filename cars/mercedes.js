@@ -575,7 +575,7 @@ const mercedesCars = [
 
    {
         brand: "Mercedes",
-        model: "SLS AMG Electric Dr",
+        model: "SLS AMG Electric Drive",
 
         production: "2013",
         country: "Germany",
