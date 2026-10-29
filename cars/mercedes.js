@@ -344,6 +344,38 @@ const mercedesCars = [
 
    {
         brand: "Mercedes",
+        model: "AMG GT 4-Door Palace Edition",
+
+        production: "2020",
+        country: "Germany",
+
+        engine: "4l biturbo V8",
+        power: "639 hp",
+        torque: "900 Nm",
+
+        transmission: "9-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "315 km/h",
+
+        length: "5054 mm",
+        width: "1953 mm",
+        height: "1447 mm",
+
+        weight: "2045 kg",
+
+        productionCount: "1",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: []
+
+    },
+   
+   {
+        brand: "Mercedes",
         model: "G63 AMG",
 
         production: "2024-",
