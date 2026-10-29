@@ -341,5 +341,56 @@ const mercedesCars = [
     ]
 
     },
+
+   {
+        brand: "Mercedes",
+        model: "Maybach GLS600",
+
+        production: "2020-",
+        country: "Germany",
+
+        engine: "4l biturbo V8 with hybrid system",
+        power: "558 hp",
+        torque: "730 Nm",
+
+        transmission: "9-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4.5 s",
+        topSpeed: "250 km/h",
+
+        length: "5219 mm",
+        width: "2024 mm",
+        height: "1838 mm",
+
+        weight: "2810 kg",
+
+        productionCount: "currently in production",
+        price: "$240-250K",
+
+        location: "unknown",
+
+        images: [
+            {
+            src: "images/mercedes/g63-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(4).jpg"
+        },
+        {
+            src: "images/mercedes/g63-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(5).jpg"
+        },
+        {
+            src: "images/mercedes/g63-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(3).jpg"
+        }
+    ]
+
+    },
    
    ];
