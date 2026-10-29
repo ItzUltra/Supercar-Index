@@ -372,22 +372,22 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/g63-1.jpg",
+            src: "images/mercedes/gls600-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(4).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES_MAYBACH_GLS600_China.jpg"
         },
         {
-            src: "images/mercedes/g63-2.jpg",
+            src: "images/mercedes/gls600-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(5).jpg"
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES_MAYBACH_GLS600_China_(2).jpg"
         },
         {
-            src: "images/mercedes/g63-3.jpg",
+            src: "images/mercedes/gls600-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G63_(W463)_China_(3).jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_GLS600_(Facelift)_IMG_0302.jpg"
         }
     ]
 
