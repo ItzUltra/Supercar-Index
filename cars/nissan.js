@@ -62,7 +62,7 @@ const nissanCars = [
         production: "2007-2025",
         country: "Japan",
 
-        engine: "3.5l VR38DETT",
+        engine: "3.5l twinturbo VR38DETT V6",
         power: "485-570 hp",
         torque: "637-652 Nm",
 
@@ -80,6 +80,57 @@ const nissanCars = [
 
         productionCount: "around 48K",
         price: "60-100K",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/nissan/r39-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+        {
+            src: "images/nissan/r39-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+            {
+            src: "images/nissan/r39-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        }
+    ]
+
+    },
+
+   {
+        brand: "Nissan",
+        model: "GT-R Nismo",
+
+        production: "2016-2022",
+        country: "Japan",
+
+        engine: "3.5l twinturbo VR38DETT V6",
+        power: "600 hp",
+        torque: "652 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "315 km/h",
+
+        length: "4690 mm",
+        width: "1895 mm",
+        height: "1370 mm",
+
+        weight: "1725 kg",
+
+        productionCount: "unknown",
+        price: "200-300K",
 
         location: "unknown",
 
