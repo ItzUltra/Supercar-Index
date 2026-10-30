@@ -32,6 +32,8 @@ const mercedesCars = [
 
         location: "La Collection de Voitures de S.A.S. le Prince de Monaco, Monaco",
 
+       description: "Homologisation car for the 1997 Le Mans, Won Le mans in 1997 and 1998, First Flying car",
+
         images: [
             {
             src: "images/mercedes/hyper/clkgtr-1.jpg",
@@ -90,6 +92,8 @@ const mercedesCars = [
 
         location: "Das Nationale Automuseum, Dietzhölztal",
 
+      description: "Le Mans roadster because why not?",
+
         images: [
             {
             src: "images/mercedes/hyper/clkgtrroadster-1.jpg",
@@ -145,6 +149,8 @@ const mercedesCars = [
         price: "$3.5-4.5M",
 
         location: "Das Nationale Automuseum, Dietzhölztal",
+
+   description: "Road car with a Formula1 engine, Did Nürbürgring Nordschleife in 6.29",
 
         images: [
             {
@@ -206,6 +212,8 @@ const mercedesCars = [
 
         location: "Moulsdale Foundation, Bishopbriggs",
 
+      description: "The falgship of AMG GTs, GT3 race car technology in a road car",
+
         images: [
             {
             src: "images/mercedes/gtblack-1.jpg",
@@ -262,6 +270,8 @@ const mercedesCars = [
         price: "$50-110K",
 
         location: "unknown",
+
+      description: "The AMG GT style in a 4 door family car",
 
         images: [
             {
@@ -346,6 +356,8 @@ const mercedesCars = [
 
         location: "unknown",
 
+      description: "The most luxurious G-Class ever",
+
         images: [
             {
             src: "images/mercedes/g63-1.jpg",
@@ -396,6 +408,8 @@ const mercedesCars = [
         price: "$240-250K",
 
         location: "unknown",
+
+      description: "I have a SUV, I have a Limousine, Ahh GLS600!",
 
         images: [
             {
@@ -506,6 +520,8 @@ const mercedesCars = [
         price: "$140-300K",
 
         location: "unknown",
+
+      description: "The 300SL Gullwing's successor",
 
         images: [
             {
