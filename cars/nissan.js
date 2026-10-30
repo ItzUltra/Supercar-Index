@@ -462,5 +462,56 @@ const nissanCars = [
     ]
 
     },
+
+   {
+        brand: "Nissan",
+        model: "GT-R Spec V",
+
+        production: "2009",
+        country: "Japan",
+
+        engine: "3.5l twinturbo VR38DETT V6",
+        power: "550 hp",
+        torque: "632 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3 s",
+        topSpeed: "320 km/h",
+
+        length: "4670 mm",
+        width: "1895 mm",
+        height: "1370 mm",
+
+        weight: "1730 kg",
+
+        productionCount: "50",
+        price: "170K",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/nissan/r39-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+        {
+            src: "images/nissan/r39-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+            {
+            src: "images/nissan/r39-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        }
+    ]
+
+    },
    
 ];
