@@ -448,6 +448,8 @@ const mercedesCars = [
 
         location: "Mercedes-Benz World, Weybridge",
 
+      description: "A faster and more track focused version of the SLS",
+
         images: [
             {
             src: "images/mercedes/slsblack-1.jpg",
@@ -562,6 +564,8 @@ const mercedesCars = [
 
         location: "somewhere in Sydney",
 
+       description: "Made to celebrate the 1000th AMG sold in Australia",
+
         images: [
             {
             src: "images/mercedes/blackbird-1.jpg",
@@ -601,6 +605,8 @@ const mercedesCars = [
 
         location: "Mercedes-Benz Museum, Stuttgart",
 
+      description: "They tried to build an electric supercar from the SLS, it didn't work out",
+
         images: [
             {
             src: "images/mercedes/electric-1.jpg",
@@ -639,6 +645,8 @@ const mercedesCars = [
         price: "$480-800K",
 
         location: "Exotic Car Hacks Collection",
+
+      description: "The final SLS AMG of the production",
 
         images: [
             {
@@ -717,6 +725,8 @@ const mercedesCars = [
         price: "$450K",
 
         location: "Das Nationale Automuseum, Dietzhölztal",
+
+      description: "made for the 45th anniversary of AMG",
 
         images: [
             {
