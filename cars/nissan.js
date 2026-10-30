@@ -540,7 +540,7 @@ const nissanCars = [
         productionCount: "250",
         price: "150K",
 
-        location: "unknown",
+        location: "The Lee Collection",
 
         images: [
            {
