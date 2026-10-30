@@ -155,6 +155,57 @@ const nissanCars = [
         }
     ]
 
-    }
+    },
+
+   {
+        brand: "Nissan",
+        model: "GT-R 45th Anniversary Gold Edition",
+
+        production: "2016",
+        country: "Japan",
+
+        engine: "3.5l twinturbo VR38DETT V6",
+        power: "545 hp",
+        torque: "628 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3 s",
+        topSpeed: "317 km/h",
+
+        length: "4670 mm",
+        width: "1895 mm",
+        height: "1372 mm",
+
+        weight: "1779 kg",
+
+        productionCount: "80",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/nissan/r39-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+        {
+            src: "images/nissan/r39-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+            {
+            src: "images/nissan/r39-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        }
+    ]
+
+    },
    
 ];
