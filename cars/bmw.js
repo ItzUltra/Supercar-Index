@@ -269,6 +269,58 @@ const bmwCars = [
 
     },
 
+
+ {
+        brand: "BMW",
+        model: "I8",
+
+        production: "2014-2020",
+        country: "Germany",
+
+        engine: "1.5l turbocharged inline-3",
+        power: "374 hp",
+        torque: "570 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4.6 s",
+        topSpeed: "250 km/h",
+
+        length: "4689 mm",
+        width: "1942 mm",
+        height: "1291 mm",
+
+        weight: "1560 kg",
+
+        productionCount: "around 20K",
+        price: "$60-95K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/bmw/m2g8-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+        },
+        {
+            src: "images/bmw/m2g8-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+        },
+        {
+            src: "images/bmw/m2g8-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+        }
+    ]
+
+    },
+
  
  {
         brand: "BMW",
