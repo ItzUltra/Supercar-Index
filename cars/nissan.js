@@ -32,6 +32,8 @@ const nissanCars = [
 
         location: "Nissan Heritage Collection",
 
+       description: "Homologisation car of the Le Mans race car, Finished 3rd place in 1998",
+
         images: [
            {
             src: "images/nissan/r390-1.jpg",
@@ -82,6 +84,8 @@ const nissanCars = [
         price: "60-100K",
 
         location: "unknown",
+
+      description: "Continuation of the GT-R series, Made to compete with supercars",
 
         images: [
            {
@@ -262,6 +266,8 @@ const nissanCars = [
 
         location: "Coligny Car Museum, Coligny",
 
+      description: "GT-R as a luxury car",
+
         images: [
            {
             src: "images/nissan/egoist-1.jpg",
@@ -300,6 +306,8 @@ const nissanCars = [
         price: "115K",
 
         location: "unknown",
+
+      description: "Made for French and Belgian dealers, A more track focused version",
 
         images: [
            {
@@ -418,6 +426,8 @@ const nissanCars = [
         price: "170K",
 
         location: "unknown",
+
+      description: "Tuned to the race track",
 
         images: [
            {
