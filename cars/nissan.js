@@ -185,26 +185,7 @@ const nissanCars = [
 
         location: "unknown",
 
-        images: [
-           {
-            src: "images/nissan/r39-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-        {
-            src: "images/nissan/r39-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-            {
-            src: "images/nissan/r39-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        }
-    ]
+        images: []
 
     },
 
@@ -238,22 +219,10 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r39-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-        {
-            src: "images/nissan/r39-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-            {
-            src: "images/nissan/r39-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            src: "images/nissan/bolt-1.jpg",
+            license: "CC BY 2.0",
+            author: "Sarah Larson",
+            source: "https://commons.wikimedia.org/wiki/File:Usain_Bolt_Nissan_GT-R_(8403076829)_(cropped).jpg"
         }
     ]
 
@@ -289,22 +258,10 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r39-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-        {
-            src: "images/nissan/r39-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-            {
-            src: "images/nissan/r39-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            src: "images/nissan/egoist-1.jpg",
+            license: "CC BY 3.0",
+            author: "CEFICEFI",
+            source: "https://commons.wikimedia.org/wiki/File:NISSAN_GT-R_R35_2011.JPG"
         }
     ]
 
@@ -340,22 +297,10 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r39-1.jpg",
+            src: "images/nissan/gentleman-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-        {
-            src: "images/nissan/r39-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-            {
-            src: "images/nissan/r39-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Nissan_GT-R_Premium_Edition.jpg"
         }
     ]
 
