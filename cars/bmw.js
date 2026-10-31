@@ -32,6 +32,8 @@ const bmwCars = [
 
         location: "streets",
 
+  description: "M4 or M3 but in a smaller chassis",
+
         images: [
          {
             src: "images/bmw/m2g87-1.jpg",
@@ -84,6 +86,8 @@ const bmwCars = [
 
         location: "unknown",
 
+  description: "flagship of M3s",
+
         images: [
          {
             src: "images/bmw/m2g8-1.jpg",
@@ -135,6 +139,8 @@ const bmwCars = [
         price: "$75-110K",
 
         location: "npc car",
+
+     description "Just an overrated sporty M4",
 
         images: [
          {
@@ -194,6 +200,8 @@ const bmwCars = [
 
         location: "Moulsdale Foundation, Bishopbriggs",
 
+ description: "An M5 luxury sedan wich competes with supercars",
+
         images: [
          {
             src: "images/bmw/m2g8-1.jpg",
@@ -245,6 +253,8 @@ const bmwCars = [
         price: "$120K",
 
         location: "unknown",
+
+  description: "Better than the M5, Worse than the M5 CS",
 
         images: [
          {
@@ -298,6 +308,8 @@ const bmwCars = [
 
         location: "unknown",
 
+  description: "Tries to be a hybrid supercar but much slower and weaker than it should be",
+
         images: [
          {
             src: "images/bmw/m2g8-1.jpg",
@@ -349,6 +361,8 @@ const bmwCars = [
         price: "$140K",
 
         location: "unknown",
+
+  description: "A gangsta SUV with motorsport performance",
 
         images: [
          {
