@@ -144,6 +144,8 @@ const nissanCars = [
 
         location: "unknown",
 
+      description: "The flagship of the GT-Rs, The editor's favourite car",
+
         images: [
            {
             src: "images/nissan/gtrnismo-1.jpg",
@@ -393,6 +395,8 @@ const nissanCars = [
 
         location: "unknown",
 
+      description: "Made to celebrate the collaboration of Nissan and the famous tennis player, Naomi Osaka",
+
         images: [
            {
             src: "images/nissan/naomi-1.jpg",
@@ -474,6 +478,8 @@ const nissanCars = [
         price: "150K",
 
         location: "The Lee Collection",
+
+      description: "A bit faster car with unique paint options",
 
         images: [
            {
