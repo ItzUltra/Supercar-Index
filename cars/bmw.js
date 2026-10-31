@@ -4,6 +4,58 @@
 
 const bmwCars = [
 
+ {
+        brand: "BMW",
+        model: "M2 (G87)",
+
+        production: "2022-",
+        country: "Germany",
+
+        engine: "3l twinturbo inline six",
+        power: "480 hp",
+        torque: "600 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD or RWD",
+
+        acceleration: "3.7 s",
+        topSpeed: "250 km/h",
+
+        length: "4580 mm",
+        width: "1887 mm",
+        height: "1404 mm",
+
+        weight: "1865 kg",
+
+        productionCount: "currently in production",
+        price: "$75K",
+
+        location: "streets",
+
+        images: [
+         {
+            src: "images/bmw/m2g87-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+        },
+        {
+            src: "images/bmw/m2g87-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+        },
+        {
+            src: "images/bmw/m2g87-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+        }
+    ]
+
+    },
+
+ 
     {
         brand: "BMW",
         model: "M4 Competition M xDrive",
@@ -60,51 +112,51 @@ const bmwCars = [
     ]
 
     },
+
  
-
- {
+{
         brand: "BMW",
-        model: "M2 (G87)",
+        model: "M5 CS",
 
-        production: "2022-",
+        production: "2021-2022",
         country: "Germany",
 
-        engine: "3l twinturbo inline six",
-        power: "480 hp",
-        torque: "600 Nm",
+        engine: "4.4l biturbo V8",
+        power: "635 hp",
+        torque: "750 Nm",
 
         transmission: "8-speed automatic",
-        drivetrain: "AWD or RWD",
+        drivetrain: "AWD",
 
-        acceleration: "3.7 s",
-        topSpeed: "250 km/h",
+        acceleration: "3.3 s",
+        topSpeed: "305 km/h",
 
-        length: "4580 mm",
-        width: "1887 mm",
-        height: "1404 mm",
+        length: "5001 mm",
+        width: "1903 mm",
+        height: "1468 mm",
 
-        weight: "1865 kg",
+        weight: "1825 kg",
 
-        productionCount: "currently in production",
-        price: "$75K",
+        productionCount: "1132",
+        price: "$125-170K",
 
-        location: "streets",
+        location: "Moulsdale Foundation, Bishopbriggs",
 
         images: [
          {
-            src: "images/bmw/m2g87-1.jpg",
+            src: "images/bmw/m2g8-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
         },
         {
-            src: "images/bmw/m2g87-2.jpg",
+            src: "images/bmw/m2g8-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander-93",
             source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
         },
         {
-            src: "images/bmw/m2g87-3.jpg",
+            src: "images/bmw/m2g8-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander-93",
             source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
@@ -112,5 +164,6 @@ const bmwCars = [
     ]
 
     },
+ 
  
 ];
