@@ -165,5 +165,56 @@ const bmwCars = [
 
     },
  
+
+ {
+        brand: "BMW",
+        model: "M3 CS (G80)",
+
+        production: "2021-2022",
+        country: "Germany",
+
+        engine: "3l twinturbo inline-6",
+        power: "550 hp",
+        torque: "650 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "302 km/h",
+
+        length: "4795 mm",
+        width: "1918 mm",
+        height: "1438 mm",
+
+        weight: "1765 kg",
+
+        productionCount: "around 1700",
+        price: "$72-130K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/bmw/m2g8-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+        },
+        {
+            src: "images/bmw/m2g8-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+        },
+        {
+            src: "images/bmw/m2g8-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+        }
+    ]
+
+    },
  
 ];
