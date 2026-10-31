@@ -391,22 +391,10 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r39-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-        {
-            src: "images/nissan/r39-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-            {
-            src: "images/nissan/r39-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            src: "images/nissan/midnightopal-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_-_Flickr_-_Alexandre_Pr%C3%A9vot_(24).jpg"
         }
     ]
 
@@ -442,22 +430,10 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r39-1.jpg",
+            src: "images/nissan/naomi-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-        {
-            src: "images/nissan/r39-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-            {
-            src: "images/nissan/r39-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "Tokumeigakarinoaoshima",
+            source: "https://commons.wikimedia.org/wiki/File:Osaka_Auto_Messe_2019_(533)_-_Nissan_GT-R_Naomi_Osaka_Nissan_Brand_Ambassador_Inauguration_Anniversary_Model_(DBA-R35).jpg"
         }
     ]
 
@@ -494,22 +470,10 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r39-1.jpg",
+            src: "images/nissan/specv-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-        {
-            src: "images/nissan/r39-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
-        },
-            {
-            src: "images/nissan/r39-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_7.jpg"
         }
     ]
 
