@@ -140,7 +140,7 @@ const bmwCars = [
 
         location: "npc car",
 
-     description "Just an overrated sporty M4",
+     description: "Just an overrated sporty M4",
 
         images: [
          {
