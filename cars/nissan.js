@@ -85,22 +85,28 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r39-1.jpg",
+            src: "images/nissan/gtr-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_6.jpg"
         },
         {
-            src: "images/nissan/r39-2.jpg",
+            src: "images/nissan/gtr-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_(30780).jpg"
         },
             {
-            src: "images/nissan/r39-3.jpg",
+            src: "images/nissan/gtr-3.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_(R35)_Washington_DC_Metro_Area,_USA_(1).jpg"
+        },
+           {
+            src: "images/nissan/gtr-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2012_Nissan_GT-R_Premium_Edition_2.jpg"
         }
     ]
 
