@@ -220,6 +220,58 @@ const bmwCars = [
 
  {
         brand: "BMW",
+        model: "M5 Competition",
+
+        production: "2018-2023",
+        country: "Germany",
+
+        engine: "4.4l twinturbo V8",
+        power: "625 hp",
+        torque: "750 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "305 km/h",
+
+        length: "4966 mm",
+        width: "1903 mm",
+        height: "1473 mm",
+
+        weight: "1950 kg",
+
+        productionCount: "unknown",
+        price: "$120K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/bmw/m2g8-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+        },
+        {
+            src: "images/bmw/m2g8-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+        },
+        {
+            src: "images/bmw/m2g8-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+        }
+    ]
+
+    },
+
+ 
+ {
+        brand: "BMW",
         model: "X5M Competition",
 
         production: "2019-2023",
