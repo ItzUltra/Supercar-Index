@@ -195,6 +195,8 @@ const nissanCars = [
 
         location: "unknown",
 
+      description: "Made for the 45th anniversary of the GT-R series",
+
         images: []
 
     },
@@ -226,6 +228,8 @@ const nissanCars = [
         price: "170K",
 
         location: "one is owned by Usain Bolt",
+
+      description: "Made for Usain Bolt as a trophy for his achievement on the Olympic Games",
 
         images: [
            {
@@ -347,6 +351,8 @@ const nissanCars = [
         price: "100K",
 
         location: "unknown",
+
+      description: "A unique color on a unique car",
 
         images: [
            {
