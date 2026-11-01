@@ -206,26 +206,26 @@ const bmwCars = [
 
         location: "Moulsdale Foundation, Bishopbriggs",
 
- description: "An M5 luxury sedan wich competes with supercars",
+ description: "An M5 luxury sedan which competes with supercars",
 
         images: [
          {
-            src: "images/bmw/m2g8-1.jpg",
+            src: "images/bmw/m5cs-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2021_BMW_M5_CS_3.jpg"
         },
         {
-            src: "images/bmw/m2g8-2.jpg",
+            src: "images/bmw/m5cs-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_BMW_M5_CS_Rear_F90.jpg"
         },
         {
-            src: "images/bmw/m2g8-3.jpg",
+            src: "images/bmw/m5cs-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_BMW_M5_CS_BS_O24.jpg"
         }
     ]
 
