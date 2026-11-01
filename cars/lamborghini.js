@@ -750,4 +750,56 @@ const lamborghiniCars = [
 
     },
    
+
+    {
+        brand: "Lamborghini",
+        model: "Gallardo Polizia",
+
+        production: "2004",
+        country: "Italy",
+
+        engine: "5l V10",
+        power: "500 hp",
+        torque: "510 Nm",
+
+        transmission: "6-speed manual / 6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4.2 s",
+        topSpeed: "309 km/h",
+
+        length: "4300 mm",
+        width: "1900 mm",
+        height: "1165 mm",
+
+        weight: "1450 kg",
+
+        productionCount: "2",
+        price: "unknown",
+
+        location: "unknown",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/venenr-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_Roadster_(53319026805).jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/venen-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Klaus Nahr",
+            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_150_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/venenr-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Klaus Nahr",
+            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_152_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
+        }
+    ]
+
+    },
+   
 ];
