@@ -833,22 +833,10 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/venenr-1.jpg",
+            src: "images/lamborghini/gallardo/se-1.jpg",
             license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_Roadster_(53319026805).jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/venen-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Klaus Nahr",
-            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_150_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/venenr-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Klaus Nahr",
-            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_152_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
+            author: "Alexandre Prévot",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Gallardo_SE_-_Flickr_-_Alexandre_Pr%C3%A9vot_(3).jpg"
         }
     ]
 
