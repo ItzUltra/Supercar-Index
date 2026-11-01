@@ -862,7 +862,49 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/675ltcarbon-1.jpg",
+            src: "images/mclaren/675ltcarbn-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+       }
+        ]
+
+    },
+
+
+    {
+        brand: "McLaren",
+        model: "MP4-12C 50th Anniversary",
+
+        production: "2013-2014",
+        country: "UK",
+
+        engine: "3.8l twinturbo M839T V8",
+        power: "600-625 hp",
+        torque: "600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "333 km/h",
+
+        length: "4509 mm",
+        width: "1908 mm",
+        height: "1199 mm",
+
+        weight: "1336 kg",
+
+        productionCount: "50",
+        price: "$170K",
+
+        location: "Hong Kong McLaren Collection",
+
+      descrition: "",
+
+        images: [
+                           {
+            src: "images/mclaren/675ltcarbo-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
