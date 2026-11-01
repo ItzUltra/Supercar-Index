@@ -90,22 +90,28 @@ const bmwCars = [
 
         images: [
          {
-            src: "images/bmw/m2g8-1.jpg",
+            src: "images/bmw/m3cs-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M3_CS_xDrive_Auto_1.jpg"
         },
         {
-            src: "images/bmw/m2g8-2.jpg",
+            src: "images/bmw/m23cs-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M3_CS_xDrive_Auto_9.jpg"
         },
         {
-            src: "images/bmw/m2g8-3.jpg",
+            src: "images/bmw/m3cs-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2025_BMW_M3_CS_BS_A26.jpg"
+        },
+         {
+            src: "images/bmw/m23cs-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_BMW_M3_CS_xDrive_Auto_1.jpg"
         }
     ]
 
