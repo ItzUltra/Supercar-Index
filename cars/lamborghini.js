@@ -677,22 +677,10 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/venenr-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_Roadster_(53319026805).jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/venen-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Klaus Nahr",
-            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_150_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/venenr-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Klaus Nahr",
-            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_152_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
+            src: "images/lamborghini/gallardo/momo-1.jpg",
+            license: "CC BY 2.0",
+            author: "Spanish Coches",
+            source: "https://commons.wikimedia.org/wiki/File:2005_Lamborghini_Gallardo_(3952806385).jpg"
         }
     ]
 
@@ -729,22 +717,10 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/venenr-1.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Veneno_Roadster_(53319026805).jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/venen-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Klaus Nahr",
-            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_150_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/venenr-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Klaus Nahr",
-            source: "https://commons.wikimedia.org/wiki/File:Autoworld_Br%C3%BCssel_152_-_Italian_Car_Passion_-_Lamborghini_Veneno_Roadster.jpg"
+            src: "images/lamborghini/gallardo/nera-1.jpg",
+            license: "CC BY 2.0",
+            author: "Damian Morys",
+            source: "https://commons.wikimedia.org/wiki/File:Nera._(5320748805).jpg"
         }
     ]
 
