@@ -958,9 +958,51 @@ const mclarenCars = [
 
    {
         brand: "McLaren",
-        model: "MP4-12C Bespoke Project 8 ",
+        model: "MP4-12C Bespoke Project 8",
 
-        production: "2013-2014",
+        production: "2012",
+        country: "UK",
+
+        engine: "3.8l twinturbo M839T V8",
+        power: "616 hp",
+        torque: "600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "333 km/h",
+
+        length: "4509 mm",
+        width: "1908 mm",
+        height: "1199 mm",
+
+        weight: "1336 kg",
+
+        productionCount: "50",
+        price: "$180K",
+
+        location: "unknown",
+
+      descrition: "",
+
+        images: [
+                           {
+            src: "images/mclaren/675ltcarbo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+       }
+        ]
+
+    },
+   
+
+   {
+        brand: "McLaren",
+        model: "MP4-12C spider Bespoke Project 8 ",
+
+        production: "2013",
         country: "UK",
 
         engine: "3.8l twinturbo M839T V8",
