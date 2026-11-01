@@ -277,7 +277,7 @@ const bmwCars = [
         },
         {
             src: "images/bmw/m5comp-3.jpg",
-            license: "CC BY-SA 4.0",
+            license: "CC BY 4.0",
             author: "OWS Photography",
             source: "https://commons.wikimedia.org/wiki/File:BMW_M5_Competition_(F90)_Washington_DC_Metro_Area,_USA.jpg"
         }
@@ -378,22 +378,22 @@ const bmwCars = [
 
         images: [
          {
-            src: "images/bmw/m2g8-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+            src: "images/bmw/x5m-1.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_X5M_(F95)_Washington_DC_Metro_Area,_USA_(3).jpg"
         },
         {
-            src: "images/bmw/m2g8-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+            src: "images/bmw/x5m-2.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_X5M_(F95)_Washington_DC_Metro_Area,_USA_(4).jpg"
         },
         {
-            src: "images/bmw/m2g8-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+            src: "images/bmw/x5m-3.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_X5M_(F95)_Washington_DC_Metro_Area,_USA_(5).jpg"
         }
     ]
 
