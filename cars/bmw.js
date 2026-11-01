@@ -264,22 +264,22 @@ const bmwCars = [
 
         images: [
          {
-            src: "images/bmw/m2g8-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M2_Auto_5.jpg"
+            src: "images/bmw/m5comp-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2018_BMW_M5_Competition_in_Alpinwei%C3%9F,_front_left.jpg"
         },
         {
-            src: "images/bmw/m2g8-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_1X7A6997.jpg"
+            src: "images/bmw/m5comp-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "AMr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2018_BMW_M5_Competition_in_Alpinwei%C3%9F,_rear_left.jpg"
         },
         {
-            src: "images/bmw/m2g8-3.jpg",
+            src: "images/bmw/m5comp-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:BMW_G87_M2_Motorworld_Munich_1X7A0071.jpg"
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:BMW_M5_Competition_(F90)_Washington_DC_Metro_Area,_USA.jpg"
         }
     ]
 
