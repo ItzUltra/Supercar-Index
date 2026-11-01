@@ -979,7 +979,7 @@ const mclarenCars = [
 
         weight: "1336 kg",
 
-        productionCount: "50",
+        productionCount: "1",
         price: "$180K",
 
         location: "unknown",
@@ -1038,5 +1038,6 @@ const mclarenCars = [
         ]
 
     },
+
    
 ];
