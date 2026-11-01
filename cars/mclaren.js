@@ -1103,12 +1103,54 @@ const mclarenCars = [
         width: "1908 mm",
         height: "1199 mm",
 
-        weight: "1200 kg",
+        weight: "1300 kg",
 
         productionCount: "20",
         price: "$315K",
 
         location: "The McLaren Heritage Collection",
+
+      descrition: "",
+
+        images: [
+                           {
+            src: "images/mclaren/675ltcarbo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+       }
+        ]
+
+    },
+
+
+   {
+        brand: "McLaren",
+        model: "MP4-12C HS",
+
+        production: "2012",
+        country: "UK",
+
+        engine: "3.8l twinturbo M839T V8",
+        power: "675 hp",
+        torque: "600 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.3 s",
+        topSpeed: "330 km/h",
+
+        length: "4509 mm",
+        width: "1908 mm",
+        height: "1199 mm",
+
+        weight: "1434 kg",
+
+        productionCount: "10",
+        price: "$500-800K",
+
+        location: "Cristiano Ronaldo's Car Collection",
 
       descrition: "",
 
