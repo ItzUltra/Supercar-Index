@@ -623,6 +623,8 @@ const lamborghiniCars = [
 
         location: "unknown",
 
+       description: "Little sister of the Murcielago, A smaller and cheaper Lamborghini of the roads, The cheapest Lamborghini ever made",
+
         images: [
            {
             src: "images/lamborghini/gallardo/gallardo-1.jpg",
@@ -681,6 +683,8 @@ const lamborghiniCars = [
 
         location: "The Bellisario Collection",
 
+      description: "Collaboration with MOMO, There are MOMO parts in the car",
+
         images: [
            {
             src: "images/lamborghini/gallardo/momo-1.jpg",
@@ -720,6 +724,8 @@ const lamborghiniCars = [
         price: "$195-240K",
 
         location: "Royal Cars Museum, Seeb",
+
+      description: "A black Gallardo, nera=black",
 
         images: [
            {
@@ -761,6 +767,8 @@ const lamborghiniCars = [
 
         location: "unknown",
 
+       description: "Gifted for the 152th anniversary of the Italian Police",
+
         images: [
            {
             src: "images/lamborghini/gallardo/polizia-1.jpg",
@@ -801,6 +809,8 @@ const lamborghiniCars = [
 
         location: "Lefty-Mobile Collection",
 
+      description: "Special Edition, basically an upgraded Gallardo",
+
         images: [
            {
             src: "images/lamborghini/gallardo/se-1.jpg",
@@ -840,6 +850,8 @@ const lamborghiniCars = [
         price: "$140-300K",
 
         location: "Technik Museum Speyer, Speyer",
+
+      description: "A track focused Gallardo",
 
         images: [
            {
