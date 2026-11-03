@@ -86,7 +86,7 @@ const lamborghiniCars = [
 
         location: "Selected Car Collection",
 
-       description: "don't tell me you know what is this, What a shame!!",
+       description: "don't tell me you don't know what is this, What a shame!!",
 
         images: [
             {
@@ -140,7 +140,7 @@ const lamborghiniCars = [
 
         location: "Automobili Lamborghini Museum, Sant Agata",
 
-       description: "Made for the 50th anniversary of the Countach, This is The new countach, Basically a redesigned aventador",
+       description: "Made for the 50th anniversary of the Countach, This is The new countach, Basically a redesigned Aventador",
 
         images: [
             {
