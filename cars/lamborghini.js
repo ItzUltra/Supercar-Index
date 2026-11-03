@@ -32,6 +32,8 @@ const lamborghiniCars = [
 
         location: "Automobili Lamborghini Museum, Sant Agata",
 
+       description: "Made for Ferruccio Lamborghinis 100th birthday",
+
         images: [
            {
             src: "images/lamborghini/hyper/centenario-1.jpg",
@@ -83,6 +85,8 @@ const lamborghiniCars = [
         price: "$3.3-4M",
 
         location: "Selected Car Collection",
+
+       description: "don't tell me you know what is this, What a shame!!",
 
         images: [
             {
@@ -136,6 +140,8 @@ const lamborghiniCars = [
 
         location: "Automobili Lamborghini Museum, Sant Agata",
 
+       description: "Made for the 50th anniversary of the Countach, This is The new countach, Basically a redesigned aventador",
+
         images: [
             {
             src: "images/lamborghini/hyper/countach800-1.jpg",
@@ -187,6 +193,8 @@ const lamborghiniCars = [
         price: "1.5-2.6M",
 
         location: "Automobili Lamborghini Museum, Sant Agata",
+
+        description: "track focused Diablo, The Emperor of Diablos",
 
         images: [
              {
@@ -244,6 +252,8 @@ const lamborghiniCars = [
         price: "3.5M",
 
         location: "Automobili Lamborghini Collection",
+
+      description: "A hybrid Lamborghini, Made for the 20th anniversary of the Lamborghini Centro Stile",
 
         images: [
              {
@@ -316,6 +326,8 @@ const lamborghiniCars = [
         price: "$1.5-2M",
 
         location: "Automobili Lamborghini Museum, Sant Agata",
+
+       description: "Inspired by a Stealth Bomber jet, It was the flagship of Lamborghini",
 
         images: [
            {
@@ -414,6 +426,8 @@ const lamborghiniCars = [
         price: "$3-3.5M",
 
         location: "Moulsdale foundation, Bishopbriggs",
+
+        description: "First hybrid lamborghini, There are 63 of them and 19 roadster that makes 1963 wich is the foundation of lamborghini",
 
         images: [
            {
@@ -518,6 +532,8 @@ const lamborghiniCars = [
         price: "$11M",
 
         location: "Automobili Lamborghini Museum, Sant Agata",
+
+       description: "An epic design for the 50th anniversary of Lamborghini, Voted for the ugliest car in 2013 what a shame",
 
         images: [
            {
