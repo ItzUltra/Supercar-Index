@@ -1114,10 +1114,10 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/675ltcarbo-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+            src: "images/mclaren/gtsprint-1.jpg",
+            license: "CC BY 2.0",
+            author: "big-ashb",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_MP4-12C_GT_Sprint_%26_GTR_(14387227297).jpg"
        }
         ]
 
@@ -1156,10 +1156,10 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/675ltcarbo-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+            src: "images/mclaren/hs-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Bryan S",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_MP4-12C_High_Sport.jpg"
        }
         ]
 
@@ -1196,14 +1196,7 @@ const mclarenCars = [
 
       descrition: "",
 
-        images: [
-                           {
-            src: "images/mclaren/675ltcarbo-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
-       }
-        ]
+        images: []
 
     },
 
