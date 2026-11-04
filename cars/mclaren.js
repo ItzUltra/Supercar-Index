@@ -926,6 +926,7 @@ const mclarenCars = [
             license: "CC BY 2.0",
             author: "The Car Spy",
             source: "https://commons.wikimedia.org/wiki/File:McLaren_MP4-12C_50th_Anniversary_(30208102003).jpg",
+            }                  
         ]
 
     },
