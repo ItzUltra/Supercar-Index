@@ -862,10 +862,28 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/675ltcarbn-1.jpg",
+            src: "images/mclaren/mp4-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "order_242",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_MP4-12C_2014_(19621767378).jpg"
+       },
+                              {
+            src: "images/mclaren/mp4-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ben",
+            source: "https://commons.wikimedia.org/wiki/File:MP4-12C_DMC_(18816589551).jpg"
+       },
+                                  {
+            src: "images/mclaren/mp4-3.jpg",
+            license: "CC BY 2.0",
+            author: "Jeremy",
+            source: "https://commons.wikimedia.org/wiki/File:2012_McLaren_MP4-12C_(18297823964).jpg"
+       },
+                                    {
+            src: "images/mclaren/mp4-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2013_McLaren_MP4-12C_3.jpg"
        }
         ]
 
