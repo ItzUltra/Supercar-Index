@@ -1240,10 +1240,10 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/675ltcarbo-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+            src: "images/mclaren/projectalpha-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_MP4-12C_-_Mondial_de_l%27Automobile_de_Paris_2012_-_001.jpg"
        }
         ]
 
@@ -1280,14 +1280,7 @@ const mclarenCars = [
 
       descrition: "",
 
-        images: [
-                           {
-            src: "images/mclaren/675ltcarbo-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
-       }
-        ]
+        images: []
 
     },
 
@@ -1324,10 +1317,10 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/675ltcarbo-1.jpg",
+            src: "images/mclaren/neiman-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_McLaren_675LT_Spider_Carbon_Series_HCC24.jpg"
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_mp4-12c_at_Chelsea_Auto_Legends_2012_(Ank_Kumar)_01.jpg"
        }
         ]
 
