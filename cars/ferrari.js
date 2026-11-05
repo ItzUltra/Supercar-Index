@@ -798,6 +798,47 @@ const ferrariCars = [
         ]
 
     },
+
+
+    {
+        brand: "Ferrari",
+        model: "F12TDF",
+
+        production: "2015-2017",
+        country: "Italy",
+
+        engine: "6.2l V12",
+        power: "780 hp",
+        torque: "705 Nm",
+
+        transmission: "7-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "340 km/h",
+
+        length: "4656 mm",
+        width: "1961 mm",
+        height: "1273 mm",
+
+        weight: "1415 kg",
+
+        productionCount: "799",
+        price: "$2.5-4.2M",
+
+        location: "Autobau Erlebniswelt, Romanshorn",
+
+        images: [
+            {
+            src: "images/ferrari/manuale-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_12_Cylindre.jpg"
+        }
+        ]
+
+    },
+
    
    {
         brand: "Ferrari",
