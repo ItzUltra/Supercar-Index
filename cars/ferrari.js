@@ -830,10 +830,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/manuale-1.jpg",
+            src: "images/ferrari/f12tdf-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_12_Cylindre.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12_TDF_12.jpg"
+        },
+            {
+            src: "images/ferrari/f12tdf-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12TDF.jpg"
+        },
+            {
+            src: "images/ferrari/f12tdf-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12_TDF_13.jpg"
         }
         ]
 
