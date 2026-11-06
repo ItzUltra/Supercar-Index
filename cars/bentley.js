@@ -314,5 +314,57 @@ const bentleyCars = [
     ]
 
     },
+
+
+   {
+        brand: "Bentley",
+        model: "Continental GT V8 S By Sir Peter Blake",
+
+        production: "2016",
+        country: "UK",
+
+        engine: "4l biturbo V8",
+        power: "528 hp",
+        torque: "680 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4.7 s",
+        topSpeed: "309 km/h",
+
+        length: "4806 mm",
+        width: "1944 mm",
+        height: "1404 mm",
+
+        weight: "2240 kg",
+
+        productionCount: "1",
+        price: "$200-400K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/bentley/contgtcon-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+        }
+    ]
+
+    },
    
 ];
