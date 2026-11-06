@@ -858,7 +858,7 @@ const mclarenCars = [
 
         location: "unknown",
 
-      descrition: "",
+      descrition: "First ever modern McLaren car",
 
         images: [
                            {
@@ -918,7 +918,7 @@ const mclarenCars = [
 
         location: "Hong Kong McLaren Collection",
 
-      descrition: "",
+      descrition: "Made for the 50th anniversary of McLaren",
 
         images: [
                            {
@@ -1002,7 +1002,7 @@ const mclarenCars = [
 
         location: "unknown",
 
-      descrition: "",
+      descrition: "Made to show how cool cars can you order from the MSO part of McLaren",
 
         images: []
 
@@ -1072,7 +1072,7 @@ const mclarenCars = [
 
         location: "the Bailey Collection",
 
-      descrition: "",
+      descrition: "Made to celebrate the achievments of Bruce McLaren and Denny Hulme at the Can-Am racing",
 
         images: [
                            {
@@ -1114,7 +1114,7 @@ const mclarenCars = [
 
         location: "The McLaren Heritage Collection",
 
-      descrition: "",
+      descrition: "The feeling of a GT3 race car on the roads",
 
         images: [
                            {
@@ -1156,7 +1156,7 @@ const mclarenCars = [
 
         location: "Cristiano Ronaldo's Car Collection",
 
-      descrition: "",
+      descrition: "High-Sport, So a faster MP4",
 
         images: [
                            {
@@ -1198,7 +1198,7 @@ const mclarenCars = [
 
         location: "The McLaren Heritage Collection",
 
-      descrition: "",
+      descrition: "Made to advertise MSO",
 
         images: []
 
@@ -1233,7 +1233,7 @@ const mclarenCars = [
 
         location: "unknown",
 
-      descrition: "",
+      descrition: "Made for the Chicago McLaren Dealership by MSO",
 
         images: [
                            {
@@ -1275,7 +1275,7 @@ const mclarenCars = [
 
         location: "unknown",
 
-      descrition: "",
+      descrition: "Made as a respect for the Sinagpore Formula1 race track",
 
         images: []
 
@@ -1310,7 +1310,7 @@ const mclarenCars = [
 
         location: "unknown",
 
-      descrition: "",
+      descrition: "It was sold at the Neiman Marcus Supermarket at christmas, if you bought this you could visit to McLaren Heritage Collection, The McLaren factory and could have a dinner with Ron Dennis, all this for free",
 
         images: [
                            {
