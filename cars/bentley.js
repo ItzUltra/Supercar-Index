@@ -158,5 +158,57 @@ const bentleyCars = [
     ]
 
     },
+
+
+   {
+        brand: "Bentley",
+        model: "Continental GT3-R",
+
+        production: "20154-2015",
+        country: "UK",
+
+        engine: "4l biturbo V8",
+        power: "580 hp",
+        torque: "700 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.8 s",
+        topSpeed: "273 km/h",
+
+        length: "4806 mm",
+        width: "1944 mm",
+        height: "1404 mm",
+
+        weight: "2195 kg",
+
+        productionCount: "300",
+        price: "$150-250K",
+
+        location: "Firequackers Collection",
+
+        images: [
+         {
+            src: "images/bentley/contgtcon-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+        }
+    ]
+
+    },
    
 ];
