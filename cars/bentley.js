@@ -262,4 +262,57 @@ const bentleyCars = [
     ]
 
     },
+
+
+   {
+        brand: "Bentley",
+        model: "Continental GTC Supersport ISR",
+
+        production: "2011",
+        country: "UK",
+
+        engine: "6l biturbo W12",
+        power: "641 hp",
+        torque: "800 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "3.9 s",
+        topSpeed: "329 km/h",
+
+        length: "4806 mm",
+        width: "1944 mm",
+        height: "1404 mm",
+
+        weight: "2240 kg",
+
+        productionCount: "unknown",
+        price: "$180-280K",
+
+        location: "Bentley Heritage Collection",
+
+        images: [
+         {
+            src: "images/bentley/contgtcon-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+        }
+    ]
+
+    },
+   
 ];
