@@ -4,6 +4,58 @@
 
 const bentleyCars = [
 
+   {
+        brand: "Bentley",
+        model: "Continental GT",
+
+        production: "2003-2011",
+        country: "UK",
+
+        engine: "6l biturbo W12",
+        power: "560 hp",
+        torque: "650 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "318 km/h",
+
+        length: "4804 mm",
+        width: "1918 mm",
+        height: "1390 mm",
+
+        weight: "2385 kg",
+
+        productionCount: "unknown",
+        price: "$20-50K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/bentley/contgtcon-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
+        },
+        {
+            src: "images/bentley/contgtcon-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+        }
+    ]
+
+    },
+
+   
     {
         brand: "Bentley",
         model: "Continental GT Convertible",
