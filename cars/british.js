@@ -112,6 +112,8 @@ const landroverCars = [
 
         location: "Unknown",
 
+       description: "A fast, luxurious and everything off roader",
+
         images: [
             {
             src: "images/british/defender-1.jpg",
