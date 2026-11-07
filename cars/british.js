@@ -112,7 +112,26 @@ const landroverCars = [
 
         location: "Unknown",
 
-        images: []
+        images: [
+            {
+            src: "images/british/defender-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Land_Rover_Defender_110_P635_OCTA_in_Charente_Grey,_front_right.jpg"
+        },
+        {
+            src: "images/british/defender-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Land_Rover_Defender_110_P635_OCTA_in_Charente_Grey,_rear_right.jpg"
+        },
+        {
+            src: "images/british/defender-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Land_Rover,_Auto_2025,_Zurich_(20251029-P1074453).jpg"
+        }
+        ]
 
     }
    
