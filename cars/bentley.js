@@ -190,22 +190,16 @@ const bentleyCars = [
 
         images: [
          {
-            src: "images/bentley/contgtcon-1.jpg",
+            src: "images/bentley/contgt3r-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT3-R_II_Alpine_White_(4).jpg"
         },
         {
-            src: "images/bentley/contgtcon-2.jpg",
+            src: "images/bentley/contgt3r-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
-        },
-        {
-            src: "images/bentley/contgtcon-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT3-R_II_Alpine_White_(7).jpg"
         }
     ]
 
