@@ -75,4 +75,46 @@ const keatingCars = [
 
     }
    
+];,
+
+
+  /* ========================================
+   Land Rover CAR DATABASE
+======================================== */
+
+const landroverCars = [
+
+    {
+        brand: "Land Rover",
+        model: "Defender 110 OCTA",
+
+        production: "2024-",
+        country: "UK",
+
+        engine: "4.4l biturbo V8 with hybrid system",
+        power: "635 hp",
+        torque: "750 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4 s",
+        topSpeed: "250 km/h",
+
+        length: "5018 mm",
+        width: "2008 mm",
+        height: "1167 mm",
+
+        weight: "2585 kg",
+
+        productionCount: "unknown",
+        price: "$170-200K",
+
+        location: "Unknown",
+
+        images: []
+
+    }
+   
 ];
+
