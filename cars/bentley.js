@@ -242,22 +242,16 @@ const bentleyCars = [
 
         images: [
          {
-            src: "images/bentley/contgtcon-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
+            src: "images/bentley/contss-1.jpg",
+            license: "CC BY 3.0",
+            author: "Thomas doerfer",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Supersports.JPG"
         },
         {
-            src: "images/bentley/contgtcon-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
-        },
-        {
-            src: "images/bentley/contgtcon-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+            src: "images/bentley/contss-2.jpg",
+            license: "CC BY 3.0",
+            author: "Thomas doerfer",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Supersports_Heck.JPG"
         }
     ]
 
@@ -294,22 +288,10 @@ const bentleyCars = [
 
         images: [
          {
-            src: "images/bentley/contgtcon-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
-        },
-        {
-            src: "images/bentley/contgtcon-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
-        },
-        {
-            src: "images/bentley/contgtcon-3.jpg",
+            src: "images/bentley/contisr-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2014_Bentley_Continental_GTC_Speed_Auto_2.jpg"
         }
     ]
 
@@ -344,26 +326,7 @@ const bentleyCars = [
 
         location: "unknown",
 
-        images: [
-         {
-            src: "images/bentley/contgtcon-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
-        },
-        {
-            src: "images/bentley/contgtcon-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
-        },
-        {
-            src: "images/bentley/contgtcon-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
-        }
-    ]
+        images: []
 
     },
    
