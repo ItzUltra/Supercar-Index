@@ -32,6 +32,8 @@ const bentleyCars = [
 
         location: "unknown",
 
+      description: "A sport car for younger people, that was the original concept",
+
         images: [
          {
             src: "images/bentley/contgt-1.jpg",
@@ -90,6 +92,8 @@ const bentleyCars = [
 
         location: "unknown",
 
+       description: "The new roadster",
+
         images: [
          {
             src: "images/bentley/contgtconv-1.jpg",
@@ -141,6 +145,8 @@ const bentleyCars = [
         price: "$200-350K",
 
         location: "unknown",
+
+       description: "Respect for L-39 Albatros jets, every car has a plane",
 
         images: [
          {
@@ -194,6 +200,8 @@ const bentleyCars = [
 
         location: "Firequackers Collection",
 
+      description. "GT3 racecar on roads",
+
         images: [
          {
             src: "images/bentley/contgt3r-1.jpg",
@@ -240,6 +248,8 @@ const bentleyCars = [
 
         location: "unknown",
 
+      description: "The flagship of Bentley",
+
         images: [
          {
             src: "images/bentley/contss-1.jpg",
@@ -281,10 +291,12 @@ const bentleyCars = [
 
         weight: "2240 kg",
 
-        productionCount: "unknown",
+        productionCount: "100",
         price: "$180-280K",
 
         location: "Bentley Heritage Collection",
+
+      description: "Limited edition of the 2011 ice speed world record (330km/h)",
 
         images: [
          {
@@ -325,6 +337,8 @@ const bentleyCars = [
         price: "$200-400K",
 
         location: "unknown",
+
+      description: "Designed by Sir Peter Blake",
 
         images: []
 
