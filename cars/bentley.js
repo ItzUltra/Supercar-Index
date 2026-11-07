@@ -200,7 +200,7 @@ const bentleyCars = [
 
         location: "Firequackers Collection",
 
-      description. "GT3 racecar on roads",
+      description: "GT3 racecar on roads",
 
         images: [
          {
