@@ -35,7 +35,8 @@ const arashCars = [
         images: []
 
     },
-   
+
+   ];,
 
    /* ========================================
    Keating CAR DATABASE
