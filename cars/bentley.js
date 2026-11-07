@@ -34,22 +34,28 @@ const bentleyCars = [
 
         images: [
          {
-            src: "images/bentley/contgtcon-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China.jpg"
+            src: "images/bentley/contgt-1.jpg",
+            license: "Public Domain",
+            author: "Hatsukari715",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Speed.JPG"
         },
         {
-            src: "images/bentley/contgtcon-2.jpg",
+            src: "images/bentley/contgt-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:BENTLEY_CONTINENTAL_GT_CONVERTIBLE_China_(2).jpg"
+            author: "Handelgeselschaft",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Toulouse.jpg"
         },
         {
-            src: "images/bentley/contgtcon-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Bentley_Continental_GTC_Speed_Hybrid_Auto.jpg"
+            src: "images/bentley/contgt-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Dectandpreserve",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Mulliner_000_since_2003_2006_sideright_2010-02-21_A.jpg"
+        },
+           {
+            src: "images/bentley/contgt-4.jpg",
+            license: "public domain",
+            author: "OSX",
+            source: "https://commons.wikimedia.org/wiki/File:2007-2010_Bentley_Continental_(3W)_GT_Speed_coupe_(2010-05-22)_01.jpg"
         }
     ]
 
