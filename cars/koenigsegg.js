@@ -828,5 +828,45 @@ const koenigseggCars = [
     ]
 
     },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "Jesko Attack",
+
+        production: "2019-",
+        country: "Sweden",
+
+        engine: "5l biturbo V8",
+        power: "1600 hp",
+        torque: "1500 Nm",
+
+        transmission: "9-speed LST",
+        drivetrain: "RWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "480 km/h",
+
+        length: "4626 mm",
+        width: "2030 mm",
+        height: "1210 mm",
+
+        weight: "1420 kg",
+
+        productionCount: "unknown",
+        price: "$2.5-3.5M",
+
+        location: "Don_Huayra Collection",
+
+        images: [
+          {
+            src: "images/koenigsegg/ccxrspecil-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Fpm",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+        }
+    ]
+
+    },
   
 ];
