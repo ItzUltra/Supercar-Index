@@ -226,5 +226,53 @@ const volkswagenCars = [
         images: []
 
     },
+
+ ];
+
+  /* ========================================
+   Dauer CAR DATABASE
+======================================== */
+
+const dauerCars = [
+
+  {
+        brand: "Dauer",
+        model: "962 Le Mans",
+
+        production: "1993-1997",
+        country: "Germany",
+
+        engine: "2l twinturbo flat-six boxer",
+        power: "730 hp",
+        torque: "700 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "405 km/h",
+
+        length: "4650 mm",
+        width: "1985 mm",
+        height: "1050 mm",
+
+        weight: "1130 kg",
+
+        productionCount: "11",
+        price: "around 1M",
+
+        location: "Brunei Royal Family Collection",
+
+       description: "A Porsche le Mans race car with Dauer badge, Homologisation car for the winner car of 1994 Le mans",
+
+        images: [
+             {
+            src: "images/porsche/hyper/dauer-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1988_Porsche_962_HCC23.jpg"
+        }
+    ]
+    },
  
 ];
