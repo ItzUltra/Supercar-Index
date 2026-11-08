@@ -372,6 +372,48 @@ const porscheCars = [
       
     },
 
+
+   {
+        brand: "Dauer",
+        model: "962 Le Mans",
+
+        production: "1993-1997",
+        country: "Germany",
+
+        engine: "2l twinturbo flat-six boxer",
+        power: "730 hp",
+        torque: "700 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "405 km/h",
+
+        length: "4650 mm",
+        width: "1985 mm",
+        height: "1050 mm",
+
+        weight: "1130 kg",
+
+        productionCount: "11",
+        price: "around 1M",
+
+        location: "Brunei Royal Family Collection",
+
+       description: "",
+
+        images: [
+             {
+            src: "images/porsche/hyper/91gt1-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_Stra%C3%9Fenversion.jpg"
+        }
+    ]
+    },
+
+   
    {
         brand: "Porsche",
         model: "911 Turbo S (991.1)",
