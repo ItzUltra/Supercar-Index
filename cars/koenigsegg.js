@@ -820,10 +820,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccxrspecil-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Fpm",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+            src: "images/koenigsegg/jesko-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A0924.jpg"
+        },
+          {
+            src: "images/koenigsegg/jesko-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1375.jpg"
+        },
+           {
+            src: "images/koenigsegg/jesko-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_4.jpg"
         }
     ]
 
