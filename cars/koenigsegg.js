@@ -748,5 +748,45 @@ const koenigseggCars = [
     ]
 
     },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "Gemera",
+
+        production: "2024-",
+        country: "Sweden",
+
+        engine: "5l biturbo Hot-Vee V8 with darkmatter electric system",
+        power: "2300 hp",
+        torque: "2750 Nm",
+
+        transmission: "9-speed LSTT",
+        drivetrain: "AWD",
+
+        acceleration: "1.9 s",
+        topSpeed: "400 km/h",
+
+        length: "4975 mm",
+        width: "1995 mm",
+        height: "1295 mm",
+
+        weight: "2022 kg",
+
+        productionCount: "300",
+        price: "$2M",
+
+        location: "Koenigsegg Automotive AB Collection",
+
+        images: [
+          {
+            src: "images/koenigsegg/ccxrspecil-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Fpm",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+        }
+    ]
+
+    },
   
 ];
