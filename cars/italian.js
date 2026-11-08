@@ -459,14 +459,14 @@ const fiatCars = [
 
 
  /* ========================================
-   Iso Rivolta CAR DATABASE
+   Iso CAR DATABASE
 ======================================== */
 
-const isorivoltaCars = [
+const isoCars = [
 
     {
-        brand: "Iso Rivolta",
-        model: "IR 300",
+        brand: "Iso",
+        model: "Rivolta IR 300",
 
         production: "1962-1970",
         country: "Italy",
