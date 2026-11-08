@@ -401,7 +401,7 @@ const porscheCars = [
 
         location: "Brunei Royal Family Collection",
 
-       description: "",
+       description: "A Porsche le Mans race car with Dauer badge, Homologisation car for the winner car of 1994 Le mans",
 
         images: [
              {
