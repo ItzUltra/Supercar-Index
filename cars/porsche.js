@@ -405,10 +405,10 @@ const porscheCars = [
 
         images: [
              {
-            src: "images/porsche/hyper/91gt1-4.jpg",
+            src: "images/porsche/hyper/dauer-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_Stra%C3%9Fenversion.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1988_Porsche_962_HCC23.jpg"
         }
     ]
     },
