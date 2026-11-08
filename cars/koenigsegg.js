@@ -741,9 +741,9 @@ const koenigseggCars = [
         images: [
           {
             src: "images/koenigsegg/ccxrspecil-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Fpm",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_SE_and_CCXR_Trevita_(19842074056).jpg"
         }
     ]
 
