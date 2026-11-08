@@ -780,10 +780,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/trevita-1.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_SE_and_CCXR_Trevita_(19842074056).jpg"
+            src: "images/koenigsegg/gemera-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2026,_Zurich_(20261104-P1109890).jpg"
+        },
+          {
+            src: "images/koenigsegg/gemera-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2026,_Zurich_(20261104-P1109891).jpg"
+        },
+          {
+            src: "images/koenigsegg/gemera-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0950).jpg"
         }
     ]
 
