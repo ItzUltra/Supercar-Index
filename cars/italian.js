@@ -496,28 +496,22 @@ const isorivoltaCars = [
 
         images: [
          {
-            src: "images/italian/750zaato-1.jpg",
-            license: "CC BY 2.0",
-            author: "dave_7",
-            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741994805).jpg"
-        },
-        {
-            src: "images/italian/750zaato-2.jpg",
-            license: "CC BY 2.0",
-            author: "dave_7",
-            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741989643).jpg"
-        },
-        {
-            src: "images/italian/750zagto-3.jpg",
+            src: "images/italian/ir300-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1958_Abarth_750_GT_Zagato_LC24.jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Iso_Rivolta_300_IMG_8075.jpg"
         },
         {
-            src: "images/italian/750zaato-4.jpg",
-            license: "public domain",
-            author: "unknown photographer",
-            source: "https://commons.wikimedia.org/wiki/File:1956_Fiat_750_Abarth_Zagato_Aerodinamico.jpg"
+            src: "images/italian/ir300-2.jpg",
+            license: "CC BY 2.0",
+            author: "Chrales",
+            source: "https://commons.wikimedia.org/wiki/File:Iso_Rivolta_IR_300_(1965)_(53772441776).jpg"
+        },
+        {
+            src: "images/italian/ir300-3.jpg",
+            license: "CC BY2.0",
+            author: "Rex Gray",
+            source: "https://commons.wikimedia.org/wiki/File:1964_Iso_Rivolta_GT_-_red_-_fvr-1_(4637724952).jpg"
         }
     ]
 
