@@ -267,7 +267,7 @@ const dauerCars = [
 
         images: [
              {
-            src: "images/porsche/hyper/dauer-4.jpg",
+            src: "images/porsche/hyper/dauer-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:1988_Porsche_962_HCC23.jpg"
