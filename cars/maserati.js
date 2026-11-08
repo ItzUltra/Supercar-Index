@@ -176,5 +176,63 @@ const maseratiCars = [
     ]
 
     },
+
+
+  {
+        brand: "Maserati",
+        model: "Indy 4700",
+
+        production: "1970-1975",
+        country: "Italy",
+
+        engine: "4.7l V8",
+        power: "290 hp",
+        torque: "410 Nm",
+
+        transmission: "5-speed manual / 3-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "6.5 s",
+        topSpeed: "260 km/h",
+
+        length: "4740 mm",
+        width: "1760 mm",
+        height: "1260 mm",
+
+        weight: "1680 kg",
+
+        productionCount: "367",
+        price: "$80-140K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/maserati/new/mc12crsa-1.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(15314416011).jpg"
+        },
+        {
+            src: "images/maserati/new/mc2corsa-2.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Blue_Maserati_MC12_Corsa_(15118194111).jpg"
+        },
+        {
+            src: "images/maserati/new/mc1corsa-3.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(16216064715).jpg"
+        },
+        {
+            src: "images/maserati/new/mc12cosa-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(51356309571).jpg"
+        }
+    ]
+
+    },
   
 ];
