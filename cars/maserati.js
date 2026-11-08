@@ -6,7 +6,7 @@ const maseratiCars = [
 
     {
         brand: "Maserati",
-        model: "Mc12",
+        model: "MC12",
 
         production: "2004-2006",
         country: "Italy",
@@ -64,7 +64,7 @@ const maseratiCars = [
   
     {
         brand: "Maserati",
-        model: "Mc12 Corsa",
+        model: "MC12 Corsa",
 
         production: "2006-2007",
         country: "Italy",
@@ -205,6 +205,64 @@ const maseratiCars = [
         price: "$80-140K",
 
         location: "unknown",
+
+        images: [
+          {
+            src: "images/maserati/new/mc12crsa-1.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(15314416011).jpg"
+        },
+        {
+            src: "images/maserati/new/mc2corsa-2.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Blue_Maserati_MC12_Corsa_(15118194111).jpg"
+        },
+        {
+            src: "images/maserati/new/mc1corsa-3.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(16216064715).jpg"
+        },
+        {
+            src: "images/maserati/new/mc12cosa-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Alexandre Prevot",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(51356309571).jpg"
+        }
+    ]
+
+    },
+
+
+  {
+        brand: "Maserati",
+        model: "Indy 4900",
+
+        production: "1972-1975",
+        country: "Italy",
+
+        engine: "4.9l V8",
+        power: "320 hp",
+        torque: "480 Nm",
+
+        transmission: "5-speed manual / 3-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "6.2 s",
+        topSpeed: "265 km/h",
+
+        length: "4740 mm",
+        width: "1760 mm",
+        height: "1260 mm",
+
+        weight: "1680 kg",
+
+        productionCount: "299",
+        price: "$90-160K",
+
+        location: "The Car Nut Collection",
 
         images: [
           {
