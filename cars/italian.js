@@ -490,9 +490,9 @@ const isoCars = [
         productionCount: "630",
         price: "$100-180K",
 
-        location: "A fast and elegant GT after the success of the Isetta",
+     location: "Hellenic Motor Museum, Athens",
 
-     description: "",
+        description: "A fast and elegant GT after the success of the Isetta",
 
         images: [
          {
