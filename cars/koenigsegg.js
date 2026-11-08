@@ -868,5 +868,45 @@ const koenigseggCars = [
     ]
 
     },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "Jesko Absolut",
+
+        production: "2020-",
+        country: "Sweden",
+
+        engine: "5l biturbo V8",
+        power: "1600 hp",
+        torque: "1500 Nm",
+
+        transmission: "9-speed LST",
+        drivetrain: "RWD",
+
+        acceleration: "2.5 s",
+        topSpeed: "531 km/h",
+
+        length: "4845 mm",
+        width: "2030 mm",
+        height: "1210 mm",
+
+        weight: "1390 kg",
+
+        productionCount: "unknown",
+        price: "$2.5-3.5M",
+
+        location: "COBYX Collection",
+
+        images: [
+          {
+            src: "images/koenigsegg/ccxrspecil-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Fpm",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+        }
+    ]
+
+    },
   
 ];
