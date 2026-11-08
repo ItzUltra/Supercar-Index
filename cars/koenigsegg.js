@@ -709,4 +709,44 @@ const koenigseggCars = [
 
     },
 
+
+  {
+        brand: "Koenigsegg",
+        model: "CCXR Trevita",
+
+        production: "2008-2009",
+        country: "Sweden",
+
+        engine: "4.7l twinturbo V8",
+        power: "1018 hp",
+        torque: "1060 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.1 s",
+        topSpeed: "400 km/h",
+
+        length: "4293 mm",
+        width: "1996 mm",
+        height: "1114 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "2",
+        price: "$3.5M",
+
+        location: "one is owned bx Floyd Mayweather",
+
+        images: [
+          {
+            src: "images/koenigsegg/ccxrspecil-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Fpm",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+        }
+    ]
+
+    },
+  
 ];
