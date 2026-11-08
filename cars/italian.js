@@ -389,6 +389,74 @@ const alfaromeoCars = [
  
 ];
 
+
+ /* ========================================
+   Fiat CAR DATABASE
+======================================== */
+
+const fiatCars = [
+
+    {
+        brand: "Fiat",
+        model: "Abarth 750 GT Zagato",
+
+        production: "1956-1959",
+        country: "Italy",
+
+        engine: "0.7l inline-4",
+        power: "47 hp",
+        torque: "54 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "17 s",
+        topSpeed: "160 km/h",
+
+        length: "3480 mm",
+        width: "1340 mm",
+        height: "1190 mm",
+
+        weight: "535 kg",
+
+        productionCount: "600",
+        price: "$100-250K",
+
+        location: "The Elkhart Collection",
+
+     description: "They tuned the Fiat 600 and Zagato made a new chassis, it became a good racecar",
+
+        images: [
+         {
+            src: "images/italian/strats-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_Classic-Gala_2022_1X7A0375.jpg"
+        },
+        {
+            src: "images/italian/straos-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_Classic-Gala_2022_1X7A0377.jpg"
+        },
+        {
+            src: "images/italian/straos-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Tennen-Gas",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_HF_001.JPG"
+        },
+        {
+            src: "images/italian/straos-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lancia_Stratos_Safari.jpg"
+        }
+    ]
+
+    }
+   
+];
+
  /* ========================================
    Lancia CAR DATABASE
 ======================================== */
