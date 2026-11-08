@@ -457,6 +457,74 @@ const fiatCars = [
    
 ];
 
+
+ /* ========================================
+   Iso Rivolta CAR DATABASE
+======================================== */
+
+const isorivoltaCars = [
+
+    {
+        brand: "Iso Rivolta",
+        model: "IR 300",
+
+        production: "1962-1970",
+        country: "Italy",
+
+        engine: "5.35l Chevyrolet Corvette V8",
+        power: "300 hp",
+        torque: "488 Nm",
+
+        transmission: "4-speed manual / 3-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "8 s",
+        topSpeed: "219 km/h",
+
+        length: "4760 mm",
+        width: "1752 mm",
+        height: "1425 mm",
+
+        weight: "1590 kg",
+
+        productionCount: "630",
+        price: "$100-180K",
+
+        location: "Hellenic Motor Museum, Athens",
+
+     description: "",
+
+        images: [
+         {
+            src: "images/italian/750zaato-1.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741994805).jpg"
+        },
+        {
+            src: "images/italian/750zaato-2.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741989643).jpg"
+        },
+        {
+            src: "images/italian/750zagto-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1958_Abarth_750_GT_Zagato_LC24.jpg"
+        },
+        {
+            src: "images/italian/750zaato-4.jpg",
+            license: "public domain",
+            author: "unknown photographer",
+            source: "https://commons.wikimedia.org/wiki/File:1956_Fiat_750_Abarth_Zagato_Aerodinamico.jpg"
+        }
+    ]
+
+    }
+   
+];
+
  /* ========================================
    Lancia CAR DATABASE
 ======================================== */
