@@ -780,10 +780,10 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccxrspecil-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Fpm",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+            src: "images/koenigsegg/trevita-1.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_SE_and_CCXR_Trevita_(19842074056).jpg"
         }
     ]
 
@@ -900,10 +900,16 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccxrspecil-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Fpm",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+            src: "images/koenigsegg/absolut-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Koenigsegg_Jesko_Absolut.jpg"
+        },
+            {
+            src: "images/koenigsegg/absolut-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Koenigsegg_Jesko_Absolut_7389_FOS25.jpg"
         }
     ]
 
