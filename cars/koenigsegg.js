@@ -860,10 +860,16 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/ccxrspecil-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Fpm",
-            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_CCXR_Edition_(1_von_2).jpg"
+            src: "images/koenigsegg/attack-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Attack_14.jpg"
+        },
+           {
+            src: "images/koenigsegg/attack-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Koenigsegg_Jesko_Attack_SP_25.jpg"
         }
     ]
 
