@@ -90,6 +90,8 @@ const maseratiCars = [
 
         location: "Selected Car Collection",
 
+      
+
         images: [
           {
             src: "images/maserati/new/mc12corsa-1.jpg",
@@ -148,6 +150,8 @@ const maseratiCars = [
 
         location: "The Palmen Barn Find Collection",
 
+    description: "Made to celebrate the achievments accomplished in the Indianapolis 500",
+
         images: [
           {
             src: "images/maserati/indy-1.jpg",
@@ -193,6 +197,8 @@ const maseratiCars = [
         price: "$80-140K",
 
         location: "unknown",
+
+    description: "The Indy but with a better engine, its just an engine change but it's officially considered as a different model",
 
         images: [
           {
