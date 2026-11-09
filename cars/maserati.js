@@ -150,28 +150,16 @@ const maseratiCars = [
 
         images: [
           {
-            src: "images/maserati/new/mc12crsa-1.jpg",
+            src: "images/maserati/indy-1.jpg",
             license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(15314416011).jpg"
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_Indy_(12486424853).jpg"
         },
         {
-            src: "images/maserati/new/mc2corsa-2.jpg",
+            src: "images/maserati/indy-2.jpg",
             license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Blue_Maserati_MC12_Corsa_(15118194111).jpg"
-        },
-        {
-            src: "images/maserati/new/mc1corsa-3.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(16216064715).jpg"
-        },
-        {
-            src: "images/maserati/new/mc12cosa-4.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(51356309571).jpg"
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_Indy_(6891996999).jpg"
         }
     ]
 
@@ -208,28 +196,10 @@ const maseratiCars = [
 
         images: [
           {
-            src: "images/maserati/new/mc12crsa-1.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(15314416011).jpg"
-        },
-        {
-            src: "images/maserati/new/mc2corsa-2.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Blue_Maserati_MC12_Corsa_(15118194111).jpg"
-        },
-        {
-            src: "images/maserati/new/mc1corsa-3.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(16216064715).jpg"
-        },
-        {
-            src: "images/maserati/new/mc12cosa-4.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(51356309571).jpg"
+            src: "images/maserati/indy-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1971_Maserati_Indy.jpg"
         }
     ]
 
@@ -266,28 +236,10 @@ const maseratiCars = [
 
         images: [
           {
-            src: "images/maserati/new/mc12crsa-1.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(15314416011).jpg"
-        },
-        {
-            src: "images/maserati/new/mc2corsa-2.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Blue_Maserati_MC12_Corsa_(15118194111).jpg"
-        },
-        {
-            src: "images/maserati/new/mc1corsa-3.jpg",
-            license: "CC BY 2.0",
-            author: "Axion23",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(16216064715).jpg"
-        },
-        {
-            src: "images/maserati/new/mc12cosa-4.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Alexandre Prevot",
-            source: "https://commons.wikimedia.org/wiki/File:Maserati_MC12_Corsa_(51356309571).jpg"
+            src: "images/maserati/indy-4.jpg.jpg",
+            license: "CC BY-Sa 4.0",
+            author: "Charles01",
+            source: "https://commons.wikimedia.org/wiki/File:Maserati_Indy_at_Schaffen-Diest_in_2015.JPG"
         }
     ]
 
