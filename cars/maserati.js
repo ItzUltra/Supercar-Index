@@ -242,8 +242,8 @@ const maseratiCars = [
 
         images: [
           {
-            src: "images/maserati/indy-4.jpg.jpg",
-            license: "CC BY-Sa 4.0",
+            src: "images/maserati/indy-4.jpg",
+            license: "CC BY-SA 4.0",
             author: "Charles01",
             source: "https://commons.wikimedia.org/wiki/File:Maserati_Indy_at_Schaffen-Diest_in_2015.JPG"
         }
