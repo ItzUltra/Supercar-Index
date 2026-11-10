@@ -601,6 +601,59 @@ const porscheCars = [
     ]
 
     },
+
+   
+   {
+        brand: "Porsche",
+        model: "911 GT2 (996)",
+
+        production: "2001-2005",
+        country: "Germany",
+
+        engine: "3.6l twinturbo flat-six boxer",
+        power: "456-477hp",
+        torque: "620-640 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4 s",
+        topSpeed: "315 km/h",
+
+        length: "4435 mm",
+        width: "1830 mm",
+        height: "1275 mm",
+
+        weight: "1440 kg",
+
+        productionCount: "1287",
+        price: "150-300K",
+
+        location: "Vindö Bilgalleri, Djurhamn",
+
+        images: [
+             {
+            src: "images/porsche/hyper/911gt98-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_IMG_0834.jpg"
+        },
+            {
+            src: "images/porsche/hyper/911gt18-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_(street_version)_in_the_Porsche-Museum_(2009)_1X7A0383.jpg"
+        },
+         {
+            src: "images/porsche/hyper/911gt18-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_in_the_Porsche-Museum_(2009)_IMG_2772.jpg"
+        }  
+    ]
+      
+    },
+
    
    {
         brand: "Porsche",
