@@ -647,5 +647,65 @@ const astonMartinCars = [
     ]
 
     },
-   
+
+
+   {
+        brand: "Aston Martin",
+        model: "Virage",
+
+        production: "1988-1995",
+        country: "UK",
+
+        engine: "5.34l V8",
+        power: "330 hp",
+        torque: "475 Nm",
+
+        transmission: "5-speed manual / 3 or 4-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "6 s",
+        topSpeed: "250 km/h",
+
+        length: "4737 mm",
+        width: "1854 mm",
+        height: "1321 mm",
+
+        weight: "1790 kg",
+
+        productionCount: "370",
+        price: "$50-100K",
+
+        location: "Brunei Royal Family Collection",
+
+       description: "",
+
+        images: [
+            {
+            src: "images/astonmartin/hyper/valkrie-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/vakyrie-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/vakyrie-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyie-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+        }
+    ]
+
+    },
+
 ];
