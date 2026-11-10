@@ -32,6 +32,8 @@ const maseratiCars = [
 
         location: "Coligny Car Museum, Coligny",
 
+      description: "The flagship of maserati, The world's widest car",
+
         images: [
           {
             src: "images/maserati/new/mc12-1.jpg",
@@ -90,7 +92,7 @@ const maseratiCars = [
 
         location: "Selected Car Collection",
 
-      
+      description: "Track only MC12",
 
         images: [
           {
