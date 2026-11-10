@@ -633,23 +633,29 @@ const porscheCars = [
 
         images: [
              {
-            src: "images/porsche/hyper/911gt98-1.jpg",
+            src: "images/porsche/996/996gt2-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_IMG_0834.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2001_Porsche_911_996_GT2.jpg"
         },
             {
-            src: "images/porsche/hyper/911gt18-2.jpg",
+            src: "images/porsche/996/996gt2-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_(street_version)_in_the_Porsche-Museum_(2009)_1X7A0383.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2001_Porsche_911_996_GT2_(33570).jpg"
         },
          {
-            src: "images/porsche/hyper/911gt18-3.jpg",
+            src: "images/porsche/996/996gt2-3.jpg",
+            license: "public domain",
+            author: "Abehn",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_996_GT2.jpg"
+        },
+             {
+            src: "images/porsche/996/996gt2-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT1_%2798_in_the_Porsche-Museum_(2009)_IMG_2772.jpg"
-        }  
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2001_Porsche_911_GT2_Clubsport_F1M.jpg"
+        },
     ]
       
     },
