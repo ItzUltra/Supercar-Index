@@ -739,32 +739,7 @@ const astonMartinCars = [
 
        description: "",
 
-        images: [
-            {
-            src: "images/astonmartin/hyper/valkrie-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valkyie-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
-        }
-    ]
+        images: []
 
     },
 
@@ -801,28 +776,10 @@ const astonMartinCars = [
 
         images: [
             {
-            src: "images/astonmartin/hyper/valkrie-1.jpg",
+            src: "images/astonmartin/viragelightweight-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valkyie-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1996_Aston_Martin_Virage_Vantage_V550_SP24.jpg"
         }
     ]
 
@@ -859,32 +816,7 @@ const astonMartinCars = [
 
        description: "",
 
-        images: [
-            {
-            src: "images/astonmartin/hyper/valkrie-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valkyie-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
-        }
-    ]
+        images: []
 
     },
 
@@ -921,28 +853,10 @@ const astonMartinCars = [
 
         images: [
             {
-            src: "images/astonmartin/hyper/valkrie-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/vakyrie-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valkyie-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+            src: "images/astonmartin/viragesuperleggera-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:1991_Aston_Martin_Virage_6.3_Widebody_in_Cannock_Black,_front_right.jpg"
         }
     ]
 
