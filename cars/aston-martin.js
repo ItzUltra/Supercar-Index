@@ -768,4 +768,64 @@ const astonMartinCars = [
 
     },
 
+
+   {
+        brand: "Aston Martin",
+        model: "Virage GT Lightweight",
+
+        production: "1997",
+        country: "UK",
+
+        engine: "6.3l V8",
+        power: "500 hp",
+        torque: "650 Nm",
+
+        transmission: "4-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "5 s",
+        topSpeed: "280 km/h",
+
+        length: "4737 mm",
+        width: "1854 mm",
+        height: "1321 mm",
+
+        weight: "1650 kg",
+
+        productionCount: "1",
+        price: "$500K-1M",
+
+        location: "unknown",
+
+       description: "",
+
+        images: [
+            {
+            src: "images/astonmartin/hyper/valkrie-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/vakyrie-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/vakyrie-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyie-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+        }
+    ]
+
+    },
+   
 ];
