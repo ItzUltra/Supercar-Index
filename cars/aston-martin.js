@@ -981,28 +981,22 @@ const astonMartinCars = [
 
         images: [
             {
-            src: "images/astonmartin/hyper/valkrie-1.jpg",
+            src: "images/astonmartin/viragevolante-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1995_Aston_Martin_Virage_Volante_Auto.jpg"
         },
         {
-            src: "images/astonmartin/hyper/vakyrie-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
+            src: "images/astonmartin/viragevolante-2.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Virage_Volante_5.3_Widebody_(1993)_(52856995750).jpg"
         },
         {
-            src: "images/astonmartin/hyper/vakyrie-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valkyie-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+            src: "images/astonmartin/viragevolante-3.jpg",
+            license: "CC BY 2.0",
+            author: "Riley",
+            source: "https://commons.wikimedia.org/wiki/File:1995_Aston_Martin_Virage_Volante_front.jpg"
         }
     ]
 
