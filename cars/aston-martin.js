@@ -708,4 +708,64 @@ const astonMartinCars = [
 
     },
 
+
+   {
+        brand: "Aston Martin",
+        model: "Virage 4-Door",
+
+        production: "1993-1994",
+        country: "UK",
+
+        engine: "6.3l V8",
+        power: "507 hp",
+        torque: "651 Nm",
+
+        transmission: "6-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "5.2 s",
+        topSpeed: "274 km/h",
+
+        length: "5194 mm",
+        width: "1854 mm",
+        height: "1330 mm",
+
+        weight: "2040 kg",
+
+        productionCount: "around 6",
+        price: "unknown",
+
+        location: "Brunei Royal Family Collection",
+
+       description: "",
+
+        images: [
+            {
+            src: "images/astonmartin/hyper/valkrie-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/vakyrie-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/vakyrie-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
+        },
+        {
+            src: "images/astonmartin/hyper/valkyie-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+        }
+    ]
+
+    },
+
 ];
