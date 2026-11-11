@@ -681,28 +681,22 @@ const astonMartinCars = [
 
         images: [
             {
-            src: "images/astonmartin/hyper/valkrie-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Low_Angle.jpg"
+            src: "images/astonmartin/virage-1.jpg",
+            license: "CC BY 2.0",
+            author: "Ben, Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Virage.jpg"
         },
         {
-            src: "images/astonmartin/hyper/vakyrie-2.jpg",
+            src: "images/astonmartin/virage-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_Rear.jpg"
+            author:  "Handelsgeselschaft",
+            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Virage,_Pau_2015_(2).jpg"
         },
         {
-            src: "images/astonmartin/hyper/vakyrie-3.jpg",
+            src: "images/astonmartin/virage-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_2023_3.jpg"
-        },
-        {
-            src: "images/astonmartin/hyper/valkyie-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_SCD_24.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2000_Aston_Martin_Virage_Vantage.jpg"
         }
     ]
 
