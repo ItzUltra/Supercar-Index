@@ -96,6 +96,7 @@ const cars = [
     ...abarthCars,
      ...arashCars,
     ...dauerCars,
+   ...gordonmurrayautomotivesCars,
     ...isoCars,
      ...keatingCars,
     ...zenvoCars
