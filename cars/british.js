@@ -148,7 +148,7 @@ const gordonmurrayautomotivesCars = [
 
     {
         brand: "GMA",
-        model: "t.50",
+        model: "T.50",
 
         production: "2023-2025",
         country: "UK",
@@ -173,6 +173,8 @@ const gordonmurrayautomotivesCars = [
         price: "$5.6-8M",
 
         location: "Petersen Automotive Museum, Los Angeles",
+
+       description: "The spiritual succcessor of the McLaren F1",
 
         images: [
            {
@@ -200,7 +202,7 @@ const gordonmurrayautomotivesCars = [
 
     {
         brand: "GMA",
-        model: "t.50 s Niki Lauda",
+        model: "T.50 s Niki Lauda",
 
         production: "2026",
         country: "UK",
@@ -224,7 +226,9 @@ const gordonmurrayautomotivesCars = [
         productionCount: "25",
         price: "$3.6-4.4M",
 
-        location: "RMK Collection, Yekaterinburg",
+        location: "RMK Collection",
+
+       description: "Track version of the T.50, Named after Niki Lauda formula1 driver",
 
         images: [
              {
@@ -252,7 +256,7 @@ const gordonmurrayautomotivesCars = [
 
     {
         brand: "GMA",
-        model: "t.33",
+        model: "T.33",
 
         production: "2026-2028",
         country: "UK",
@@ -277,6 +281,8 @@ const gordonmurrayautomotivesCars = [
         price: "$1.8-1.9M",
 
         location: "Gordon Murray Automotive Ltd.",
+
+       description: "A smaller and cheaper GMA for everyday use",
 
         images: [
             {
@@ -304,7 +310,7 @@ const gordonmurrayautomotivesCars = [
 
      {
         brand: "GMA",
-        model: "t.33 Spider",
+        model: "T.33 Spider",
 
         production: "2026-2028",
         country: "UK",
@@ -329,6 +335,8 @@ const gordonmurrayautomotivesCars = [
         price: "unknown",
 
         location: "Gordon Murray Automotive Ltd.",
+
+        description: "Should i explain this?",
 
         images: [
             {
