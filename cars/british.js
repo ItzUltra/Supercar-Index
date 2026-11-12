@@ -226,7 +226,26 @@ const GordonMurrayAutomotivesCars = [
 
         location: "RMK Collection, Yekaterinburg",
 
-        images: []
+        images: [
+             {
+            src: "images/british/big/nikilauda-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_T50S_Niki_Lauda.jpg"
+        },
+        {
+            src: "images/british/big/nikilauda-2.jpg",
+            license: "CC BY 2.0",
+            author: "Michele Borioli",
+            source: "https://commons.wikimedia.org/wiki/File:Goodwood_edited-62_(53863543885).jpg"
+        },
+        {
+            src: "images/british/big/nikilauda-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Prova MO",
+            source: "https://commons.wikimedia.org/wiki/File:GMA_T50S_Lauda_at_Quail_2023.jpg"
+        }
+        ]
 
     },
 
