@@ -703,6 +703,47 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "735 S pininfarina Spyder",
+
+        production: "1953-1954",
+        country: "Italy",
+
+        engine: "2.9l Lampredi inline-4",
+        power: "225 hp",
+        torque: "324 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "260 km/h",
+
+        length: "unknown",
+        width: "unknown",
+        height: "unknown",
+
+        weight: "760 kg",
+
+        productionCount: "1",
+        price: "$6.2M",
+
+        location: "Scuderia Ferrari Collection",
+
+        images: [
+            {
+            src: "images/ferrari/735s-1.jpg",
+            license: "public domain",
+            author: "unknown photographer",
+            source: "https://commons.wikimedia.org/wiki/File:1955-07-24_Messina_Ferrari_0446M_Munaron.png"
+        }
+        ]
+
+    },
+
+   
     {
         brand: "Ferrari",
         model: "12cilindri",
