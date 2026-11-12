@@ -174,7 +174,26 @@ const GordonMurrayAutomotivesCars = [
 
         location: "Petersen Automotive Museum, Los Angeles",
 
-        images: []
+        images: [
+           {
+            src: "images/british/big/gmat50-1.jpg",
+            license: "CC BY 4.0",
+            author: "calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Gordon_Murray_Automotive_T50_gfos25_1.jpg"
+        },
+        {
+            src: "images/british/big/gmat50-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2024_GMA_T.50_SCD24_Rear.jpg"
+        },
+        {
+            src: "images/british/big/gmat50-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_T50_5.jpg"
+        }
+        ]
 
     },
 
