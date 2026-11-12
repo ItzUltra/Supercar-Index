@@ -800,22 +800,28 @@ const porscheCars = [
 
         images: [
            {
-            src: "images/porsche/911gt2s-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
+            src: "images/porsche/917k-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_917K_(Austria)_front-left_Porsche_Museum.jpg"
         },
         {
-            src: "images/porsche/911gt2s-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
+            src: "images/porsche/917k-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_917K_(Austria)_rear_Porsche_Museum.jpg"
         },
         {
-            src: "images/porsche/911gt2s-3.jpg",
+            src: "images/porsche/917k-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_917K_(Austria)_left_Porsche_Museum.jpg"
+        },
+            {
+            src: "images/porsche/917k-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_917_Classic-Days_2022_IMG_6984.jpg"
         }
     ]
 
