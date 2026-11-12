@@ -282,7 +282,7 @@ const GordonMurrayAutomotivesCars = [
             {
             src: "images/british/big/gmat33-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "calreyn88",
+            author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2023_GMA_T33_(97502).jpg"
         },
         {
@@ -330,7 +330,26 @@ const GordonMurrayAutomotivesCars = [
 
         location: "Gordon Murray Automotive Ltd.",
 
-        images: []
+        images: [
+            {
+            src: "images/british/big/gmaspider-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2023_GMA_T.33_Spider_FOS25.jpg"
+        },
+        {
+            src: "images/british/big/gmaspider-2.jpg",
+            license: "CC BY 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Gordon_Murray_Automotive_T33S_2025_5.jpg"
+        },
+        {
+            src: "images/british/big/gmaspider-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Prova MO",
+            source: "https://commons.wikimedia.org/wiki/File:GMA_T.33_Spider_at_Quail_2023.jpg"
+        }
+        ]
 
     }
 
