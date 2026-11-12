@@ -144,7 +144,7 @@ const landroverCars = [
    Gordon Murray Automotives CAR DATABASE
 ======================================== */
 
-const GordonMurrayAutomotivesCars = [
+const gordonmurrayautomotivesCars = [
 
     {
         brand: "GMA",
