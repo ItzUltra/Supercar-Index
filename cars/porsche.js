@@ -767,6 +767,61 @@ const porscheCars = [
 
     },
 
+
+   {
+        brand: "Porsche",
+        model: "917K",
+
+        production: "1969-1971",
+        country: "Germany",
+
+        engine: "4.5 or 4.9 or 5l flat-twelve boxer",
+        power: "520-630 hp",
+        torque: "460-550 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "340 km/h",
+
+        length: "4120 mm",
+        width: "1980 mm",
+        height: "940 mm",
+
+        weight: "around 850 kg",
+
+        productionCount: "12",
+        price: "$14-25M",
+
+        location: "National Motor Museum, Hampshire",
+
+      description: "917 Kurz, Winner of the 1970 and 1971 Le Mans",
+
+        images: [
+           {
+            src: "images/porsche/911gt2s-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
+        },
+        {
+            src: "images/porsche/911gt2s-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
+        },
+        {
+            src: "images/porsche/911gt2s-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
+        }
+    ]
+
+    },
+
+   
    {
         brand: "Porsche",
         model: "Panamera Turbo S E-Hybrid Sport Turismo",
