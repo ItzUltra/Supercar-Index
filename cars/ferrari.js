@@ -800,6 +800,8 @@ const ferrariCars = [
 
         location: "The Shmeemobiles Collection",
 
+       description: "Successor of the 365 GTB",
+
         images: [
             {
             src: "images/ferrari/12cilindri-1.jpg",
@@ -856,6 +858,8 @@ const ferrariCars = [
         price: "$750K",
 
         location: "unknown",
+
+      description: "12cilindri with manual transmission",
 
         images: [
             {
