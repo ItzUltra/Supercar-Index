@@ -653,6 +653,8 @@ const ferrariCars = [
 
         location: "The Shmeemobiles Collection",
 
+      description: "Track focused 458",
+
         images: [
             {
             src: "images/ferrari/458speciale-1.jpg",
@@ -703,6 +705,8 @@ const ferrariCars = [
         price: "$1.8-3M",
 
         location: "American Muscle Car Museum, Melbourne",
+
+      description: "Roadster 458 Speciale",
 
         images: [
             {
