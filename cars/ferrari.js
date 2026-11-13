@@ -182,7 +182,7 @@ const ferrariCars = [
 
         location: "Das Nationale Automuseum, Detzhölztal",
 
-       description: "As Ferrari said: Formula 1 car in GT clothing,  2nd Ferrari of the legend series",
+       description: "As Ferrari said: Formula 1 car in GT clothing,  3rd Ferrari of the legend series",
 
         images: [
             {
@@ -290,6 +290,8 @@ const ferrariCars = [
 
         location: "Autoworld, Brussels",
 
+      description: "Same philosophy as the F50, Made with the help of Michael Schumacher, named after Enzo Ferrari, The 4th legend",
+
         images: [
            {
             src: "images/ferrari/hyper/enzo-1.jpg",
@@ -347,6 +349,8 @@ const ferrariCars = [
         price: "$3.7-5.5M",
 
         location: "Das Nationale Automuseum, Dietzhölztal",
+
+       description: "Not just a Ferrari, This is THE Ferrari, First hybrid Ferrari and the 5th car of the legend series",
 
         images: [
            {
@@ -406,6 +410,8 @@ const ferrariCars = [
 
         location: "The Johor Royal Family Collection",
 
+       description: "Roadster LaFerrari",
+
         images: [
            {
             src: "images/ferrari/hyper/laferrariaperta-1.jpg",
@@ -463,6 +469,8 @@ const ferrariCars = [
         price: "$6.5M",
 
         location: "La Collection de Voitures de S.A.S. le Prince de Monaco, Monaco",
+
+      description: "The 6th Legend Ferrari",
 
         images: [
            {
