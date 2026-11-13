@@ -32,6 +32,8 @@ const ferrariCars = [
 
         location: "Mogam, Catania",
 
+       description: "Originally made for the 40th anniversary, 2nd Ferrari of the legend series, Last car that Enzo ferrari approved",
+
         images: [
            {
             src: "images/ferrari/hyper/f40-1.jpg",
@@ -83,6 +85,8 @@ const ferrariCars = [
         price: "$11M",
 
         location: "Museo Ferrari Maranello, Maranello",
+
+       description: "Racecar F40, Won the BPR 3 times in a row (1994,1995,1996)",
 
         images: [
             {
