@@ -512,6 +512,8 @@ const ferrariCars = [
 
         location: "Das Nationale Automuseum, Dietzhölztal",
 
+      description: "The 3rd of the Icona series,  Inspired by the Ferrari 330P",
+
         images: [
            {
             src: "images/ferrari/hyper/sp3-3.jpg",
@@ -564,6 +566,8 @@ const ferrariCars = [
 
         location: "Somewhere in Monterey",
 
+       description: "Auctioned for charity for 26 million dollar",
+
         images: []
 
     },
@@ -595,6 +599,8 @@ const ferrariCars = [
         price: "$190-375K",
 
         location: "The Shmeemobiles Collection",
+
+    description: "296 GTB roadster",
 
         images: [
             {
