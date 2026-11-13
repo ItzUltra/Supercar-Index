@@ -140,6 +140,8 @@ const ferrariCars = [
 
         location: "unknown",
 
+       description: "Made for Gianni Agnelli who couldn't use clutch so they built it whithout a clutch and replaced clutch with a anticlutch-system",
+
         images: [
            {
             src: "images/ferrari/hyper/valeo-1.jpg",
@@ -179,6 +181,8 @@ const ferrariCars = [
         price: "$8-10M",
 
         location: "Das Nationale Automuseum, Detzhölztal",
+
+       description: "As Ferrari said: Formula 1 car in GT clothing,  2nd Ferrari of the legend series",
 
         images: [
             {
@@ -237,6 +241,8 @@ const ferrariCars = [
         price: "30M",
 
         location: "unknown",
+
+        description: "F50 racecar wich never raced because of rule changes",
 
         images: [
              {
