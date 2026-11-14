@@ -149,6 +149,60 @@ const cadillacCars = [
  
 ];
 
+
+ /* ========================================
+   Davis CAR DATABASE
+======================================== */
+
+const davisCars = [
+
+    {
+        brand: "Davis",
+        model: "Divan",
+
+        production: "1947-1949",
+        country: "USA",
+
+        engine: "2.2l Hercules inline-4",
+        power: "60 hp",
+        torque: "unknown",
+
+        transmission: "3-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "187 km/h",
+
+        length: "4661 mm",
+        width: "1829 mm",
+        height: "1524 mm",
+
+        weight: "1110 kg",
+
+        productionCount: "16",
+        price: "$125K",
+
+        location: "Southward Car Museum, Paraparaumu",
+
+        images: [
+         {
+            src: "images/american/nx-1.jpg",
+            license: "CC BY 2.0",
+            author: "ilikewaffles11",
+            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20206519195).jpg"
+        },
+        {
+            src: "images/american/gx-2.jpg",
+            license: "CC BY 2.0",
+            author: "ilikewaffles11",
+            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20180268696).jpg"
+        }
+    ]
+
+    },
+
+ ];
+
  /* ========================================
    Jeep CAR DATABASE
 ======================================== */
