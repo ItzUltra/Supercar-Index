@@ -186,16 +186,22 @@ const davisCars = [
 
         images: [
          {
-            src: "images/american/nx-1.jpg",
-            license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20206519195).jpg"
+            src: "images/american/davisdivan-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:1948_Davis_Divan_in_Greenwich,_front_right.jpg"
         },
         {
-            src: "images/american/gx-2.jpg",
+            src: "images/american/davisdivan-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:1948_Davis_Divan_in_Greenwich,_rear_left.jpg"
+        },
+          {
+            src: "images/american/davisdivan-3.jpg",
             license: "CC BY 2.0",
-            author: "ilikewaffles11",
-            source: "https://commons.wikimedia.org/wiki/File:Buick_GNX_(20180268696).jpg"
+            author: "Tony Hisgett",
+            source: "https://commons.wikimedia.org/wiki/File:1949_Davis_(31031659643).jpg"
         }
     ]
 
