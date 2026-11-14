@@ -1045,4 +1045,52 @@ const paganiCars = [
 
     },
 
+
+   {
+        brand: "Pagani",
+        model: "Imola Roadster",
+
+        production: "2023-",
+        country: "Italy",
+
+        engine: "6l twinturbo Mercedes-AMG V12",
+        power: "850 hp",
+        torque: "1100 Nm",
+
+        transmission: "6-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "350 km/h",
+
+        length: "4853 mm",
+        width: "2035 mm",
+        height: "1269 mm",
+
+        weight: "1260 kg",
+
+        productionCount: "8",
+        price: "unknown",
+
+        location: "The Tashkent Collection",
+
+      description: "",
+
+        images: [
+           {
+            src: "images/pagani/huayra/rvo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(DSCF2554).jpg"
+        },
+        {
+            src: "images/pagani/huayra/rvo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Andrea_Montermini_in_a_Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(028A7330).jpg"
+        }
+    ]
+
+    },
+   
    ];
