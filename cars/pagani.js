@@ -1026,7 +1026,7 @@ const paganiCars = [
 
         location: "Museo e Atelier Pagani, San Cesario Sul Panero",
 
-      description: "",
+      description: "Track tuned Huayra for the roads",
 
         images: [
            {
@@ -1128,7 +1128,7 @@ const paganiCars = [
 
         location: "Moulsdale foundation, Bishopbriggs",
 
-      description: "",
+      description: "Successor of the Huayra, A light and simple hypercar",
 
         images: [
            {
@@ -1182,7 +1182,7 @@ const paganiCars = [
 
         location: "Don_Huayra Collection",
 
-      description: "",
+      description: "A one off inspired by Leonardo da Vinci: Madonna Of The Carnation painting, They used moonstones and 24k gold for the paint",
 
         images: [
            {
