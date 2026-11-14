@@ -324,5 +324,65 @@ const bentleyCars = [
         images: []
 
     },
+
+
+   {
+        brand: "Bentley",
+        model: "Speed six",
+      
+        production: "1928-1930",
+        country: "UK",
+
+        engine: "6.6l inline-6",
+        power: "180 hp",
+        torque: "450 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "190 km/h",
+
+        length: "unknown",
+        width: "unknown",
+        height: "unknown",
+
+        weight: "1800 kg",
+
+        productionCount: "171",
+        price: "$1.5-2M",
+
+        location: "Southward Car Museum, Paraparaumu",
+
+      description: "",
+
+        images: [
+         {
+            src: "images/bentley/congt-1.jpg",
+            license: "Public Domain",
+            author: "Hatsukari715",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Speed.JPG"
+        },
+        {
+            src: "images/bentley/contt-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Handelgeselschaft",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Toulouse.jpg"
+        },
+        {
+            src: "images/bentley/contg-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Dectandpreserve",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Mulliner_000_since_2003_2006_sideright_2010-02-21_A.jpg"
+        },
+           {
+            src: "images/bentley/congt-4.jpg",
+            license: "public domain",
+            author: "OSX",
+            source: "https://commons.wikimedia.org/wiki/File:2007-2010_Bentley_Continental_(3W)_GT_Speed_coupe_(2010-05-22)_01.jpg"
+        }
+    ]
+
+    },
    
 ];
