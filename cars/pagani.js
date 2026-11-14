@@ -1132,16 +1132,22 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/huayra/rvo-1.jpg",
+            src: "images/pagani/utopia-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Yu Chu Chin",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(DSCF2554).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia.jpg"
         },
         {
-            src: "images/pagani/huayra/rvo-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Yu Chu Chin",
-            source: "https://commons.wikimedia.org/wiki/File:Andrea_Montermini_in_a_Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(028A7330).jpg"
+            src: "images/pagani/utopia-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Andrew Basterfield",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_(53048317354)_(cropped).jpg"
+        },
+           {
+            src: "images/pagani/utopia-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_(no._26)_in_Yellow_and_Black,_front_right.jpg"
         }
     ]
 
