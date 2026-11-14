@@ -1186,16 +1186,28 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/huayra/rvo-1.jpg",
+            src: "images/pagani/utopiar-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Yu Chu Chin",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(DSCF2554).jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
         },
         {
-            src: "images/pagani/huayra/rvo-2.jpg",
+            src: "images/pagani/utopiar-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Yu Chu Chin",
-            source: "https://commons.wikimedia.org/wiki/File:Andrea_Montermini_in_a_Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(028A7330).jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
+        },
+           {
+            src: "images/pagani/utopiar-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
+        },
+            {
+            src: "images/pagani/utopiar-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
         }
     ]
 
