@@ -358,28 +358,28 @@ const bentleyCars = [
 
         images: [
          {
-            src: "images/bentley/congt-1.jpg",
-            license: "Public Domain",
-            author: "Hatsukari715",
-            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Speed.JPG"
-        },
-        {
-            src: "images/bentley/contt-2.jpg",
+            src: "images/bentley/speedsix-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Handelgeselschaft",
-            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Toulouse.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Bentley_Speed_Six_Continuation_Series_Car_Zer.jpg"
         },
         {
-            src: "images/bentley/contg-3.jpg",
+            src: "images/bentley/speedsix-2.jpg",
+            license: "CC BY 2.0",
+            author: "Niels de Wit",
+            source: "https://commons.wikimedia.org/wiki/File:1931_Bentley_Speed_Six_(9064542989).jpg"
+        },
+        {
+            src: "images/bentley/speedsix-3.jpg",
             license: "CC BY-SA 3.0",
-            author: "Dectandpreserve",
-            source: "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_Mulliner_000_since_2003_2006_sideright_2010-02-21_A.jpg"
+            author: "Anton Van Luijk",
+            source: "https://commons.wikimedia.org/wiki/File:Bentley_Speed_Six_body_by_Hooper.jpg"
         },
            {
-            src: "images/bentley/congt-4.jpg",
-            license: "public domain",
-            author: "OSX",
-            source: "https://commons.wikimedia.org/wiki/File:2007-2010_Bentley_Continental_(3W)_GT_Speed_coupe_(2010-05-22)_01.jpg"
+            src: "images/bentley/speedsix-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1930_Bentley_Speed_Six_HCC24.jpg"
         }
     ]
 
