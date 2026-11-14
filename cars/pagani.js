@@ -1092,5 +1092,53 @@ const paganiCars = [
     ]
 
     },
+
+
+   {
+        brand: "Pagani",
+        model: "Utopia",
+
+        production:  "2022-",
+        country: "Italy",
+
+        engine: "6l biturbo Mercedes-AMG V12",
+        power: "864 hp",
+        torque: "1100 Nm",
+
+        transmission: "7-speed manual or sequential",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "350 km/h",
+
+        length: "4660 mm",
+        width: "2038 mm",
+        height: "1278 mm",
+
+        weight: "1280 kg",
+
+        productionCount: "99",
+        price: "$2.5M",
+
+        location: "Moulsdale foundation, Bishopbriggs",
+
+      description: "",
+
+        images: [
+           {
+            src: "images/pagani/huayra/rvo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(DSCF2554).jpg"
+        },
+        {
+            src: "images/pagani/huayra/rvo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Yu Chu Chin",
+            source: "https://commons.wikimedia.org/wiki/File:Andrea_Montermini_in_a_Pagani_Huayra_R_Evo_at_the_2026_Adelaide_Motorsport_Festival_(028A7330).jpg"
+        }
+    ]
+
+    },
    
    ];
