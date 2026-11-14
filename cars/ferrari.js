@@ -901,6 +901,8 @@ const ferrariCars = [
 
         location: "Autobau Erlebniswelt, Romanshorn",
 
+       description: "TDF means Tour de France Automobile wich is a long race so this car is built for long distances (it's a GT)",
+
         images: [
             {
             src: "images/ferrari/f12tdf-1.jpg",
@@ -952,6 +954,8 @@ const ferrariCars = [
         price: "$500-600K",
 
         location: "The Shmeemobiles Collection",
+
+      desciption: "Oficially a four-door sportcar, We all know it's a SUV Ferrari admit it!",
 
         images: [
             {
@@ -1005,6 +1009,8 @@ const ferrariCars = [
 
         location: "The Shmeemobiles Collection",
 
+      description: "An elegant GT made for women,  And you don't know what roma means",
+
         images: [
             {
             src: "images/ferrari/roma-1.jpg",
@@ -1056,6 +1062,8 @@ const ferrariCars = [
 
         location: "Ap Automobile Private Collection",
 
+      description: "Liveries inspired by old race cars",
+
         images: [
             {
             src: "images/ferrari/ispirazoni-3.jpg",
@@ -1094,6 +1102,8 @@ const ferrariCars = [
         price: "$440-530K",
 
         location: "unknown",
+
+       description: "Made for Scuderia Ferrari's 90th anniversary, hybrid hyper-supercar thing",
 
         images: [
             {
@@ -1199,6 +1209,8 @@ const ferrariCars = [
 
         location: "Diamond car collection",
 
+   description: "racing liveries",
+
         images: [
             {
             src: "images/ferrari/ispirazoni-1.jpg",
@@ -1279,6 +1291,8 @@ const ferrariCars = [
         price: "$1.6-2M",
 
         location: "Moulsdale foundation, Bishopbriggs",
+
+      description: "Track focused faster and more agressive SF90",
 
         images: [
             {
