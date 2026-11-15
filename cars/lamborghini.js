@@ -632,7 +632,7 @@ const lamborghiniCars = [
         width: "2040 mm",
         height: "1105 mm",
 
-        weight: "1650 kg",
+        weight: "1625 kg",
 
         productionCount: "466",
         price: "$330-770K",
@@ -692,6 +692,60 @@ const lamborghiniCars = [
         price: "$180-330K",
 
         location: "Magden Motors Private Collection",
+
+       description: "",
+
+        images: [
+           {
+            src: "images/lamborghini/hyper/cenenario-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centeario-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+        },
+        {
+            src: "images/lamborghini/hyper/centenrio-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+        }
+    ]
+
+    },
+
+
+    {
+        brand: "Lamborghini",
+        model: "Diablo VT Roadster Millennium",
+
+        production: "2000",
+        country: "Italy",
+
+        engine: "5.7l V12",
+        power: "529 hp",
+        torque: "605 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4 s",
+        topSpeed: "335 km/h",
+
+        length: "4470 mm",
+        width: "2040 mm",
+        height: "1105 mm",
+
+        weight: "1625 kg",
+
+        productionCount: "30",
+        price: "$280-600K",
+
+        location: "The Green Collection",
 
        description: "",
 
