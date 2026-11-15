@@ -34,28 +34,16 @@ const tatraCars = [
 
         images: [
          {
-            src: "images/others/volvo850-1.jpg",
+            src: "images/others/tatra77a-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Addvisor",
+            source: "https://commons.wikimedia.org/wiki/File:Tatra_77a_(1937).jpg"
+        },
+        {
+            src: "images/others/tatra77a-2.jpg",
             license: "CC BY 2.0",
-            author: "nakhon100",
-            source: "https://commons.wikimedia.org/wiki/File:Volvo_850_T5-R_(5797103260).jpg"
-        },
-        {
-            src: "images/others/volvo850-2.jpg",
-            license: "CC BY 2.0",
-            author: "nakhon100",
-            source: "https://commons.wikimedia.org/wiki/File:Volvo_850_T5-R_(8103696160).jpg"
-        },
-        {
-            src: "images/others/volvo850-3.jpg",
-            license: "CC BY 3.0",
-            author: "Toerme",
-            source: "https://commons.wikimedia.org/wiki/File:850t5r.jpg"
-        },
-        {
-            src: "images/others/volvo850-4.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Rl GNZLZ",
-            source: "https://commons.wikimedia.org/wiki/File:Volvo_850_T5_Estate_1996_(25725777281).jpg"
+            author: "jost j. bakker",
+            source: "https://commons.wikimedia.org/wiki/File:Tatra_77_A_in_Santpoort-Zuid,_North_Holland,_Netherlands_2.jpg"
         }
     ]
 
