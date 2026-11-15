@@ -697,22 +697,10 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/cenenario-1.jpg",
+            src: "images/lamborghini/diablo/momo-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/centeario-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/centenrio-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2003_DC_Roadster_Lamborghini_Diablo_VT_Replica_5.7_Front.jpg"
         }
     ]
 
@@ -751,22 +739,10 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/cenenario-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/centeario-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
-        },
-        {
-            src: "images/lamborghini/hyper/centenrio-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            src: "images/lamborghini/diablo/millennium-1.jpg",
+            license: "CC BY 2.0",
+            author: "Tony Hisgett",
+            source: "https://commons.wikimedia.org/wiki/File:1997_Lamborghini_Diablo_VT_(31841116485).jpg"
         }
     ]
 
