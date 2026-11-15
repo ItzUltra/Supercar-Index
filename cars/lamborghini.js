@@ -643,22 +643,28 @@ const lamborghiniCars = [
 
         images: [
            {
-            src: "images/lamborghini/hyper/cenenario-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_LC25.jpg"
+            src: "images/lamborghini/diablo/vtr-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "VT5700",
+            source: "https://commons.wikimedia.org/wiki/File:DIABLO_VT_ROADSTER_1999.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centeario-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2016_Lamborghini_Centenario_rear_LC25.jpg"
+            src: "images/lamborghini/diablo/vtr-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:1999_Lamborghini_Diablo_VT_Roadster_in_Giallo,_rear_right.jpg"
         },
         {
-            src: "images/lamborghini/hyper/centenrio-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Norbert Aepli",
-            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0804.JPG"
+            src: "images/lamborghini/diablo/vtr-3.jpg",
+            license: "CC BY 2.0",
+            author: "Axion23",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_Roadster_(7193411040).jpg"
+        },
+            {
+            src: "images/lamborghini/diablo/vtr-4.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Karrmann",
+            source: "https://commons.wikimedia.org/wiki/File:Lamborghini_Diablo_VT_Roadster_95-98.jpg"
         }
     ]
 
