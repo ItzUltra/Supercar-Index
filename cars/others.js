@@ -1,4 +1,69 @@
- /* ========================================
+/* ========================================
+   Tatra CAR DATABASE
+======================================== */
+
+const tatraCars = [
+
+    {
+        brand: "Tatra",
+        model: "77a",
+
+        production: "1935-1938",
+        country: "Czechia",
+
+        engine: "3.8l V8",
+        power: "70 hp",
+        torque: "190 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "150 km/h",
+
+        length: "5310 mm",
+        width: "1660 mm",
+        height: "1560 mm",
+
+        weight: "1800 kg",
+
+        productionCount: "154",
+        price: "$390-420K",
+
+        location: "Southward Car Museum, Paraparaumu",
+
+        images: [
+         {
+            src: "images/others/volvo850-1.jpg",
+            license: "CC BY 2.0",
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Volvo_850_T5-R_(5797103260).jpg"
+        },
+        {
+            src: "images/others/volvo850-2.jpg",
+            license: "CC BY 2.0",
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Volvo_850_T5-R_(8103696160).jpg"
+        },
+        {
+            src: "images/others/volvo850-3.jpg",
+            license: "CC BY 3.0",
+            author: "Toerme",
+            source: "https://commons.wikimedia.org/wiki/File:850t5r.jpg"
+        },
+        {
+            src: "images/others/volvo850-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Rl GNZLZ",
+            source: "https://commons.wikimedia.org/wiki/File:Volvo_850_T5_Estate_1996_(25725777281).jpg"
+        }
+    ]
+
+    }
+   
+];
+
+/* ========================================
    Volvo CAR DATABASE
 ======================================== */
 
