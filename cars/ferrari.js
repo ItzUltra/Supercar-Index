@@ -771,6 +771,46 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "750 Monza",
+
+        production: "1954-1955",
+        country: "Italy",
+
+        engine: "3l Lampredi inline-4",
+        power: "260 hp",
+        torque: "275 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "265 km/h",
+
+        length: "4165 mm",
+        width: "1651 mm",
+        height: "1054 mm",
+
+        weight: "760 kg",
+
+        productionCount: "31",
+        price: "$3-5.5M",
+
+        location: "Southward Car Museum, Paraparaumu",
+
+        images: [
+            {
+            src: "images/ferrari/35s-1.jpg",
+            license: "public domain",
+            author: "unknown photographer",
+            source: "https://commons.wikimedia.org/wiki/File:1955-07-24_Messina_Ferrari_0446M_Munaron.png"
+        }
+        ]
+
+    },
+
    
     {
         brand: "Ferrari",
