@@ -100,6 +100,7 @@ const cars = [
    ...gordonmurrayautomotivesCars,
     ...isoCars,
      ...keatingCars,
+    ...tatraCars,
     ...zenvoCars
    
 ];
