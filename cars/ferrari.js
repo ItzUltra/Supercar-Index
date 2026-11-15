@@ -802,10 +802,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/35s-1.jpg",
-            license: "public domain",
-            author: "unknown photographer",
-            source: "https://commons.wikimedia.org/wiki/File:1955-07-24_Messina_Ferrari_0446M_Munaron.png"
+            src: "images/ferrari/750monza-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Heranderssvensson",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_750_Monza_fl.jpg"
+        },
+            {
+            src: "images/ferrari/750monza-2.jpg",
+            license: "CC BY 2.0",
+            author: "pelica-actor",
+            source: "https://commons.wikimedia.org/wiki/File:1954_Ferrari_750_Monza_rear_side.jpg"
+        },
+             {
+            src: "images/ferrari/750monza-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1954_Ferrari_750_Monza_SP21.jpg"
         }
         ]
 
