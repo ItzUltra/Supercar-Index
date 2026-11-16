@@ -710,7 +710,7 @@ const mclarenCars = [
 
    {
         brand: "McLaren",
-        model: "650S Al Sahar 79",
+        model: "650S Al Sahara 79",
 
         production: "2015",
         country: "UK",
@@ -746,7 +746,47 @@ const mclarenCars = [
         ]
 
     },
+
    
+   {
+        brand: "McLaren",
+        model: "650S Can-Am",
+
+        production: "2015-2016",
+        country: "UK",
+
+        engine: "3.8l biturbo M838T V8",
+        power: "650 hp",
+        torque: "678 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "329 km/h",
+
+        length: "4512 mm",
+        width: "1908 mm",
+        height: "1199 mm",
+
+        weight: "1370 kg",
+
+        productionCount: "50",
+        price: "unknown",
+
+        location: "Southward Car Museum, Paraparaumu",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/senalm-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+       }
+        ]
+
+    },
+
    
 {
         brand: "McLaren",
