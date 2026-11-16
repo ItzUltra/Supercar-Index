@@ -787,6 +787,46 @@ const mclarenCars = [
 
     },
 
+
+   {
+        brand: "McLaren",
+        model: "650S Le Mans",
+
+        production: "2015-2016",
+        country: "UK",
+
+        engine: "3.8l biturbo M838T V8",
+        power: "650 hp",
+        torque: "678 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "333 km/h",
+
+        length: "4512 mm",
+        width: "1908 mm",
+        height: "1199 mm",
+
+        weight: "1330 kg",
+
+        productionCount: "50",
+        price: "$240-300K",
+
+        location: "Coligny Car Museum, Coligny",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/senalm-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+       }
+        ]
+
+    },
+
    
 {
         brand: "McLaren",
