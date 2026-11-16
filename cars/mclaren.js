@@ -827,6 +827,46 @@ const mclarenCars = [
 
     },
 
+
+   {
+        brand: "McLaren",
+        model: "650S Project Kilo",
+
+        production: "2015",
+        country: "UK",
+
+        engine: "3.8l biturbo M838T V8",
+        power: "650 hp",
+        torque: "678 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "333 km/h",
+
+        length: "4512 mm",
+        width: "1908 mm",
+        height: "1199 mm",
+
+        weight: "unknown",
+
+        productionCount: "1",
+        price: "$1.5M",
+
+        location: "The Kadoorie Car Collection",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/senalm-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+       }
+        ]
+
+    },
+
    
 {
         brand: "McLaren",
