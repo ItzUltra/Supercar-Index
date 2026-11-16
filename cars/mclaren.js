@@ -694,7 +694,7 @@ const mclarenCars = [
         productionCount: "unknown",
         price: "$100-270K",
 
-        location: "",
+        location: "unknown",
 
         images: [
                            {
@@ -707,6 +707,46 @@ const mclarenCars = [
 
     },
 
+
+   {
+        brand: "McLaren",
+        model: "650S Al Sahar 79",
+
+        production: "2015",
+        country: "UK",
+
+        engine: "3.8l biturbo M838T V8",
+        power: "650 hp",
+        torque: "678 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "329 km/h",
+
+        length: "4512 mm",
+        width: "1908 mm",
+        height: "1199 mm",
+
+        weight: "1468 kg",
+
+        productionCount: "5",
+        price: "$400K",
+
+        location: "unknown",
+
+        images: [
+                           {
+            src: "images/mclaren/hyper/senalm-1.jpg",
+            license: "CC BY 2.0",
+            author: "pelican-actor",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+       }
+        ]
+
+    },
+   
    
 {
         brand: "McLaren",
