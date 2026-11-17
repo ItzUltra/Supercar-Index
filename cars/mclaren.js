@@ -858,10 +858,10 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/hyper/senalm-1.jpg",
-            license: "CC BY 2.0",
-            author: "pelican-actor",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+            src: "images/mclaren/projectkilo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Vauxford",
+            source: "https://commons.wikimedia.org/wiki/File:2015_McLaren_650S_Coupe_3.8_Front.jpg"
        }
         ]
 
