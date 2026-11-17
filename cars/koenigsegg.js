@@ -991,5 +991,50 @@ const koenigseggCars = [
 
     },
 
+
+  {
+        brand: "Koenigsegg",
+        model: "Regera",
+
+        production: "2016-2022",
+        country: "Sweden",
+
+        engine: "5l biturbo V8 3 3 electric engine",
+        power: "1800 hp",
+        torque: "2000 Nm",
+
+        transmission: "no transsmisiom",
+        drivetrain: "RWD",
+
+        acceleration: "2.8 s",
+        topSpeed: "400 km/h",
+
+        length: "4560 mm",
+        width: "2050 mm",
+        height: "1110 mm",
+
+        weight: "1590 kg",
+
+        productionCount: "80",
+        price: "$2M",
+
+        location: "Royal car Museum, Seeb",
+
+        images: [
+          {
+            src: "images/koenigsegg/absout-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Koenigsegg_Jesko_Absolut.jpg"
+        },
+            {
+            src: "images/koenigsegg/absolu-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Koenigsegg_Jesko_Absolut_7389_FOS25.jpg"
+        }
+    ]
+
+    },
   
 ];
