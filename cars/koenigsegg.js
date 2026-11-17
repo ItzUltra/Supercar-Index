@@ -1036,5 +1036,57 @@ const koenigseggCars = [
     ]
 
     },
+
+
+   {
+        brand: "Koenigsegg",
+        model: "Sadair's Spear",
+
+        production: "2025-",
+        country: "Sweden",
+
+        engine: "5l biturbo V8",
+        power: "1625 hp",
+        torque: "1500 Nm",
+
+        transmission: "9-speed LST",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "360 km/h",
+
+        length: "4690 mm",
+        width: "2030 mm",
+        height: "1210 mm",
+
+        weight: "1385 kg",
+
+        productionCount: "30",
+        price: "$3.8-4M",
+
+        location: "Ccol10 Collecion",
+
+        images: [
+          {
+            src: "images/koenigsegg/jeko-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A0924.jpg"
+        },
+          {
+            src: "images/koenigsegg/jeko-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1375.jpg"
+        },
+           {
+            src: "images/koenigsegg/jeko-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_4.jpg"
+        }
+    ]
+
+    }
   
 ];
