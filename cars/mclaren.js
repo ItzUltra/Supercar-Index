@@ -736,14 +736,7 @@ const mclarenCars = [
 
         location: "unknown",
 
-        images: [
-                           {
-            src: "images/mclaren/hyper/senalm-1.jpg",
-            license: "CC BY 2.0",
-            author: "pelican-actor",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
-       }
-        ]
+        images: []
 
     },
 
@@ -778,10 +771,10 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/hyper/senalm-1.jpg",
-            license: "CC BY 2.0",
-            author: "pelican-actor",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+            src: "images/mclaren/650scanam-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Bryan S",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_650S_Can_Am_(cropped).jpg"
        }
         ]
 
