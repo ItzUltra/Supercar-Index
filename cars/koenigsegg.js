@@ -944,5 +944,52 @@ const koenigseggCars = [
     ]
 
     },
+
+
+  {
+        brand: "Koenigsegg",
+        model: "One:1",
+
+        production: "2014-2015",
+        country: "Sweden",
+
+        engine: "5l biturbo V8",
+        power: "1360 hp",
+        torque: "1371 Nm",
+
+        transmission: "7-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "440 km/h",
+
+        length: "4500 mm",
+        width: "2060 mm",
+        height: "1150 mm",
+
+        weight: "1360 kg",
+
+        productionCount: "7",
+        price: "$2.5-3M",
+
+        location: "Teddy Nguema's Collection",
+
+        images: [
+          {
+            src: "images/koenigsegg/absout-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Koenigsegg_Jesko_Absolut.jpg"
+        },
+            {
+            src: "images/koenigsegg/absolu-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2025_Koenigsegg_Jesko_Absolut_7389_FOS25.jpg"
+        }
+    ]
+
+    },
+
   
 ];
