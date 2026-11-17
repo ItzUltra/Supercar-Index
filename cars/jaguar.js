@@ -230,5 +230,65 @@ const jaguarCars = [
         ]
 
     },
+
+
+   {
+        brand: "Jaguar",
+        model: "E-Type Lightweight",
+
+        production: "1963-1964 and 2014",
+        country: "UK",
+
+        engine: "3.8l XK inline-6",
+        power: "340 hp",
+        torque: "380 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "240 km/h",
+
+        length: "4453 mm",
+        width: "1700 mm",
+        height: "1181 mm",
+
+        weight: "1000 kg",
+
+        productionCount: "18",
+        price: "7M",
+
+        location: "unknown",
+
+       description: "",
+
+        images: [
+            {
+                src: "images/jaguar/xj220conept-1.jpg",
+                license: "CC BY-SA 3.0",
+                author: "Morio",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_front-right_Heritage_Motor_Centre,_Gaydon.jpg"
+            },
+            {
+                src: "images/jaguar/xj220conept-2.jpg",
+                license: "CC BY-SA 3.0",
+                author: "Morio",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_rear_Heritage_Motor_Centre,_Gaydon.jpg"
+            },
+           {
+            src: "images/jaguar/xj220concet-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_top_Heritage_Motor_Centre,_Gaydon.jpg"
+        },
+        {
+            src: "images/jaguar/xj220oncept-4.jpg",
+            license: "CC BY 2.0",
+            author: "foshie",
+            source: "https://commons.wikimedia.org/wiki/File:Hideous_Jaguar_-_Flickr_-_foshie.jpg"
+        }
+        ]
+
+    },
    
 ];
