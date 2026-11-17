@@ -169,6 +169,66 @@ const jaguarCars = [
         }
         ]
 
-    }
+    },
+
+
+   {
+        brand: "Jaguar",
+        model: "E-Type",
+
+        production: "1961-1968",
+        country: "UK",
+
+        engine: "3.8 or 4.2l XK inline-6",
+        power: "265 hp",
+        torque: "353 / 384 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "7 s",
+        topSpeed: "240 km/h",
+
+        length: "4453 mm",
+        width: "1657 mm",
+        height: "1181 mm",
+
+        weight: "1320 / 1410 kg",
+
+        productionCount: "around 38.4K",
+        price: "80-200K",
+
+        location: "unknown",
+
+       description: "",
+
+        images: [
+            {
+                src: "images/jaguar/xj220conept-1.jpg",
+                license: "CC BY-SA 3.0",
+                author: "Morio",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_front-right_Heritage_Motor_Centre,_Gaydon.jpg"
+            },
+            {
+                src: "images/jaguar/xj220conept-2.jpg",
+                license: "CC BY-SA 3.0",
+                author: "Morio",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_rear_Heritage_Motor_Centre,_Gaydon.jpg"
+            },
+           {
+            src: "images/jaguar/xj220concet-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_top_Heritage_Motor_Centre,_Gaydon.jpg"
+        },
+        {
+            src: "images/jaguar/xj220oncept-4.jpg",
+            license: "CC BY 2.0",
+            author: "foshie",
+            source: "https://commons.wikimedia.org/wiki/File:Hideous_Jaguar_-_Flickr_-_foshie.jpg"
+        }
+        ]
+
+    },
    
 ];
