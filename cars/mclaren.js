@@ -698,10 +698,28 @@ const mclarenCars = [
 
         images: [
                            {
-            src: "images/mclaren/hyper/senalm-1.jpg",
-            license: "CC BY 2.0",
-            author: "pelican-actor",
-            source: "https://commons.wikimedia.org/wiki/File:McLaren_Senna_GTR_LM.jpg"
+            src: "images/mclaren/650s-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Tokumeigakarinoaoshima",
+            source: "https://commons.wikimedia.org/wiki/File:The_frontview_of_McLaren_650S_Coup%C3%A9_(cropped).JPG"
+       },
+                             {
+            src: "images/mclaren/650s-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Tokumeigakarinoaoshima",
+            source: "https://commons.wikimedia.org/wiki/File:The_rearview_of_orange_McLaren_650S_Coup%C3%A9.jpg"
+       },
+                                        {
+            src: "images/mclaren/650s-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MCLAREN_650S_China.jpg"
+       },
+                                              {
+            src: "images/mclaren/650s-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:McLaren_650S_Spider_6.jpg"
        }
         ]
 
