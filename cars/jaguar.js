@@ -264,28 +264,22 @@ const jaguarCars = [
 
         images: [
             {
-                src: "images/jaguar/xj220conept-1.jpg",
-                license: "CC BY-SA 3.0",
-                author: "Morio",
-                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_front-right_Heritage_Motor_Centre,_Gaydon.jpg"
+                src: "images/jaguar/lightweightetype-1.jpg",
+                license: "CC BY-SA 4.0",
+                author: "MrWalkr",
+                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight_Competition_HCC24.jpg"
             },
             {
-                src: "images/jaguar/xj220conept-2.jpg",
-                license: "CC BY-SA 3.0",
-                author: "Morio",
-                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_rear_Heritage_Motor_Centre,_Gaydon.jpg"
+                src: "images/jaguar/lightweightetype-2.jpg",
+                license: "CC BY 2.0",
+                author: "Michel Curi",
+                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight.jpg"
             },
            {
-            src: "images/jaguar/xj220concet-3.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_top_Heritage_Motor_Centre,_Gaydon.jpg"
-        },
-        {
-            src: "images/jaguar/xj220oncept-4.jpg",
-            license: "CC BY 2.0",
-            author: "foshie",
-            source: "https://commons.wikimedia.org/wiki/File:Hideous_Jaguar_-_Flickr_-_foshie.jpg"
+            src: "images/jaguar/lightweightetype-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Kevin Decherf",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Lightweight_(18679810519).jpg"
         }
         ]
 
