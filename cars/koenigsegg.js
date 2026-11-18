@@ -1028,16 +1028,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/absout-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Koenigsegg_Jesko_Absolut.jpg"
-        },
-            {
-            src: "images/koenigsegg/absolu-2.jpg",
+            src: "images/koenigsegg/regera-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2025_Koenigsegg_Jesko_Absolut_7389_FOS25.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2019_Koenigsegg_Regera_LC23.jpg"
+        },
+            {
+            src: "images/koenigsegg/regera-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Regera_(81063).jpg"
+        },
+          {
+             src: "images/koenigsegg/regera-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Koenigsegg_Regera_LC24_Low.jpg"
         }
     ]
 
