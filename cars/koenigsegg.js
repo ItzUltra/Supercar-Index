@@ -976,16 +976,22 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/absout-1.jpg",
+            src: "images/koenigsegg/one1-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Koenigsegg_Jesko_Absolut.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2015_Koenigsegg_One1.jpg"
         },
             {
-            src: "images/koenigsegg/absolu-2.jpg",
+            src: "images/koenigsegg/one1-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2025_Koenigsegg_Jesko_Absolut_7389_FOS25.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2015_Koenigsegg_One1_(73192).jpg"
+        },
+             {
+            src: "images/koenigsegg/one1-3.jpg",
+            license: "CC BY 2.0",
+            author: "eduparise",
+            source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_One-1_-_Gen%C3%A8ve_2014_-_01.jpg"
         }
     ]
 
