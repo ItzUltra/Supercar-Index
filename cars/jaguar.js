@@ -204,28 +204,28 @@ const jaguarCars = [
 
         images: [
             {
-                src: "images/jaguar/xj220conept-1.jpg",
-                license: "CC BY-SA 3.0",
-                author: "Morio",
-                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_front-right_Heritage_Motor_Centre,_Gaydon.jpg"
+                src: "images/jaguar/etype-1.jpg",
+                license: "CC BY-SA 4.0",
+                author: "Calreyn88",
+                source: "https://commons.wikimedia.org/wiki/File:1962_Jaguar_E_Type.jpg"
             },
             {
-                src: "images/jaguar/xj220conept-2.jpg",
-                license: "CC BY-SA 3.0",
-                author: "Morio",
-                source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_rear_Heritage_Motor_Centre,_Gaydon.jpg"
+                src: "images/jaguar/etype-2.jpg",
+                license: "CC BY-SA 4.0",
+                author: "Calreyn88",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_(64295).jpg"
             },
            {
-            src: "images/jaguar/xj220concet-3.jpg",
+            src: "images/jaguar/etype-3.jpg",
             license: "CC BY-SA 3.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Jaguar_XJ220_top_Heritage_Motor_Centre,_Gaydon.jpg"
+            author: "Godot13",
+            source: "https://commons.wikimedia.org/wiki/File:Electric_Lightning_%26_Jaguar_(Cape_Town,_South_Africa,_2002).jpg"
         },
         {
-            src: "images/jaguar/xj220oncept-4.jpg",
-            license: "CC BY 2.0",
-            author: "foshie",
-            source: "https://commons.wikimedia.org/wiki/File:Hideous_Jaguar_-_Flickr_-_foshie.jpg"
+            src: "images/jaguar/etype-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "JoachimKohler-HB",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_E-type_roadster.jpg"
         }
         ]
 
