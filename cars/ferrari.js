@@ -734,6 +734,60 @@ const ferrariCars = [
 
    {
         brand: "Ferrari",
+        model: "512TR",
+
+        production: "1991-1994",
+        country: "Italy",
+
+        engine: "5l V12",
+        power: "428 hp",
+        torque: "491 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "314 km/h",
+
+        length: "4480 mm",
+        width: "1976 mm",
+        height: "1135 mm",
+
+        weight: "1473 kg",
+
+        productionCount: "2280",
+        price: "$180-300K",
+
+        location: "unknown",
+
+      description: "Awful facelift Testarossa",
+
+        images: [
+            {
+            src: "images/ferrari/45a-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_037.jpg"
+        },
+           {
+            src: "images/ferrari/48a-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_009.jpg"
+        },
+            {
+            src: "images/ferrari/45a-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_Aperta.jpg"
+        },
+        ]
+
+    },
+
+   
+   {
+        brand: "Ferrari",
         model: "735 S pininfarina Spyder",
 
         production: "1953-1954",
