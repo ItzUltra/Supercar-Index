@@ -758,7 +758,7 @@ const ferrariCars = [
         productionCount: "2280",
         price: "$180-300K",
 
-        location: "unknown",
+        location: "ByKolles Collection",
 
       description: "Awful facelift Testarossa",
 
@@ -812,7 +812,7 @@ const ferrariCars = [
         productionCount: "15",
         price: "$400-700K",
 
-        location: "unknown",
+        location: "ByKolles Collection",
 
       description: "Made for the 15tth anniversary of the Japanese importer Comes and Co., It was only available in Japan",
 
