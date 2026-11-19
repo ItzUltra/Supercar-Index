@@ -785,6 +785,60 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "512TR Speciale",
+
+        production: "1993-1994",
+        country: "Italy",
+
+        engine: "5l V12",
+        power: "428 hp",
+        torque: "491 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.8 s",
+        topSpeed: "314 km/h",
+
+        length: "4480 mm",
+        width: "1976 mm",
+        height: "1135 mm",
+
+        weight: "1473 kg",
+
+        productionCount: "15",
+        price: "$400-700K",
+
+        location: "unknown",
+
+      description: "Made for the 15tth anniversary of the Japanese importer Comes and Co., It was only available in Japan",
+
+        images: [
+            {
+            src: "images/ferrari/45a-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_037.jpg"
+        },
+           {
+            src: "images/ferrari/48a-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_009.jpg"
+        },
+            {
+            src: "images/ferrari/45a-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_Aperta.jpg"
+        },
+        ]
+
+    },
+
    
    {
         brand: "Ferrari",
