@@ -599,5 +599,59 @@ const nissanCars = [
     ]
 
     },
+
+
+   {
+        brand: "Nissan",
+        model: "Skyline 2000GT-R (KPGC110)",
+
+        production: "1973",
+        country: "Japan",
+
+        engine: "2l S20 inline-6",
+        power: "160 hp",
+        torque: "177 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "9 s",
+        topSpeed: "200 km/h",
+
+        length: "4460 mm",
+        width: "1695 mm",
+        height: "1380 mm",
+
+        weight: "1145 kg",
+
+        productionCount: "197",
+        price: "500K-1M",
+
+        location: "Nissan Heritage Collection Museum, Zama",
+
+       description: "2nd generation GT-R known as Kenmeri, Sadly they only built 197 of them because of the oil crisis",
+
+        images: [
+           {
+            src: "images/nissan/r30-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+        {
+            src: "images/nissan/r90-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+            {
+            src: "images/nissan/r90-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        }
+    ]
+
+    },
    
 ];
