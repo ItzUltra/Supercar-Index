@@ -764,23 +764,29 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/45a-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Thesupermat",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_037.jpg"
-        },
-           {
-            src: "images/ferrari/48a-2.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Thesupermat",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_009.jpg"
-        },
-            {
-            src: "images/ferrari/45a-3.jpg",
+            src: "images/ferrari/512tr-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_Aperta.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_Monaco_1.jpg"
         },
+           {
+            src: "images/ferrari/512tr-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Kev22",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Testarossa_512_TR_-_Coupe_Florio_2013_(arri%C3%A8re).jpg"
+        },
+            {
+            src: "images/ferrari/512tr-3.jpg",
+            license: "public domain",
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_2.JPG"
+        },
+            {
+            src: "images/ferrari/512tr-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_02.jpg"
+        }
         ]
 
     },
