@@ -1080,7 +1080,7 @@ const koenigseggCars = [
 
         images: [
           {
-            src: "images/koenigsegg/sadairspear-1.jpg",
+            src: "images/koenigsegg/sadairspears-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Saddairs_Spear.jpg"
