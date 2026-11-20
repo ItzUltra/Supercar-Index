@@ -822,26 +822,7 @@ const ferrariCars = [
 
       description: "Made for the 15tth anniversary of the Japanese importer Comes and Co., It was only available in Japan",
 
-        images: [
-            {
-            src: "images/ferrari/45a-1.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Thesupermat",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_037.jpg"
-        },
-           {
-            src: "images/ferrari/48a-2.jpg",
-            license: "CC BY-SA 3.0",
-            author: "Thesupermat",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_A_-_Mondial_de_l%27Automobile_de_Paris_2014_-_009.jpg"
-        },
-            {
-            src: "images/ferrari/45a-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_458_Speciale_Aperta.jpg"
-        },
-        ]
+        images: []
 
     },
 
