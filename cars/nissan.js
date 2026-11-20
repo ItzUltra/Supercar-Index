@@ -545,5 +545,59 @@ const nissanCars = [
     ]
 
     },
+
+
+   {
+        brand: "Nissan",
+        model: "Skyline 2000GT-R (PGC10)",
+
+        production: "1969-1970",
+        country: "Japan",
+
+        engine: "2l S20 inline-6",
+        power: "160 hp",
+        torque: "176 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "8 s",
+        topSpeed: "200 km/h",
+
+        length: "4395 mm",
+        width: "1665 mm",
+        height: "1370 mm",
+
+        weight: "1100 kg",
+
+        productionCount: "832",
+        price: "70-120K",
+
+        location: "unknown",
+
+       description: "4 door Hakosuka",
+
+        images: [
+           {
+            src: "images/nissan/r30-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+        {
+            src: "images/nissan/r90-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+            {
+            src: "images/nissan/r90-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        }
+    ]
+
+    },
    
 ];
