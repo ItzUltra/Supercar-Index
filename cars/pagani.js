@@ -1479,28 +1479,22 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/utopar-1.jpg",
+            src: "images/pagani/zonda/zondaf-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_F.jpg"
         },
         {
-            src: "images/pagani/utopar-2.jpg",
+            src: "images/pagani/zonda/zondaf-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
+            author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
         },
            {
-            src: "images/pagani/uopia-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
-        },
-            {
-            src: "images/pagani/utopir-4.jpg",
+            src: "images/pagani/zonda/zondaf-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2007_Pagani_Zonda_F_DKEng.jpg"
         }
     ]
 
