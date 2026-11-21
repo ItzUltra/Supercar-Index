@@ -915,22 +915,16 @@ const porscheCars = [
 
         images: [
            {
-            src: "images/porsche/911g2rs-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
-        },
-        {
-            src: "images/porsche/91gt2rs-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
-        },
-        {
-            src: "images/porsche/91gt2rs-3.jpg",
+            src: "images/porsche/tagturbo-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_930_TAG_Turbo.jpg"
+        },
+        {
+            src: "images/porsche/tagturbo-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_TAG_Turbo_by_Lanzante_FOS22.jpg"
         }
     ]
 
@@ -967,26 +961,7 @@ const porscheCars = [
 
       description: "A wilder track version of the TAG Turbo",
 
-        images: [
-           {
-            src: "images/porsche/911g2rs-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
-        },
-        {
-            src: "images/porsche/91gt2rs-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
-        },
-        {
-            src: "images/porsche/91gt2rs-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
-        }
-    ]
+        images: []
 
     },
 
