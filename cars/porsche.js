@@ -807,22 +807,22 @@ const porscheCars = [
 
         images: [
            {
-            src: "images/porsche/997/911gt2-1.jpg",
-            license: "CC BY 2.0",
-            author: "nakhon100",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT2_(5042447381).jpg"
-        },
-        {
-            src: "images/porsche/997/911gt2-2.jpg",
-            license: "CC BY 2.0",
-            author: "nakhon100",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_(997)_GT2_(14515229965).jpg"
-        },
-        {
-            src: "images/porsche/997/911gt2-3.jpg",
+            src: "images/porsche/993/993gt2-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2008_Porsche_911_GT2.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT2_993.jpg"
+        },
+        {
+            src: "images/porsche/993/993gt2-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_993_GT2_(64083).jpg"
+        },
+        {
+            src: "images/porsche/993/993gt2-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_993_GT2_Clubsport_Classic-Gala_2021_1X7A0069.jpg"
         }
     ]
 
