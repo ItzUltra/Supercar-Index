@@ -641,19 +641,19 @@ const porscheCars = [
             source: "https://commons.wikimedia.org/wiki/File:1973_Porsche_911_Carrera_RS_2.7_Lightweight.jpg"
         },
         {
-            src: "images/porsche/964/carrerrs27-2.jpg",
+            src: "images/porsche/964/carrerars27-2.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:1972_Porsche_911_Carrera_RS_2.7_HCC23.jpg"
         },
         {
-            src: "images/porsche/964/carrears27-3.jpg",
+            src: "images/porsche/964/carrerars27-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:1972_Porsche_911_Carrera_RS_2.7.jpg"
 },
            {
-            src: "images/porsche/964/carrerrs27-4.jpg",
+            src: "images/porsche/964/carrerars27-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:1973_Porsche_911_Carrera_RS_2.7_Rally_Car.jpg" 
