@@ -1389,28 +1389,16 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/utopar-1.jpg",
+            src: "images/pagani/cinque-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
+            author: "Y.Leclercq©",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_Cinque_(2019).jpg"
         },
         {
-            src: "images/pagani/utopar-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
-        },
-           {
-            src: "images/pagani/uopia-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
-        },
-            {
-            src: "images/pagani/utopir-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
+            src: "images/pagani/cinque-2.jpg",
+            license: "CC BY 2.0",
+            author: "Matthias",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_Cinque_(3353920151).jpg"
         }
     ]
 
@@ -1449,28 +1437,10 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/utopar-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
-        },
-        {
-            src: "images/pagani/utopar-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
-        },
-           {
-            src: "images/pagani/uopia-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
-        },
-            {
-            src: "images/pagani/utopir-4.jpg",
+            src: "images/pagani/cinque-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2010_Pagani_Zonda_Cinque_Roadster_SCD26.jpg"
         }
     ]
 
