@@ -1256,7 +1256,7 @@ const paganiCars = [
         production:  "1999-2000",
         country: "Italy",
 
-        engine: "6l Mercedes M120 V12",
+        engine: "6l Mercedes-AMG V12",
         power: "394 hp",
         torque: "570 Nm",
 
@@ -1308,5 +1308,64 @@ const paganiCars = [
 
     },
 
+
+   {
+        brand: "Pagani",
+        model: "Zonda C12 S Monza",
+
+        production:  "2004",
+        country: "Italy",
+
+        engine: "7.3l Mercedes-AMG V12",
+        power: "600 hp",
+        torque: "786 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "346 km/h",
+
+        length: "4395 mm",
+        width: "2055 mm",
+        height: "1151 mm",
+
+        weight: "unknown",
+
+        productionCount: "1",
+        price: "$1.2M",
+
+        location: "unknown",
+
+      description: "Someone ordered a racing Zonda C12",
+
+        images: [
+           {
+            src: "images/pagani/utopar-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
+        },
+        {
+            src: "images/pagani/utopar-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
+        },
+           {
+            src: "images/pagani/uopia-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
+        },
+            {
+            src: "images/pagani/utopir-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
+        }
+    ]
+
+    },
    
    ];
