@@ -1301,7 +1301,7 @@ const paganiCars = [
             {
             src: "images/pagani/zondac12-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
+            author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2003_Pagani_Zonda_C12_S.jpg"
         }
     ]
