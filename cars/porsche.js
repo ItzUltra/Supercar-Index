@@ -768,6 +768,60 @@ const porscheCars = [
     },
 
 
+    {
+        brand: "Porsche",
+        model: "911 TAG Turbo by Lazante",
+
+        production: "2018-",
+        country: "Germany-UK",
+
+        engine: "1.5l twinturbo Porsche TAG TTE P01 V6",
+        power: "503 hp",
+        torque: "420 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "320 km/h",
+
+        length: "4250 mm",
+        width: "1650 mm",
+        height: "1320 mm",
+
+        weight: "1100 kg",
+
+        productionCount: "11",
+        price: "$1M",
+
+        location: "The Keybridge Collection",
+
+      description: "A Porsche 930 Turbo with a TAG Formula1 engine made by Lazante",
+
+        images: [
+           {
+            src: "images/porsche/911g2rs-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
+        },
+        {
+            src: "images/porsche/91gt2rs-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
+        },
+        {
+            src: "images/porsche/91gt2rs-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
+        }
+    ]
+
+    },
+
+   
    {
         brand: "Porsche",
         model: "917K",
