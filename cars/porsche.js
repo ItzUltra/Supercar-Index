@@ -602,6 +602,65 @@ const porscheCars = [
 
     },
 
+
+   {
+        brand: "Porsche",
+        model: "911 Carrera gt 2.7",
+
+        production: "1972-1973",
+        country: "Germany",
+
+        engine: "2.6l inline-6 boxer",
+        power: "210 hp",
+        torque: "255 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5.8 s",
+        topSpeed: "245 km/h",
+
+        length: "4290 mm",
+        width: "1650 mm",
+        height: "1270 mm",
+
+        weight: "960 kg",
+
+        productionCount: "1580",
+        price: "$350-700K",
+
+        location: "The Keybridge Collection",
+
+
+        images: [
+           {
+            src: "images/porsche/992/carrragts992-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_(992)_Carrera_GTS.jpg"
+        },
+        {
+            src: "images/porsche/992/carrergts992-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Porsche_911_Carrera_GTS_Rear.jpg"
+        },
+        {
+            src: "images/porsche/992/carreagts992-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Damian B Oh",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_911_Carrera_4_GTS_Convertible_Crayon_(5).jpg"
+},
+           {
+            src: "images/porsche/992/carrergts992-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2022_Porsche_911_992_Carrera_GTS.jpg" 
+        },
+    ]
+
+    },
+
    
    {
         brand: "Porsche",
