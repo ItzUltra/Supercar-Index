@@ -821,6 +821,60 @@ const porscheCars = [
 
     },
 
+
+   {
+        brand: "Porsche",
+        model: "911 TAG Turbo Championship by Lazante",
+
+        production: "2024-",
+        country: "Germany-UK",
+
+        engine: "1.5l twinturbo Porsche TAG TTE P01 V6",
+        power: "616 hp",
+        torque: "650 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "3 s",
+        topSpeed: "320 km/h",
+
+        length: "4250 mm",
+        width: "1650 mm",
+        height: "1320 mm",
+
+        weight: "920 kg",
+
+        productionCount: "3",
+        price: "$1.5M",
+
+        location: "The Keybridge Collection",
+
+      description: "A wilder track version of the TAG Turbo",
+
+        images: [
+           {
+            src: "images/porsche/911g2rs-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(43273).jpg"
+        },
+        {
+            src: "images/porsche/91gt2rs-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_(32575).jpg"
+        },
+        {
+            src: "images/porsche/91gt2rs-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Porsche_911_GT2_RS_SCD24.jpg"
+        }
+    ]
+
+    },
+
    
    {
         brand: "Porsche",
