@@ -1341,28 +1341,16 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/utopar-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
+            src: "images/pagani/c12monza-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Pagani_Zonda_C12_S_7.3_Monza,_front_left_(Miller).jpg"
         },
         {
-            src: "images/pagani/utopar-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
-        },
-           {
-            src: "images/pagani/uopia-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
-        },
-            {
-            src: "images/pagani/utopir-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
+            src: "images/pagani/c12monza-2.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2004_Pagani_Zonda_C12_S_7.3_Monza,_rear_right_(Miller).jpg"
         }
     ]
 
