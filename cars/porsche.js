@@ -631,6 +631,7 @@ const porscheCars = [
 
         location: "The Keybridge Collection",
 
+      description: "Homoligisation car for the Gropu 4 GT",
 
         images: [
            {
@@ -773,6 +774,61 @@ const porscheCars = [
 
     },
 
+
+   {
+        brand: "Porsche",
+        model: "911 GT2 (993)",
+
+        production: "1995-1998",
+        country: "Germany",
+
+        engine: "3.6l twinturbo flat-six boxer",
+        power: "430 hp",
+        torque: "540 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.4 s",
+        topSpeed: "295 km/h",
+
+        length: "4245 mm",
+        width: "1860 mm",
+        height: "1270 mm",
+
+        weight: "1290 kg",
+
+        productionCount: "194",
+        price: "$1.2-2M",
+
+        location: "The Keybridge Collection",
+
+      description: "One of the fist GT2s, Originally it was a homologisation car for GT races",
+
+        images: [
+           {
+            src: "images/porsche/997/911gt2-1.jpg",
+            license: "CC BY 2.0",
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_GT2_(5042447381).jpg"
+        },
+        {
+            src: "images/porsche/997/911gt2-2.jpg",
+            license: "CC BY 2.0",
+            author: "nakhon100",
+            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_(997)_GT2_(14515229965).jpg"
+        },
+        {
+            src: "images/porsche/997/911gt2-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2008_Porsche_911_GT2.jpg"
+        }
+    ]
+
+    },
+
+   
    {
         brand: "Porsche",
         model: "911 GT2 RS",
