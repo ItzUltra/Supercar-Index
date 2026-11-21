@@ -1281,28 +1281,28 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/utopar-1.jpg",
+            src: "images/pagani/zondac12-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5539.jpg"
         },
         {
-            src: "images/pagani/utopar-2.jpg",
+            src: "images/pagani/zondac12-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Alexander-93",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5380.jpg"
         },
            {
-            src: "images/pagani/uopia-3.jpg",
+            src: "images/pagani/zondac12-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5463.jpg"
         },
             {
-            src: "images/pagani/utopir-4.jpg",
+            src: "images/pagani/zondac12-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:2003_Pagani_Zonda_C12_S.jpg"
         }
     ]
 
