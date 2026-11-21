@@ -1428,5 +1428,65 @@ const paganiCars = [
 
     },
 
+
+   {
+        brand: "Pagani",
+        model: "Zonda Cinque Roadster",
+
+        production:  "2009-2010",
+        country: "Italy",
+
+        engine: "7.3l Mercedes-AMG V12",
+        power: "678 hp",
+        torque: "780 Nm",
+
+        transmission: "6-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "3.4 s",
+        topSpeed: "350 km/h",
+
+        length: "4435 mm",
+        width: "2055 mm",
+        height: "1141 mm",
+
+        weight: "1210 kg",
+
+        productionCount: "5",
+        price: "$15-28M",
+
+        location: "Museo E atelier Pagani, San Cesario Sul Panaro",
+
+      description: "I wonder what is this",
+
+        images: [
+           {
+            src: "images/pagani/utopar-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6390.jpg"
+        },
+        {
+            src: "images/pagani/utopar-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg"
+        },
+           {
+            src: "images/pagani/uopia-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA1014).jpg"
+        },
+            {
+            src: "images/pagani/utopir-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_Roadster_FOS25.jpg"
+        }
+    ]
+
+    },
+
    
    ];
