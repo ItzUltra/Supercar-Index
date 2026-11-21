@@ -1281,25 +1281,25 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/zondac12-1.jpg",
+            src: "images/pagani/zonda/zondac12-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5539.jpg"
         },
         {
-            src: "images/pagani/zondac12-2.jpg",
+            src: "images/pagani/zonda/zondac12-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5380.jpg"
         },
            {
-            src: "images/pagani/zondac12-3.jpg",
+            src: "images/pagani/zonda/zondac12-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Alexander Migl",
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5463.jpg"
         },
             {
-            src: "images/pagani/zondac12-4.jpg",
+            src: "images/pagani/zonda/zondac12-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2003_Pagani_Zonda_C12_S.jpg"
@@ -1341,13 +1341,13 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/c12monza-1.jpg",
+            src: "images/pagani/zonda/c12monza-1.jpg",
             license: "CC BY-SA 3.0",
             author: "Mr.choppers",
             source: "https://commons.wikimedia.org/wiki/File:2004_Pagani_Zonda_C12_S_7.3_Monza,_front_left_(Miller).jpg"
         },
         {
-            src: "images/pagani/c12monza-2.jpg",
+            src: "images/pagani/zonda/c12monza-2.jpg",
             license: "CC BY-SA 3.0",
             author: "Mr.choppers",
             source: "https://commons.wikimedia.org/wiki/File:2004_Pagani_Zonda_C12_S_7.3_Monza,_rear_right_(Miller).jpg"
@@ -1389,13 +1389,13 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/cinque-1.jpg",
+            src: "images/pagani/zonda/cinque-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Y.Leclercq©",
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_Cinque_(2019).jpg"
         },
         {
-            src: "images/pagani/cinque-2.jpg",
+            src: "images/pagani/zonda/cinque-2.jpg",
             license: "CC BY 2.0",
             author: "Matthias",
             source: "https://commons.wikimedia.org/wiki/File:Pagani_Zonda_Cinque_(3353920151).jpg"
@@ -1437,7 +1437,7 @@ const paganiCars = [
 
         images: [
            {
-            src: "images/pagani/cinque-3.jpg",
+            src: "images/pagani/zonda/cinque-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
             source: "https://commons.wikimedia.org/wiki/File:2010_Pagani_Zonda_Cinque_Roadster_SCD26.jpg"
