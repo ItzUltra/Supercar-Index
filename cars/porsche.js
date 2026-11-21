@@ -605,7 +605,7 @@ const porscheCars = [
 
    {
         brand: "Porsche",
-        model: "911 Carrera gt 2.7",
+        model: "911 Carrera RS 2.7",
 
         production: "1972-1973",
         country: "Germany",
@@ -631,32 +631,32 @@ const porscheCars = [
 
         location: "The Keybridge Collection",
 
-      description: "Homoligisation car for the Gropu 4 GT",
+      description: "Homoligisation car for the Group 4 GT",
 
         images: [
            {
-            src: "images/porsche/992/carrragts992-1.jpg",
+            src: "images/porsche/964/carrerars27-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_911_(992)_Carrera_GTS.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1973_Porsche_911_Carrera_RS_2.7_Lightweight.jpg"
         },
         {
-            src: "images/porsche/992/carrergts992-2.jpg",
+            src: "images/porsche/964/carrerrs27-2.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2021_Porsche_911_Carrera_GTS_Rear.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1972_Porsche_911_Carrera_RS_2.7_HCC23.jpg"
         },
         {
-            src: "images/porsche/992/carreagts992-3.jpg",
+            src: "images/porsche/964/carrears27-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Damian B Oh",
-            source: "https://commons.wikimedia.org/wiki/File:Porsche_992_911_Carrera_4_GTS_Convertible_Crayon_(5).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1972_Porsche_911_Carrera_RS_2.7.jpg"
 },
            {
-            src: "images/porsche/992/carrergts992-4.jpg",
+            src: "images/porsche/964/carrerrs27-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2022_Porsche_911_992_Carrera_GTS.jpg" 
+            source: "https://commons.wikimedia.org/wiki/File:1973_Porsche_911_Carrera_RS_2.7_Rally_Car.jpg" 
         },
     ]
 
