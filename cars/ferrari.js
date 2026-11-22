@@ -719,22 +719,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/250/250/250berlinett-1.jpg",
+            src: "images/ferrari/250/250/250berlinettacomp-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_Berlinetta_SWB_LC23.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1960_Ferrari_250_GT_SWB_Berlinetta_Competizione_2021_GT.jpg"
         },
            {
-            src: "images/ferrari/250/250berlinett-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Ank Kumar",
-            source: "https://commons.wikimedia.org/wiki/File:1962_FERRARI_250_GT_SWB_COUPE_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_01.jpg"
+            src: "images/ferrari/250/250berlinettacomp-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "trecca",
+            source: "https://commons.wikimedia.org/wiki/File:1960_Ferrari_250_GT_SWB_Berlinetta_Competizione_by_Scaglietti_(18039045111).jpg"
         },
             {
-            src: "images/ferrari/250/250berlinett-3.jpg",
+            src: "images/ferrari/250/250berlinettacomp-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_Berlinetta_SWB_HCC24.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1961_Ferrari_250_GT_Berlinetta_SWB_Competizione.jpg"
         }
         ]
 
