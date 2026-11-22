@@ -687,6 +687,60 @@ const ferrariCars = [
     },
 
 
+    {
+        brand: "Ferrari",
+        model: "250 SWB Berlinetta Competizione",
+
+        production: "1959-1963",
+        country: "Italy",
+
+        engine: "3l Tipo 168/72 V12",
+        power: "280 hp",
+        torque: "275 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "6.5 s",
+        topSpeed: "260 km/h",
+
+        length: "4150 mm",
+        width: "1690 mm",
+        height: "1260 mm",
+
+        weight: "950 kg",
+
+        productionCount: "73",
+        price: "$8-15M",
+
+        location: "M24-Museé Du Sport Automobile, Le Mans",
+
+    description: "SWB Berlinetta race car",
+
+        images: [
+            {
+            src: "images/ferrari/250/250/250berlinett-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_Berlinetta_SWB_LC23.jpg"
+        },
+           {
+            src: "images/ferrari/250/250berlinett-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:1962_FERRARI_250_GT_SWB_COUPE_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_01.jpg"
+        },
+            {
+            src: "images/ferrari/250/250berlinett-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_Berlinetta_SWB_HCC24.jpg"
+        }
+        ]
+
+    },
+
+   
  {
         brand: "Ferrari",
         model: "296 GTS",
