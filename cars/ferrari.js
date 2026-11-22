@@ -1665,13 +1665,13 @@ const ferrariCars = [
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_Monza_SP2_2.jpg"
         },
             {
-            src: "images/ferrari/f1tdf-2.jpg",
+            src: "images/ferrari/sp2-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:Ferrari_Monza_SP2_(58901).jpg"
         },
             {
-            src: "images/ferrari/f12tf-3.jpg",
+            src: "images/ferrari/sp2-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2020_Ferrari_Monza_SP2.jpg"
