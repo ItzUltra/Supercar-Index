@@ -572,6 +572,61 @@ const ferrariCars = [
 
     },
 
+
+    {
+        brand: "Ferrari",
+        model: "250 GTO",
+
+        production: "1962-1964",
+        country: "Italy",
+
+        engine: "3l Tipo 168/72 V12",
+        power: "300 hp",
+        torque: "294 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "6.1 s",
+        topSpeed: "280 km/h",
+
+        length: "4325 mm",
+        width: "1600 mm",
+        height: "1210 mm",
+
+        weight: "880 kg",
+
+        productionCount: "36",
+        price: "$50-70M",
+
+        location: "The Keybridge Collection",
+
+    description: "Made for homologisation to GT, Won the international GT tournament 3 times in a row (1962,1963,1964), The world's second most expensive car",
+
+        images: [
+            {
+            src: "images/ferrari/296gs-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_6989.jpg"
+        },
+           {
+            src: "images/ferrari/296ts-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_7001.jpg"
+        },
+            {
+            src: "images/ferrari/296gs-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTS_4.jpg"
+        },
+        ]
+
+    },
+
+
  {
         brand: "Ferrari",
         model: "296 GTS",
