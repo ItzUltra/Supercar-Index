@@ -605,23 +605,29 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/296gs-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_6989.jpg"
-        },
-           {
-            src: "images/ferrari/296ts-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_296_GTS_DSC_7001.jpg"
-        },
-            {
-            src: "images/ferrari/296gs-3.jpg",
+            src: "images/ferrari/250/250gto-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTS_4.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1964_Ferrari_250_GTO_1.jpg"
         },
+           {
+            src: "images/ferrari/250/250gto-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Prova MO",
+            source: "https://commons.wikimedia.org/wiki/File:250_GTO_4757GT_rear_at_Quail_2023.jpg"
+        },
+            {
+            src: "images/ferrari/250/250gto-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Andrea Volpato",
+            source: "https://commons.wikimedia.org/wiki/File:2004-10-31_Monza_Ferrari_250_GTO_4757GT_4153GT.jpg"
+        },
+              {
+            src: "images/ferrari/250/250gto-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GTO_HCC23.jpg"
+        }
         ]
 
     },
