@@ -1271,7 +1271,67 @@ const ferrariCars = [
 
     },
 
-   
+
+   {
+        brand: "Ferrari",
+        model: "599XX",
+
+        production: "2009-2010",
+        country: "Italy",
+
+        engine: "6l V12",
+        power: "730 hp",
+        torque: "700 Nm",
+
+        transmission: "6-speed F1",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "315 km/h",
+
+        length: "4810 mm",
+        width: "1960 mm",
+        height: "1283 mm",
+
+        weight: "1345 kg",
+
+        productionCount: "45",
+        price: "$1.5M",
+
+        location: "The Keybridge Collection",
+
+      description: "First XX program car, Track only 599",
+
+        images: [
+            {
+            src: "images/ferrari/52tr-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_Monaco_1.jpg"
+        },
+           {
+            src: "images/ferrari/51tr-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Kev22",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Testarossa_512_TR_-_Coupe_Florio_2013_(arri%C3%A8re).jpg"
+        },
+            {
+            src: "images/ferrari/512r-3.jpg",
+            license: "public domain",
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_2.JPG"
+        },
+            {
+            src: "images/ferrari/512r-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_02.jpg"
+        }
+        ]
+
+    },
+
+
    {
         brand: "Ferrari",
         model: "735 S pininfarina Spyder",
