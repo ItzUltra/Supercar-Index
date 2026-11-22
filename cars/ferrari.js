@@ -1304,28 +1304,16 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/52tr-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_Monaco_1.jpg"
+            src: "images/ferrari/599xx-1.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ian Leech",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_599XX_Evo_no._59.jpg"
         },
            {
-            src: "images/ferrari/51tr-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Kev22",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Testarossa_512_TR_-_Coupe_Florio_2013_(arri%C3%A8re).jpg"
-        },
-            {
-            src: "images/ferrari/512r-3.jpg",
-            license: "public domain",
-            author: "Arnaud 25",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_2.JPG"
-        },
-            {
-            src: "images/ferrari/512r-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Arnaud 25",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_02.jpg"
+            src: "images/ferrari/599xx-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Ian Leech",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_599XX_no._93.jpg"
         }
         ]
 
