@@ -92,7 +92,7 @@ const peugeotCars = [
             source: "https://commons.wikimedia.org/wiki/File:Peugeot_205_Turbo_16_-_Race_Retro_2008_02.jpg"
         },
         {
-            src: "images/french/205.jpg",
+            src: "images/french/205-4.jpg",
             license: "CC BY-SA 3.0",
             author: "Arnaud 25",
             source: "https://commons.wikimedia.org/wiki/File:Peugeot_205_Turbo_16_Dakar_01.JPG"
