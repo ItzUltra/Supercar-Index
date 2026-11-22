@@ -1599,22 +1599,28 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/f12tf-1.jpg",
+            src: "images/ferrari/sp1-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12_TDF_12.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Monza_SP1,_Paris_Motor_Show_2018,_IMG_0643.jpg"
         },
             {
-            src: "images/ferrari/f1tdf-2.jpg",
+            src: "images/ferrari/sp1-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12TDF.jpg"
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Monza_SP1,_Paris_Motor_Show_2018,_IMG_0363.jpg"
         },
             {
-            src: "images/ferrari/f12tf-3.jpg",
+            src: "images/ferrari/sp1-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12_TDF_13.jpg"
+            author: "Kgbo",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Monza_SP1_at_the_Museo_Enzo_Ferrari,_Modena,_Italy,_2019,_02.jpg"
+        },
+             {
+            src: "images/ferrari/sp1-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Thesupermat",
+            source: "https://commons.wikimedia.org/wiki/File:Festival_automobile_international_2019_-_Ferrari_Monza_SP1_-_003.jpg"
         }
         ]
 
