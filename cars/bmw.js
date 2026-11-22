@@ -96,7 +96,7 @@ const bmwCars = [
             source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M3_CS_xDrive_Auto_1.jpg"
         },
         {
-            src: "images/bmw/m23cs-2.jpg",
+            src: "images/bmw/m3cs-2.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2024_BMW_M3_CS_xDrive_Auto_9.jpg"
@@ -108,7 +108,7 @@ const bmwCars = [
             source: "https://commons.wikimedia.org/wiki/File:2025_BMW_M3_CS_BS_A26.jpg"
         },
          {
-            src: "images/bmw/m23cs-4.jpg",
+            src: "images/bmw/m3cs-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2023_BMW_M3_CS_xDrive_Auto_1.jpg"
