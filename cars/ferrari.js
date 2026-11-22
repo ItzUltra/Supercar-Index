@@ -1244,28 +1244,28 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/52tr-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_Monaco_1.jpg"
+            src: "images/ferrari/599gto-1.jpg",
+            license: "CC BY 2.0",
+            author: "richard",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_599_festival_of_speed_2010.jpg"
         },
            {
-            src: "images/ferrari/51tr-2.jpg",
+            src: "images/ferrari/599gto-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Kev22",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Testarossa_512_TR_-_Coupe_Florio_2013_(arri%C3%A8re).jpg"
+            author: "Hendelsgeselschaft",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_599_GTO,_Pau_2015_(3).jpg"
         },
             {
-            src: "images/ferrari/512r-3.jpg",
-            license: "public domain",
-            author: "Arnaud 25",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_2.JPG"
+            src: "images/ferrari/599gto-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_599_GTO_Carugati_2.jpg"
         },
             {
-            src: "images/ferrari/512r-4.jpg",
+            src: "images/ferrari/599gto-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Arnaud 25",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_02.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2011_Ferrari_599_GTO_sp25.j"
         }
         ]
 
