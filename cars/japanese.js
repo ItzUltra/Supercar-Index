@@ -118,7 +118,7 @@ const lexusCars = [
             source: "https://commons.wikimedia.org/wiki/File:White_Lexus_LFA_side.jpg"
         },
         {
-            src: "images/japanese/nsx2-3.jpg",
+            src: "images/japanese/lfa-3.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
             source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
