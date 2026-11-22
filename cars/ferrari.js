@@ -633,6 +633,66 @@ const ferrariCars = [
     },
 
 
+    {
+        brand: "Ferrari",
+        model: "250 SWB Berlinetta",
+
+        production: "1959-1963",
+        country: "Italy",
+
+        engine: "3l Tipo 168/72 V12",
+        power: "280 hp",
+        torque: "275 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "6.5 s",
+        topSpeed: "268 km/h",
+
+        length: "4150 mm",
+        width: "1690 mm",
+        height: "1260 mm",
+
+        weight: "1100 kg",
+
+        productionCount: "165",
+        price: "$8-18M",
+
+        location: "The Keybridge Collection",
+
+    description: "Berlinetta with shorter wheel base (SWB)",
+
+        images: [
+            {
+            src: "images/ferrari/250/25gto-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1964_Ferrari_250_GTO_1.jpg"
+        },
+           {
+            src: "images/ferrari/250/20gto-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Prova MO",
+            source: "https://commons.wikimedia.org/wiki/File:250_GTO_4757GT_rear_at_Quail_2023.jpg"
+        },
+            {
+            src: "images/ferrari/250/50gto-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Andrea Volpato",
+            source: "https://commons.wikimedia.org/wiki/File:2004-10-31_Monza_Ferrari_250_GTO_4757GT_4153GT.jpg"
+        },
+              {
+            src: "images/ferrari/250/250go-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GTO_HCC23.jpg"
+        }
+        ]
+
+    },
+
+
  {
         brand: "Ferrari",
         model: "296 GTS",
