@@ -877,7 +877,67 @@ const ferrariCars = [
 
         location: "Mogam, Catania",
 
-    description: "Originally wanted to be a Group B rally car,  The fisrt car of the legend series",
+    description: "Originally wanted to be a Group B race car,  The fisrt car of the legend series",
+
+        images: [
+            {
+            src: "images/ferrari/288gto-1.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_(1985)_(52454701314).jpg"
+        },
+           {
+            src: "images/ferrari/288gto-2.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_(1985)_(52454884745).jpg"
+        },
+            {
+            src: "images/ferrari/288gto-3.jpg",
+            license: "CC BY 2.0",
+            author: "Rahil Rupawala",
+            source: "https://commons.wikimedia.org/wiki/File:DSC_5053_(17963996709).jpg"
+        },
+             {
+            src: "images/ferrari/288gto-4.jpg",
+            license: "CC BY.SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1984_Ferrari_288_GTO_HCC25.jpg"
+        }
+        ]
+
+    },
+
+
+   {
+        brand: "Ferrari",
+        model: "288 GTO Evoluzione",
+
+        production: "1986",
+        country: "Italy",
+
+        engine: "2.9l V8",
+        power: "650 hp",
+        torque: "700 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4 s",
+        topSpeed: "370 km/h",
+
+        length: "4290 mm",
+        width: "1910 mm",
+        height: "1120 mm",
+
+        weight: "1160 kg",
+
+        productionCount: "6",
+        price: "$9M",
+
+        location: "Museo Ferrari Maranello, Maranello",
+
+    description: "The real 288 Group B race car, Voted one of the ugliest ferrari",
 
         images: [
             {
