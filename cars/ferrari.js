@@ -848,6 +848,60 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "288 GTO",
+
+        production: "1984-1985",
+        country: "Italy",
+
+        engine: "2.9l V8",
+        power: "400 hp",
+        torque: "496 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.9 s",
+        topSpeed: "305 km/h",
+
+        length: "4290 mm",
+        width: "1910 mm",
+        height: "1120 mm",
+
+        weight: "1160 kg",
+
+        productionCount: "272",
+        price: "$5-7M",
+
+        location: "Mogam, Catania",
+
+    description: "Originally wanted to be a Group B rally car,  The fisrt car of the legend series",
+
+        images: [
+            {
+            src: "images/ferrari/275gt4-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_04.jpg"
+        },
+           {
+            src: "images/ferrari/275tb4-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_01.jpg"
+        },
+            {
+            src: "images/ferrari/275gt4-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_HCC24.jpg"
+        }
+        ]
+
+    },
+
    
  {
         brand: "Ferrari",
