@@ -827,22 +827,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/250/250calispyder-1.jpg",
+            src: "images/ferrari/275gtb4-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Herranderssvensson",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_California_Spyder_fr.jpg"
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_04.jpg"
         },
            {
-            src: "images/ferrari/250/250calispyder-2.jpg",
+            src: "images/ferrari/275gtb4-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Herranderssvensson",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_California_Spyder_rr.jpg"
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_01.jpg"
         },
             {
-            src: "images/ferrari/250/250calispyder-3.jpg",
+            src: "images/ferrari/275gtb4-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_California_SWB_HCC25.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_HCC24.jpg"
         }
         ]
 
