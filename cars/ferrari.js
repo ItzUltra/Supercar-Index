@@ -773,22 +773,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/250/250/250berlinettacom-1.jpg",
+            src: "images/ferrari/250/250/250calispyder-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1960_Ferrari_250_GT_SWB_Berlinetta_Competizione_2021_GT.jpg"
+            author: "Herranderssvensson",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_California_Spyder_fr.jpg"
         },
            {
-            src: "images/ferrari/250/250berlinettacom-2.jpg",
-            license: "CC BY-SA 2.0",
-            author: "trecca",
-            source: "https://commons.wikimedia.org/wiki/File:1960_Ferrari_250_GT_SWB_Berlinetta_Competizione_by_Scaglietti_(18039045111).jpg"
+            src: "images/ferrari/250/250calispyder-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Herranderssvensson",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_California_Spyder_rr.jpg"
         },
             {
-            src: "images/ferrari/250/250berlinettacom-3.jpg",
+            src: "images/ferrari/250/250calispyder-3.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1961_Ferrari_250_GT_Berlinetta_SWB_Competizione.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_California_SWB_HCC25.jpg"
         }
         ]
 
