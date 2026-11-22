@@ -1566,6 +1566,60 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "Monza SP1",
+
+        production: "2018-2022",
+        country: "Italy",
+
+        engine: "6.5l V12",
+        power: "810 hp",
+        torque: "719 Nm",
+
+        transmission: "7-speed F1",
+        drivetrain: "RWD",
+
+        acceleration: "2.9 s",
+        topSpeed: "300 km/h",
+
+        length: "4657 mm",
+        width: "1996 mm",
+        height: "1155 mm",
+
+        weight: "1500 kg",
+
+        productionCount: "150",
+        price: "$3.5-3.8M",
+
+        location: "Das Nationale Automuseum, Dietzhölztal",
+
+       description: "1 seater Monza that is inspire by 750 Monza, Part of the Icona series",
+
+        images: [
+            {
+            src: "images/ferrari/f12tf-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12_TDF_12.jpg"
+        },
+            {
+            src: "images/ferrari/f1tdf-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12TDF.jpg"
+        },
+            {
+            src: "images/ferrari/f12tf-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_F12_TDF_13.jpg"
+        }
+        ]
+
+    },
+
    
    {
         brand: "Ferrari",
