@@ -238,7 +238,7 @@ const gordonmurrayautomotivesCars = [
             source: "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_T50S_Niki_Lauda.jpg"
         },
         {
-            src: "images/british/big/nikilauda-2.jpg",
+            src: "images/british/big/nikilauda-3.jpg",
             license: "CC BY 2.0",
             author: "Michele Borioli",
             source: "https://commons.wikimedia.org/wiki/File:Goodwood_edited-62_(53863543885).jpg"
