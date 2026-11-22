@@ -1211,6 +1211,66 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "599 GTO",
+
+        production: "2010-2011",
+        country: "Italy",
+
+        engine: "6l V12",
+        power: "670 hp",
+        torque: "620 Nm",
+
+        transmission: "6-speed F1",
+        drivetrain: "RWD",
+
+        acceleration: "3.35 s",
+        topSpeed: "335 km/h",
+
+        length: "4710 mm",
+        width: "1962 mm",
+        height: "1326 mm",
+
+        weight: "1495 kg",
+
+        productionCount: "599",
+        price: "$320K",
+
+        location: "Das Nationale Automuseum, Dietzhölztal",
+
+      description: "599XX as a road car",
+
+        images: [
+            {
+            src: "images/ferrari/52tr-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_Monaco_1.jpg"
+        },
+           {
+            src: "images/ferrari/51tr-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Kev22",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_Testarossa_512_TR_-_Coupe_Florio_2013_(arri%C3%A8re).jpg"
+        },
+            {
+            src: "images/ferrari/512r-3.jpg",
+            license: "public domain",
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_2.JPG"
+        },
+            {
+            src: "images/ferrari/512r-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Arnaud 25",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_512_TR_02.jpg"
+        }
+        ]
+
+    },
+
    
    {
         brand: "Ferrari",
