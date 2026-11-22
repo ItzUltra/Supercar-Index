@@ -665,28 +665,22 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/250/25gto-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:1964_Ferrari_250_GTO_1.jpg"
-        },
-           {
-            src: "images/ferrari/250/20gto-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Prova MO",
-            source: "https://commons.wikimedia.org/wiki/File:250_GTO_4757GT_rear_at_Quail_2023.jpg"
-        },
-            {
-            src: "images/ferrari/250/50gto-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Andrea Volpato",
-            source: "https://commons.wikimedia.org/wiki/File:2004-10-31_Monza_Ferrari_250_GTO_4757GT_4153GT.jpg"
-        },
-              {
-            src: "images/ferrari/250/250go-4.jpg",
+            src: "images/ferrari/250/250/250berlinetta-1.jpg",
             license: "CC BY-SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GTO_HCC23.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_Berlinetta_SWB_LC23.jpg"
+        },
+           {
+            src: "images/ferrari/250/250berlinetta-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ank Kumar",
+            source: "https://commons.wikimedia.org/wiki/File:1962_FERRARI_250_GT_SWB_COUPE_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_01.jpg"
+        },
+            {
+            src: "images/ferrari/250/250berlinetta-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_Berlinetta_SWB_HCC24.jpg"
         }
         ]
 
