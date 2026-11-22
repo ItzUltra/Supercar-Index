@@ -941,28 +941,16 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/288gto-1.jpg",
-            license: "CC BY 2.0",
-            author: "Charles",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_(1985)_(52454701314).jpg"
+            src: "images/ferrari/288gtoevo-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_Evoluzione_(47877).jpg"
         },
            {
-            src: "images/ferrari/288gto-2.jpg",
-            license: "CC BY 2.0",
-            author: "Charles",
-            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_(1985)_(52454884745).jpg"
-        },
-            {
-            src: "images/ferrari/288gto-3.jpg",
-            license: "CC BY 2.0",
-            author: "Rahil Rupawala",
-            source: "https://commons.wikimedia.org/wiki/File:DSC_5053_(17963996709).jpg"
-        },
-             {
-            src: "images/ferrari/288gto-4.jpg",
-            license: "CC BY.SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1984_Ferrari_288_GTO_HCC25.jpg"
+            src: "images/ferrari/288gtoevo-2.jpg",
+            license: "CC BY 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_Evoluzione.jpg"
         }
         ]
 
