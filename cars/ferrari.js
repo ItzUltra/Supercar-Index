@@ -881,22 +881,28 @@ const ferrariCars = [
 
         images: [
             {
-            src: "images/ferrari/275gt4-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Ank Kumar",
-            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_04.jpg"
+            src: "images/ferrari/288gto-1.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_(1985)_(52454701314).jpg"
         },
            {
-            src: "images/ferrari/275tb4-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Ank Kumar",
-            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_at_Grand_Basel_2018_(Ank_kumar,_Infosys)_01.jpg"
+            src: "images/ferrari/288gto-2.jpg",
+            license: "CC BY 2.0",
+            author: "Charles",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_288_GTO_(1985)_(52454884745).jpg"
         },
             {
-            src: "images/ferrari/275gt4-3.jpg",
-            license: "CC BY-SA 4.0",
+            src: "images/ferrari/288gto-3.jpg",
+            license: "CC BY 2.0",
+            author: "Rahil Rupawala",
+            source: "https://commons.wikimedia.org/wiki/File:DSC_5053_(17963996709).jpg"
+        },
+             {
+            src: "images/ferrari/288gto-4.jpg",
+            license: "CC BY.SA 4.0",
             author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1966_Ferrari_275_GTB_HCC24.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1984_Ferrari_288_GTO_HCC25.jpg"
         }
         ]
 
