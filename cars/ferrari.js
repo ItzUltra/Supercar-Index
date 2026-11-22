@@ -794,6 +794,60 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "275 GTB/4",
+
+        production: "1966-1968",
+        country: "Italy",
+
+        engine: "3.3l V12",
+        power: "300 hp",
+        torque: "294 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "6.5 s",
+        topSpeed: "268 km/h",
+
+        length: "4325 mm",
+        width: "1675 mm",
+        height: "1245 mm",
+
+        weight: "1100 kg",
+
+        productionCount: "330",
+        price: "$2.5-4M",
+
+        location: "Mogam, Catania",
+
+    description: "First road Ferrari with camshaft 4",
+
+        images: [
+            {
+            src: "images/ferrari/250/250calispyder-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Herranderssvensson",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_California_Spyder_fr.jpg"
+        },
+           {
+            src: "images/ferrari/250/250calispyder-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Herranderssvensson",
+            source: "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_California_Spyder_rr.jpg"
+        },
+            {
+            src: "images/ferrari/250/250calispyder-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GT_California_SWB_HCC25.jpg"
+        }
+        ]
+
+    },
+
    
  {
         brand: "Ferrari",
