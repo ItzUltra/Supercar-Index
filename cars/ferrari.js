@@ -740,6 +740,60 @@ const ferrariCars = [
 
     },
 
+
+   {
+        brand: "Ferrari",
+        model: "250 SWB California Spyder",
+
+        production: "1960-1963",
+        country: "Italy",
+
+        engine: "3l Tipo 168/72 V12",
+        power: "280 hp",
+        torque: "275 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "6.5 s",
+        topSpeed: "250 km/h",
+
+        length: "4120 mm",
+        width: "1680 mm",
+        height: "1300 mm",
+
+        weight: "1050 kg",
+
+        productionCount: "56",
+        price: "$8-15M",
+
+        location: "The Keybridge Collection",
+
+    description: "SWB roadster that was sold in USA too unlike other ferraris",
+
+        images: [
+            {
+            src: "images/ferrari/250/250/250berlinettacom-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1960_Ferrari_250_GT_SWB_Berlinetta_Competizione_2021_GT.jpg"
+        },
+           {
+            src: "images/ferrari/250/250berlinettacom-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "trecca",
+            source: "https://commons.wikimedia.org/wiki/File:1960_Ferrari_250_GT_SWB_Berlinetta_Competizione_by_Scaglietti_(18039045111).jpg"
+        },
+            {
+            src: "images/ferrari/250/250berlinettacom-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1961_Ferrari_250_GT_Berlinetta_SWB_Competizione.jpg"
+        }
+        ]
+
+    },
+
    
  {
         brand: "Ferrari",
