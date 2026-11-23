@@ -1650,6 +1650,46 @@ const bugattiCars = [
         }
          ]
 
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "EB110 SS",
+
+        production: "1992-1995",
+        country: "France",
+
+        engine: "3.5l Quad turbo V12",
+        power: "612 hp",
+        torque: "650 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "3.2 s",
+        topSpeed: "351 km/h",
+
+        length: "4400 mm",
+        width: "1960 mm",
+        height: "1140 mm",
+
+        weight: "1470 kg",
+
+        productionCount: "31",
+        price: "$2.3M",
+
+        location: "Brunei Royal family Car Collection",
+
+        images: [
+          {
+            src: "images/bugatti/chiron/legedes-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Sport_Les_Legendes_Du_Ciel_1.jpg"
+        }
+         ]
+
     }
  
 ];
