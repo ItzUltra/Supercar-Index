@@ -214,28 +214,28 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/hyper/amone-1.jpg",
+            src: "images/mercedes/300sl-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032165).jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1955_Mercedes_300SL_(58190).jpg"
         },
         {
-            src: "images/mercedes/hyper/amone-2.jpg",
+            src: "images/mercedes/300sl-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032170).jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1955_Mercedes_300SL_(42627).jpg"
         },
         {
-            src: "images/mercedes/hyper/amgne-3.jpg",
+            src: "images/mercedes/300sl-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "NearEMPTiness",
-            source: "https://commons.wikimedia.org/wiki/File:AMG_at_IAA_2017_(02).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_300SL_NMM.jpg"
         },
         {
-            src: "images/mercedes/hyper/amone-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One_IAA_2021_1X7A0108.jpg"
+            src: "images/mercedes/300sl-4.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Kevin Decherf",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes_300SL_Gullwing_(1955)_(18245326173).jpg"
         }
     ]
 
