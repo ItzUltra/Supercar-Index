@@ -500,6 +500,60 @@ const mercedesCars = [
 
     },
 
+
+   {
+        brand: "Mercedes",
+        model: "CLK DTM AMG Cabriolet",
+
+        production: "2006-2007",
+        country: "Germany",
+
+        engine: "5.4l V8",
+        power: "582 hp",
+        torque: "800 Nm",
+
+        transmission: "5-speed automatic",
+        drivetrain: "AWD",
+
+        acceleration: "4 s",
+        topSpeed: "320 km/h",
+
+        length: "4650 mm",
+        width: "1830 mm",
+        height: "1390 mm",
+
+        weight: "1855 kg",
+
+        productionCount: "80",
+        price: "$600K",
+
+        location: "Tiriac Collection, Otopeni",
+
+      description: "Roadster with 4 seats",
+
+        images: [
+            {
+            src: "images/mercedes/4dor-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(3).jpg"
+        },
+        {
+            src: "images/mercedes/4oor-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(4).jpg"
+        },
+        {
+            src: "images/mercedes/4dor-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Dinkun Chen",
+            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(2).jpg"
+        }
+    ]
+
+    },
+
    
    {
         brand: "Mercedes",
