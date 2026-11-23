@@ -467,22 +467,28 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/4dor-1.jpg",
+            src: "images/mercedes/clkdtmamg-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(3).jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2006_Mercedes_CLK_DTM_AMG_2.jpg"
         },
         {
-            src: "images/mercedes/4oor-2.jpg",
+            src: "images/mercedes/clkdtmamg-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(4).jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2006_Mercedes_CLK_DTM_AMG_6.jpg"
         },
         {
-            src: "images/mercedes/4dor-3.jpg",
+            src: "images/mercedes/clkdtmamg-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(2).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2005_Mercedes-Benz_CLK_DTM_AMG_FOS25.jpg"
+        },
+            {
+            src: "images/mercedes/clkdtmamg-4.jpg",
+            license: "CC BY-SA 2.5",
+            author: "ThKraft",
+            source: "https://commons.wikimedia.org/wiki/File:Bernd_Schneider_DTM(ThKraft).jpg"
         }
     ]
 
@@ -521,22 +527,10 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/4dor-1.jpg",
+            src: "images/mercedes/clkdtmamgr-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(3).jpg"
-        },
-        {
-            src: "images/mercedes/4oor-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(4).jpg"
-        },
-        {
-            src: "images/mercedes/4dor-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Dinkun Chen",
-            source: "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_GT_4_DOOR_(X290)_China_(2).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_CLK_DTM_AMG_Convertible_MF.jpg"
         }
     ]
 
