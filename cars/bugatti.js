@@ -1643,10 +1643,22 @@ const bugattiCars = [
 
         images: [
           {
-            src: "images/bugatti/chiron/legedes-1.jpg",
+            src: "images/bugatti/eb110-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Sport_Les_Legendes_Du_Ciel_1.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1992_Bugatti_EB110_GT_HCC25.jpg"
+        },
+          {
+            src: "images/bugatti/eb110-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:1993_Bugatti_EB110_GT_in_Grigio_Scuro,_front_left_(Miller).jpg"
+        },
+         {
+            src: "images/bugatti/eb110-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:1993_Bugatti_EB110_GT_in_Grigio_Scuro,_rear_right_(Miller).jpg"
         }
          ]
 
