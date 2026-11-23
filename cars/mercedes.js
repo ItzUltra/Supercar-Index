@@ -274,28 +274,16 @@ const mercedesCars = [
 
         images: [
             {
-            src: "images/mercedes/hyper/amone-1.jpg",
+            src: "images/mercedes/300slroadster-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032165).jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1957_Mercedes-Benz_300SL_Roadster_LC24.jpg"
         },
         {
-            src: "images/mercedes/hyper/amone-2.jpg",
+            src: "images/mercedes/300slroadster-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032170).jpg"
-        },
-        {
-            src: "images/mercedes/hyper/amgne-3.jpg",
-            license: "CC BY-SA 4.0",
-            author: "NearEMPTiness",
-            source: "https://commons.wikimedia.org/wiki/File:AMG_at_IAA_2017_(02).jpg"
-        },
-        {
-            src: "images/mercedes/hyper/amone-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One_IAA_2021_1X7A0108.jpg"
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Mercedes-Benz_300SL_Roadster_Rear.jpg"
         }
     ]
 
