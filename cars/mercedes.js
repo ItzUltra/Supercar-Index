@@ -182,6 +182,64 @@ const mercedesCars = [
     },
 
 
+   {
+        brand: "Mercedes",
+        model: "300 SL",
+
+        production: "1954-1957",
+        country: "Germany",
+
+        engine: "3l inline-6",
+        power: "215 hp",
+        torque: "275 Nm",
+
+        transmission: "4-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "10 s",
+        topSpeed: "250 km/h",
+
+        length: "4520 mm",
+        width: "1790 mm",
+        height: "1300 mm",
+
+        weight: "1295 kg",
+
+        productionCount: "1371",
+        price: "$1-2M",
+
+        location: "Classic Car House, Kogens Lyngby",
+
+   description: "Inventor of Gullwing doors, The first Mercedes super sportcar",
+
+        images: [
+            {
+            src: "images/mercedes/hyper/amone-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032165).jpg"
+        },
+        {
+            src: "images/mercedes/hyper/amone-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One,_EMS_2024,_Essen_(P1032170).jpg"
+        },
+        {
+            src: "images/mercedes/hyper/amgne-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "NearEMPTiness",
+            source: "https://commons.wikimedia.org/wiki/File:AMG_at_IAA_2017_(02).jpg"
+        },
+        {
+            src: "images/mercedes/hyper/amone-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One_IAA_2021_1X7A0108.jpg"
+        }
+    ]
+
+    },
    
 
    {
