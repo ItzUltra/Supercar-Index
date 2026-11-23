@@ -495,6 +495,48 @@ const nissanCars = [
 
    {
         brand: "Nissan",
+        model: "Nismo 400R",
+
+        production: "1997-1998",
+        country: "Japan",
+
+        engine: "2.8l twinturbo RB-X GT2 imline-6",
+        power: "400 hp",
+        torque: "470 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "4 s",
+        topSpeed: "300 km/h",
+
+        length: "4675 mm",
+        width: "1830 mm",
+        height: "1360 mm",
+
+        weight: "1540 kg",
+
+        productionCount: "40",
+        price: "900K-1M",
+
+        location: "unknown",
+
+      description: "A rare R33 GT-R tuned by Nismo with a GT2 engine",
+
+        images: [
+           {
+            src: "images/nissan/tspc-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Ethan Llamas",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_R35_FL3_T-Spec_Millennium_Jade_01.jpg"
+        }
+    ]
+
+    },
+
+   
+   {
+        brand: "Nissan",
         model: "Skyline 2000GT-R (KPGC10)",
 
         production: "1970-1972",
