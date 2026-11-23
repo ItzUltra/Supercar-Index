@@ -525,10 +525,10 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/tspc-1.jpg",
+            src: "images/nissan/400r-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Ethan Llamas",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_GT-R_R35_FL3_T-Spec_Millennium_Jade_01.jpg"
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_Skyline_GT-R,_TC_24,_Essen_(TCE42802).jpg"
         }
     ]
 
