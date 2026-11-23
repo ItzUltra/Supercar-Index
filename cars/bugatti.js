@@ -1610,6 +1610,46 @@ const bugattiCars = [
         }
          ]
 
+    },
+
+
+ {
+        brand: "Bugatti",
+        model: "EB110 GT",
+
+        production: "1991-1995",
+        country: "France",
+
+        engine: "3.5l Quad turbo V12",
+        power: "560 hp",
+        torque: "611 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "AWD",
+
+        acceleration: "3.5 s",
+        topSpeed: "342 km/h",
+
+        length: "4400 mm",
+        width: "1960 mm",
+        height: "1140 mm",
+
+        weight: "1620 kg",
+
+        productionCount: "95",
+        price: "$1.4-2M",
+
+        location: "La Collection de Voitures de S.A.S. le Prince de Monaco, Monaco",
+
+        images: [
+          {
+            src: "images/bugatti/chiron/legedes-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Sport_Les_Legendes_Du_Ciel_1.jpg"
+        }
+         ]
+
     }
  
 ];
