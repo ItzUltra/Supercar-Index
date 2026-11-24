@@ -391,6 +391,74 @@ const alfaromeoCars = [
 
 
  /* ========================================
+   Automobili Amos CAR DATABASE
+======================================== */
+
+const automobiliamosCars = [
+
+    {
+        brand: "Automobili Amos",
+        model: "Delta Futurista",
+
+        production: "2018-2020",
+        country: "Italy",
+
+        engine: "2l turbocharged inline-4",
+        power: "300 hp",
+        torque: "400 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4 s",
+        topSpeed: "230 km/h",
+
+        length: "3897 mm",
+        width: "1810 mm",
+        height: "1449 mm",
+
+        weight: "1300 kg",
+
+        productionCount: "20",
+        price: "$500-700K",
+
+        location: "The Keybridge Collection",
+
+     description: "Lancia Delta retromod",
+
+        images: [
+         {
+            src: "images/italian/750zaato-1.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741994805).jpg"
+        },
+        {
+            src: "images/italian/750zgato-2.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741989643).jpg"
+        },
+        {
+            src: "images/italian/750zagto-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1958_Abarth_750_GT_Zagato_LC24.jpg"
+        },
+        {
+            src: "images/italian/750zagto-4.jpg",
+            license: "public domain",
+            author: "unknown photographer",
+            source: "https://commons.wikimedia.org/wiki/File:1956_Fiat_750_Abarth_Zagato_Aerodinamico.jpg"
+        }
+    ]
+
+    }
+   
+];
+
+
+ /* ========================================
    Fiat CAR DATABASE
 ======================================== */
 
