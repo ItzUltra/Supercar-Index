@@ -95,6 +95,7 @@ const cars = [
     ...volvoCars,
     ...abarthCars,
      ...arashCars,
+    ...automobiliamosCars,
     ...dauerCars,
     ...davisCars,
    ...gordonmurrayautomotivesCars,
