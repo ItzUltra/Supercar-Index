@@ -453,8 +453,68 @@ const automobiliamosCars = [
         }
     ]
 
+    },
+
+
+ {
+        brand: "Automobili Amos",
+        model: "Delta Safarista",
+
+        production: "2023-",
+        country: "Italy",
+
+        engine: "2l turbocharged inline-4",
+        power: "400 hp",
+        torque: "500 Nm",
+
+        transmission: "5-speed sequential",
+        drivetrain: "RWD",
+
+        acceleration: "unknown",
+        topSpeed: "200 km/h",
+
+        length: "unknown",
+        width: "unknown",
+        height: "unknown",
+
+        weight: "1250 kg",
+
+        productionCount: "20",
+        price: "$700K-1M",
+
+        location: "Automobili_Amos Collection",
+
+     description: "Rally version",
+
+        images: [
+         {
+            src: "images/italian/750zaato-1.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741994805).jpg"
+        },
+        {
+            src: "images/italian/750zgato-2.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741989643).jpg"
+        },
+        {
+            src: "images/italian/750zagto-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1958_Abarth_750_GT_Zagato_LC24.jpg"
+        },
+        {
+            src: "images/italian/750zagto-4.jpg",
+            license: "public domain",
+            author: "unknown photographer",
+            source: "https://commons.wikimedia.org/wiki/File:1956_Fiat_750_Abarth_Zagato_Aerodinamico.jpg"
+        }
+    ]
+
     }
-   
+ 
 ];
 
 
