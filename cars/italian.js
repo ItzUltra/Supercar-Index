@@ -428,28 +428,22 @@ const automobiliamosCars = [
 
         images: [
          {
-            src: "images/italian/750zaato-1.jpg",
-            license: "CC BY 2.0",
-            author: "dave_7",
-            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741994805).jpg"
-        },
-        {
-            src: "images/italian/750zgato-2.jpg",
-            license: "CC BY 2.0",
-            author: "dave_7",
-            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741989643).jpg"
-        },
-        {
-            src: "images/italian/750zagto-3.jpg",
+            src: "images/italian/amos-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1958_Abarth_750_GT_Zagato_LC24.jpg"
+            author: "Calreny88",
+            source: "https://commons.wikimedia.org/wiki/File:Automobili_Amos_Lancia_Delta_Futurista.jpg"
         },
         {
-            src: "images/italian/750zagto-4.jpg",
-            license: "public domain",
-            author: "unknown photographer",
-            source: "https://commons.wikimedia.org/wiki/File:1956_Fiat_750_Abarth_Zagato_Aerodinamico.jpg"
+            src: "images/italian/amos-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Automobili_Amos_Lancia_Delta_Futurista_6.jpg"
+        },
+        {
+            src: "images/italian/amos-3.jpg",
+            license: "CC BY-SA 3.0",
+            author: "Mr.choppers",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Automobili_Amos_Delta_Futurista_no._8,_front_left2.jpg"
         }
     ]
 
