@@ -1641,6 +1641,8 @@ const bugattiCars = [
 
         location: "La Collection de Voitures de S.A.S. le Prince de Monaco, Monaco",
 
+  description: "The first modern Bugatti, EB stands for Ettore Bugatti bevause it was made for his 110th birthday",
+
         images: [
           {
             src: "images/bugatti/eb110gt-1.jpg",
@@ -1692,6 +1694,8 @@ const bugattiCars = [
         price: "$2.3M",
 
         location: "Brunei Royal family Car Collection",
+
+  description: "Lighter and faster EB110",
 
         images: [
           {
