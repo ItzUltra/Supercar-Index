@@ -125,6 +125,67 @@ const hondaCars = [
 
     },
 
+
+ {
+        brand: "Honda",
+        model: "NSX Type S Zero",
+
+        production: "1997-2001",
+        country: "Japan",
+
+        engine: "3.2l C30B V6",
+        power: "290 hp",
+        torque: "304 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5 s",
+        topSpeed: "270 km/h",
+
+        length: "4430 mm",
+        width: "1810 mm",
+        height: "1170 mm",
+
+        weight: "1172 kg",
+
+        productionCount: "30",
+        price: "$250-400K",
+
+        location: "Track focused regualr NSX",
+
+  description: "Upgraded NSX-R",
+
+        images: [
+          {
+            src: "images/japanese/nsx-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+        },
+        {
+            src: "images/japanese/nsx-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+        },
+        {
+            src: "images/japanese/nsx-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+        },
+        {
+            src: "images/japanese/nsx-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+        }
+        
+    ]
+
+    },
+
  
     {
         brand: "Honda",
