@@ -4,6 +4,65 @@
 
 const hondaCars = [
 
+ {
+        brand: "Honda",
+        model: "NSX",
+
+        production: "1990-2005",
+        country: "Japan",
+
+        engine: "3l C30A V6",
+        power: "290 hp",
+        torque: "294 Nm",
+
+        transmission: "4-speed automatic / 5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5.9 s",
+        topSpeed: "270 km/h",
+
+        length: "4430 mm",
+        width: "1810 mm",
+        height: "1170 mm",
+
+        weight: "1350 kg",
+
+        productionCount: "around 18K",
+        price: "$70-120K",
+
+        location: "unknown",
+
+        images: [
+          {
+            src: "images/japanese/nsx-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+        },
+        {
+            src: "images/japanese/nsx-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+        },
+        {
+            src: "images/japanese/nsx-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+        },
+        {
+            src: "images/japanese/nsx-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+        }
+        
+    ]
+
+    },
+
+ 
     {
         brand: "Honda",
         model: "NSX",
