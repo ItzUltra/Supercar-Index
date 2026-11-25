@@ -97,7 +97,7 @@ const hondaCars = [
 
         images: [
           {
-            src: "images/japanese/nsxtyperna2-1.jpg",
+            src: "images/japanese/typerna2-1.jpg",
             license: "CC BY-SA 4.0",
             author: "Tokumeigakarinoaoshima",
             source: "https://commons.wikimedia.org/wiki/File:Honda_NSX-R_(LA-NA2).jpg"
