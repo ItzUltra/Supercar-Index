@@ -32,6 +32,69 @@ const hondaCars = [
 
         location: "unknown",
 
+  descsroption: "Honda's best car, Known as the Ferrari killer",
+
+        images: [
+          {
+            src: "images/japanese/nsx-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+        },
+        {
+            src: "images/japanese/nsx-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+        },
+        {
+            src: "images/japanese/nsx-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+        },
+        {
+            src: "images/japanese/nsx-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+        }
+        
+    ]
+
+    },
+
+
+ {
+        brand: "Honda",
+        model: "NSX Type R (NA2)",
+
+        production: "2002-2005",
+        country: "Japan",
+
+        engine: "3.2l C30B V6",
+        power: "290 hp",
+        torque: "304 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "4.7 s",
+        topSpeed: "280 km/h",
+
+        length: "4430 mm",
+        width: "1810 mm",
+        height: "1160 mm",
+
+        weight: "1270 kg",
+
+        productionCount: "152",
+        price: "$500-800K",
+
+        location: "RouteKS Private Collection",
+
+  description: "Upgraded NSX-R",
+
         images: [
           {
             src: "images/japanese/nsx-1.jpg",
@@ -90,6 +153,8 @@ const hondaCars = [
         price: "$170-200K",
 
         location: "unknown",
+
+     description: "New NSX not Ferrari killer anymore",
 
         images: [
           {
