@@ -1,5 +1,5 @@
  /* ========================================
-   AAT CAR DATABASE
+   Advanced Automotive Technologies CAR DATABASE
 ======================================== */
 
 const advancedautomotivetechnologiesCars = [
