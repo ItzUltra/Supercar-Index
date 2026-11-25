@@ -38,26 +38,26 @@ const hondaCars = [
           {
             src: "images/japanese/nsx-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_9.jpg"
         },
         {
             src: "images/japanese/nsx-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_White_Rear.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_8.jpg"
         },
         {
             src: "images/japanese/nsx-3.jpg",
-            license: "CC BY-SA 2.0",
+            license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Honda_NSX_Romans_2.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:2002_Honda_NSX_(74116).jpg"
         },
         {
             src: "images/japanese/nsx-4.jpg",
             license: "CC BY-SA 4.0",
             author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto.jpg"
+            source: "https://commons.wikimedia.org/wiki/File:1996_Honda_NSX_3.jpg"
         }
         
     ]
@@ -142,8 +142,8 @@ const hondaCars = [
           {
             src: "images/japanese/nsxzero-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "MrWalkr",
-            source: "https://commons.wikimedia.org/wiki/File:1995_Honda_NSX-R.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2002_Honda_NSX_1.jpg"
         }
         
     ]
