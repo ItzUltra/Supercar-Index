@@ -550,6 +550,66 @@ const fiatCars = [
         }
     ]
 
+    },
+
+
+  {
+        brand: "Fiat",
+        model: "Abarth 131 Rally",
+
+        production: "1976-1978",
+        country: "Italy",
+
+        engine: "2l DOHC inline-4",
+        power: "140 hp",
+        torque: "172 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "8.2 s",
+        topSpeed: "200 km/h",
+
+        length: "4190 mm",
+        width: "1720 mm",
+        height: "1360 mm",
+
+        weight: "980 kg",
+
+        productionCount: "400",
+        price: "$130-250K",
+
+        location: "Breitt Racing Collection",
+
+     description: "Group 4 rally homologisation car, won the WRC in 1977,1978 and 1980 and 1979 2nd place",
+
+        images: [
+         {
+            src: "images/italian/750zaato-1.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741994805).jpg"
+        },
+        {
+            src: "images/italian/750zgato-2.jpg",
+            license: "CC BY 2.0",
+            author: "dave_7",
+            source: "https://commons.wikimedia.org/wiki/File:1959_Fiat_Abarth_750_GT_Zagato_(3741989643).jpg"
+        },
+        {
+            src: "images/italian/750zaato-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "MrWalkr",
+            source: "https://commons.wikimedia.org/wiki/File:1958_Abarth_750_GT_Zagato_LC24.jpg"
+        },
+        {
+            src: "images/italian/750zaato-4.jpg",
+            license: "public domain",
+            author: "unknown photographer",
+            source: "https://commons.wikimedia.org/wiki/File:1956_Fiat_750_Abarth_Zagato_Aerodinamico.jpg"
+        }
+    ]
+
     }
    
 ];
