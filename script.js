@@ -94,6 +94,7 @@ const cars = [
     ...volkswagenCars,
     ...volvoCars,
     ...abarthCars,
+    ...advancedautomotivetechnolgiesCars,
      ...arashCars,
     ...automobiliamosCars,
     ...dauerCars,
