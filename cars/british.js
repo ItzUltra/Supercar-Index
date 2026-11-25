@@ -32,7 +32,26 @@ const arashCars = [
 
         location: "The Arash Collection",
 
-        images: []
+        images: [
+            {
+            src: "images/british/arash-1.jpg",
+            license: "CC BY 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0775.JPG"
+        },
+             {
+            src: "images/british/arash-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Arash_AF10_Monaco_IMG_1211.jpg"
+        },
+              {
+            src: "images/british/arash-3.jpg",
+            license: "CC BY 4.0",
+            author: "Norbert Aepli",
+            source: "https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0772.JPG"
+        }
+        ]
 
     },
 
