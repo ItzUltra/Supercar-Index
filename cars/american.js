@@ -1,4 +1,45 @@
  /* ========================================
+   AAT CAR DATABASE
+======================================== */
+
+const advancedautomotivetechnologiesCars = [
+
+    {
+        brand: "AAT",
+        model: "Heldo",
+
+        production: "2000",
+        country: "USA",
+
+        engine: "4.6l Cadillac Northstar V8",
+        power: "350 hp",
+        torque: "390 Nm",
+
+        transmission: "5-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "4.1 s",
+        topSpeed: "250 km/h",
+
+        length: "4200 mm",
+        width: "1800 mm",
+        height: "1100 mm",
+
+        weight: "1100 kg",
+
+        productionCount: "1",
+        price: "$150-250K",
+
+        location: "unknown",
+
+        images: []
+
+    },
+
+ ];
+ 
+
+/* ========================================
    Buick CAR DATABASE
 ======================================== */
 
