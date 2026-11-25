@@ -91,7 +91,16 @@ const keatingCars = [
 
         location: "Unknown",
 
-        images: []
+       description: "Broke Bugatti Veyron's top speed world record but it didn't considered because of technical issues",
+
+        images: [
+             {
+            src: "images/british/keating-1.jpg",
+            license: "CC BY 2.0",
+            author: "Alan",
+            source: "https://commons.wikimedia.org/wiki/File:Barabus_TKR.jpg"
+        }
+        ]
 
     }
    
