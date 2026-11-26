@@ -80,16 +80,22 @@ const dodgeCars = [
 
         images: [
          {
-            src: "images/dodge/challenger/deon-1.jpg",
+            src: "images/dodge/charger1-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2018_Dodge_Challenger_SRT_Demon.jpg"
+            author: "Ermell",
+            source: "https://commons.wikimedia.org/wiki/File:Dodge_Charger_Hirschaid-20220709-RM-113717.jpg"
         },
         {
-            src: "images/dodge/challenger/emon-2.jpg",
+            src: "images/dodge/charger1-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Matti Blume",
-            source: "https://commons.wikimedia.org/wiki/File:Geiger_Dodge_Demon,_TWB_2018,_Friedrichshafen_(OW1A0632).jpg"
+            author: "Alexander-93",
+            source: "https://commons.wikimedia.org/wiki/File:Dodge_Charger_SRT8_(2015)_1X7A7417.jpg"
+        },
+           {
+            src: "images/dodge/charger1-3.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:Dodge_Charger_Scat_Pack_(LD)_Washington_DC_Metro_Area,_USA.jpg"
         }
     ]
 
