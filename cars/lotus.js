@@ -59,6 +59,64 @@ const lotusCars = [
         }  
     ]
 
-    }
+    },
+
+
+    {
+        brand: "Lotus",
+        model: "Europa SE",
+
+        production: "2008-2010",
+        country: "UK",
+
+        engine: "2l turbocharged inline-4",
+        power: "225 hp",
+        torque: "300 Nm",
+
+        transmission: "6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5.3 s",
+        topSpeed: "235 km/h",
+
+        length: "3900 mm",
+        width: "1714 mm",
+        height: "1130 mm",
+
+        weight: "995 kg",
+
+        productionCount: "48",
+        price: "$55-80K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/lotus/evia-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Lotus_Evija_2.jpg"
+        },
+        {
+            src: "images/lotus/evja-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2023_Lotus_Evija_5.jpg"
+        },
+          {
+            src: "images/lotus/evia-3.jpg",
+            license: "CC BY 2.0",
+            author: "Michele Borioli",
+            source: "https://commons.wikimedia.org/wiki/File:Goodwood_edited-35_(53863491944).jpg"
+        },
+            {
+            src: "images/lotus/evia-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:Lotus_Evija_(29081).jpg"
+        }  
+    ]
+
+    },
    
 ];
