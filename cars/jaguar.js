@@ -200,7 +200,7 @@ const jaguarCars = [
 
         location: "unknown",
 
-       description: "",
+       description: "A beautiful and elegant iconic sport car, they ruined it in the newe generations so here is the 1st",
 
         images: [
             {
@@ -260,7 +260,7 @@ const jaguarCars = [
 
         location: "unknown",
 
-       description: "",
+       description: "E Type race car, It was a rival of the Ferrari 250 GTO",
 
         images: [
             {
@@ -277,6 +277,60 @@ const jaguarCars = [
             },
            {
             src: "images/jaguar/lightweightetype-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Kevin Decherf",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Lightweight_(18679810519).jpg"
+        }
+        ]
+
+    },
+
+
+    {
+        brand: "Jaguar",
+        model: "F-Type",
+
+        production: "2013-2024",
+        country: "UK",
+
+        engine: "3l supercharged V6",
+        power: "380 hp",
+        torque: "460 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "4.9 s",
+        topSpeed: "275 km/h",
+
+        length: "4475 mm",
+        width: "1884 mm",
+        height: "1311 mm",
+
+        weight: "1597 kg",
+
+        productionCount: "around 87K",
+        price: "25-40K",
+
+        location: "unknown",
+
+       description: "Newer flagship of Jaguar, A sporty GT",
+
+        images: [
+            {
+                src: "images/jaguar/lightweighetype-1.jpg",
+                license: "CC BY-SA 4.0",
+                author: "MrWalkr",
+                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight_Competition_HCC24.jpg"
+            },
+            {
+                src: "images/jaguar/lightweighttype-2.jpg",
+                license: "CC BY 2.0",
+                author: "Michel Curi",
+                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight.jpg"
+            },
+           {
+            src: "images/jaguar/lightweightetpe-3.jpg",
             license: "CC BY-SA 2.0",
             author: "Kevin Decherf",
             source: "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Lightweight_(18679810519).jpg"
