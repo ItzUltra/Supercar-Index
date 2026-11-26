@@ -338,5 +338,60 @@ const jaguarCars = [
         ]
 
     },
+
+
+   {
+        brand: "Jaguar",
+        model: "F-Type Project 7",
+
+        production: "2015-2016",
+        country: "UK",
+
+        engine: "5l supercharged V8",
+        power: "575 hp",
+        torque: "680 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "3.9 s",
+        topSpeed: "300 km/h",
+
+        length: "4519 mm",
+        width: "1923 mm",
+        height: "1277 mm",
+
+        weight: "1585 kg",
+
+        productionCount: "250",
+        price: "160-180K",
+
+        location: "British Motor Museum, Warwickshirek",
+
+       description: "Limited F Type with old racing livery",
+
+        images: [
+            {
+                src: "images/jaguar/lightweighetype-1.jpg",
+                license: "CC BY-SA 4.0",
+                author: "MrWalkr",
+                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight_Competition_HCC24.jpg"
+            },
+            {
+                src: "images/jaguar/lightweighttype-2.jpg",
+                license: "CC BY 2.0",
+                author: "Michel Curi",
+                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight.jpg"
+            },
+           {
+            src: "images/jaguar/lightweightetpe-3.jpg",
+            license: "CC BY-SA 2.0",
+            author: "Kevin Decherf",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Lightweight_(18679810519).jpg"
+        }
+        ]
+
+    },
+
    
 ];
