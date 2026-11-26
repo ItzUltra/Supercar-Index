@@ -318,22 +318,22 @@ const jaguarCars = [
 
         images: [
             {
-                src: "images/jaguar/lightweighetype-1.jpg",
+                src: "images/jaguar/ftype-1.jpg",
                 license: "CC BY-SA 4.0",
-                author: "MrWalkr",
-                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight_Competition_HCC24.jpg"
+                author: "Calreyn88",
+                source: "https://commons.wikimedia.org/wiki/File:2013_Jaguar_F-Type_S_V8_Auto.jpg"
             },
             {
-                src: "images/jaguar/lightweighttype-2.jpg",
-                license: "CC BY 2.0",
-                author: "Michel Curi",
-                source: "https://commons.wikimedia.org/wiki/File:1963_Jaguar_E-Type_Lightweight.jpg"
+                src: "images/jaguar/ftypee-2.jpg",
+                license: "CC BY-SA 4.0",
+                author: "Alexander Migl",
+                source: "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_Convertible_R_(2019%E2%80%932024)_MYLE_Festival_2025_DSC_9596.jpg"
             },
            {
-            src: "images/jaguar/lightweightetpe-3.jpg",
-            license: "CC BY-SA 2.0",
-            author: "Kevin Decherf",
-            source: "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Lightweight_(18679810519).jpg"
+            src: "images/jaguar/ftype-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Navigator84",
+            source: "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_China_2015-04-10.jpg"
         }
         ]
 
