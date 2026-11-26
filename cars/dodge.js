@@ -47,6 +47,52 @@ const dodgeCars = [
         }
     ]
 
-    }
+    },
+
+
+   {
+        brand: "Dodge",
+        model: "Charger R/T",
+
+        production: "2015-2023",
+        country: "USA",
+
+        engine: "5.7l HEMI V8",
+        power: "370 hp",
+        torque: "536 Nm",
+
+        transmission: "8-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "5.2 s",
+        topSpeed: "250 km/h",
+
+        length: "5100 mm",
+        width: "1905 mm",
+        height: "1480 mm",
+
+        weight: "1930 kg",
+
+        productionCount: "unknown",
+        price: "$18-30K",
+
+        location: "unknown",
+
+        images: [
+         {
+            src: "images/dodge/challenger/deon-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:2018_Dodge_Challenger_SRT_Demon.jpg"
+        },
+        {
+            src: "images/dodge/challenger/emon-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Geiger_Dodge_Demon,_TWB_2018,_Friedrichshafen_(OW1A0632).jpg"
+        }
+    ]
+
+    },
    
 ];
