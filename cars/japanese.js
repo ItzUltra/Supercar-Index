@@ -516,6 +516,8 @@ const mazdaCars = [
 
         location: "unknown",
 
+  description: "A famous JDM Sport car",
+
         images: [
          {
             src: "images/japanese/mx5lman-1.jpg",
@@ -527,6 +529,48 @@ const mazdaCars = [
 
     },
 
+
+ {
+        brand: "Mazda",
+        model: "RX-7 Type RZ",
+
+        production: "1992",
+        country: "Japan",
+
+        engine: "1.3l twinturbo 13B REW",
+        power: "255 hp",
+        torque: "294 Nm",
+
+        transmission: "5-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5.5 s",
+        topSpeed: "250 km/h",
+
+        length: "4295 mm",
+        width: "1760 mm",
+        height: "1230 mm",
+
+        weight: "1230 kg",
+
+        productionCount: "474",
+        price: "$70-110K",
+
+        location: "unknown",
+
+  description: "A lighter RX-7, maybee for racing",
+
+        images: [
+         {
+            src: "images/japanese/mx5lman-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Le_Mans.jpg"
+        }
+    ]
+
+    },
+ 
 ];
 
  /* ========================================
