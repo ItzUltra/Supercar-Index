@@ -92,29 +92,23 @@ const lotusCars = [
 
         images: [
          {
-            src: "images/lotus/evia-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Lotus_Evija_2.jpg"
+            src: "images/lotus/europase-1.jpg",
+            license: "CC BY-SA 3.0",
+            author: "detectandpreserve",
+            source: "https://commons.wikimedia.org/wiki/File:Lotus_Europa_SE_000_since_2008_frontright_2010-02-21_A.jpg"
         },
         {
-            src: "images/lotus/evja-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:2023_Lotus_Evija_5.jpg"
+            src: "images/lotus/europase-2.jpg",
+            license: "CC BY 2.0",
+            author: "Auswandern Malaysia",
+            source: "https://commons.wikimedia.org/wiki/File:Lotus_2202_(rear)_-_001.jpg"
         },
           {
-            src: "images/lotus/evia-3.jpg",
+            src: "images/lotus/europase-3.jpg",
             license: "CC BY 2.0",
-            author: "Michele Borioli",
-            source: "https://commons.wikimedia.org/wiki/File:Goodwood_edited-35_(53863491944).jpg"
-        },
-            {
-            src: "images/lotus/evia-4.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:Lotus_Evija_(29081).jpg"
-        }  
+            author: "Auswandern Malaysia",
+            source: "https://commons.wikimedia.org/wiki/File:Lotus_220_(front)_-_001.jpg"
+        }
     ]
 
     },
