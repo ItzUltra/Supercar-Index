@@ -57,6 +57,61 @@ const nissanCars = [
 
     },
 
+
+   {
+        brand: "Nissan",
+        model: "300ZX",
+
+        production: "1989-2000",
+        country: "Japan",
+
+        engine: "3l twinturbo V6",
+        power: "280 / 300 hp",
+        torque: "384 Nm",
+
+        transmission: "5-speed manual / 4-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "5.5 s",
+        topSpeed: "250 km/h",
+
+        length: "4520 mm",
+        width: "1800 mm",
+        height: "1255 mm",
+
+        weight: "1580 kg",
+
+        productionCount: "around 160K",
+        price: "25-55K",
+
+        location: "unknown",
+
+       description: "a Nissan sport coupe, Also known as Fairlady z in Japan",
+
+        images: [
+           {
+            src: "images/nissan/r30-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+        {
+            src: "images/nissan/r30-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        },
+            {
+            src: "images/nissan/r30-3.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Morio",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+        }
+    ]
+
+    },
+
+   
    {
         brand: "Nissan",
         model: "GT-R",
