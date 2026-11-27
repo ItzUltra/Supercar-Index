@@ -90,22 +90,28 @@ const nissanCars = [
 
         images: [
            {
-            src: "images/nissan/r30-1.jpg",
+            src: "images/nissan/300zx-1.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "Calreyn88",
+            source: "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_Twin_Turbo.jpg"
         },
         {
-            src: "images/nissan/r30-2.jpg",
+            src: "images/nissan/300zx-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(road_car)_rear-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "John Robert McPherson",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_300ZX_Philippine_Pde_Palm_Beach_L1070160.jpg"
         },
             {
-            src: "images/nissan/r30-3.jpg",
+            src: "images/nissan/300zx-3.jpg",
             license: "CC BY-SA 4.0",
-            author: "Morio",
-            source: "https://commons.wikimedia.org/wiki/File:Nissan_R390_GT1_(1998)_front-left_2015_Nissan_Global_Headquarters_Gallery.jpg"
+            author: "John Robert McPherson",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_300ZX_Philippine_Pde_Palm_Beach_L1070163.jpg"
+        },
+               {
+            src: "images/nissan/300zx-4.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Nissan_300ZX_(Z32)_IMG_5269.jpg"
         }
     ]
 
