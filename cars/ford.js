@@ -784,23 +784,17 @@ const fordCars = [
 
         images: [
            {
-            src: "images/ford/gt00-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Mohammed Hamad",
-            source: "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Shelby_GT500_(S550)_Front_(Bahrain).jpg"
+            src: "images/ford/eleanor-1.jpg",
+            license: "CC BY 2.0",
+            author: "More Cars",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Shelby_GT500_Eleanor_(34506444244).jpg"
         },
             {
-            src: "images/ford/gt50-2.jpg",
+            src: "images/ford/eleanor-2.jpg",
             license: "CC BY-SA 4.0",
-            author: "Mohammed Hamad",
-            source: "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Shelby_GT500_(S550)_Rear_(Bahrain).jpg"
-        },
-           {
-            src: "images/ford/gt00-3.jpg",
-            license: "CC BY 4.0",
-            author: "OWS Photography",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Shelby_GT500_(S550)_Washington_DC_Metro_Area,_USA.jpg"
-        },
+            author: "Kev22",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_-_Shelby_GT500_Eleanor_(1967)_04.jpg"
+        }
         ]
 
     },
