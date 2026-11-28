@@ -604,10 +604,10 @@ const mazdaCars = [
 
         images: [
          {
-            src: "images/japanese/mx5lman-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Le_Mans.jpg"
+            src: "images/japanese/rx7sd-1.jpg",
+            license: "CC BY 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_RX7_(45483363802).jpg"
         }
     ]
 
