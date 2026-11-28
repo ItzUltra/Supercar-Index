@@ -407,6 +407,8 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
+       description: "GT with carvon parts",
+
         images: [
          {
             src: "images/ford/gtcarbon-1.jpg",
@@ -447,6 +449,8 @@ const fordCars = [
 
         location: "Ford Performance Collection",
 
+      description: "A lighter GT",
+
         images: []
 
     },
@@ -479,6 +483,8 @@ const fordCars = [
         price: "$1.8M",
 
         location: "Petersen Automotive Museum, Los Angeles",
+
+      description: "Full exposed carbon fiber",
 
         images: [
          {
@@ -520,6 +526,8 @@ const fordCars = [
 
         location: "Shelby American Collection, Boulder",
 
+      description: "Tribute to the 2016 Le Mans victory (in LM  GTE Pro category)",
+
         images: [
          {
             src: "images/ford/lmedition-1.jpg",
@@ -560,6 +568,8 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
+      description: "Track only GT",
+
         images: []
 
     },
@@ -592,6 +602,8 @@ const fordCars = [
         price: "$1.7-2M",
 
         location: "Winkleman Motorsports Collection",
+
+      description: "Track only v2",
 
         images: [
          {
@@ -632,6 +644,8 @@ const fordCars = [
         price: "$860K-1.1M",
 
         location: "Speddwerkz Exotic Car Experience, Gatlinburg",
+
+      description: "Ford GT with cool configurations",
 
         images: [
          {
