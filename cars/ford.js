@@ -720,6 +720,8 @@ const fordCars = [
 
         location: "The Shmeemobiles Collection",
 
+      description: "Made for the Ford Escorts 50th anniversary only for the UK",
+
         images: [
            {
             src: "images/ford/focusheritage-1.jpg",
@@ -759,6 +761,8 @@ const fordCars = [
         price: "$70K",
 
         location: "The Shmeemobiles Collection",
+
+      description: "One of the fastest mustangs",
 
         images: [
            {
@@ -860,6 +864,8 @@ const fordCars = [
 
         location: "The Shmeemobiles Collection",
 
+      description: "Newer GT500",
+
         images: [
            {
             src: "images/ford/gt500-1.jpg",
@@ -911,6 +917,8 @@ const fordCars = [
         price: "$300-320K",
 
         location: "unknown",
+
+      description: "GT500 on steroids",
 
         images: [
            {
