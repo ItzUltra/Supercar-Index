@@ -702,6 +702,112 @@ const fordCars = [
 
    {
         brand: "Ford",
+        model: "Mustang Dark Horse",
+
+        production: "2024-",
+        country: "USA",
+
+        engine: "5l V8",
+        power: "453 hp",
+        torque: "540 Nm",
+
+        transmission: "10-speed automatic / 6-speed manual",
+        drivetrain: "RWD",
+
+        acceleration: "5.2 s",
+        topSpeed: "263 km/h",
+
+        length: "4819 mm",
+        width: "1918 mm",
+        height: "1403 mm",
+
+        weight: "1800 kg",
+
+        productionCount: "currently in production",
+        price: "$70K",
+
+        location: "The Shmeemobiles Collection",
+
+        images: [
+           {
+            src: "images/ford/darkhorse-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Dark_Horse_Rutesheimer_Autoschau_2025_DSC_9229.jpg"
+        },
+           {
+            src: "images/ford/darkhorse-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Alexander Migl",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Dark_Horse_Rutesheimer_Autoschau_2025_DSC_9225.jpg"
+        },
+           {
+            src: "images/ford/darkhorse-3.jpg",
+            license: "CC BY 2.0",
+            author: "Rutger van der Maar",
+            source: "https://commons.wikimedia.org/wiki/File:2024_Ford_Mustang_GT_Fastback_Dark_Horse_01.jpg"
+        }
+        ]
+
+    },
+
+   
+   {
+        brand: "Ford",
+        model: "Mustang Eleanor",
+
+        production: "2000",
+        country: "USA",
+
+        engine: "5.8l 350 cu in Ford V8",
+        power: "400 hp",
+        torque: "500 Nm",
+
+        transmission: "4-speed automatic",
+        drivetrain: "RWD",
+
+        acceleration: "5 s",
+        topSpeed: "220 km/h",
+
+        length: "4740 mm",
+        width: "1801 mm",
+        height: "1311 mm",
+
+        weight: "1490 kg",
+
+        productionCount: "11",
+        price: "$1M",
+
+        location: "unknown",
+
+      description: "Made for the Gone In 60s movie",
+
+        images: [
+           {
+            src: "images/ford/gt00-1.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mohammed Hamad",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Shelby_GT500_(S550)_Front_(Bahrain).jpg"
+        },
+            {
+            src: "images/ford/gt50-2.jpg",
+            license: "CC BY-SA 4.0",
+            author: "Mohammed Hamad",
+            source: "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Shelby_GT500_(S550)_Rear_(Bahrain).jpg"
+        },
+           {
+            src: "images/ford/gt00-3.jpg",
+            license: "CC BY 4.0",
+            author: "OWS Photography",
+            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Shelby_GT500_(S550)_Washington_DC_Metro_Area,_USA.jpg"
+        },
+        ]
+
+    },
+
+   
+   {
+        brand: "Ford",
         model: "Mustang Shelby GT500",
 
         production: "2020-",
@@ -792,55 +898,6 @@ const fordCars = [
     },
 
 
-   {
-        brand: "Ford",
-        model: "Mustang Dark Horse",
-
-        production: "2024-",
-        country: "USA",
-
-        engine: "5l V8",
-        power: "453 hp",
-        torque: "540 Nm",
-
-        transmission: "10-speed automatic / 6-speed manual",
-        drivetrain: "RWD",
-
-        acceleration: "5.2 s",
-        topSpeed: "263 km/h",
-
-        length: "4819 mm",
-        width: "1918 mm",
-        height: "1403 mm",
-
-        weight: "1800 kg",
-
-        productionCount: "currently in production",
-        price: "$70K",
-
-        location: "The Shmeemobiles Collection",
-
-        images: [
-           {
-            src: "images/ford/darkhorse-1.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Dark_Horse_Rutesheimer_Autoschau_2025_DSC_9229.jpg"
-        },
-           {
-            src: "images/ford/darkhorse-2.jpg",
-            license: "CC BY-SA 4.0",
-            author: "Alexander Migl",
-            source: "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Dark_Horse_Rutesheimer_Autoschau_2025_DSC_9225.jpg"
-        },
-           {
-            src: "images/ford/darkhorse-3.jpg",
-            license: "CC BY 2.0",
-            author: "Rutger van der Maar",
-            source: "https://commons.wikimedia.org/wiki/File:2024_Ford_Mustang_GT_Fastback_Dark_Horse_01.jpg"
-        }
-        ]
-
-    },
+   
    
 ];
