@@ -520,10 +520,28 @@ const mazdaCars = [
 
         images: [
          {
-            src: "images/japanese/mx5lman-1.jpg",
+            src: "images/japanese/rx7-1.jpg",
+            license: "public domain",
+            author: "IFCAR",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda-RX7-FD.jpg"
+        },
+           {
+            src: "images/japanese/rx7-2.jpg",
+            license: "CC BY-SA 2.0",
+            author: "FotoSleuth",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_RX7_(45483365572).jpg"
+        },
+           {
+            src: "images/japanese/rx7-3.jpg",
+            license: "public domain",
+            author: "unknown",
+            source: "https://commons.wikimedia.org/wiki/File:RX7.JPG"
+        },
+          {
+            src: "images/japanese/rx7-4.jpg",
             license: "CC BY-SA 4.0",
-            author: "Calreyn88",
-            source: "https://commons.wikimedia.org/wiki/File:1991_Mazda_MX-5_Le_Mans.jpg"
+            author: "Matti Blume",
+            source: "https://commons.wikimedia.org/wiki/File:Mazda_RX7,_BAS_24,_Brussels_(P1170282-RR).jpg"
         }
     ]
 
