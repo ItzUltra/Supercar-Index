@@ -337,7 +337,7 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
-       description. "Tribute to the Alan Mann GT40 version",
+       description: "Tribute to the Alan Mann GT40 version",
 
         images: []
 
