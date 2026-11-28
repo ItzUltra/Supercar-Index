@@ -32,6 +32,8 @@ const fordCars = [
 
         location: "Emil Frey Classics, Safenwill",
 
+       description: "Ford supercar, The continuation of the GT series",
+
         images: [
          {
             src: "images/ford/gt2-1.jpg",
@@ -90,6 +92,8 @@ const fordCars = [
 
         location: "The Tiger Collection",
 
+      description: "Inspired by the first ever Ford GT40's paint",
+
         images: []
 
     },
@@ -122,6 +126,8 @@ const fordCars = [
         price: "1-1.5M",
 
         location: "American Muscle Car Museum, Melbourne",
+
+       description: "Made as a tribute to the 1966 Le Mans victory which was ford's first Le Mans win",
 
         images:[
          {
@@ -163,6 +169,8 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
+      description: "Tribute to the Daytona winner car",
+
         images: [
          {
             src: "images/ford/gt66-2.jpg",
@@ -202,6 +210,8 @@ const fordCars = [
         price: "1-1.3M",
 
         location: "American Muscle Car Museum, Melbourne",
+
+      description: "Another tribute to the Le Mans winner car",
 
         images: [
          {
@@ -243,6 +253,8 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
+      description: "Tribute to the 1968 Le mans winner car",
+
         images: [
          {
             src: "images/ford/gt68-1.jpg",
@@ -282,6 +294,8 @@ const fordCars = [
         price: "1.2-1.5M",
 
         location: "The AGR Collection",
+
+       description: "1969 Le Mans winner livery",
 
         images: [
          {
@@ -323,6 +337,8 @@ const fordCars = [
 
         location: "American Muscle Car Museum, Melbourne",
 
+       description. "Tribute to the Alan Mann GT40 version",
+
         images: []
 
     },
@@ -355,6 +371,8 @@ const fordCars = [
         price: "unknown",
 
         location: "American Muscle Car Museum, Melbourne",
+
+       description: "Tribute to Holman Moody who had a big part in the GT40",
 
         images: []
 
